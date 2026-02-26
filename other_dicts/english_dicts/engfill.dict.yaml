@@ -1,0 +1,162 @@
+---
+name: engfill
+version: "20251111"
+sort: by_weight
+...
+
+# TODO 文件格式
+html	html
+json	json
+yaml	yaml	50
+ipynb	ipynb
+parquet	parquet
+Markdown	markdown	10
+markdown	markdown	5
+apk	apk
+vscode	vscode	10
+VSCode	vscode	5
+# TODO PixInsight内部process名称
+DynamicBackgroundExtraction	DBE
+DynamicBackgroundExtraction	DynamicBackgroundExtraction
+StarAlignment	SA
+StarAlignment	StarAlignment
+PixelMath	PixelMath
+LocalNormalization	LN
+LocalNormalization	LocalNormalization
+HistogramTransformation	HT
+HistogramTransformation	HistogramTransformation
+GeneralizedHyperbolicstretch	GHS
+GeneralizedHyperbolicstretch	GeneralizedHyperbolicstretch
+resample	resample	10
+Resample	resample	5
+StarMask	starmark
+SubframeSelector	SS
+SubframeSelector	subframeselector
+StarXTerminator	SXT
+StarXTerminator	starxTerminator
+BlurXTerminator	BXT
+BlurXTerminator	blurxterminator
+NoiseXTerminator	NXT
+NoiseXTerminator	noisexterminator
+ImageIntegration	II
+ImageIntegration	imageintegration
+FITSHeader	fitsheader
+Blink	blink
+# TODO Excel
+vlookup	vlookup
+sumif	sumif
+countif	countif
+# sheet	sheet	50
+# TODO 软件或系统
+JavaScript	javascript
+Java	java
+jupyter	jupyter
+Excel	excel
+PPT	ppt
+Node.js	nodejs
+# word	word	500000000
+Ubuntu	ubuntu
+Linux	linux
+pixinsight	pixinsight	10
+PixInsight	pixinsight	5
+Photoshop	photoshop
+Lightroom	lightroom
+Audition	audition
+Adobe	adobe
+Premiere Pro	premiere
+PixPin	pixpin	1
+Rime	rime
+Docker	docker	10
+docker	docker	5
+romaji	romaji
+ASTAP	astap
+asiair	asiair
+bandzip	bandzip
+Pixiv	pixiv
+WeChat	wechat
+PalPay	palpay
+kimi	kimi
+Live2D	live2d
+# TODO 网页名称
+GitHub	github	10
+deepseek	deepseek
+Google	google	10
+google	google	5
+# TODO 其他
+tips	tips
+WiFi	wifi
+Sony	sony
+Canon	canon
+Nikon	nikon
+Fujifilm	fujifilm
+Dji	dji
+dict	dict
+CUDA	cuda
+CarPlay	carplay
+bias	bias
+demo	demo
+logo	logo	500000000
+rapper	rapper
+solitude	solitude
+sigma	sigma
+HDMI	hdmi
+# OK	ok
+goto	goto
+cosplay	cosplay
+preedit	preedit
+buff	buff
+debuff	debuff
+columns	columns
+harson	harson
+npc	npc
+schema	schema	10
+gemini	gemini
+gemma	gemma
+ChatGPT	chatgpt
+Claude	claude
+Copilot	copilot
+Llama	llama
+ollama	ollama
+meta	meta
+deepin	deepin
+macOS	macos
+Win10	win10
+Win7	win7
+Win11	win11
+Windows	windows
+Windows7	windows7
+Windows10	windows10
+Windows11	windows11
+App	app
+App Store	appstore
+sync	sync
+saber	saber
+whiter	whiter
+whiteroom	whiteroom
+FABE	fabe
+null	null
+Google Photos	GooglePhotos
+Apple Pay	ApplePay
+WeChat Pay	WeChatPay
+Apple Pencil	ApplePencil
+iPad Pro	iPadPro
+Google Play	GooglePlay
+AirPods Pro	AirPodsPro
+Qwen	Qwen
+grok	grok
+moran	moran		# 拼音
+wanxiang	wanxiang	# 拼音
+Conda	conda
+Anaconda	anaconda
+Miniconda	miniconda
+x86	x86
+amd64	amd64
+em31pro	em31pro
+OpenCC	opencc
+OpenAI	openai
+OpenWrt	openwrt
+Mi Sans	misans
+PyTorch	PyTorch
+desktop	desktop
+append	append
+GalGame	galgame

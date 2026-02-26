@@ -1,0 +1,12 @@
+patch:
+  style/+: 
+    # layout:
+      # border_width: 0
+      # linespacing: 0.5
+    color_scheme: Raspberry
+    # font_point: 15                           # 全局字体字号
+    # font_face: "霞鹜文楷等宽 TC, MiSans L3, 遍黑体P1, 遍黑体P2, SF Pro, Noto Color Emoji"
+    # hilited_text_color: 0x316bcdff
+    # horizontal: true                        # 候选项横排：true；false
+    # inline_preedit: true                     # 行内显示预编辑区：true；false
+

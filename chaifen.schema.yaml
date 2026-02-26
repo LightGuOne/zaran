@@ -1,0 +1,12 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: chaifen
+  name: 辅助码拆分滤镜
+  version: "1.0"
+
+engine:
+
+translator:
+  dictionary: chaifen

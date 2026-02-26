@@ -1,0 +1,137 @@
+patch:
+  style/+: 
+  schema/dependencies/+:
+    - wanxiang_reverse               # 反查
+    - chaifen
+    # - kagiroi
+
+
+  engine/processors/@before 2: lua_processor@*kagiroi/kagiroi_kana_speller  # 需要在key_binder后面
+  engine/segmentors/@before 2: lua_segmentor@*mylua.paired_punct    #成对符号
+  engine/segmentors/@before 3: affix_segmentor@kagiroi                      # 需要在abc_segmentor前面
+  engine/segmentors/@before 4: affix_segmentor@wanxiang_reverse
+  engine/translators/+:
+    - reverse_lookup_translator@wanxiang_reverse   # 反查
+    - lua_translator@*mylua.mixed_V
+    - lua_translator@*unicode             # Unicode
+    - lua_translator@*kagiroi/kagiroi_translator
+  # engine/filters/@before 1: lua_filter@*kagiroi/kagiroi_aux_filter  # 辅筛
+  # engine/filters/@before 7: lua_filter@*mylua/info_comment          # 调试用
+
+
+  key_binder/bindings/+:
+    # - { match: "^V.+", accept: "KP_Enter", send_sequence: '{space}' }           # 空格上屏
+    - { match: "^[a-z]{2,3}", accept: "Shift+Shift_L", send_sequence: 3 }           # 有候选时三选
+    # - { when: composing, accept: "space", send_sequence: '{Return}l/' } 
+    - { when: has_menu, accept: Control+Shift+G, toggle: inflexible }        # 魔然固词开关
+    - { when: composing, accept: "Control+g", toggle: extended_charset }            # 大小字符集
+    - { when: has_menu, accept: "Control+s", toggle: tone_display }                 # 拼音显示
+    - { when: has_menu, accept: "Control+b", toggle: fuzhu_hint }                 # 拼音显示
+    - { when: has_menu, accept: "Control+Shift+B", toggle: chaifen_switch }               # 补全信息开关
+
+
+  recognizer/patterns/+:
+    wanxiang_reverse: "^olf[A-Za-z]*$"  # 反查入口
+    calculator: "^V.*$"                 # 计算器功能引导
+    unicode: "^U[a-f0-9]+"              # Unicode
+    kagiroi: '^(?:ok|\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC)(?:\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC|[a-z\-;])*$'
+
+
+  wanxiang_reverse:
+    tag: wanxiang_reverse
+    dictionary: wanxiang_reverse
+    db_class: stabledb
+    enable_completion: true  # 启用候选词补全
+    prefix: "olf"  # 反查前缀（反查时前缀会消失影响打英文所以设定为两个字母，或可改成一个非字母符号）
+    enable_user_dict: false  # 禁用用户词典，是否开启自动调频
+    tips: 〔反查〕
+    preedit_format:
+      - xform/^o(lf|bh|cj|vy|hm)//
+
+
+  kagiroi:
+    prefix: ok
+    tips: 〔カギロイ〕
+    tag: kagiroi
+    layout: romaji
+    speller:
+      __include: kagiroi:/alphabet/3_dan
+    translator:
+      input_mapping:
+        - xform/^(.*)n$/$1ん$/
+
+
+  simple_comment:                     # 超级注释模块，子项配置 true 开启，false 关闭
+    candidate_length: 1               # 候选词辅助码提醒的生效长度，0为关闭  但同时清空其它，应当使用上面开关来处理
+    corrector_type: "comment"         # 换一种显示类型，比如"({comment})" 
+    # fuzhu_type: fuzhu                 # 分包这是一个固定搭配，声调可以使用开关控制，这里无需修改
+    # chaifen: "chaifen"                # 随意更换左右括号，比如"〔chaifen〕" 不加括号为无括号，chaifen占位不能动
+
+
+  moran:
+    quick_code_indicator: "🗲"        # 简码标识符
+    # quick_code_indicator: "⚡"        # 简码标识符
+    enable_word_filter: false         # 词辅功能
+    word_filter_match_indicator: {}   # 词辅命中提示词 
+    inject_fixed_chars: false          # 启用单字注入 是否输出简码表单字（如 jwrg 次选「佳」）
+    inject_fixed_words: true          # 启用长词注入 是否输出简码表词语（如 lmsd 次选「两面三刀」）
+    # 「出簡讓全」相關設置
+    ijrq:
+      enable: true                    # 出简让全开关
+      show_hint: true                 # 显示简码提示
+      enable_word: true               # 詞語級「讓全」，對二、三、四字詞有效
+      enable_word_delay: 200          # 延遲觸發詞語級讓全效果,一般爲 200 *毫秒* 上下（僅 librime >= 1.14 可用）
+      enable_word_defer: 2            # 延遲候選個數。必須是大於等於 1 的整數才有效果。
+      suffix: "/"                     # 让全后缀
+    # moran_hint_filter 的相关设置
+    enable_aux_hint: false            # 辅助码提示（无用）
+    enable_quick_code_hint: true      # 簡快碼提示（包括字和詞）
+    quick_code_hint_indicator: ""     # 简快码提示符号（默認值 null 使用quick_code_indicator提示）
+    quick_code_hint_skip_chars: true  # 取消單字的簡快碼提示
+    # (仅*动词模式*) 输出优先级
+    inject_prioritize: "word"         # char: 优先单字, word: 优先词组，其他值按码表顺序
+    # 「PIN」相關設置
+    pin:
+      enable: true                    # 启用置顶功能
+      indicator: "📌"                 # 置顶标识
+      panacea:
+        infix: "//"                   # 造词分隔符
+        prompt: "〔加词〕"            # 造词提示
+        freestyle: false              # 启用自由模式
+    # 「通用」字符集設置 （不影響「增廣」：增廣仍顯示*所有*字符）
+    charset: simp             # both: 允許繁體和簡體同時顯示 | simp: 只顯示簡化字 | trad: 只顯示繁體字
+    #略码  moran_processor.lua → shorthands 修改
+    shorthands: false   
+
+
+  paired_punct:
+    pattern: '^([aswdf])`'
+    defer:
+      - "，"
+      - "、"
+      - "|"
+    dict:
+      a: ['《','》']
+      w: ['（','）']
+      s: ['「','」']
+      d: ['『','』']
+      f: ['"','"']
+
+
+  # 手机专用
+  # switches:
+  #   - options: [ comment_off, fuzhu_hint, tone_hint ]
+  #     states: [ 注释关, 辅助开, 读音开 ]
+  #   - name: ascii_punct  # 中英标点
+  #     states: [ ¥, $ ]
+  #     reset: 1
+  #   - name: full_shape
+  #     states: [ 半角🌗, 全角🌕 ]
+  #   - name: chaifen_switch
+  #     states: [拆字❌, 拆字✔] 
+  #   - name: traditionalization
+  #     states: [ 简体, 繁體 ]
+  #   - name: extended_charset
+  #     states: [ 通用, 增廣 ]
+  #   - name: inflexible
+  #     states: [ 動詞, 固詞 ]

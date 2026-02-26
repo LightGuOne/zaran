@@ -1,0 +1,16 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#辅助码拆分滤镜帮助显示辅助码注释
+---
+name: chaifen
+version: 1.0
+sort: original
+import_tables:
+  # - other_dicts/moqi_chaifen        # 墨奇拆分
+  - other_dicts/chaifen/zrm_chaifen         # 魔然拆分
+  - other_dicts/chaifen/definitionNew          # 英文翻译1744872570
+  - other_dicts/chaifen/myFill              # 英文翻译修改 1750905101
+  - other_dicts/chaifen/plateInfo           # 车牌信息
+  - other_dicts/chaifen/cityS                # 城市对应省份
+...

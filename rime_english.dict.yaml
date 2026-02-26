@@ -1,0 +1,71 @@
+# Rime dictionary
+# encoding: utf-8
+# 
+# rime配置的部署位置：
+# ~/.local/share/fcitx5/rime 或者 ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+---
+name: rime_english
+version: "LTS"
+sort: by_weight  #字典初始排序，可選original或by_weight
+use_preset_vocabulary: false
+import_tables:
+  - other_dicts/english_dicts/byPython      # 补充python
+  - other_dicts/english_dicts/engfill       # 补充日常缺词
+  - other_dicts/english_dicts/cet4          # 四级词典
+...
+
+
+A	A
+B	B
+C	C
+D	D
+E	E
+F	F
+G	G
+H	H
+I	I
+J	J
+K	K
+L	L
+M	M
+N	N
+O	O
+P	P
+Q	Q
+R	R
+S	S
+T	T
+U	U
+V	V
+W	W
+X	X
+Y	Y
+Z	Z
+a	A
+b	B
+c	C
+d	D
+e	E
+f	F
+g	G
+h	H
+i	I
+j	J
+k	K
+l	L
+m	M
+n	N
+o	O
+p	P
+q	Q
+r	R
+s	S
+t	T
+u	U
+v	V
+w	W
+x	X
+y	Y
+z	Z

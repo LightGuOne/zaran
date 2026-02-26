@@ -1,0 +1,213 @@
+# Rime schema
+# encoding: utf-8
+
+# 方案说明
+schema:
+  schema_id: zaran
+  name: 雜然
+  version: "20251026"
+  # icon: ico/chn.ico
+  author:
+    - AMZ
+    - ksqsf
+    - kuroame
+    - light
+  description: |
+    賦流形
+  dependencies:
+    - wanxiang_mixedcode      # 中英混输
+    - rime_english            # 英文输入
+    - moran_fixed             # 魔然字词
+    - moran_charset           # 魔然过滤器
+
+
+# 开关
+# reset: 默认状态。注释掉后，切换窗口时不会重置到默认状态。
+# states: 方案选单显示的名称。可以注释掉，仍可以通过快捷键切换。
+# abbrev: 默认的缩写取 states 的第一个字符，abbrev 可自定义一个字符
+switches:
+  - name: fuzhu_hint
+    states: [ 注释关,辅助开 ]
+  - name: ascii_punct     # 中英标点
+    states: [ ¥, $ ]
+  - name: full_shape
+    states: [ 半角🌗, 全角🌕 ]          # 2024-09-05
+  - name: chaifen_switch                # 2025-03-30
+    states: [拆字❌, 拆字✔] 
+  - name: traditionalization
+    states: [ 简体, 繁體 ]               # 2024-09-05
+  - name: extended_charset
+    states: [ 通用, 增廣 ]
+  - name: inflexible
+    states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
+
+
+# 输入引擎
+engine:
+  processors:
+    - key_binder                          # 快捷键
+    - lua_processor@*moran.moran_pin*pin_processor                            # PIN
+    - lua_processor@*moran.moran_processor                                    # 魔然processor
+    - ascii_composer                      # 按键是否启动(Ctrl键、CapsLock键、Shift键等)
+    - recognizer                          # 处理符合特定规则的输入码，如网址、反查
+    - lua_processor@*key_binder           # 绑定按键扩展能力
+    - speller                             # 拼写设定
+    - punctuator                          # 标点符号
+    - selector                            # 选字处理器，处理数字选字键〔可以换成别的哦〕、上、下候选定位、换页
+    - navigator                           # 处理输入栏内的光标移动
+    - express_editor                      # 编辑器，处理空格、回车上屏、回退键
+  segmentors:
+    - ascii_segmentor                     # 标识英文段落〔譬如在英文模式下〕字母直接上屛
+    - matcher                             # 配合 recognizer 标识符合特定规则的段落，如网址、反查等，加上特定 tag
+    - matcher@recognizer_secondary        # 英文正则
+    - abc_segmentor                       # 标识常规的文字段落，加上 abc 这个 tag
+    - punct_segmentor                     # 标识符号段落〔键入标点符号用〕加上 punct 这个 tag
+    - fallback_segmentor                  # 标识其他未标识段落，必须放在最后帮助tag模式切换后回退重新处理
+  translators:
+    - punct_translator                    # 配合 punct_segmentor 转换标点符号
+    - table_translator@wanxiang_mixedcode # 中英等混合词汇表导入
+    - table_translator@rime_english       # 英文词典
+    - lua_translator@*mylua.pseudo_moran@with_reorder                         # 伪·魔然翻譯器
+    - table_translator@custom_phrase      # 自定义短语
+    - lua_translator@*moran.moran_pin*panacea_translator                      # PIN
+  filters:
+    - lua_filter@*moran.moran_charset_filter                                  # 魔然字符集过滤
+    - lua_filter@*moran.moran_pin*pin_filter                                  # PIN
+    - lua_filter@*moran.moran_reorder_filter                                  # 魔然滤镜
+    - lua_filter@*moran.moran_ijrq_filter                                     # 魔然出简让全
+    - lua_filter@*mylua.simple_comment    #  简易注释
+    - lua_filter@*moran.moran_hint_filter                                     # 魔然简词提示
+    - lua_filter@*mylua.add_words         # 英文造词
+    - simplifier@traditionalize           # 简繁切换
+    - uniquifier                          # 去重
+
+
+# 固词翻译器
+translator:
+  dictionary: rime_wanxiang        # 挂载词库
+  prism: moran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
+  initial_quality: 5        # 初始权重
+  max_homophones: 7           # >0 启用，过长短语不记整词，只加元素权重
+  spelling_hints: 20         # 将注释以词典字符串形式完全暴露
+  contextual_suggestions: false  # 语言模型预测词组权重
+  core_word_length: 4           # >0 启用，按段学词 + 相邻段拼接
+  max_word_length: 7           # >0 启用，过长短语不记整词，只加元素权重
+  enable_completion: true  # 补全提示
+  enable_user_dict: false      # 用户词典
+  max_homographs: 5         # 最大同形簇长度
+
+
+# 动词翻译器
+frequency:
+  dictionary: rime_wanxiang        # 挂载词库
+  prism: moran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
+  initial_quality: 5        # 初始权重
+  max_homophones: 10           # >0 启用，过长短语不记整词，只加元素权重
+  spelling_hints: 20         # 将注释以词典字符串形式完全暴露
+  contextual_suggestions: false  # 语言模型预测词组权重
+  core_word_length: 4           # >0 启用，按段学词 + 相邻段拼接
+  max_word_length: 7           # >0 启用，过长短语不记整词，只加元素权重
+  enable_completion: true  # 补全提示
+  max_homographs: 5         # 最大同形簇长度
+
+
+# 字词翻译器
+fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
+  dictionary: moran_fixed_simp
+  initial_quality: 1000     # 初始权重
+  enable_completion: false  # 启用候选词补全   2025-04-29
+  enable_sentence: false   # 禁止造句
+  enable_user_dict: false  # 禁用用户词典
+  enable_encoder: false       # 是否开启自动造词
+  encode_commit_history: true # 是否对已上屛词自动成词
+
+
+# 次翻译器 英文
+rime_english:
+  dictionary: rime_english # 挂载词库
+  tag: english             # librime<=1.11 請在 custom 中置空
+  initial_quality: 1.2     # 初始权重
+  enable_sentence: false   # 禁止造句
+  user_dict: rime_english
+  comment_format:          # 自定义提示码
+    - xform/.*//           # 清空提示码
+
+
+# 中英混输
+wanxiang_mixedcode:
+  dictionary: wanxiang_mixedcode     # 挂载词库
+  tag: english             # librime<=1.11 請在 custom 中置空
+  initial_quality: 1.1     # 初始权重
+  enable_sentence: false   # 禁止造句
+  enable_user_dict: false  # 禁用用户词典
+  comment_format:          # 自定义提示码
+    - xform/.*//           # 清空提示码
+
+
+# 自定义短语
+custom_phrase:
+  dictionary: ""            # 挂载词库 
+  initial_quality: 99       # 初始权重
+  user_dict: mydict         # 可以修改这里，改成自己的 txt 文件
+  db_class: stabledb        # 只读数据库，无法动态调频；设为 tabledb 可以动态调频
+  enable_completion: false  # 补全提示
+  enable_sentence: false    # 禁止造句
+
+
+# 简繁切换
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: char                # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
+  tags: [ abc, number, gregorian_to_lunar ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
+
+
+# 标点符号
+punctuator:
+  digit_separator_action: "commit"
+  __include: default:/punctuator
+
+
+# 处理符合特定规则的输入码，如网址、反查
+recognizer:
+  import_preset: default  # 从 default.yaml 继承通用的
+  patterns:  # 再增加方案专有的：
+
+
+recognizer_secondary:
+  patterns:
+    # 1. 輸入長度達到 4 後開始輸出英語 *或* 前 4 字母中有大寫字母
+    english: '(^[A-Za-z]{4}[A-Za-z]*)|(^[A-Z][A-Za-z]*)|(^[a-z][A-Z][a-zA-Z]*)|(^[a-z][a-z][A-Z][a-zA-Z]*)'
+    # 2. 對任何輸入都輸出英語
+    # english: '.*'
+    # 3. 輸入長度達到 4 後開始輸出英語
+    # english: '^[A-Za-z]{4}[A-Za-z]*'
+
+
+# 从 default 继承快捷键
+key_binder:
+  import_preset: default  # 从 default.yaml 继承通用的
+  bindings: 
+
+
+# 拼写设定
+speller:
+  # 如果不想让什么标点直接上屏，可以加在 alphabet，或者编辑标点符号为两个及以上的映射
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA`/
+  # initials 定义仅作为始码的按键，排除 ` 让单个的 ` 可以直接上屏
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+  delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
+  auto_select: true
+  auto_select_pattern: ^(\w+)/
+  algebra:
+    __include: wanxiang_algebra:/pro/自然码
+
+
+grammar:
+  language: wanxiang-lts-zh-hans
+  collocation_max_length: 6
+  collocation_min_length: 3
+  collocation_penalty: -10
+  non_collocation_penalty: -20
+  weak_collocation_penalty: -45
+  rear_penalty: -12

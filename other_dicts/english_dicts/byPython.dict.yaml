@@ -1,0 +1,94 @@
+---
+name: byPython
+version: "2025-02-25"
+sort: by_weight
+...
+
+# TODO python库名称
+DrissionPage	drissionPage	1000000000
+DrissionPage	DrissionPage	1000000000
+matplotlib	matplotlib
+pandas	pandas
+openpyxl	openpyxl
+pyechart	pyechart
+PySide6	pyside
+PySide6	pyside6
+subprocess	subprocess
+auto-py-to-exe	autopytoexe
+pytorch	pytorch
+opencv	opencv
+opencv-python	opencvpython
+fastapi	fastapi
+django	django
+# pillow	pillow
+beautifulsoup4	beautifulsoup
+beautifulsoup	beautifulsoup
+numpy	numpy
+pathlib	pathlib
+pyinstaller	pyinstaller
+load_workbook	loadworkbook
+pyplot	pyplot
+pyautogui	pyautogui
+astropy	astropy
+threading	threading
+python	python	10
+Python	python	5
+cpython	cpython
+# TODO qt库内关键词
+QApplication	QApplication
+QApplication	qApplication
+QApplication	qapplication
+QMainWindow	QMainWindow
+QMainWindow	qMainWindow
+QMainWindow	qmainwindow
+QPushButton	QPushButton
+QPushButton	qPushButton
+QPushButton	qpushbutton
+QPlainTextEdit	QPlainTextEdit
+QPlainTextEdit	qPlainTextEdit
+QPlainTextEdit	qplainTextedit
+QMessageBox	QMessageBox
+QMessageBox	qMessageBox
+QMessageBox	qmessagebox
+QLineEdit	QLineEdit
+QLineEdit	qLineEdit
+QLineEdit	qlineedit
+QTextBrowser	QTextBrowser
+QTextBrowser	qTextBrowser
+QTextBrowser	qtextbrowser
+QLabel	QLabel
+QLabel	qLabel
+QLabel	qlabel
+QComboBox	QComboBox
+QComboBox	qComboBox
+QComboBox	qcombocox
+QRadioButton	QRadioButton
+QRadioButton	qRadioButton
+QRadioButton	qradiorutton
+QButtonGroup	QButtonGroup
+QButtonGroup	qButtonGroup
+QButtonGroup	qbuttonbroup
+QtWidgets	QtWidgets
+QtWidgets	qtWidgets
+QtWidgets	qtwidgets
+# TODO pandas关键词
+groupby	groupby	20
+errors	errors
+sort_index	sortindex
+DataFarme	dataframe	10
+dataframe	dataframe	5
+Series	series	10
+# TODO 库内关键词
+xpath	xpath
+# TODO 编码格式
+unicode	unicode
+utf-8	utf-8
+UTF-8	utf-8
+utf-16	utf-16
+UTF-16	utf-16
+GBK	gbk
+bool	bool
+int	int
+str	str
+true	true	5
+false	false	5

@@ -1,0 +1,193 @@
+schema:
+  schema_id: moran_fixed
+  name: 魔然·字詞
+  version: "20241011"
+  author:
+    - 自然碼發明人：周志農
+    - 方案製作：ksqsf
+  description: |
+    四碼唯一自動上屏、五碼頂屏的碼表式輸入方式。
+  dependencies:
+    - moran.chars
+    
+switches:
+  - name: ascii_mode
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    # - lua_processor@*moran_pin*pin_processor
+    - ascii_composer                      # 按键是否启动(Ctrl键、CapsLock键、Shift键等)
+    - recognizer                          # 处理符合特定规则的输入码，如网址、反查
+    - key_binder                          # 快捷键
+    - speller                             # 拼写设定
+    - punctuator                          # 标点符号
+    - selector                            # 选字处理器，处理数字选字键〔可以换成别的哦〕、上、下候选定位、换页
+    - navigator                           # 处理输入栏内的光标移动
+    - express_editor                      #编辑器，处理空格、回车上屏、回退键
+  segmentors:
+    - ascii_segmentor                     # 标识英文段落〔譬如在英文模式下〕字母直接上屛
+    - matcher                             # 配合 recognizer 标识符合特定规则的段落，如网址、反查等，加上特定 tag
+    - affix_segmentor@zkci                # 造词 tag
+    - abc_segmentor                       # 标识常规的文字段落，加上 abc 这个 tag
+    - punct_segmentor                     # 标识符号段落〔键入标点符号用〕加上 punct 这个 tag
+    - fallback_segmentor                  # 标识其他未标识段落，必须放在最后帮助tag模式切换后回退重新处理
+  translators:
+    - punct_translator                    # 配合 punct_segmentor 转换标点符号
+    # - reverse_lookup_translator@reverse_zrlf    # 两分
+    # - reverse_lookup_translator
+    # - table_translator@custom_phrase       # 自定義短語
+    - table_translator
+    - table_translator@fixed
+    - table_translator@zkci               # 造词
+  filters:
+    - uniquifier                          # 去重
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz=;" # 「置頂」功能：需要加上/
+  delimiter: " '"
+  max_code_length: 4
+  auto_select: true
+  auto_select_pattern: ^;(\w|;)+|^\w{3}\w+ # 「置頂」功能：建議取消四碼唯一上屏模式，即改成auto_select_pattern: ^;(\w|;)+
+  auto_clear: max_length # manual | auto | max_length
+  algebra:
+    # __patch:
+    #   - moran:/algebra/user_force_top?
+    #   - moran:/algebra/user_force_bottom?
+
+# 主翻译器
+translator:
+  dictionary: moran_fixed_simp        # 挂载词库 
+  db_class: tabledb                   # 只读数据库，无法动态调频；设为 tabledb 可以动态调频
+  enable_charset_filter: false        # 是否开启字符集过滤
+  enable_sentence: false              # 是否开启自动造句
+  enable_completion: false            # 提前显示尚未输入完整码的字〔仅 table_translator 有效〕
+  enable_user_dict: false             # 是否开启用户词典
+  initial_quality: 100000             # 初始权重
+
+# 自造词词库 权重比默认的低
+fixed:
+  dictionary: moran_fixed_simp        # 挂载词库 
+  db_class: tabledb                   # 只读数据库，无法动态调频；设为 tabledb 可以动态调频
+  enable_charset_filter: false        # 是否开启字符集过滤
+  enable_sentence: false              #  是否开启自动造句
+  enable_completion: false            # 提前显示尚未输入完整码的字〔仅 table_translator 有效〕
+  enable_user_dict: true              # 是否开启用户词典
+  enable_encoder: true                # 是否开启自动造词〔仅table_translator有效〕
+  encode_commit_history: false   # 是否開啓自動造詞
+  initial_quality: 1000             # 初始权重
+
+
+zkci:           # 造詞反查
+  tag: zkci
+  db_class: tabledb
+  dictionary: moran_fixed_simp
+  enable_user_dict: false
+  enable_charset_filter: false
+  enable_completion: false
+  enable_sentence: true
+  enable_encoder: false
+  max_phrase_length: 4
+  prefix: "'"
+  tips: 〔造詞〕
+  initial_quality: 10
+
+
+# reverse_lookup:
+#   dictionary: moran.chars     # 挂载词库 
+#   enable_user_dict: false     # 是否开启用户词典〔用户词典记录动态字词频、用户词〕
+#   tips: 〔通配〕               # 翻译器的输入前提示符
+
+recognizer:
+  import_preset: default
+  patterns:
+    # reverse_lookup: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`|[a-z][a-z]`)))"
+    # reverse_zrlf: "^olf[A-Za-z]*$"
+    zkci: "^[a-z]*'[a-z']*$"
+    # 「置頂」功能：使用加置頂詞功能需要取消下面的註釋
+    # panacea: "^[a-z]*/{1,2}[a-z']*$"
+    # punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+# punctuator:
+#   import_preset: symbols
+
+key_binder:
+  import_preset: default
+  # custom_bindings:
+  #   __append:
+  #     # 在這裏添加只在本方案中生效的按鍵綁定
+  #     # 取消下行註釋，按住 = 不放可以連續上屏
+  #     # - { when: has_menu, accept: '=', send: 4 }  # 4 對應於 history_translator 的輸出位置，修改 symbols.yaml 後需要作相應修改
+  bindings:
+    # 一些功能的開關鍵
+    # - moran:/key_bindings/moran_switches
+    # - { when: has_menu, accept: "Control+s", toggle: traditionalization }
+    # - { when: has_menu, accept: "Control+u", toggle: unicode_comment }
+    # - { when: has_menu, accept: "Control+q", toggle: emoji }
+    # - { when: composing, accept: "Control+x", toggle: extended_charset }
+    # - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }
+    # - { when: has_menu, accept: "Control+i", toggle: chaifen }
+    # - { when: has_menu, accept: "Control+period", toggle: pinyinhint }
+    # 分號用於次選
+    # - moran:/key_bindings/moran_semicolon_for_2
+    - { when: has_menu, accept: semicolon, send: "2" }
+    # 支持小鍵盤數字鍵和回車鍵
+    # - moran:/key_bindings/moran_keypad
+    - { when: composing, accept: KP_Enter, send: Return }
+    - { when: composing, accept: KP_0, send: '0' }
+    - { when: composing, accept: KP_1, send: '1' }
+    - { when: composing, accept: KP_2, send: '2' }
+    - { when: composing, accept: KP_3, send: '3' }
+    - { when: composing, accept: KP_4, send: '4' }
+    - { when: composing, accept: KP_5, send: '5' }
+    - { when: composing, accept: KP_6, send: '6' }
+    - { when: composing, accept: KP_7, send: '7' }
+    - { when: composing, accept: KP_8, send: '8' }
+    - { when: composing, accept: KP_9, send: '9' }
+    # __patch:
+    #   - :/key_binder/custom_bindings?
+    #   - moran:/key_bindings/moran_switches
+    #   - moran:/key_bindings/moran_semicolon_for_2
+    #   - moran:/key_bindings/moran_keypad
+
+# 默認不開啓語言模型
+# 在 moran_fixed.custom.yaml 中輸入如下內容以開啓
+#   patch:
+#     __include: moran:/octagram/enable_for_fixed
+# 輸入「水滿則」後繼續輸入 yidy 首選爲「溢」則說明已生效。
+
+moran:
+  # 簡快碼提示濾鏡
+  # 例如，在輸入 jqrf 時，「機器人」候選會增加「⚡jqr」提示，表示該词有簡碼打法。
+  # 注意：需先解除 engine/filters 中 lua_filter@*moran_quick_code_hint 行的註釋才能生效！！
+  enable_quick_code_hint: true      # 在解除 lua_filter 註釋前不生效！
+  quick_code_hint_skip_chars: true  # 是否跳過單字, 字詞模式中建議不提示單字避免干擾
+
+  # 「置頂」功能相關設置
+  # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂
+  # 對同一輸入碼最高支持8個置頂詞，當嘗試置頂第9個詞時，最早被置頂的詞將會失效
+  #
+  # 注：該功能需要 librime>=1.12.0 否則置頂詞將無法在字詞模式中頂屏 體驗較差 不建議使用
+  # 如需開啓，請取消下面的註釋，並參考本配置標記了 「置頂」功能 的地方的修改建議
+  # pin:
+  #   # 「置頂」功能開關
+  #   enable: true
+  #   # 置頂詞提示符
+  #   indicator: "📌"
+  #   # 「萬靈藥」加詞功能
+  #   # 通過輸入 「編碼A」//「編碼B」 實現造詞功能，編碼A是這個新詞的新編碼 編碼B是目前可以打出該詞的編碼
+  #   # 例如 輸入 kx 不能得到「開心」這一候選， 此時我們可以輸入 kx//klxn 按下空格 讓「開心」候選上屏，上屏的詞會被加入用戶詞庫中，之後我們可以用 kx 來得到「開心」這一候選了
+  #   # 造出的詞與置頂詞是等同的
+  #   panacea:
+  #     # 加詞狀態提示
+  #     prompt: "〔加詞〕"
+  #     # 加詞中綴引導符
+  #     infix: "//"
+  #     # 自由加詞模式開關，開啓此模式後，輸入「編碼A」//並空格上屏後會進入加詞狀態，此時可以連續地、不受束縛地輸入，再次按下x//空格退出加詞狀態，期間輸入的內容將會被記錄爲「編碼A」的新置頂詞
+  #     # 能造出不受碼表的限制的詞，因此適合字詞模式使用
+  #     # 例如 輸入tnfb//空格 然後輸入tbnk上屏「頭腦」 fgbk上屏「風暴」，再輸入x//空格，則可以用tnfb上屏「頭腦風暴」
+  #     freestyle: false
