@@ -1,6 +1,7 @@
 -- author: amzxyz  https://github.com/amzxyz/rime_wanxiang
 -- 英文自造词模块单独提取
 -- 配置说明
+-- 需要放在uniquifier前面
 -- engine/segmentors/@before 1:lua_translator@*add_word
 
 local M = {}
@@ -79,6 +80,7 @@ function M.commit_handler(ctx, env)
         code_body = code_body:gsub("%s+$", "")               -- 去掉尾部空白
         
         if code_body ~= "" then
+            code_body = code_body:lower()   -- 将编码改成小写
             local entry = DictEntry()
             entry.text = commit_text
             entry.weight = 1

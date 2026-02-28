@@ -53,13 +53,6 @@ local function load_file_with_fallback(filename, mode)
     return nil, function() end, "File not found"
 end
 
--- local function is_in_radical_mode(env)
---     local seg = env.engine.context.composition:back()
---     return seg and (
---         seg:has_tag("romaji")
---         or seg:has_tag("reverse_wanxiang")
---     ) or false
--- end
 
 local function is_function_mode_active(context)
     if not context or not context.composition or context.composition:empty() then
@@ -81,31 +74,26 @@ end
 -- PRO 专用
 -- ----------------------
 local CF = {}
-function CF.init(env)
-    CF.get_dict(env)-- 直接初始化
-end
-
 function CF.fini(env)
     env.chaifen_dict = nil
     collectgarbage()
 end
 
-function CF.get_dict(env)
-    if env.chaifen_dict == nil then
+function CF.get_comment(cand, env)
+    -- 首次使用时创建延迟加载的 Thunk
+    if not env.chaifen_dict then
         env.chaifen_dict = moran.Thunk(function()
             return ReverseLookup("chaifen")
         end)
     end
-    return env.chaifen_dict
-end
 
-function CF.get_comment(cand, env)
-    local dict = CF.get_dict(env)
+    -- 获取实际字典对象（可能为 nil）
+    local dict = env.chaifen_dict()
     if not dict then return "" end
 
-    local raw = dict():lookup(cand.text)
-    if not raw or raw == "" then return "" end
-    return raw
+    -- 查询拆分结果
+    local raw = dict:lookup(cand.text)
+    return raw or ""
 end
 
 -- ----------------------
@@ -177,14 +165,14 @@ local function get_charset_label(text)
     
     -- 兼容区
     if cp >= 0xF900   and cp <= 0xFAFF  then return "兼容" end
-    if cp >= 0x2F800  and cp <= 0x2FA1F then return "兼容" end
+    if cp >= 0x2F800  and cp <= 0x2FA1F then return "兼容补充" end
 
     return nil
 end
 
 local function C2U(char)
     local unicode_d = utf8.codepoint(char)
-    local unicode_h = string.format('%x', unicode_d)
+    local unicode_h = string.format('%X', unicode_d)
     return unicode_h
 end
 
@@ -233,7 +221,7 @@ local function get_az_comment(cand, env, initial_comment)
             table.insert(inner_parts, label)
         end
         if unicode_h then
-            table.insert(inner_parts, "U"..unicode_h.."")
+            table.insert(inner_parts, "U"..unicode_h)
         end
     end
 
@@ -289,11 +277,6 @@ local function get_fz_comment(cand, env, initial_comment)
     -- 最终拼接输出，fuzhu用 `,`，tone用 /连接
     if #fuzhu_comments > 0 then
         return table.concat(fuzhu_comments, " ")
-        -- if fuzhu_type == "tone" then
-        --     return table.concat(fuzhu_comments, " ")
-        -- else
-        --     return table.concat(fuzhu_comments, "/")
-        -- end
     else
         return ""
     end
@@ -327,6 +310,7 @@ function ZH.init(env)
         candidate_length = tonumber(config:get_string("simple_comment/candidate_length")) or 1,
     }
     CR.init(env)
+    -- CF.init(env)
 end
 
 function ZH.fini(env)
@@ -340,7 +324,6 @@ function ZH.func(input, env)
     local config = env.engine.schema.config
     local context = env.engine.context
     local input_str = context.input
-    -- local is_radical_mode = is_in_radical_mode(env)
     local is_radical_mode = moran.is_reverse_lookup(env)
     local should_skip_candidate_comment = is_function_mode_active(context) or input_str == ""
     local is_tone_comment = env.engine.context:get_option("tone_hint")
@@ -474,8 +457,8 @@ function ZH.func(input, env)
             end
         end
 
-        --  ⑤ 魔然提示
-        -- 处理用户标记
+        -- --  ⑤ 魔然提示
+        -- -- 处理用户标记
         if cand.type == "fixed" then                            -- 魔然简表
             final_comment = final_comment .. quick_code_indicator
         elseif cand.type == "model" then                        -- 模型
