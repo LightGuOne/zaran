@@ -53,13 +53,13 @@ local function load_file_with_fallback(filename, mode)
     return nil, function() end, "File not found"
 end
 
-local function is_in_radical_mode(env)
-    local seg = env.engine.context.composition:back()
-    return seg and (
-        seg:has_tag("romaji")
-        or seg:has_tag("wanxiang_reverse")
-    ) or false
-end
+-- local function is_in_radical_mode(env)
+--     local seg = env.engine.context.composition:back()
+--     return seg and (
+--         seg:has_tag("romaji")
+--         or seg:has_tag("reverse_wanxiang")
+--     ) or false
+-- end
 
 local function is_function_mode_active(context)
     if not context or not context.composition or context.composition:empty() then
@@ -73,7 +73,6 @@ local function is_function_mode_active(context)
         or seg:has_tag("unicode")
         or seg:has_tag("calculator")
         or seg:has_tag("shijian")
-        -- or seg:has_tag("romaji")
         or seg:has_tag("Ndate")
 end
 
@@ -150,9 +149,6 @@ function CR.get_comment(cand)
     return correction.comment
 end
 
--- function CR.fini()
---     corrections_cache = nil
--- end
 
 -- ----------------------
 -- 部件组字返回的注释
@@ -344,7 +340,8 @@ function ZH.func(input, env)
     local config = env.engine.schema.config
     local context = env.engine.context
     local input_str = context.input
-    local is_radical_mode = is_in_radical_mode(env)
+    -- local is_radical_mode = is_in_radical_mode(env)
+    local is_radical_mode = moran.is_reverse_lookup(env)
     local should_skip_candidate_comment = is_function_mode_active(context) or input_str == ""
     local is_tone_comment = env.engine.context:get_option("tone_hint")
     local is_comment_hint = env.engine.context:get_option("fuzhu_hint")

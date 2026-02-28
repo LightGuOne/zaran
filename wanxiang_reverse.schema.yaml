@@ -30,8 +30,8 @@ speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz;"
   delimiter: " '"
   algebra:
-    __include: wanxiang_algebra:/reverse/自然码
-    __patch: wanxiang_algebra:/reverse/hupvd      #笔画类型有hspzn，hupvd
+    __include: zaran_algebra:/reverse/自然码
+    __patch: zaran_algebra:/reverse/hupvd
 
 translator:
   dictionary: wanxiang_reverse

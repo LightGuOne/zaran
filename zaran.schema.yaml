@@ -84,71 +84,71 @@ engine:
 
 # 固词翻译器
 translator:
-  dictionary: rime_wanxiang        # 挂载词库
+  dictionary: rime_wanxiang # 挂载词库
   prism: moran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   initial_quality: 5        # 初始权重
-  max_homophones: 7           # >0 启用，过长短语不记整词，只加元素权重
-  spelling_hints: 20         # 将注释以词典字符串形式完全暴露
+  spelling_hints: 20        # 将注释以词典字符串形式完全暴露
   contextual_suggestions: false  # 语言模型预测词组权重
-  core_word_length: 4           # >0 启用，按段学词 + 相邻段拼接
-  max_word_length: 7           # >0 启用，过长短语不记整词，只加元素权重
-  enable_completion: true  # 补全提示
-  enable_user_dict: false      # 用户词典
+  core_word_length: 4       # >0 启用，按段学词 + 相邻段拼接
+  max_word_length: 7        # >0 启用，过长短语不记整词，只加元素权重
+  enable_completion: true   # 补全提示
+  enable_user_dict: false   # 用户词典
   max_homographs: 5         # 最大同形簇长度
+  max_homophones: 7         # 最大同音簇长度
 
 
 # 动词翻译器
 frequency:
-  dictionary: rime_wanxiang        # 挂载词库
+  dictionary: rime_wanxiang # 挂载词库
   prism: moran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   initial_quality: 5        # 初始权重
-  max_homophones: 10           # >0 启用，过长短语不记整词，只加元素权重
-  spelling_hints: 20         # 将注释以词典字符串形式完全暴露
+  spelling_hints: 20        # 将注释以词典字符串形式完全暴露
   contextual_suggestions: false  # 语言模型预测词组权重
-  core_word_length: 4           # >0 启用，按段学词 + 相邻段拼接
-  max_word_length: 7           # >0 启用，过长短语不记整词，只加元素权重
-  enable_completion: true  # 补全提示
+  core_word_length: 4       # >0 启用，按段学词 + 相邻段拼接
+  max_word_length: 7        # >0 启用，过长短语不记整词，只加元素权重
+  enable_completion: true   # 补全提示
   max_homographs: 5         # 最大同形簇长度
+  max_homophones: 10        # 最大同音簇长度
 
 
 # 字词翻译器
-fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
+fixed:                      # 固頂輸入模式設置，在 top_translator 中被調用
   dictionary: moran_fixed_simp
   initial_quality: 1000     # 初始权重
-  enable_completion: false  # 启用候选词补全   2025-04-29
-  enable_sentence: false   # 禁止造句
-  enable_user_dict: false  # 禁用用户词典
-  enable_encoder: false       # 是否开启自动造词
+  enable_completion: false  # 启用候选词补全
+  enable_sentence: false    # 禁止造句
+  enable_user_dict: false   # 禁用用户词典
+  enable_encoder: false     # 是否开启自动造词
   encode_commit_history: true # 是否对已上屛词自动成词
 
 
 # 次翻译器 英文
 rime_english:
-  dictionary: rime_english # 挂载词库
-  tag: english             # librime<=1.11 請在 custom 中置空
-  initial_quality: 1.2     # 初始权重
-  enable_sentence: false   # 禁止造句
+  dictionary: rime_english  # 挂载词库
+  tag: english              # librime<=1.11 請在 custom 中置空
+  initial_quality: 1.2      # 初始权重
+  enable_sentence: false    # 禁止造句
   user_dict: rime_english
-  comment_format:          # 自定义提示码
-    - xform/.*//           # 清空提示码
+  comment_format:           # 自定义提示码
+    - xform/.*//            # 清空提示码
 
 
 # 中英混输
 wanxiang_mixedcode:
   dictionary: wanxiang_mixedcode     # 挂载词库
-  tag: english             # librime<=1.11 請在 custom 中置空
-  initial_quality: 1.1     # 初始权重
-  enable_sentence: false   # 禁止造句
-  enable_user_dict: false  # 禁用用户词典
-  comment_format:          # 自定义提示码
-    - xform/.*//           # 清空提示码
+  tag: english              # librime<=1.11 請在 custom 中置空
+  initial_quality: 1.1      # 初始权重
+  enable_sentence: false    # 禁止造句
+  enable_user_dict: false   # 禁用用户词典
+  comment_format:           # 自定义提示码
+    - xform/.*//            # 清空提示码
 
 
 # 自定义短语
 custom_phrase:
   dictionary: ""            # 挂载词库 
   initial_quality: 99       # 初始权重
-  user_dict: mydict         # 可以修改这里，改成自己的 txt 文件
+  user_dict: mydict         
   db_class: stabledb        # 只读数据库，无法动态调频；设为 tabledb 可以动态调频
   enable_completion: false  # 补全提示
   enable_sentence: false    # 禁止造句
@@ -170,7 +170,7 @@ punctuator:
 
 # 处理符合特定规则的输入码，如网址、反查
 recognizer:
-  import_preset: default  # 从 default.yaml 继承通用的
+  import_preset: default    # 从 default.yaml 继承通用的
   patterns:  # 再增加方案专有的：
 
 
@@ -186,7 +186,7 @@ recognizer_secondary:
 
 # 从 default 继承快捷键
 key_binder:
-  import_preset: default  # 从 default.yaml 继承通用的
+  import_preset: default    # 从 default.yaml 继承通用的
   bindings: 
 
 
@@ -200,7 +200,7 @@ speller:
   auto_select: true
   auto_select_pattern: ^(\w+)/
   algebra:
-    __include: wanxiang_algebra:/pro/自然码
+    __include: zaran_algebra:/pro/自然码
 
 
 grammar:
@@ -211,3 +211,38 @@ grammar:
   non_collocation_penalty: -20
   weak_collocation_penalty: -45
   rear_penalty: -12
+
+
+moran:
+  quick_code_indicator: "🗲"        # 简码标识符
+  enable_word_filter: false         # 词辅功能
+  word_filter_match_indicator: {}   # 词辅命中提示词 
+  inject_fixed_chars: false          # 启用单字注入 是否输出简码表单字（如 jwrg 次选「佳」）
+  inject_fixed_words: true          # 启用长词注入 是否输出简码表词语（如 lmsd 次选「两面三刀」）
+  # 「出簡讓全」相關設置
+  ijrq:
+    enable: true                    # 出简让全开关
+    show_hint: true                 # 显示简码提示
+    enable_word: true               # 詞語級「讓全」，對二、三、四字詞有效
+    enable_word_delay: 200          # 延遲觸發詞語級讓全效果,一般爲 200 *毫秒* 上下（僅 librime >= 1.14 可用）
+    enable_word_defer: 2            # 延遲候選個數。必須是大於等於 1 的整數才有效果。
+    suffix: "/"                     # 让全后缀
+  # moran_hint_filter 的相关设置
+  enable_aux_hint: false            # 辅助码提示（无用）
+  enable_quick_code_hint: true      # 簡快碼提示（包括字和詞）
+  quick_code_hint_indicator: ""     # 简快码提示符号（默認值 null 使用quick_code_indicator提示）
+  quick_code_hint_skip_chars: true  # 取消單字的簡快碼提示
+  # (仅*动词模式*) 输出优先级
+  inject_prioritize: "word"         # char: 优先单字, word: 优先词组，其他值按码表顺序
+  # 「PIN」相關設置
+  pin:
+    enable: true                    # 启用置顶功能
+    indicator: "📌"                 # 置顶标识
+    panacea:
+      infix: "//"                   # 造词分隔符
+      prompt: "〔加词〕"            # 造词提示
+      freestyle: false              # 启用自由模式
+  # 「通用」字符集設置 （不影響「增廣」：增廣仍顯示*所有*字符）
+  charset: simp             # both: 允許繁體和簡體同時顯示 | simp: 只顯示簡化字 | trad: 只顯示繁體字
+  #略码  moran_processor.lua → shorthands 修改
+  shorthands: false   

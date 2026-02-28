@@ -31,8 +31,8 @@ speller:
   initials: "abcdefghijklmnopqrstuvwxyzZYXWVUTSRQPONMLKJIHGFEDCBA"
   delimiter: " '"
   algebra:
-    __include: wanxiang_algebra:/english/通用规则
-    __patch: wanxiang_algebra:/english/自然码
+    __include: zaran_algebra:/english/通用规则
+    __patch: zaran_algebra:/english/自然码
 translator:
   dictionary: rime_english
   enable_user_dict: false

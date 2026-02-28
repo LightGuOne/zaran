@@ -1,15 +1,14 @@
 # Rime schema
 # encoding: utf-8
+
 pro:
   自然码: 
-    ### 万象词库
     - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
     - xform/^ng(;.*)/eng$1/
     - xform/ńg|ňg|ǹg/eng/
     - xform/ń|ň|ǹ/en/ 
 
     # - derive/^([jqxy])u(\d)(;.*)$/$1v$2$3/          # u <-> v
-    # - derive/^([aoe])([ioun])(;.*)$/$1$1$2$3/       # 释放非原本自然码规则
     - xform/^([aoe])(ng)?(;.*)$/$1$1$2$3/             # 为后续转换用 ang -> aang / eng ->eeng / o -> oo / a -> aa / e -> ee
     - xform/^(\w+?)iu(;.*)$/$1Ⓠ$2/                   # 双拼 iu -> q 
     - xform/^(\w+?)[uv]an(;.*)$/$1Ⓡ$2/               # 双拼 uan -> r / van -> r
@@ -70,10 +69,6 @@ reverse:
 
 
   自然码:
-    # - derive/^([jqxy])u(?=^|$|')/$1v/
-    # - derive/'([jqxy])u(?=^|$|')/'$1v/
-    # - derive/^([aoe])([ioun])(?=^|$|')/$1$1$2/
-    # - derive/'([aoe])([ioun])(?=^|$|')/'$1$1$2/
     - xform/^([aoe])(ng)?(?=^|$|')/$1$1$2/
     - xform/'([aoe])(ng)?(?=^|$|')/'$1$1$2/
     - xform/iu(?=^|$|')/<q>/
@@ -222,7 +217,6 @@ mixed:
       - erase/.*[\-+'_#@\.·0-9].*$/
 
 english:
-  # 通用的派生规则
   通用规则:
     - derive|^(.{1,3})$|$1/|
     # 数字派生
