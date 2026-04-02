@@ -16,7 +16,7 @@ schema:
     賦流形
   dependencies:
     - wanxiang_mixedcode      # 中英混输
-    - rime_english            # 英文输入
+    - zaran_english           # 英文输入
     - moran_fixed             # 魔然字词
     - moran_charset           # 魔然过滤器
 
@@ -66,7 +66,7 @@ engine:
   translators:
     - punct_translator                    # 配合 punct_segmentor 转换标点符号
     - table_translator@wanxiang_mixedcode # 中英等混合词汇表导入
-    - table_translator@rime_english       # 英文词典
+    - table_translator@zaran_english       # 英文词典
     - lua_translator@*mylua.pseudo_moran@with_reorder                         # 伪·魔然翻譯器
     - table_translator@custom_phrase      # 自定义短语
     - lua_translator@*moran.moran_pin*panacea_translator                      # PIN
@@ -84,8 +84,8 @@ engine:
 
 # 固词翻译器
 translator:
-  dictionary: rime_wanxiang # 挂载词库
-  prism: moran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
+  dictionary: zaran         # 挂载词库
+  prism: zaran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   initial_quality: 5        # 初始权重
   spelling_hints: 20        # 将注释以词典字符串形式完全暴露
   contextual_suggestions: false  # 语言模型预测词组权重
@@ -99,8 +99,8 @@ translator:
 
 # 动词翻译器
 frequency:
-  dictionary: rime_wanxiang # 挂载词库
-  prism: moran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
+  dictionary: zaran         # 挂载词库
+  prism: zaran              # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   initial_quality: 5        # 初始权重
   spelling_hints: 20        # 将注释以词典字符串形式完全暴露
   contextual_suggestions: false  # 语言模型预测词组权重
@@ -123,12 +123,12 @@ fixed:                      # 固頂輸入模式設置，在 top_translator 中�
 
 
 # 次翻译器 英文
-rime_english:
-  dictionary: rime_english  # 挂载词库
+zaran_english:
+  dictionary: zaran_english # 挂载词库
   tag: english              # librime<=1.11 請在 custom 中置空
   initial_quality: 1.2      # 初始权重
   enable_sentence: false    # 禁止造句
-  user_dict: rime_english
+  user_dict: zaran_english
   comment_format:           # 自定义提示码
     - xform/.*//            # 清空提示码
 

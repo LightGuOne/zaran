@@ -434,7 +434,8 @@ function pin_filter.func(t_input, env)
         return
     end
     
-    if env.pin_enable and env.engine.context.composition:toSegmentation():get_confirmed_position() == 0 then
+    -- if env.pin_enable and env.engine.context.composition:toSegmentation():get_confirmed_position() == 0 then
+    if env.pin_enable then
         local context = env.engine.context
         local composition = context.composition
         local segment = composition:back()
@@ -577,14 +578,14 @@ function panacea_translator.fini(env)
 end
 
 function panacea_translator.func(input, seg, env)
-    if not env.pin_enable then
+    if not env.pin_enable or moran.is_reverse_lookup(env) then
         return
     end
     
-    -- 在反查模式下禁用 panacea_translator
-    if moran.is_reverse_lookup(env) then
-        return
-    end
+    -- -- 在反查模式下禁用 panacea_translator
+    -- if moran.is_reverse_lookup(env) then
+    --     return
+    -- end
     
     local pattern = "[a-zA-Z]+" .. env.escaped_infix
     local match = input:match(pattern)

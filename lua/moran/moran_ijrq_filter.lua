@@ -129,19 +129,21 @@ function Module.func(t_input, env)
             yield(c)
             skipped = skipped + 1
             initset[i] = nil
+            -- log.error("当前长度:" .. utf8.len(c.text) .. ",上一个编码:" .. env.last_first_cand .. ",当前编码:" .. c.text)
          else
             break
          end
       end
-
+      
       -- yield deferred candidates
       if skipped > 0 then
-      for _,c in pairs(pset) do
+         for _,c in pairs(pset) do
+            -- log.error("延后当前长度:" .. utf8.len(c.text) .. ",上一个编码:" .. env.last_first_cand .. ",当前编码:" .. c.text)
             c.type="down"
          yield(c)
          end
       else
-         for _,c in pairs(pset) do yield(c) end  -- 原候选后移
+         for _,c in pairs(pset) do yield(c) end  -- 原候选后移  问题出在这
       end
 
       -- yield other candidates
@@ -151,7 +153,6 @@ function Module.func(t_input, env)
       for c in iter do
          yield(c)
       end
-      
 
       -- if postpone then
       --    if real_first_cand then yield(real_first_cand) end

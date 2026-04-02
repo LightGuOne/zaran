@@ -104,7 +104,7 @@ local corrections_cache = nil -- 用于缓存已加载的词典
 function CR.init(env)
     -- CR.style = env.settings.corrector_type or '{comment}'
     local auto_delimiter = env.settings.auto_delimiter
-    local path = "dicts/corrections.pro.dict.yaml"
+    local path = "dicts/cuoyin.pro.dict.yaml"
     
     local file, close_file, err = load_file_with_fallback(path)
     if not file then
@@ -283,13 +283,13 @@ local function get_fz_comment(cand, env, initial_comment)
 end
 
 -- kagiroi特殊处理
-local function is_kagiroi_reverse_lookup(env)
-    local seg = env.engine.context.composition:back()
-    if not seg then
-        return false
-    end
-    return seg:has_tag("kagiroi")
-end
+-- local function is_kagiroi_reverse_lookup(env)
+--     local seg = env.engine.context.composition:back()
+--     if not seg then
+--         return false
+--     end
+--     return seg:has_tag("kagiroi")
+-- end
 
 -- ----------------------
 -- 主函数：根据优先级处理候选词的注释和preedit
@@ -319,6 +319,10 @@ function ZH.fini(env)
 end
 
 function ZH.func(input, env)
+    -- 每 10% 的翻譯觸發一次 GC
+    if math.random() < 0.1 then
+        collectgarbage()
+    end
     local quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
     local pin_indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
     local config = env.engine.schema.config
@@ -336,15 +340,14 @@ function ZH.func(input, env)
     local is_tone_display = context:get_option("tone_display")
     local is_full_pinyin = context:get_option("full_pinyin")
     local index = 0
+    -- kagiroi特殊处理
+    local seg = context.composition:back()
+    local kagiroi_tag=env.engine.schema.config:get_string('kagiroi/tag') or "kagiroi"
+    local is_kagiroi = seg and seg:has_tag(kagiroi_tag)
+
 
     for cand in input:iter() do
-        -- local genuine_cand = cand:get_genuine()
-        local genuine_cand
-        if is_kagiroi_reverse_lookup(env) then
-            genuine_cand = cand
-        else
-            genuine_cand = cand:get_genuine()
-        end
+        local genuine_cand = is_kagiroi and cand or cand:get_genuine()      -- kagiroi需要cand
         local preedit = genuine_cand.preedit or ""
         local initial_comment = genuine_cand.comment
         initial_comment = initial_comment:gsub(quick_code_indicator, '')    -- 移除魔然的符号
@@ -457,14 +460,16 @@ function ZH.func(input, env)
             end
         end
 
-        -- --  ⑤ 魔然提示
-        -- -- 处理用户标记
+        --  ⑤ 魔然提示
+        -- 处理用户标记
         if cand.type == "fixed" then                            -- 魔然简表
             final_comment = final_comment .. quick_code_indicator
         elseif cand.type == "model" then                        -- 模型
             final_comment = final_comment .. "φ"
         elseif cand.type == "pinned" then                       -- 魔然pin词
             final_comment = final_comment:gsub(pin_indicator, '') .. pin_indicator
+        elseif cand.type == "pin_tip" then                       -- 魔然pin造词
+            final_comment = "開始加詞" .. pin_indicator
         elseif cand.type == "down" then                         -- 魔然ijrq
             final_comment = final_comment .. "▾"
         end

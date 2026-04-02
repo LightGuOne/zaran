@@ -25,7 +25,7 @@ end
 
 function M.init(env)
     -- 初始化造词功能
-    env.en_memory = Memory(env.engine, env.engine.schema, "rime_english")
+    env.en_memory = Memory(env.engine, env.engine.schema, "zaran_english")
     
     local config = env.engine.schema.config
     env.enable_english_phrase = true
