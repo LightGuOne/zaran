@@ -26,8 +26,6 @@ schema:
 # states: 方案选单显示的名称。可以注释掉，仍可以通过快捷键切换。
 # abbrev: 默认的缩写取 states 的第一个字符，abbrev 可自定义一个字符
 switches:
-  - name: fuzhu_hint
-    states: [ 注释关,辅助开 ]
   - name: ascii_punct     # 中英标点
     states: [ ¥, $ ]
   - name: full_shape
@@ -40,6 +38,10 @@ switches:
     states: [ 通用, 增廣 ]
   - name: inflexible
     states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
+  - options: [ std_opencc,  std_tw, std_hk]
+    reset: 0
+    states: [ 通, 臺, 港]
+
 
 
 # 输入引擎
@@ -79,6 +81,8 @@ engine:
     - lua_filter@*moran.moran_hint_filter                                     # 魔然简词提示
     - lua_filter@*mylua.add_words         # 英文造词
     - simplifier@traditionalize           # 简繁切换
+    - simplifier@std_hk                   # 香港用字标准
+    - simplifier@std_tw                   # 台湾用字标准
     - uniquifier                          # 去重
 
 
@@ -97,6 +101,7 @@ translator:
   max_homophones: 7         # 最大同音簇长度
 
 
+
 # 动词翻译器
 frequency:
   dictionary: zaran         # 挂载词库
@@ -109,6 +114,7 @@ frequency:
   enable_completion: true   # 补全提示
   max_homographs: 5         # 最大同形簇长度
   max_homophones: 10        # 最大同音簇长度
+  max_sentences: 2
 
 
 # 字词翻译器
@@ -159,9 +165,22 @@ traditionalize:
   option_name: traditionalization
   opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
   tips: char                # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
-  tags: [ abc, number, gregorian_to_lunar ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
+  tags: [ abc, number, gregorian_to_lunar, mixed_V ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
 
+std_hk:
+  opencc_config: t2hk.json
+  # opencc_config: s2hk.json
+  option_name: std_hk
+  tips: all
+  tags: [abc]
 
+std_tw:
+  opencc_config: t2tw.json
+  # opencc_config: s2tw.json
+  option_name: std_tw
+  tips: all
+  tags: [abc]
+  
 # 标点符号
 punctuator:
   digit_separator_action: "commit"
@@ -189,6 +208,32 @@ key_binder:
   import_preset: default    # 从 default.yaml 继承通用的
   bindings: 
 
+editor:
+  bindings:
+    space: confirm                        # 空格键：上屏候选项
+    Return: commit_raw_input              # 回车键：上屏原始输入
+    Control+Return: commit_script_text    # Ctrl+回车键：上屏变换后输入（经过 preedit转换的）
+    Control+Shift+Return: commit_comment  # Ctrl+Shift+回车键：上屏 comment
+    BackSpace: revert                     # 退格键：向前删除（撤消上次输入）
+    Delete: delete                        # Delete 键：向后删除
+    Control+BackSpace: back_syllable      # Ctrl+退格键：删除一个音节
+    Control+Delete: delete_candidate      # Ctrl+Delete键：删除或降权候选项
+    Escape: cancel                        # Esc 键：取消输入
+
+# 在边界按音节移动，在音节内部按字符移动  rewind , forward
+# 按字符移动（循环）       left_by_char , right_by_char
+# 按字符移动（不循环）     left_by_char_no_loop , right_by_char_no_loop
+# 按音节跳转（循环）       left_by_syllable , right_by_syllable
+# 按音节跳转（不循环）     left_by_syllable_no_loop , right_by_syllable_no_loop
+navigator:
+  # 在音節跳轉時，跳過音節末尾的分隔符 ' ，設爲 after_delimiter 恢復 Rime 默認行爲
+  syllable_jump_position: before_delimiter
+  bindings:
+    Left: left_by_syllable
+    Right: right_by_char
+    # Shift+Left: left_by_syllable
+    # Shift+Right: right_by_syllable
+
 
 # 拼写设定
 speller:
@@ -205,11 +250,13 @@ speller:
 
 grammar:
   language: wanxiang-lts-zh-hans
-  collocation_max_length: 6
+  collocation_max_length: 7
+  # collocation_max_length: 6
   collocation_min_length: 3
   collocation_penalty: -10
   non_collocation_penalty: -20
-  weak_collocation_penalty: -45
+  weak_collocation_penalty: -35
+  # weak_collocation_penalty: -45
   rear_penalty: -12
 
 
@@ -246,3 +293,4 @@ moran:
   charset: simp             # both: 允許繁體和簡體同時顯示 | simp: 只顯示簡化字 | trad: 只顯示繁體字
   #略码  moran_processor.lua → shorthands 修改
   shorthands: false   
+  
