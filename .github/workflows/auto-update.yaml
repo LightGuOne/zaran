@@ -45,6 +45,5 @@ jobs:
         with:
           message: "自动更新处理后词库 [ci skip]"
           add: "dicts/"
-          pull: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
