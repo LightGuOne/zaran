@@ -1,0 +1,50 @@
+name: 自动下载词典 → 运行脚本 → 提交结果
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # 每周一凌晨0点执行
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 拉取仓库代码
+        uses: actions/checkout@v5
+
+      - name: 下载最新词典 ZIP（rime-wanxiang-base）
+        run: |
+          wget -O source.zip "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/rime-wanxiang-base.zip"
+
+      - name: 解压到 input_dicts
+        run: |
+          rm -rf input_dicts
+          mkdir -p input_dicts
+          unzip -o source.zip -d ./input_dicts
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖（tqdm 等）
+        run: |
+          python -m pip install --upgrade pip
+          pip install tqdm
+
+      - name: 运行处理脚本（生成到 dicts/）
+        run: |
+          mkdir -p dicts
+          python  tools/process.py   # 或你的实际脚本名，如 duofuzhu.py
+
+      - name: 提交输出文件到仓库（仅 dicts/）
+        uses: EndBug/add-and-commit@v10
+        with:
+          message: "自动更新处理后词库 [ci skip]"
+          add: "dicts/"
+          pull: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
