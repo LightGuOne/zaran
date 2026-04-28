@@ -17,7 +17,7 @@ jobs:
 
       - name: 下载最新词典 ZIP（rime-wanxiang-base）
         run: |
-          wget -O source.zip "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/rime-wanxiang-base.zip"
+          wget -O source.zip "https://github.com/amzxyz/rime_wanxiang/releases/download/dict-nightly/rime-wanxiang-zrm-fuzhu.zip"
 
       - name: 解压到 input_dicts
         run: |
