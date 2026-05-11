@@ -11675,9 +11675,9 @@ sort: by_weight
 𩧉	guāng;mg	1
 𪇵	guǎng;ng	1
 𪕓	guāng;ug	1
-柜	guì;mj	845
+贵	guì;ba	845
 规	guī;fj	785
-贵	guì;ba	740
+柜	guì;mj	740
 归	guī;ax	712
 轨	guǐ;ij	672
 鬼	guǐ;pd	663
@@ -12000,6 +12000,7 @@ sort: by_weight
 咼	guō;kk	132
 聝	guó;eh	130
 囻	guó;km	127
+掴	guó;fg	120
 囶	guó;kt	105
 惈	guǒ;xg	97
 鈛	guō;jg	87
@@ -12019,7 +12020,6 @@ sort: by_weight
 喐	guó;ky	1
 囗	guó;aa	1
 懖	guō;xx	1
-掴	guó;fg	1
 摑	guó;fg	1
 敋	guó;wg	1
 楇	guō;mg	1
@@ -13036,10 +13036,10 @@ sort: by_weight
 哄	hǒng;kg	561
 哄	hōng;kg	477
 泓	hóng;dh	467
-紅	hóng;sg	452
 哄	hòng;kg	441
+讧	hòng;yg	430
 薨	hōng;cs	406
-讧	hòng;yg	403
+紅	hóng;sg	403
 纮	hóng;sh	390
 訇	hōng;gy	390
 闳	hóng;ms	376
@@ -14937,8 +14937,8 @@ sort: by_weight
 記	jì;yj	466
 笈	jí;vj	466
 計	jì;yu	461
-雞	jī;vx	457
 骥	jì;mg	457
+鷄	jī;nx	457
 稷	jì;hw	455
 岌	jí;uj	453
 箕	jī;vq	452
@@ -14987,6 +14987,7 @@ sort: by_weight
 罽	jì;sd	298
 伋	jí;rj	297
 齑	jī;qj	296
+雞	jī;vx	292
 其	jī;ba	292
 殛	jí;dj	291
 漈	jì;dj	287
@@ -14994,7 +14995,6 @@ sort: by_weight
 劑	jì;dq	283
 丌	jī;aa	283
 鶏	jī;nf	282
-鷄	jī;nx	278
 蕺	jí;cj	268
 姞	jí;nj	264
 飢	jī;uj	263
@@ -16711,8 +16711,8 @@ sort: by_weight
 芥	jiè;cj	565
 睫	jié;oj	545
 结	jiē;sj	539
-羯	jié;yh	524
-诫	jiè;yj	515
+诫	jiè;yj	524
+羯	jié;yh	515
 婕	jié;nj	495
 秸	jiē;hj	473
 結	jié;sj	472
@@ -26113,11 +26113,11 @@ sort: by_weight
 嗯	ňg;ke	1
 㕶	ňg;kw	1
 你	nǐ;re	911
-尼	ní;ub	740
+泥	ní;dn	740
 拟	nǐ;fy	696
 腻	nì;oe	663
-泥	ní;dn	653
-逆	nì;zn	643
+逆	nì;zn	653
+尼	ní;ub	643
 妮	nī;nn	610
 匿	nì;kr	600
 倪	ní;re	548
@@ -41427,6 +41427,7 @@ sort: by_weight
 盢	xù;mq	38
 殈	xù;dx	23
 諝	xū;yx	23
+許	xǔ;yw	19
 𫚈	xù;yy	1
 汿	xù;dy	1
 𬣙	xū;yy	1
