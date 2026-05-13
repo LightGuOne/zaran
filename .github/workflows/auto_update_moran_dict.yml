@@ -40,7 +40,7 @@ jobs:
       - name: 运行生成脚本（输出到仓库根目录）
         env:
           OUTPUT_DIR: ${{ github.workspace }}
-        run: python gen_moran_dicts.py
+        run: python tools/gen_moran_dicts.py
 
       - name: 提交所有更新文件
         uses: EndBug/add-and-commit@v9

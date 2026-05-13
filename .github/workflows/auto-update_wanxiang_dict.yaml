@@ -38,7 +38,7 @@ jobs:
       - name: 运行处理脚本（生成到 dicts/）
         run: |
           mkdir -p dicts
-          python  tools/process.py   # 或你的实际脚本名，如 duofuzhu.py
+          python  tools/process.py
 
       - name: 提交输出文件到仓库（仅 dicts/）
         uses: EndBug/add-and-commit@v10
