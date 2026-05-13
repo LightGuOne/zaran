@@ -7,12 +7,17 @@ try:
 except ImportError:
     detect_installation_paths = None
 
+# 定位到脚本自身所在目录（即 tools/），并确定模板文件夹
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(SCRIPT_DIR, 'data')          # tools/data/
+
 ## gen_chars.py 内容
 def getCharsFile(folder):
-    with open(os.path.join(folder,'moran.chars.dict.yaml'), 'w', encoding='utf-8') as outfile:
+    with open(os.path.join(folder, 'moran.chars.dict.yaml'), 'w', encoding='utf-8') as outfile:
         print('# 自動生成，請勿編輯。', file=outfile)
         print("# AUTO-GENERATED. DO NOT EDIT.", file=outfile)
-        header = open('./data/chars.dict.yaml', 'r', encoding='utf-8').read()
+        # 使用基于脚本位置的绝对路径读取模板
+        header = open(os.path.join(DATA_DIR, 'chars.dict.yaml'), 'r', encoding='utf-8').read()
         header = header.replace('YYYYmmdd', get_chars_version())
         print(header, file=outfile)
 
@@ -24,18 +29,16 @@ def getCharsFile(folder):
 
 ## gen_zrmdb.py 内容
 def getZrmdbFile(folder):
-    with open(os.path.join(folder,'zrmdb.txt'), 'w', encoding='utf-8',newline='\n') as outfile:
+    with open(os.path.join(folder, 'zrmdb.txt'), 'w', encoding='utf-8', newline='\n') as outfile:
         for (char, auxes) in aux_table.items():
             print(f'{char}\t{" ".join(auxes)}', file=outfile)
     logger.info('生成zrmdb：zrmdb.txt')
 
-
-
-
 ## gen_chaifen_filter.py 内容
 def getChaifenFile(folder):
-    with open(os.path.join(folder,'zrm_chaifen.dict.yaml'), 'w', encoding='utf-8') as outfile:
-        header = open('./data/zrm_chaifen.dict.yaml', 'r', encoding='utf-8').read()
+    with open(os.path.join(folder, 'zrm_chaifen.dict.yaml'), 'w', encoding='utf-8') as outfile:
+        # 同样使用绝对路径读取模板
+        header = open(os.path.join(DATA_DIR, 'zrm_chaifen.dict.yaml'), 'r', encoding='utf-8').read()
         header = header.replace('YYYYmmdd', get_chars_version())
         print(header, file=outfile)
         for char in all_chars:
@@ -47,17 +50,8 @@ def getChaifenFile(folder):
             print(f'{char}\t{tip}', file=outfile)
     logger.info('生成拆分表：zrm_chaifen.dict.yaml')
 
-
-# if __name__ == '__main__':
-#     folder=os.path.dirname(__file__)
-#     userFolder=detect_installation_paths()['rime_user_dir'] # 用户文件夹路径
-#     getCharsFile(userFolder)                            # 单字表保存位置
-#     getZrmdbFile(os.path.join(userFolder,'lua'))        # zrmdb保存位置
-#     getChaifenFile(os.path.join(userFolder,'other_dicts','chaifen'))
-
 if __name__ == '__main__':
-    folder = os.path.dirname(__file__)
-    # 优先使用环境变量（CI 环境），否则使用本地检测
+    # 优先使用环境变量 OUTPUT_DIR（CI 环境），否则自动检测小狼毫路径
     userFolder = os.environ.get('OUTPUT_DIR')
     if not userFolder:
         if detect_installation_paths is None:
