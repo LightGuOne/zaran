@@ -21,6 +21,7 @@ jobs:
           mkdir -p tools/data
           wget -O tools/data/chars.txt "https://github.com/rimeinn/rime-moran/blob/main/tools/data/chars.txt?raw=true"
           wget -O tools/data/moran_chai.txt "https://github.com/rimeinn/rime-moran/blob/main/tools/data/moran_chai.txt?raw=true"
+          wget -O moran_fixed_simp.dict.yaml "https://github.com/rimeinn/rime-moran/blob/main/moran_fixed_simp.dict.yaml?raw=true"
 
       - name: 设置 Python 环境
         uses: actions/setup-python@v5
@@ -46,12 +47,12 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: |
+            moran_fixed_simp.dict.yaml
             tools/data/chars.txt
             tools/data/moran_chai.txt
             moran.chars.dict.yaml
             lua/zrmdb.txt
             other_dicts/chaifen/zrm_chaifen.dict.yaml
-          message: 'chore: 周日自动更新词典文件 [skip ci]'
-          default_author: github_actions
+          message: 'ci: 同步moran词库'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
