@@ -2,7 +2,7 @@
 -- Synopsis: 適用於魔然方案默認模式的按鍵處理器
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.5.0
+-- Version: 0.5.1
 
 -- 主要功能：
 -- 1. 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
@@ -11,6 +11,7 @@
 -- 4. shorthand 略碼
 
 -- ChangeLog:
+--  0.5.1: 優化快捷鍵 consume 邏輯
 --  0.5.0: 重構強制切分，增加 4單字-2 => 3-3 規則
 --  0.4.4: 允許 Ctrl+L 拆開四碼
 --  0.4.3: 修復 Ctrl+L 的單字判別條件
@@ -27,6 +28,39 @@ local moran = require("moran")
 local kReject = 0
 local kAccepted = 1
 local kNoop = 2
+local kConsumingNoop = 3  -- 只要有候選窗，就不應該把快捷鍵傳遞給下層程序
+
+-- 新增：按下 Shift+Shift_L 时选择第三个候选
+local function select_third_candidate_processor(key_event, env)
+    -- 检测组合键 Shift+Shift_L
+    if key_event:repr() ~= env.third_candidate_key then
+        return kNoop
+    end
+    local context = env.engine.context
+    -- 2. 输入长度限制：严格匹配 2~3 个小写字母（不可含分隔符等）
+    local input = context.input
+    if not (input:match("^[a-z][a-z][a-z]?$") or input == "V") then
+        return kNoop
+    end
+    local composition = context.composition
+    if composition:empty() then
+        return kNoop
+    end
+    local segment = composition:back()
+    local menu = segment.menu
+    local page_size = env.engine.schema.page_size
+    local candidate_count = menu:prepare(page_size)
+    -- 至少有3个候选时才选择第3个（索引2）
+    if candidate_count >= 3 then
+        context:select(2)
+        return kAccepted
+    elseif candidate_count > 0 then
+        -- 不足3个时选择最后一个（可选行为，可按需调整）
+        context:select(candidate_count - 1)
+        return kAccepted
+    end
+    return kNoop
+end
 
 local function semicolon_processor(key_event, env)
     local context = env.engine.context
@@ -105,10 +139,13 @@ local function steal_auxcode_processor(key_event, env)
     local segmentation = composition:toSegmentation()
     local segs = segmentation:get_segments()
     local n = #segs
-    if n <= 1 then
+    if n == 0 then
         return kNoop
+    elseif n == 1 then
+        return kConsumingNoop
     end
 
+    -- n >= 2
     local stealer = segs[n]
     local stealee = segs[n-1]
     if stealee:has_tag("_moran_stealee") then
@@ -117,12 +154,12 @@ local function steal_auxcode_processor(key_event, env)
         return kAccepted
     end
     if not (stealee.status == 'kSelected' or stealee.status == 'kConfirmed') then
-        return kNoop
+        return kConsumingNoop
     end
     local stealee_cand = stealee:get_selected_candidate()
     local auxcode = stealee_cand.preedit:match("[a-z][a-z][a-z]?([a-z])$")
     if not auxcode then
-        return kNoop
+        return kConsumingNoop
     end
     ctx.input = ctx.input:sub(1, stealer._start) .. auxcode .. ctx.input:sub(stealer._start + 1)
     stealee.tags = stealee.tags + Set({"_moran_stealee"})
@@ -178,12 +215,11 @@ local function force_segmentation_processor(key_event, env)
 
     local ctx = env.engine.context
     local input = ctx.input:sub(seg._start + 1, seg._end)
-    -- local preedit = cand.preedit
     local raw = input:gsub("'", "")  -- 不帶 ' 分隔符的輸入
     local patterns = SEGMENTATION_PATTERNS[#raw]
 
     if patterns == nil then
-        return kNoop
+        return kConsumingNoop
     end
     local subst = nil
     for _, pattern in ipairs(patterns) do
@@ -194,7 +230,7 @@ local function force_segmentation_processor(key_event, env)
         end
     end
     if subst == nil then
-        return kNoop
+        return kConsumingNoop
     end
 
     local head = ctx.input:sub(1, seg._start)
@@ -262,7 +298,9 @@ end
 
 return {
     init = function(env)
+        env.third_candidate_key = env.engine.schema.config:get_string("moran/third_candidate_key") or "Shift+Shift_L"
         env.processors = {
+            select_third_candidate_processor,   -- 新增，优先级最高
             semicolon_processor,
             force_segmentation_processor,
             steal_auxcode_processor,
@@ -281,12 +319,19 @@ return {
             return kNoop
         end
 
+        local should_consume = false
         for _, processor in pairs(env.processors) do
             local res = processor(key_event, env)
             if res == kAccepted or res == kRejected then
                 return res
+            elseif res == kConsumingNoop then
+                should_consume = true
             end
         end
+        if key_event:ctrl() and should_consume then
+            return kAccepted
+        end
+
         return kNoop
     end
 }

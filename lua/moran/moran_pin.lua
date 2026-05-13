@@ -452,7 +452,8 @@ function pin_filter.func(t_input, env)
             return a.commits > b.commits
         end)
         for _, unpacked in ipairs(commits) do
-            local cand = Candidate("pinned", segment._start, segment._end, unpacked.phrase, env.indicator)
+            -- local cand = Candidate("pinned", segment._start, segment._end, unpacked.phrase, env.indicator)
+            local cand = Candidate("pinned", segment._start, segment._end, unpacked.phrase, "")
             cand.preedit = input
             yield(cand)
         end
@@ -594,9 +595,9 @@ function panacea_translator.func(input, seg, env)
         local comment = "➕" .. env.indicator
         if env.freestyle then
             if env.freestyle_state then
-                comment = "完成加词" .. comment
+                comment = "完成加詞" .. comment
             else
-                comment = "开始加词" .. comment
+                comment = "開始加詞" .. comment
             end
         end
         local tip_cand = Candidate("pin_tip", 0, #match, "", comment)
