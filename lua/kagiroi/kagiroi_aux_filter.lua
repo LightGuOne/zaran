@@ -53,14 +53,18 @@ end
 ---@param env table
 local function func(t_input, env)
     local auxcode = env.engine.context.input:match("`(.*)$")
+    local seg = env.engine.context.composition:back()
+    local kagiroi_tag=env.engine.schema.config:get_string('kagiroi/tag') or "kagiroi"
+    local is_kagiroi = seg and seg:has_tag(kagiroi_tag)
 
-    if not env.enabled or not auxcode then
+    if (env.name_space == 'reverse' and not is_kagiroi) or not env.enabled or not auxcode then
         for candidate in t_input:iter() do
             yield(candidate)
         end
         return
     end
 
+    -- 否则只输出匹配辅助码的候选
     for candidate in t_input:iter() do
         if candidate_match(env.aux_table, candidate, auxcode) then
             yield(candidate)
