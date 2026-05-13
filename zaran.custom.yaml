@@ -7,34 +7,36 @@ patch:
 
 
   engine/processors/@before 2: lua_processor@*kagiroi/kagiroi_kana_speller  # 需要在key_binder后面
-  engine/segmentors/@before 2: lua_segmentor@*mylua.paired_punct    #成对符号
+  engine/segmentors/@before 2: lua_segmentor@*mylua.paired_punct            # 成对符号
   engine/segmentors/@before 3: affix_segmentor@kagiroi                      # 需要在abc_segmentor前面
   engine/segmentors/@before 4: affix_segmentor@reverse_wanxiang
   engine/translators/+:
     - reverse_lookup_translator@reverse_wanxiang   # 反查
-    - lua_translator@*mylua.mixed_V
-    - lua_translator@*unicode             # Unicode
+    - lua_translator@*mylua.mixed_V                # 混合V
+    - lua_translator@*unicode                      # Unicode
     - lua_translator@*kagiroi/kagiroi_translator
-  # engine/filters/@before 1: lua_filter@*kagiroi/kagiroi_aux_filter  # 辅筛
-  # engine/filters/@before 7: lua_filter@*mylua/info_comment          # 调试用
+  engine/filters/@before 1: lua_filter@*kagiroi/kagiroi_aux_filter@reverse  # kagiroi辅筛
 
 
   key_binder/bindings/+:
-    # - { match: "^V.+", accept: "KP_Enter", send_sequence: '{space}' }           # 空格上屏
-    - { match: "^[a-z]{2,3}", accept: "Shift+Shift_L", send_sequence: 3 }           # 有候选时三选
-    # - { when: composing, accept: "space", send_sequence: '{Return}l/' } 
-    - { when: has_menu, accept: Control+Shift+G, toggle: inflexible }        # 魔然固词开关
+    - { when: has_menu, accept: Control+Shift+G, toggle: inflexible }               # 魔然固词开关
     - { when: composing, accept: "Control+g", toggle: extended_charset }            # 大小字符集
     - { when: has_menu, accept: "Control+s", toggle: tone_display }                 # 拼音显示
-    - { when: has_menu, accept: "Control+b", toggle: fuzhu_hint }                 # 拼音显示
-    - { when: has_menu, accept: "Control+Shift+B", toggle: chaifen_switch }               # 补全信息开关
+    - { when: has_menu, accept: "Control+b", toggle: chaifen_switch }               # 补全信息开关
+    - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }             # 切换用字标准 
+    - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_opencc }    # 切换用字标准 
+    # - { match: "^[a-z]{2,3}", accept: "Shift+Shift_L", send_sequence: 3 }           # 有候选时三选
+    # - { match: "^V.+", accept: "KP_Enter", send_sequence: '{space}' }           # 空格上屏
+    # - { when: composing, accept: "space", send_sequence: '{Return}l/' } 
+    # - { when: has_menu, accept: "Control+b", toggle: fuzhu_hint }                 # 拼音显示
+    # - { when: has_menu, accept: "Control+Shift+B", toggle: chaifen_switch }               # 补全信息开关
 
 
   recognizer/patterns/+:
     reverse_wanxiang: "^olf[A-Za-z]*$"  # 反查入口
-    calculator: "^V.*$"                 # 计算器功能引导
+    mixed_V: "^V.*$"                    # 混合V
     unicode: "^U[a-f0-9]+"              # Unicode
-    kagiroi: '^(?:ok|\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC)(?:\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC|[a-z\-;])*$'
+    kagiroi: '^(?:ok|\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC)(?:\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC|[a-z\-;`])*$'
 
 
   reverse_wanxiang:
@@ -58,10 +60,13 @@ patch:
       __include: kagiroi:/alphabet/3_dan
     translator:
       input_mapping:
-        - xform/^(.*)n$/$1ん$/
+        - xform/^([^`]*)n$/$1ん$/
+    gikun:    # 训读
+      enable: true
+      delimiter: ";"
 
 
-  simple_comment:                     # 超级注释模块，子项配置 true 开启，false 关闭
+  simple_comment:
     candidate_length: 1               # 候选词辅助码提醒的生效长度，0为关闭  但同时清空其它，应当使用上面开关来处理
     corrector_type: "comment"         # 换一种显示类型，比如"({comment})" 
 
@@ -79,22 +84,43 @@ patch:
       d: ['『','』']
       f: ['"','"']
 
-
+  moran/quick_code_indicator: "<"
+  # 测试用
+  # engine/filters/@before 7: lua_filter@*mylua/info_comment          # 候选类型查看
+  # engine/filters/@before 7: lua_filter@*mylua/debuger
+  # moran/pin/panacea/freestyle: true
+  # moran/shorthands: true
+  # speller/auto_select: false
+  # menu/page_size: 5 
+  # moran/pin/indicator: "^"
+  # engine/processors/@before 2: lua_processor@*mylua/defer_commit      # 六四顶
   # 手机专用
   # moran/quick_code_indicator: "⚡"
-  # switches:
-  #   - options: [ comment_off, fuzhu_hint, tone_hint ]
-  #     states: [ 注释关, 辅助开, 读音开 ]
-  #   - name: ascii_punct  # 中英标点
-  #     states: [ ¥, $ ]
-  #     reset: 1
-  #   - name: full_shape
-  #     states: [ 半角🌗, 全角🌕 ]
-  #   - name: chaifen_switch
-  #     states: [拆字❌, 拆字✔] 
-  #   - name: traditionalization
-  #     states: [ 简体, 繁體 ]
-  #   - name: extended_charset
-  #     states: [ 通用, 增廣 ]
-  #   - name: inflexible
-  #     states: [ 動詞, 固詞 ]
+
+  fixed/dictionary_exclude: 
+    - 骄奢淫逸
+    - 仅适用于
+    - 江山易改，本性难移
+    - 六神不安
+    - 凤求凰
+    - 实时传输
+    - 舍本求末
+    - 说不清道不明
+    - 没啥用处
+    - 只可意会不可言传
+    - 只可意会，不可言传
+    - 你永远都无法叫醒一个装睡的人
+    - 大有文章可做
+    - 影影绰绰
+    - 晕晕沉沉
+    - 疑云重重
+    - 历尽艰辛
+    - 启动市场
+    - 下晓地理
+    - 说的也是
+    - 十大元师
+    - 恨不相逢未嫁时
+    - 遇神杀神
+    - 端茶送水
+
+

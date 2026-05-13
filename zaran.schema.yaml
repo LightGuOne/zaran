@@ -52,7 +52,7 @@ engine:
     - lua_processor@*moran.moran_processor                                    # 魔然processor
     - ascii_composer                      # 按键是否启动(Ctrl键、CapsLock键、Shift键等)
     - recognizer                          # 处理符合特定规则的输入码，如网址、反查
-    - lua_processor@*key_binder           # 绑定按键扩展能力
+    # - lua_processor@*key_binder           # 绑定按键扩展能力
     - speller                             # 拼写设定
     - punctuator                          # 标点符号
     - selector                            # 选字处理器，处理数字选字键〔可以换成别的哦〕、上、下候选定位、换页
@@ -99,7 +99,6 @@ translator:
   enable_user_dict: false   # 用户词典
   max_homographs: 5         # 最大同形簇长度
   max_homophones: 7         # 最大同音簇长度
-
 
 
 # 动词翻译器
@@ -163,28 +162,29 @@ custom_phrase:
 # 简繁切换
 traditionalize:
   option_name: traditionalization
-  opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  # opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  opencc_config: zaran_s2t.json
   tips: char                # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
   tags: [ abc, number, gregorian_to_lunar, mixed_V ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
 
+
 std_hk:
   opencc_config: t2hk.json
-  # opencc_config: s2hk.json
   option_name: std_hk
   tips: all
   tags: [abc]
 
+
 std_tw:
   opencc_config: t2tw.json
-  # opencc_config: s2tw.json
   option_name: std_tw
   tips: all
   tags: [abc]
-  
+
+
 # 标点符号
 punctuator:
-  digit_separator_action: "commit"
-  __include: default:/punctuator
+  import_preset: default
 
 
 # 处理符合特定规则的输入码，如网址、反查
@@ -208,6 +208,7 @@ key_binder:
   import_preset: default    # 从 default.yaml 继承通用的
   bindings: 
 
+
 editor:
   bindings:
     space: confirm                        # 空格键：上屏候选项
@@ -219,20 +220,6 @@ editor:
     Control+BackSpace: back_syllable      # Ctrl+退格键：删除一个音节
     Control+Delete: delete_candidate      # Ctrl+Delete键：删除或降权候选项
     Escape: cancel                        # Esc 键：取消输入
-
-# 在边界按音节移动，在音节内部按字符移动  rewind , forward
-# 按字符移动（循环）       left_by_char , right_by_char
-# 按字符移动（不循环）     left_by_char_no_loop , right_by_char_no_loop
-# 按音节跳转（循环）       left_by_syllable , right_by_syllable
-# 按音节跳转（不循环）     left_by_syllable_no_loop , right_by_syllable_no_loop
-navigator:
-  # 在音節跳轉時，跳過音節末尾的分隔符 ' ，設爲 after_delimiter 恢復 Rime 默認行爲
-  syllable_jump_position: before_delimiter
-  bindings:
-    Left: left_by_syllable
-    Right: right_by_char
-    # Shift+Left: left_by_syllable
-    # Shift+Right: right_by_syllable
 
 
 # 拼写设定
