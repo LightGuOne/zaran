@@ -1,0 +1,57 @@
+name: 自动更新moran数据并生成词典
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'          # 每周日 00:00 UTC 执行
+  workflow_dispatch:            # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 下载最新 chars.txt 和 moran_chai.txt
+        run: |
+          mkdir -p tools/data
+          wget -O tools/data/chars.txt "https://github.com/rimeinn/rime-moran/blob/main/tools/data/chars.txt?raw=true"
+          wget -O tools/data/moran_chai.txt "https://github.com/rimeinn/rime-moran/blob/main/tools/data/moran_chai.txt?raw=true"
+
+      - name: 设置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装 Python 依赖
+        run: |
+          pip install loguru tqdm
+          # 若仓库还需其他依赖（如 weasel），请在此补充。但 CI 环境下不会调用 weasel，可不装。
+
+      - name: 创建输出子目录（确保目标路径存在）
+        run: |
+          mkdir -p lua
+          mkdir -p other_dicts/chaifen
+
+      - name: 运行生成脚本（输出到仓库根目录）
+        env:
+          OUTPUT_DIR: ${{ github.workspace }}
+        run: python gen_moran_dicts.py
+
+      - name: 提交所有更新文件
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: |
+            tools/data/chars.txt
+            tools/data/moran_chai.txt
+            moran.chars.dict.yaml
+            lua/zrmdb.txt
+            other_dicts/chaifen/zrm_chaifen.dict.yaml
+          message: 'chore: 周日自动更新词典文件 [skip ci]'
+          default_author: github_actions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
