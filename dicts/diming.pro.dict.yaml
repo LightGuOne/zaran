@@ -5187,7 +5187,7 @@ sort: by_weight
 高增乡	gāo;wk zēng;tc xiāng;ap	1
 高闸镇	gāo;wk zhá;mj zhèn;jv	1
 高寨镇	gāo;wk zhài;mb zhèn;jv	1
-高知县	gāo;wk zhì;ku xiàn;sq	235
+高知县	gāo;wk zhī;ku xiàn;sq	235
 高州市	gāo;wk zhōu;id shì;wj	664
 高州县	gāo;wk zhōu;id xiàn;sq	82
 高洲乡	gāo;wk zhōu;dv xiāng;ap	1
@@ -9686,7 +9686,7 @@ sort: by_weight
 礼安镇	lǐ;ug ān;bn zhèn;jv	1
 李岙村	lǐ;mz ào;uy cūn;mc	185
 李坝村	lǐ;mz bà;tb cūn;mc	133
-篱笆镇	lí;vl bā;vb zhèn;jv	1
+篱笆镇	lí;vl ba;vb zhèn;jv	1
 里坝镇	lǐ;aa bà;tb zhèn;jv	1
 黎坝镇	lí;hu bà;tb zhèn;jv	1
 李堡村	lǐ;mz bǎo;tb cūn;mc	145
@@ -13061,7 +13061,7 @@ sort: by_weight
 能仁乡	néng;sb rén;re xiāng;ap	1
 尼傲乡	ní;ub ào;ra xiāng;ap	1
 尼巴村	ní;ub bā;ag cūn;mc	113
-泥巴乡	ní;dn bā;ag xiāng;ap	1
+泥巴乡	ní;dn ba;ag xiāng;ap	1
 坭坝乡	ní;tn bà;tb xiāng;ap	1
 尼巴镇	ní;ub bā;ag zhèn;jv	1
 坭陂镇	ní;tn bēi;ep zhèn;jv	1
@@ -33183,9 +33183,6 @@ sort: by_weight
 阁老峪村	gé;mg lǎo;lb yù;ug cūn;mc	1
 革勒车乡	gé;ca lè;lg chē;aa xiāng;ap	1
 革勒车镇	gé;ca lè;lg chē;aa zhèn;jv	1
-歌乐山村	gē;qg lè;pd shān;aa cūn;mc	1
-歌乐山镇	gē;qg lè;pd shān;aa zhèn;jv	1
-歌乐沱乡	gē;qg lè;pd tuó;dt xiāng;ap	1
 格里坪镇	gé;mg lǐ;aa píng;tp zhèn;jv	1
 葛礼瓦镇	gé;ch lǐ;ug wǎ;ad zhèn;jv	1
 格林街道	gé;mg lín;mm jiē;xg dào;zu	1
@@ -33239,6 +33236,9 @@ sort: by_weight
 隔洋塘村	gé;eg yáng;dy táng;tt cūn;mc	1
 葛崾岘乡	gé;ch yǎo;uy xiàn;uj xiāng;ap	1
 葛渔城镇	gé;ch yú;dy chéng;ti zhèn;jv	1
+歌乐山村	gē;qg yuè;pd shān;aa cūn;mc	1
+歌乐山镇	gē;qg yuè;pd shān;aa zhèn;jv	1
+歌乐沱乡	gē;qg yuè;pd tuó;dt xiāng;ap	1
 革镇堡镇	gé;ca zhèn;jv bǎo;tb zhèn;jv	1
 圪针梁村	gē;tq zhēn;ju liáng;md cūn;mc	1
 格针庙村	gé;mg zhēn;ju miào;gy cūn;mc	1
@@ -65262,13 +65262,13 @@ sort: by_weight
 高寨子街道	gāo;wk zhài;mb zi;aa jiē;xg dào;zu	1
 葛店开发区	gé;ch diàn;gv kāi;ac fā;ay qū;ki	1
 葛家满族乡	gé;ch jiā;bu mǎn;dl zú;fu xiāng;ap	1
-歌乐山街道	gē;qg lè;pd shān;aa jiē;xg dào;zu	1
 格球山农场	gé;mg qiú;wq shān;aa nóng;by chǎng;ty	1
 格日僧苏木	gé;mg rì;aa sēng;rc sū;cb mù;ad
 各苏木乡镇	gè;wk sū;cb mù;ad xiāng;ap zhèn;jv	1
 各塔埠街道	gè;wk tǎ;td bù;tf jiē;xg dào;zu	1
 各乡镇街道	gè;wk xiāng;ap zhèn;jv jiē;xg dào;zu	1
 革新街街道	gé;ca xīn;jq jiē;xg jiē;xg dào;zu	1
+歌乐山街道	gē;qg yuè;pd shān;aa jiē;xg dào;zu	1
 革镇堡街道	gé;ca zhèn;jv bǎo;tb jiē;xg dào;zu	1
 葛洲坝街道	gé;ch zhōu;dv bà;tb jiē;xg dào;zu	1
 根德营子乡	gēn;mg dé;xx yíng;cl zi;aa xiāng;ap	1
