@@ -469,8 +469,8 @@ sort: by_weight
 安仁乡	ān;bn rén;re xiāng;ap	1
 安仁镇	ān;bn rén;re zhèn;jv	324
 安荣乡	ān;bn róng;cm xiāng;ap	1
-安塞区	ān;bn sāi;tb qū;ki	154
-安塞县	ān;bn sāi;tb xiàn;sq	174
+安塞区	ān;bn sài;tb qū;ki	154
+安塞县	ān;bn sài;tb xiàn;sq	174
 安砂镇	ān;bn shā;uu zhèn;jv	1
 安沙镇	ān;bn shā;du zhèn;jv	1
 安山乡	ān;bn shān;aa xiāng;ap	1
@@ -884,6 +884,7 @@ sort: by_weight
 百省乡	bǎi;ab shěng;ou xiāng;ap	1
 百胜镇	bǎi;ab shèng;ou zhèn;jv	1
 白石村	bái;pa shí;kp cūn;mc	341
+百石角	bǎi;ab shí;kp jiǎo;dy	99
 白石乡	bái;pa shí;kp xiāng;ap	215
 白什乡	bái;pa shí;ru xiāng;ap	1
 白石镇	bái;pa shí;kp zhèn;jv	325
@@ -17745,7 +17746,6 @@ sort: by_weight
 万春镇	wàn;ag chūn;of zhèn;jv	100
 万村乡	wàn;ag cūn;mc xiāng;ap	1
 万丹乡	wàn;ag dān;pd xiāng;ap	1
-万石镇	wàn;ag dàn;kp zhèn;jv	1
 万德镇	wàn;ag dé;xx zhèn;jv	470
 万堤镇	wàn;ag dī;tu zhèn;jv	1
 万第镇	wàn;ag dì;vp zhèn;jv	1
@@ -17804,6 +17804,7 @@ sort: by_weight
 万山镇	wàn;ag shān;aa zhèn;jv	1
 万善镇	wàn;ag shàn;kq zhèn;jv	1
 万胜镇	wàn;ag shèng;ou zhèn;jv	1
+万石镇	wàn;ag shí;kp zhèn;jv	1
 万市镇	wàn;ag shì;wj zhèn;jv	1
 万寿村	wàn;ag shòu;cf cūn;mc	100
 万寿镇	wàn;ag shòu;cf zhèn;jv	1
@@ -29095,7 +29096,6 @@ sort: by_weight
 丹东街道	dān;pd dōng;ad jiē;xg dào;zu	1
 丹都街道	dān;pd dōu;ev jiē;xg dào;zu	1
 丹凤街道	dān;pd fèng;jy jiē;xg dào;zu	1
-石谷寺村	dàn;kp gǔ;bk sì;ct cūn;mc	1
 丹桂街道	dān;pd guì;mg jiē;xg dào;zu	1
 丹河街道	dān;pd hé;dk jiē;xg dào;zu	1
 淡家沟村	dàn;dy jiā;bu gōu;dg cūn;mc	1
@@ -49708,6 +49708,7 @@ sort: by_weight
 石鼓沟村	shí;kp gǔ;vd gōu;dg cūn;mc	1
 石鼓河村	shí;kp gǔ;vd hé;dk cūn;mc	1
 尸骨还乡	shī;ap gǔ;go huán;zb xiāng;ap	1
+石谷寺村	shí;kp gǔ;bk sì;ct cūn;mc	1
 石牯塘镇	shí;kp gǔ;ng táng;tt zhèn;jv	1
 石鼓西村	shí;kp gǔ;vd xī;aa cūn;mc	1
 石崮新村	shí;kp gù;ug xīn;jq cūn;mc	1
@@ -53383,7 +53384,6 @@ sort: by_weight
 万昌店村	wàn;ag chāng;oo diàn;gv cūn;mc	1
 万春街道	wàn;ag chūn;of jiē;xg dào;zu	1
 万村千乡	wàn;ag cūn;mc qiān;pa xiāng;ap	1
-万石坑村	wàn;ag dàn;kp kēng;tk cūn;mc	1
 万德号村	wàn;ag dé;xx hào;kk cūn;mc	1
 万德街道	wàn;ag dé;xx jiē;xg dào;zu	1
 万德新村	wàn;ag dé;xx xīn;jq cūn;mc	1
@@ -53495,6 +53495,7 @@ sort: by_weight
 万盛街道	wàn;ag shèng;mi jiē;xg dào;zu	1
 万盛山庄	wàn;ag shèng;mi shān;aa zhuāng;gt	1
 万胜永乡	wàn;ag shèng;ou yǒng;dd xiāng;ap	1
+万石坑村	wàn;ag shí;kp kēng;tk cūn;mc	1
 万仕桥村	wàn;ag shì;ru qiáo;mq cūn;mc	1
 万寿街道	wàn;ag shòu;cf jiē;xg dào;zu	1
 万寿桥村	wàn;ag shòu;cf qiáo;mq cūn;mc	1
@@ -60516,8 +60517,6 @@ sort: by_weight
 一间房村	yì;aa jiān;mo fáng;hf cūn;mc	1
 一建新村	yī;aa jiàn;zy xīn;jq cūn;mc	1
 一街新村	yī;aa jiē;xg xīn;jq cūn;mc	1
-衣锦过乡	yì;dd jǐn;jb guò;zc xiāng;ap	1
-衣锦还乡	yì;dd jǐn;jb huán;zb xiāng;ap	1
 以金佐镇	yǐ;rd jīn;ra zuǒ;rz zhèn;jv	1
 义井街道	yì;id jǐng;aa jiē;xg dào;zu	1
 怡景新村	yí;xt jǐng;oj xīn;jq cūn;mc	1
@@ -70664,7 +70663,7 @@ sort: by_weight
 音河达斡尔鄂温克民族乡	yīn;lo hé;dk dá;zd wò;ud ěr;dx è;ee wēn;dm kè;eg mín;ag zú;fu xiāng;ap	1
 永吉经济开发区特殊乡镇	yǒng;dd jí;ku jīng;sg jì;dq kāi;ac fā;ay qū;ki tè;ns shū;dv xiāng;ap zhèn;jv	1
 豫东综合物流产业聚集区	yù;yx dōng;ad zōng;sz hé;rk wù;nw liú;di chǎn;wi yè;aa jù;ed jí;vm qū;ki	1
-原平市石豹沟煤矿工矿区	yuán;ix píng;aa shì;wj dàn;kp bào;vu gōu;dg méi;hm kuàng;ug gōng;aa kuàng;ug qū;ki	1
+原平市石豹沟煤矿工矿区	yuán;ix píng;aa shì;wj shí;kp bào;vu gōu;dg méi;hm kuàng;ug gōng;aa kuàng;ug qū;ki	1
 月亮河彝族布依族苗族乡	yuè;pa liàng;wj hé;dk yí;jc zú;fu bù;ju yī;ry zú;fu miáo;ct zú;fu xiāng;ap	1
 云南省嵩明职业教育基地	yún;es nán;ua shěng;ou sōng;ug míng;oo zhí;ev yè;aa jiào;wx yù;os jī;tq dì;ty	1
 湛江市坡头区官渡工业园	zhàn;du jiāng;dg shì;wj pō;tp tóu;dd qū;ki guān;bg dù;dd gōng;aa yè;aa yuán;ky	1
