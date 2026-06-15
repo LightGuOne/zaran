@@ -14860,8 +14860,8 @@ sort: by_weight
 𫙇	huò;gd	1
 嚄	huō;kh	1
 锪	huō;jh	1
-即	jí;eg	289489
-及	jí;nd	117088
+及	jí;nd	289489
+即	jí;eg	117088
 既	jì;gg	16948
 计	jì;yu	5508
 急	jí;xi	5397
@@ -18688,7 +18688,7 @@ sort: by_weight
 磡	kàn;uk	364
 崁	kàn;uk	328
 戡	kān;gu	295
-栞	kān;mj	266
+栞	kān;mg	266
 衎	kàn;xg	239
 嵌	kǎn;uq	227
 冚	kǎn;bu	194
@@ -37774,6 +37774,7 @@ sort: by_weight
 桅	wéi;mw	14
 偎	wēi;rw	13
 诿	wěi;yw	12
+闱	wéi;mw	12
 維	wéi;sv	10
 謂	wèi;yw	9
 梶	wěi;mw	8
@@ -37785,7 +37786,6 @@ sort: by_weight
 衞	wèi;xb	2
 囗	wéi;aa	1
 嵬	wéi;ug	1
-闱	wéi;mw	1
 艉	wěi;vw	1
 逶	wēi;zw	1
 涠	wéi;dw	1
@@ -39665,11 +39665,13 @@ sort: by_weight
 藓	xiǎn;cx	68
 氙	xiān;qu	64
 舷	xián;vx	60
+缐	xiàn;sq	51
 鮮	xiān;yy	47
 苋	xiàn;cj	42
 岘	xiàn;uj	38
 蚬	xiǎn;ij	36
 県	xiàn;ox	31
+綫	xiàn;sj	31
 線	xiàn;sq	29
 冼	xiǎn;dx	27
 霰	xiàn;ys	25
@@ -39694,7 +39696,6 @@ sort: by_weight
 鹇	xián;nx	1
 僊	xiān;rs	1
 纖	xiān;sg	1
-綫	xiàn;sj	1
 燹	xiǎn;hu	1
 顕	xiǎn;yx	1
 筅	xiǎn;vx	1
@@ -39706,7 +39707,6 @@ sort: by_weight
 猃	xiǎn;qa	1
 铦	xiān;ju	1
 鱻	xiān;yy	1
-缐	xiàn;sq	1
 狝	xiǎn;qe	1
 銜	xián;xj	1
 廯	xiān;gx	1
@@ -50795,6 +50795,7 @@ sort: by_weight
 缵	zuǎn;sz	1222
 鑽	zuān;jz	681
 躜	zuān;zz	196
+赚	zuàn;bj	185
 纉	zuǎn;sz	105
 纘	zuǎn;sz	94
 籫	zuǎn;vz	85
