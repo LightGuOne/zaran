@@ -9,8 +9,6 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
-燃料铀	rán;hr liào;md yóu;jy	124
-燃料棒铀	rán;hr liào;md bàng;mf yóu;jy	144
 阿巴科群岛	ā;ek bā;ag kē;hd qún;yj dǎo;nu	100
 阿贝比长仪	ā;ek bèi;ad bǐ;bb cháng;pd yí;ry	100
 阿贝不变量	ā;ek bèi;ad bú;ad biàn;wy liàng;ol	100
@@ -4457,7 +4455,7 @@ sort: by_weight
 波利尼西亚	bō;dp lì;hd ní;ub xī;aa yà;ay	100
 剥离粘结性	bō;dl lí;ws nián;mv jié;sj xìng;xu	100
 玻璃体变性	bō;wp li;wl tǐ;rb biàn;wy xìng;xu	100
-玻璃体混浊	bō;wp li;wl tǐ;rb hún;dk zhuó;di	100
+玻璃体混浊	bō;wp li;wl tǐ;rb hùn;dk zhuó;di	100
 玻璃体机化	bō;wp li;wl tǐ;rb jī;mj huà;rb	100
 玻璃体疾患	bō;wp li;wl tǐ;rb jí;bu huàn;xi	100
 玻璃体积血	bō;wp li;wl tǐ;rb jī;hv xuè;pa	100
@@ -11944,7 +11942,7 @@ sort: by_weight
 倒摩尔定律	dào;rd mó;um ěr;dx dìng;bp lǜ;xy	100
 到某种程度	dào;dv mǒu;mg zhǒng;hv chéng;hi dù;gy	100
 盗墓笔记里	dào;mc mù;tm bǐ;vm jì;yj lǐ;aa	100
-到目的地后	dào;dv mù;aa di;bu dì;ty hòu;pk	100
+到目的地后	dào;dv mù;aa dì;bu dì;ty hòu;pk	100
 到目前为止	dào;dv mù;aa qián;qd wéi;dd zhǐ;aa	100
 到你的城市	dào;dv nǐ;re de;bu chéng;ti shì;wj	100
 到奴役之路	dào;dv nú;ny yì;xu zhī;dd lù;zg	100
@@ -20058,6 +20056,7 @@ sort: by_weight
 赋予的权利	fù;bw yǔ;sa de;bu quán;my lì;hd	100
 馥郁的香气	fù;xf yù;ey de;bu xiāng;ho qì;py	100
 馥郁滇丁香	fù;xf yù;ey diān;dv dīng;aa xiāng;ho	100
+夫宇淀粉肠	fū;ad yǔ;by diàn;dd fěn;mf cháng;oy	100
 富余劳动力	fù;bf yú;rb láo;lb dòng;ly lì;gp	100
 赋予了生命	fù;bw yǔ;sa le;aa shēng;na mìng;re	100
 付与他人可	fù;rc yǔ;aa tā;ry rén;pd kě;dk	100
@@ -21751,8 +21750,6 @@ sort: by_weight
 各学校教师	gè;wk xué;zb xiào;mj jiào;wx shī;ab	100
 个沿海省份	gè;ra yán;dk hǎi;dm shěng;ou fèn;rf	100
 歌谣大祝祭	gē;qg yáo;yf dà;ad zhù;ux jì;uy	100
-革叶华蟹甲	gé;ca yè;ku huá;uh xiè;ij jiǎ;aa	100
-革叶马兜铃	gé;ca yè;ku mǎ;aa dōu;ek líng;jl	100
 各业务部室	gè;wk yè;aa wù;wl bù;ek shì;bv	100
 各业务条线	gè;wk yè;aa wù;wl tiáo;wm xiàn;sj	100
 各医疗单位	gè;wk yī;ku liáo;bl dān;ba wèi;rl	100
@@ -29536,7 +29533,7 @@ sort: by_weight
 混元霹雳手	hùn;dk yuán;aw pī;yb lì;yl shǒu;pa	100
 浑浊的空气	hún;dj zhuó;di de;bu kōng;xg qì;py	100
 浑浊的眼睛	hún;dj zhuó;di de;bu yǎn;og jing;oq	100
-混浊噬菌斑	hún;dk zhuó;di shì;ku jūn;ch bān;ww	100
+混浊噬菌斑	hùn;dk zhuó;di shì;ku jūn;ch bān;ww	100
 豁埃马阑勒	huō;gh āi;tu mǎ;aa lán;mj lè;lg	100
 火拔颉利发	huǒ;dd bá;fb jié;yj lì;hd fā;ay	100
 伙伴倡自强	huǒ;rh bàn;rb chàng;ri zì;pa qiáng;gs	100
@@ -35544,7 +35541,7 @@ sort: by_weight
 晶状白内障	jīng;oo zhuàng;qp bái;pa nèi;ad zhàng;ev	100
 晶状体赤道	jīng;oo zhuàng;qp tǐ;rb chì;tb dào;zu	100
 晶状体后极	jīng;oo zhuàng;qp tǐ;rb hòu;pk jí;mj	100
-晶状体混浊	jīng;oo zhuàng;qp tǐ;rb hún;dk zhuó;di	100
+晶状体混浊	jīng;oo zhuàng;qp tǐ;rb hùn;dk zhuó;di	100
 晶状体疾患	jīng;oo zhuàng;qp tǐ;rb jí;bu huàn;xi	100
 晶状体囊膜	jīng;oo zhuàng;qp tǐ;rb náng;ay mó;om	100
 晶状体前极	jīng;oo zhuàng;qp tǐ;rb qián;qd jí;mj	100
@@ -41176,6 +41173,7 @@ sort: by_weight
 林忠四郎线	lín;mm zhōng;xv sì;aa láng;el xiàn;sj	100
 鳞柱交接部	lín;yl zhù;mv jiāo;li jiē;fq bù;ek	100
 岭澳核电站	lǐng;ul ào;da hé;mh diàn;ag zhàn;lv	100
+灵宝大法师	líng;hx bǎo;by dà;ad fǎ;dq shī;ab	21
 灵宝护心丹	líng;hx bǎo;by hù;fh xīn;dd dān;pd	100
 岭北三路站	lǐng;ul běi;ag sān;aa lù;zg zhàn;lv	100
 领鞭毛虫纲	lǐng;yl biān;gb máo;pg chóng;ad gāng;sg	100
@@ -43205,7 +43203,7 @@ sort: by_weight
 馒头窝窝头	mán;um tou;dd wō;xn wō;xn tóu;dd	100
 漫湾水电站	màn;dm wān;dw shuǐ;ad diàn;ag zhàn;lv	100
 漫威的电影	màn;dm wēi;gn de;bu diàn;ag yǐng;pj	100
-漫无目的地	màn;dm wú;ag mù;aa di;bu dì;ty	100
+漫无目的地	màn;dm wú;ag mù;aa dì;bu dì;ty	100
 满血复活了	mǎn;dl xiě;pa fù;wo huó;du le;aa	100
 满心的欢喜	mǎn;dl xīn;dd de;bu huān;qy xǐ;uk	100
 慢性病监测	màn;xm xìng;xu bìng;bb jiān;mv cè;dz	100
@@ -45420,7 +45418,7 @@ sort: by_weight
 牡丹社事件	mǔ;nt dān;pd shè;ut shì;aa jiàn;rn	100
 牡丹园西里	mǔ;nt dān;pd yuán;ky xī;aa lǐ;aa	100
 慕德家一夜	mù;xm dé;xx jiā;bu yí;aa yè;wd	100
-目的地酒吧	mù;aa di;bu dì;ty jiǔ;dy bā;kb	100
+目的地酒吧	mù;aa dì;bu dì;ty jiǔ;dy bā;kb	100
 目的和动机	mù;aa dì;bu hé;hk dòng;ly jī;mj	100
 目的和目标	mù;aa dì;bu hé;hk mù;aa biāo;mu	100
 目的和任务	mù;aa dì;bu hé;hk rèn;rr wù;wl	100
@@ -45447,6 +45445,7 @@ sort: by_weight
 幕后主使者	mù;jm hòu;pk zhǔ;dw shǐ;rl zhě;ol	100
 木花开耶姬	mù;ad huā;ch kāi;ac yé;ee jī;ni	100
 木花咲耶姬	mù;ad huā;ch xiào;kg yé;ee jī;ni	100
+穆皇后吴氏	mù;hp huáng;bw hòu;pk wú;kt shì;pg	1
 沐火村村长	mù;dm huǒ;dd cūn;mc cūn;mc zhǎng;pd	100
 木火土金水	mù;ad huǒ;dd tǔ;aa jīn;ra shuǐ;ad	100
 母鸡带小鸭	mǔ;vd jī;ny dài;jb xiǎo;ad yā;nj	100
@@ -53634,7 +53633,7 @@ sort: by_weight
 人只要拥有	rén;pd zhǐ;kb yào;xn yōng;fy yǒu;ou	100
 人质症候群	rén;pd zhì;bu zhèng;bv hòu;ru qún;yj	100
 人种地理学	rén;pd zhǒng;hv dì;ty lǐ;wl xué;zb	100
-任重而道远	rèn;rr zhòng;pa ér;aa dào;zu yuǎn;zy	100
+任重而道远	rén;rr zhòng;pa ér;aa dào;zu yuǎn;zy	100
 人种改良学	rén;pd zhǒng;hv gǎi;wj liáng;dg xué;zb	100
 人终其一生	rén;pd zhōng;sd qí;ba yì;aa shēng;na	100
 人种药理学	rén;pd zhǒng;hv yào;cy lǐ;wl xué;zb	100
@@ -56495,10 +56494,8 @@ sort: by_weight
 沈吕九方程	shěn;dg lǚ;kk jiǔ;py fāng;wd chéng;hi	100
 什么程度才	shén;ru me;ps chéng;hi dù;gy cái;ap	100
 什么东西呀	shén;ru me;ps dōng;ad xi;aa ya;ky	100
-什么都不干	shén;ru me;ps dōu;ev bú;ad gàn;aa	100
 什么都不精	shén;ru me;ps dōu;ev bù;ad jīng;mq	100
 什么都不图	shén;ru me;ps dōu;ev bù;ad tú;kd	100
-什么都不问	shén;ru me;ps dōu;ev bú;ad wèn;km	100
 什么都没学	shén;ru me;ps dōu;ev méi;du xué;zb	100
 什么都是错	shén;ru me;ps dōu;ev shì;op cuò;jx	100
 什么反应的	shén;ru me;ps fǎn;py yìng;ga de;bu	100
@@ -58766,6 +58763,8 @@ sort: by_weight
 世茂世界湾	shì;ca mào;cw shì;ca jiè;tj wān;dw	100
 世贸中心站	shì;ca mào;bd zhōng;aa xīn;dd zhàn;lv	100
 什么都不搭	shí;ru me;ps dōu;ev bù;ad dā;fd	100
+什么都不干	shí;ru me;ps dōu;ev bú;ad gàn;aa	100
+什么都不问	shí;ru me;ps dōu;ev bú;ad wèn;km	100
 时美百服咛	shí;oc měi;dy bǎi;ab fú;oy níng;kn	100
 饰美叉丝壳	shì;uj měi;dy chā;yd sī;aa ké;uj	100
 十美分硬币	shí;aa měi;dy fēn;bd yìng;ug bì;pj	100
@@ -64377,7 +64376,7 @@ sort: by_weight
 天不从人愿	tiān;ad bù;ad cóng;rr rén;pd yuàn;xy	100
 田部井淳子	tián;aa bù;ek jǐng;aa chún;dx zǐ;aa	100
 天不生仲尼	tiān;ad bù;ad shēng;na zhòng;rv ní;ub	100
-天不遂人愿	tiān;ad bù;ad suí;zu rén;pd yuàn;xy	100
+天不遂人愿	tiān;ad bú;ad suì;zu rén;pd yuàn;xy	100
 天才的想法	tiān;ad cái;ap de;bu xiǎng;xx fǎ;dq	100
 天才第一步	tiān;ad cái;ap dì;vp yī;aa bù;vx	100
 天才电视君	tiān;ad cái;ap diàn;ag shì;ju jūn;ky	100
@@ -66624,7 +66623,7 @@ sort: by_weight
 玩忽职守罪	wán;wy hū;xw zhí;ev shǒu;bc zuì;sf	100
 万花丛中过	wàn;ag huā;ch cóng;ac zhōng;aa guò;zc	100
 弯花醉鱼木	wān;gy huā;ch zuì;yz yú;da mù;ad	100
-挽回不了的	wǎn;fm huí;kk bù;ad le;aa de;bu	100
+挽回不了的	wǎn;fm huí;kk bù;ad liǎo;aa de;bu	100
 挽回的余地	wǎn;fm huí;kk de;bu yú;rb dì;ty	100
 万辉国际城	wàn;ag huī;gj guó;ky jì;eu chéng;ti	100
 挽回男朋友	wǎn;fm huí;kk nán;tl péng;oo you;yu	100
@@ -67458,7 +67457,7 @@ sort: by_weight
 危害和平罪	wēi;de hài;bk hé;hk píng;aa zuì;sf	100
 威海刘公岛	wēi;gn hǎi;dm liú;dw gōng;sb dǎo;nu	100
 危害人类罪	wēi;de hài;bk rén;pd lèi;md zuì;sf	100
-喂孩子吃饭	wèi;kw hái;zh zǐ;aa chī;kq fàn;uf	100
+喂孩子吃饭	wèi;kw hái;zh zi;aa chī;kq fàn;uf	100
 未合并领土	wèi;ex hé;rk bìng;bk lǐng;yl tǔ;aa	100
 渭河平原带	wèi;dw hé;dk píng;aa yuán;ix dài;jb	100
 围合式布局	wéi;kw hé;rk shì;gy bù;ju jú;uk	100
@@ -70559,6 +70558,7 @@ sort: by_weight
 膝关节正位	xī;oq guān;qd jié;ce zhèng;av wèi;rl	100
 习惯性脱位	xí;ga guàn;xg xìng;xu tuō;od wèi;rl	100
 嘻哈壹笑堂	xī;kx hā;kh yī;ud xiào;vy táng;tk	100
+西汉前少帝	xī;aa hàn;dy qián;qd shǎo;xp dì;jb
 洗好的衣服	xǐ;dx hǎo;nz de;bu yī;dd fu;oy	100
 西红花多甙	xī;aa hóng;sg huā;ch duō;xx dài;yg	100
 戏红人不红	xì;yg hóng;sg rén;pd bù;ad hóng;sg	100
@@ -70572,8 +70572,8 @@ sort: by_weight
 喜欢艾米尔	xǐ;uk huan;qy ài;ci mǐ;dd ěr;dx	100
 喜欢安德鲁	xǐ;uk huan;qy ān;bn dé;xx lǔ;yo	100
 喜欢布莱德	xǐ;uk huan;qy bù;ju lái;cl dé;xx	100
-喜欢吃的菜	xǐ;uk huān;qy chī;kq de;bu cài;cc	100
-喜欢吃面食	xǐ;uk huān;qy chī;kq miàn;aa shí;rl	100
+喜欢吃的菜	xǐ;uk huan;qy chī;kq de;bu cài;cc	100
+喜欢吃面食	xǐ;uk huan;qy chī;kq miàn;aa shí;rl	100
 喜欢的老师	xǐ;uk huan;qy de;bu lǎo;lb shī;ab	100
 喜欢的美食	xǐ;uk huan;qy de;bu měi;dy shí;rl	100
 喜欢的人是	xǐ;uk huan;qy de;bu rén;pd shì;op	100
@@ -74742,7 +74742,7 @@ sort: by_weight
 性交后试验	xìng;xu jiāo;li hòu;pk shì;yu yàn;ma	100
 性交后忧郁	xìng;xu jiāo;li hòu;pk yōu;xy yù;ey	100
 兴教门之变	xīng;ba jiào;wx mén;dg zhī;dd biàn;wy	100
-性角膜混浊	xìng;xu jiǎo;dy mó;om hún;dk zhuó;di	100
+性角膜混浊	xìng;xu jiǎo;dy mó;om hùn;dk zhuó;di	100
 性角膜溃疡	xìng;xu jiǎo;dy mó;om kuì;dg yáng;by	100
 兴教寺事件	xīng;ba jiào;wx sì;ct shì;aa jiàn;rn	100
 性交中断法	xìng;xu jiāo;li zhōng;aa duàn;ja fǎ;dq	100
@@ -83844,7 +83844,7 @@ sort: by_weight
 运输与物流	yùn;zy shū;iy yǔ;aa wù;nw liú;di	100
 运算符重载	yùn;zy suàn;vc fú;vf chóng;pa zǎi;ig	100
 运算子重载	yùn;zy suàn;vc zǐ;aa zhòng;pa zài;ig	100
-芸苔素内酯	yún;cy tái;ct sù;sf nèi;ad zhǐ;yv	100
+芸薹素内酯	yún;cy tái;ct sù;sf nèi;ad zhǐ;yv	100
 运维检修部	yùn;zy wéi;sv jiǎn;ma xiū;rp bù;ek	100
 运维自动化	yùn;zy wéi;sv zì;pa dòng;ly huà;rb	100
 云县公安局	yún;es xiàn;sq gōng;sb ān;bn jú;uk	100
@@ -91489,7 +91489,6 @@ sort: by_weight
 爱泼斯坦小结	ài;vy pō;df sī;jq tǎn;td xiǎo;ad jié;sj	100
 爱泼斯坦之死	ài;vy pō;df sī;jq tǎn;td zhī;dd sǐ;db	100
 埃奇沃思框图	āi;tu qí;dk wò;dy sī;xt kuàng;mk tú;kd	100
-埃奇沃斯框图	āi;tu qí;dk wò;dy sī;jq kuàng;mk tú;kd	100
 爱情不分年龄	ài;vy qíng;xq bù;ad fēn;bd nián;ra líng;il	100
 爱情两好三坏	ài;vy qíng;xq liǎng;ad hǎo;nz sān;aa huài;tb	100
 爱情没有终点	ài;vy qíng;xq méi;du yǒu;ou zhōng;sd diǎn;hv	100
@@ -91507,8 +91506,6 @@ sort: by_weight
 爱上一匹野马	ài;vy shàng;aa yì;aa pǐ;ke yě;ly mǎ;aa	100
 爱上有妇之夫	ài;vy shàng;aa yǒu;ou fù;nx zhī;dd fū;ad	100
 爱生活的艺术	ài;vy shēng;na huó;du de;bu yì;cy shù;md	100
-矮生长蒴苣苔	ǎi;uw shēng;na zhǎng;pd shuò;co jù;cj tái;ct	100
-矮生紫背金盘	ǎi;uw shēng;na zǐ;sc bèi;ob jīn;ra pán;mv	100
 爱时代少年团	ài;vy shí;oc dài;ry shào;xp nián;ra tuán;kc	100
 爱是点点滴滴	ài;vy shì;op diǎn;hv diǎn;hv dī;dd dī;dd	100
 爱是久处不厌	ài;vy shì;op jiǔ;pd chù;wb bú;ad yàn;qi	100
@@ -91682,10 +91679,8 @@ sort: by_weight
 安德里卡猜想	ān;bn dé;xx lǐ;aa kǎ;ub cāi;qq xiǎng;xx	100
 安得列多项式	ān;bn dé;xc liè;dd duō;xx xiàng;gy shì;gy	100
 安的列斯群岛	ān;bn de;bu liè;dd sī;jq qún;yj dǎo;nu	100
-安迪基西拉岛	ān;bn dí;zy jī;tq xī;aa lā;fl dǎo;nu	100
 安蒂基西拉岛	ān;bn dì;cd jī;tq xī;aa lā;fl dǎo;nu	100
 安蒂科斯蒂岛	ān;bn dì;cd kē;hd sī;jq dì;cd dǎo;nu	100
-安地列斯群岛	ān;bn dì;ty liè;dd sī;jq qún;yj dǎo;nu	100
 安蒂特姆战役	ān;bn dì;cd tè;ns mǔ;nm zhàn;gv yì;xu	100
 按地域划分的	àn;fa dì;ty yù;th huà;dg fēn;bd de;bu	100
 氨二泥压榨机	ān;qa èr;aa ní;dn yā;id zhà;mv jī;mj	120
@@ -91896,19 +91891,14 @@ sort: by_weight
 敖特根巴特尔	áo;wd tè;ns gēn;mg bā;ag tè;ns ěr;dx	100
 奥特兰克山脉	ào;dm tè;ns lán;qe kè;eg shān;aa mài;oy	100
 奥瓦二氏现象	ào;dm wǎ;ad èr;aa shì;pg xiàn;wj xiàng;du	100
-奥硝唑葡萄糖	ào;dm xiāo;ux zuò;kz pú;cp táo;ct táng;mt	100
-奥硝唑阴道栓	ào;dm xiāo;ux zuò;kz yīn;eo dào;zu shuān;mq	100
 澳亚航空公司	ào;da yà;ay háng;vk kōng;xg gōng;sb sī;gk	100
 澳岩缝男事件	ào;da yán;uu fèng;sf nán;tl shì;aa jiàn;rn	100
 傲游云浏览器	ào;ra yóu;dz yún;es liú;dl lǎn;jv qì;kk	100
-澳洲有袋超目	ào;da zhōu;dv yǒu;ou dài;yd chāo;zv mù;aa	100
-澳洲有袋总目	ào;da zhōu;dv yǒu;ou dài;yd zǒng;xk mù;aa	100
 八八舰队计划	bā;pd bā;pd jiàn;vj duì;er jì;yu huà;dg	100
 八八式侦察机	bā;pd bā;pd shì;gy zhēn;rv chá;bj jī;mj	100
 八百万种死法	bā;pd bǎi;ab wàn;ag zhǒng;hv sǐ;db fǎ;dq	100
 把悲伤看透时	bǎ;fb bēi;xf shāng;rl kàn;ou tòu;zx shí;oc	100
 八臂哪吒项充	bā;pd bì;ob né;kn zhā;kq xiàng;gy chōng;wy	100
-巴比内补偿器	bā;ag bǐ;bb nèi;ad bǔ;yb cháng;ri qì;kk	100
 巴比涅补偿器	bā;ag bǐ;bb niè;dn bǔ;yb cháng;ri qì;kk	100
 芭比之天鹅湖	bā;cb bǐ;bb zhī;dd tiān;ad é;nw hú;dh	100
 巴宾斯基反射	bā;ag bīn;bb sī;jq jī;tq fǎn;py shè;cu	100
@@ -91924,14 +91914,10 @@ sort: by_weight
 坝道工程医院	bà;tb dào;zu gōng;aa chéng;hi yī;ku yuàn;ew	100
 霸道总裁范儿	bà;yo dào;zu zǒng;xk cái;yg fàn;ce ér;pg	100
 巴登号铁甲舰	bā;ag dēng;dd hào;kk tiě;ju jiǎ;aa jiàn;vj	100
-巴蒂二氏产钳	bā;ag dì;cd èr;aa shì;pg chǎn;wi qián;jg	100
 八点半的星光	bā;pd diǎn;hv bàn;bf de;bu xīng;ou guāng;ea	100
 八点钟的太阳	bā;pd diǎn;hv zhōng;jv de;bu tài;dd yáng;eo	100
 扒钉基本雪压	bā;fb dīng;jd jī;tq běn;aa xuě;yx yā;id	100
 八丁堀停留场	bā;pd dīng;aa kū;tq tíng;rt liú;td chǎng;ty	100
-巴恩二氏小体	bā;ag ēn;xy èr;aa shì;pg xiǎo;ad tǐ;rb	100
-巴尔比亚尼环	bā;ag ěr;dx bǐ;bb yà;ay ní;ub huán;wb	100
-巴尔干肾病变	bā;ag ěr;dx gàn;aa shèn;oy bìng;bb biàn;wy	100
 八放珊瑚亚纲	bā;pd fàng;wf shān;wc hú;wh yà;ay gāng;sg	100
 八分钟的温暖	bā;pd fēn;bd zhōng;jv de;bu wēn;dm nuǎn;oy	100
 八竿子打不着	bā;pd gān;vg zǐ;aa dǎ;fd bù;ad zháo;yo	100
@@ -92175,36 +92161,10 @@ sort: by_weight
 白胡椒粉少许	bái;pa hú;og jiāo;mu fěn;mf shǎo;xp xǔ;yw	100
 白胡椒粉适量	bái;pa hú;og jiāo;mu fěn;mf shì;zu liàng;ol	100
 白花草袋泡茶	bái;pa huā;ch cǎo;cz dài;yd pào;db chá;cm	100
-白花长白棘豆	bái;pa huā;ch cháng;pd bái;pa jí;cc dòu;aa	100
-白花重瓣木槿	bái;pa huā;ch chóng;pa bàn;gx mù;ad jǐn;mj	100
-白花大苞苣苔	bái;pa huā;ch dà;ad bāo;cb jù;cj tái;ct	100
-白花大野豌豆	bái;pa huā;ch dà;ad yě;ly wān;dw dòu;aa	100
-白花单瓣木槿	bái;pa huā;ch dān;ba bàn;gx mù;ad jǐn;mj	100
-白花东北堇菜	bái;pa huā;ch dōng;ad běi;ag jǐn;ca cài;cc	100
-白花伏地杜鹃	bái;pa huā;ch fú;rq dì;ty dù;mt juān;no	100
-白花甘青黄耆	bái;pa huā;ch gān;ca qīng;of huáng;cb qí;lo	100
 百花公园东门	bǎi;ab huā;ch gōng;sb yuán;ky dōng;ad mén;dg	100
-白花荷包牡丹	bái;pa huā;ch hé;ch bāo;gs mǔ;nt dān;pd	100
-白花黑环罂粟	bái;pa huā;ch hēi;ha huán;wb yīng;fb sù;mx	100
 白花花的大腿	bái;pa huā;ch huā;ch de;bu dà;ad tuǐ;ot	100
 白花花的一片	bái;pa huā;ch huā;ch de;bu yí;aa piàn;pa	100
-白花华山黄耆	bái;pa huā;ch huà;uh shān;aa huáng;cb qí;lo	100
-白花金盏苣苔	bái;pa huā;ch jīn;ra zhǎn;mj jù;cj tái;ct	100
-白花梨果寄生	bái;pa huā;ch lí;ml guǒ;tm jì;bq shēng;na	100
-白花卵叶杜鹃	bái;pa huā;ch luǎn;pd yè;ku dù;mt juān;no	100
-白花拟万代兰	bái;pa huā;ch nǐ;fy wàn;ag dài;ry lán;qe	100
 百花齐放运动	bǎi;ab huā;ch qí;wa fàng;wf yùn;zy dòng;ly	100
-白花前胡甲素	bái;pa huā;ch qián;qd hú;og jiǎ;aa sù;sf	100
-白花砂珍棘豆	bái;pa huā;ch shā;uu zhēn;wp jí;cc dòu;aa	100
-白花山野豌豆	bái;pa huā;ch shān;aa yě;ly wān;dw dòu;aa	100
-白花什锦丁香	bái;pa huā;ch shí;ru jǐn;jb dīng;aa xiāng;ho	100
-白花松潘乌头	bái;pa huā;ch sōng;mg pān;df wū;pa tóu;dd	100
-白滑苔黑心舌	bái;pa huá;dg tái;ct hēi;ha xīn;dd shé;kq	100
-白花西南鸢尾	bái;pa huā;ch xī;aa nán;ua yuān;ny wěi;um	100
-白花小红门兰	bái;pa huā;ch xiǎo;ad hóng;sg mén;dg lán;qe	100
-白花肖头蕊兰	bái;pa huā;ch xiāo;xo tóu;dd ruǐ;cr lán;qe	100
-白花异叶苣苔	bái;pa huā;ch yì;cs yè;ku jù;cj tái;ct	100
-白花紫苞鸢尾	bái;pa huā;ch zǐ;sc bāo;cb yuān;ny wěi;um	100
 百济复国运动	bǎi;ab jì;dq fù;wo guó;ky yùn;zy dòng;ly	100
 百佳超级市场	bǎi;ab jiā;rg chāo;zv jí;sj shì;wj chǎng;ty	100
 摆架式卸纸台	bǎi;fb jià;mj shì;gy xiè;ev zhǐ;su tái;sk	100
@@ -92560,9 +92520,6 @@ sort: by_weight
 半圆形摄谱仪	bàn;bf yuán;ky xíng;pk shè;fn pǔ;yp yí;ry	100
 半月状抱子体	bàn;bf yuè;pa zhuàng;qp bào;fb zǐ;aa tǐ;rb	100
 班哲希利公园	bān;dw zhé;kv xī;ib lì;hd gōng;sb yuán;ky	100
-斑疹伤寒腹型	bān;ww zhěn;bp shāng;rl hán;bd fù;of xíng;tx	100
-斑疹伤寒鼠型	bān;ww zhěn;bp shāng;rl hán;bd shǔ;ju xíng;tx	100
-斑疹伤寒小结	bān;ww zhěn;bp shāng;rl hán;bd xiǎo;ad jié;sj	100
 半直接民主制	bàn;bf zhí;uq jiē;fq mín;ag zhǔ;dw zhì;dg	100
 斑状变晶结构	bān;ww zhuàng;qp biàn;wy jīng;oo jié;sj gòu;mg	100
 斑状淀粉样变	bān;ww zhuàng;qp diàn;dd fěn;mf yàng;my biàn;wy	100
@@ -92597,7 +92554,6 @@ sort: by_weight
 宝安国际机场	bǎo;by ān;bn guó;ky jì;eu jī;mj chǎng;ty	100
 宝安鸿基地产	bǎo;by ān;bn hóng;nj jī;tq dì;ty chǎn;wi	100
 宝安体育中心	bǎo;by ān;bn tǐ;rb yù;os zhōng;aa xīn;dd	100
-豹斑状白癜风	bào;vu bān;ww zhuàng;qp bái;pa diàn;bd fēng;ji	100
 宝宝辅食食谱	bǎo;by bao;by fǔ;if shí;rl shí;rl pǔ;yp	100
 宝宝辅食添加	bǎo;by bao;by fǔ;if shí;rl tiān;dt jiā;lk	100
 宝宝刚出生时	bǎo;by bao;by gāng;dg chū;aa shēng;na shí;oc	100
@@ -93498,16 +93454,12 @@ sort: by_weight
 比得哥什条约	bǐ;bb de;xc gē;kd shí;ru tiáo;wm yuē;su	100
 毕德氏症候群	bì;bu dé;xx shì;pg zhèng;bv hòu;ru qún;yj	100
 逼得走投无路	bī;zf de;xc zǒu;tv tóu;fu wú;ag lù;zg	100
-吡啶偶氮萘酚	bǐ;kb dìng;kd ǒu;ry dàn;qy nài;cn fēn;yf	100
-吡啶𬭩阳离子	bǐ;kb dìng;kd wēng;jw yáng;eo lí;ws zǐ;aa	100
 鼻窦穿剌冲洗	bí;zb dòu;xm chuān;xy lá;du chōng;dv xǐ;dx	100
 鼻额部脑膨出	bí;zb é;yk bù;ek nǎo;ox péng;op chū;aa	100
 彼尔姆科米语	bǐ;xp ěr;dx mǔ;nm kē;hd mǐ;dd yǔ;yw	100
 臂肺时间测定	bì;ob fèi;of shí;oc jiān;mo cè;dz dìng;bp	100
 避风港安全套	bì;zb fēng;ji gǎng;dx ān;bn quán;rw tào;di	100
 笔凤梨苹果笔	bǐ;vm fèng;jy lí;ml píng;cp guǒ;tm bǐ;vm	100
-吡呋氨卡西林	bǐ;kb fū;kf ān;qa kǎ;ub xī;aa lín;mm	100
-吡咯并喹啉醌	bǐ;kb gē;kg bìng;bk kuí;kk lín;kl kūn;yk	100
 鼻根部脑膨出	bí;zb gēn;mg bù;ek nǎo;ox péng;op chū;aa	100
 鼻骨骨折修补	bí;zb gǔ;go gǔ;go zhé;fj xiū;rp bǔ;yb	100
 壁挂式新风机	bì;tb guà;fg shì;gy xīn;jq fēng;ji jī;mj	100
@@ -93657,7 +93609,6 @@ sort: by_weight
 编程语言列表	biān;sb chéng;hi yǔ;yw yán;wk liè;dd biǎo;fy	100
 编程语言语义	biān;sb chéng;hi yǔ;yw yán;wk yǔ;yw yì;id	100
 鞭笞者苏萨斯	biān;gb chī;vt zhě;ol sū;cb sà;ci sī;jq	100
-扁虫动物总门	biǎn;hc chóng;ad dòng;ly wù;nw zǒng;xk mén;dg	100
 边带不稳定性	biān;zl dài;jb bù;ad wěn;hj dìng;bp xìng;xu	100
 编导艺考培训	biān;sb dǎo;cs yì;cy kǎo;lk péi;tk xùn;yi	100
 变得成熟稳重	biàn;wy de;xc chéng;gg shú;hu wěn;hj zhòng;pa	100
@@ -93829,7 +93780,7 @@ sort: by_weight
 表现主义音乐	biǎo;fy xiàn;wj zhǔ;dw yì;id yīn;lo yuè;pd	100
 表现主义作家	biǎo;fy xiàn;wj zhǔ;dw yì;id zuò;rv jiā;bu	100
 表现主义作品	biǎo;fy xiàn;wj zhǔ;dw yì;id zuò;rv pǐn;kk	100
-表芸苔素内酯	biǎo;fy yún;cy tái;ct sù;sf nèi;ad zhǐ;yv	100
+表芸薹素内酯	biǎo;fy yún;cy tái;ct sù;sf nèi;ad zhǐ;yv	100
 表彰先进典型	biǎo;fy zhāng;pv xiān;ne jìn;zj diǎn;ba xíng;tx	100
 标志性的建筑	biāo;mu zhì;xu xìng;xu de;bu jiàn;zy zhù;vg	100
 标志性的笑容	biāo;mu zhì;xu xìng;xu de;bu xiào;vy róng;bg	100
@@ -93978,12 +93929,6 @@ sort: by_weight
 丙级低重要度	bǐng;an jí;sj dī;rd zhòng;pa yào;xn dù;gy	100
 丙级高重要度	bǐng;an jí;sj gāo;wk zhòng;pa yào;xn dù;gy	100
 冰激凌烤布丁	bīng;du jī;dj líng;dl kǎo;hk bù;ju dīng;aa	100
-冰激凌烤补丁	bīng;du jī;dj líng;dl kǎo;hk bǔ;yb dīng;aa	100
-丙基巯脲嘧啶	bǐng;an jī;tq qiú;ai niào;on mì;km dìng;kd	100
-丙基去氧尼苷	bǐng;an jī;tq qù;ts yǎng;qy ní;ub gān;cg	100
-丙基去氧尿苷	bǐng;an jī;tq qù;ts yǎng;qy niào;uu gān;cg	100
-丙基脱氧尿苷	bǐng;an jī;tq tuō;od yǎng;qy niào;uu gān;cg	100
-丙基溴化吡啶	bǐng;an jī;tq xiù;di huà;rb bǐ;kb dìng;kd	100
 丙级中重要度	bǐng;an jí;sj zhōng;aa zhòng;pa yào;xn dù;gy	100
 兵家必争之地	bīng;qb jiā;bu bì;dd zhēng;dy zhī;dd dì;ty	100
 兵库北的微笑	bīng;qb kù;gi běi;ag de;bu wēi;xw xiào;vy	100
@@ -96668,21 +96613,6 @@ sort: by_weight
 驰放气分离器	chí;my fàng;wf qì;py fēn;bd lí;ws qì;kk	120
 驰放气加热器	chí;my fàng;wf qì;py jiā;lk rè;hv qì;kk	120
 吃干煸四季豆	chī;kq gān;aa biān;hb sì;aa jì;hz dòu;aa	100
-尺肱关节脱位	chǐ;ad gōng;oh guān;qd jié;ce tuō;od wèi;rl	100
-耻骨弓状韧带	chǐ;ev gǔ;go gōng;vg zhuàng;qp rèn;wr dài;jb	100
-尺骨骨干骨折	chǐ;ad gǔ;go gǔ;go gàn;aa gǔ;go zhé;fj	100
-尺骨滑车切迹	chǐ;ad gǔ;go huá;dg chē;aa qiē;dq jì;zy	100
-尺骨近端骨折	chǐ;ad gǔ;go jìn;zj duān;le gǔ;go zhé;fj	100
-尺骨茎突骨折	chǐ;ad gǔ;go jīng;cg tū;xq gǔ;go zhé;fj	100
-耻骨联合分离	chǐ;ev gǔ;go lián;eg hé;rk fēn;bd lí;ws	100
-耻骨联合松懈	chǐ;ev gǔ;go lián;eg hé;rk sōng;mg xiè;xj	100
-耻骨前列腺肌	chǐ;ev gǔ;go qián;qd liè;dd xiàn;oq jī;oj	100
-耻骨切开助产	chǐ;ev gǔ;go qiē;dq kāi;ac zhù;lq chǎn;wi	100
-尺骨上端骨折	chǐ;ad gǔ;go shàng;aa duān;le gǔ;go zhé;fj	100
-尺骨上端截骨	chǐ;ad gǔ;go shàng;aa duān;le jié;gv gǔ;go	100
-尺骨下端骨折	chǐ;ad gǔ;go xià;ab duān;le gǔ;go zhé;fj	100
-尺骨鹰嘴骨折	chǐ;ad gǔ;go yīng;gn zuǐ;kj gǔ;go zhé;fj	100
-尺骨远端脱位	chǐ;ad gǔ;go yuǎn;zy duān;le tuō;od wèi;rl	100
 齿辊式破碎机	chǐ;vk gǔn;ik shì;gy pò;up suì;uz jī;mj	100
 吃过我做的饭	chī;kq guò;zc wǒ;pd zuò;rg de;bu fàn;uf	100
 吃好喝好睡好	chī;kq hǎo;nz hē;kh hǎo;nz shuì;oi hǎo;nz	100
@@ -97230,24 +97160,6 @@ sort: by_weight
 创纪录的水平	chuàng;dc jì;sj lù;au de;bu shuǐ;ad píng;aa	100
 创纪之城五期	chuàng;dc jì;sj zhī;dd chéng;ti wǔ;aa qī;oq	100
 创金合信基金	chuàng;dc jīn;ra hé;rk xìn;ry jī;tq jīn;ra	100
-创伤后骨萎缩	chuāng;dc shāng;rl hòu;pk gǔ;go wěi;cw suō;ss	100
-创伤破坏强度	chuāng;dc shāng;rl pò;up huài;tb qiáng;gs dù;gy	100
-创伤性白内障	chuāng;dc shāng;rl xìng;xu bái;pa nèi;ad zhàng;ev	100
-创伤性臂切断	chuāng;dc shāng;rl xìng;xu bì;ob qiē;dq duàn;ja	100
-创伤性肝破裂	chuāng;dc shāng;rl xìng;xu gān;og pò;up liè;yl	100
-创伤性膈破裂	chuāng;dc shāng;rl xìng;xu gé;og pò;up liè;yl	100
-创伤性脑出血	chuāng;dc shāng;rl xìng;xu nǎo;ox chū;aa xiě;pa	100
-创伤性脑梗塞	chuāng;dc shāng;rl xìng;xu nǎo;ox gěng;mg sè;tb	100
-创伤性脑受压	chuāng;dc shāng;rl xìng;xu nǎo;ox shòu;vy yā;id	100
-创伤性脑损伤	chuāng;dc shāng;rl xìng;xu nǎo;ox sǔn;fy shāng;rl	100
-创伤性尿道瘘	chuāng;dc shāng;rl xìng;xu niào;uu dào;zu lòu;bl	100
-创伤性脾破裂	chuāng;dc shāng;rl xìng;xu pí;ob pò;up liè;yl	100
-创伤性青光眼	chuāng;dc shāng;rl xìng;xu qīng;of guāng;ea yǎn;og	100
-创伤性胃穿孔	chuāng;dc shāng;rl xìng;xu wèi;ot chuān;xy kǒng;zg	100
-创伤性血气胸	chuāng;dc shāng;rl xìng;xu xuè;pa qì;py xiōng;ox	100
-创伤性牙折断	chuāng;dc shāng;rl xìng;xu yá;ap zhé;fj duàn;ja	100
-创伤用骶骨板	chuāng;dc shāng;rl yòng;kf dǐ;gd gǔ;go bǎn;mf	100
-创伤用骶骨棒	chuāng;dc shāng;rl yòng;kf dǐ;gd gǔ;go bàng;mf	100
 创神网络科技	chuàng;dc shén;uu wǎng;ki luò;sg kē;hd jì;fv	100
 创圣的大天使	chuàng;dc shèng;ty de;bu dà;ad tiān;ad shǐ;rl	100
 创圣机械天使	chuàng;dc shèng;ty jī;mj xiè;mj tiān;ad shǐ;rl	100
@@ -98814,8 +98726,8 @@ sort: by_weight
 到处走走停停	dào;dv chù;wb zǒu;tv zǒu;tv tíng;rt tíng;rt	100
 刀刺在背传说	dāo;gp cì;dc zài;ut bèi;ob chuán;rv shuō;yd	100
 到村到户到人	dào;dv cūn;mc dào;dv hù;dp dào;dv rén;pd	100
-到达目的地后	dào;dv dá;zd mù;aa di;bu dì;ty hòu;pk	100
-到达目的地时	dào;dv dá;zd mù;aa di;bu dì;ty shí;oc	100
+到达目的地后	dào;dv dá;zd mù;aa dì;bu dì;ty hòu;pk	100
+到达目的地时	dào;dv dá;zd mù;aa dì;bu dì;ty shí;oc	100
 道达投资手记	dào;zu dá;zd tóu;fu zī;bc shǒu;pa jì;yj	100
 导弹发射阵地	dǎo;cs dàn;gd fā;ay shè;cu zhèn;ei dì;ty	100
 导弹飞行试验	dǎo;cs dàn;gd fēi;yd xíng;xi shì;yu yàn;ma	100
@@ -98879,7 +98791,7 @@ sort: by_weight
 到了八十年代	dào;dv le;aa bā;pd shí;aa nián;ra dài;ry	100
 到了大年三十	dào;dv le;aa dà;ad nián;ra sān;aa shí;aa	100
 到了九十年代	dào;dv le;aa jiǔ;py shí;aa nián;ra dài;ry	100
-到了目的地后	dào;dv le;aa mù;aa di;bu dì;ty hòu;pk	100
+到了目的地后	dào;dv le;aa mù;aa dì;bu dì;ty hòu;pk	100
 到了上个世纪	dào;dv le;aa shàng;aa gè;ra shì;ca jì;sj	100
 到了十字路口	dào;dv le;aa shí;aa zì;bz lù;zg kǒu;aa	100
 倒立伏地挺身	dào;rd lì;da fú;rq dì;ty tǐng;ft shēn;pp	100
@@ -99146,7 +99058,7 @@ sort: by_weight
 低出生体重儿	dī;rd chū;aa shēng;na tǐ;rb zhòng;pa ér;pg	100
 堤川车辆基地	dī;tu chuān;pa chē;aa liàng;il jī;tq dì;ty	100
 地磁极性倒转	dì;ty cí;uz jí;mj xìng;xu dào;rd zhuǎn;iv	100
-抵达目的地后	dǐ;fd dá;zd mù;aa di;bu dì;ty hòu;pk	100
+抵达目的地后	dǐ;fd dá;zd mù;aa dì;bu dì;ty hòu;pk	100
 滴嗒危机一发	dī;dd dā;kd wēi;de jī;mj yì;aa fā;ay	100
 抵挡不住诱惑	dǐ;fd dǎng;fd bú;ad zhù;rv yòu;yx huò;xh	100
 低地法兰克语	dī;rd dì;ty fǎ;dq lán;qe kè;eg yǔ;yw	100
@@ -109886,7 +109798,7 @@ sort: by_weight
 婚姻家庭案件	hūn;nh yīn;ny jiā;bu tíng;gt àn;ma jiàn;rn	100
 婚姻名存实亡	hūn;nh yīn;ny míng;xk cún;uz shí;bt wáng;da	100
 浑源圆觉寺塔	hún;dj yuán;dy yuán;ky jué;jb sì;ct tǎ;td	100
-混浊度测定法	hún;dk zhuó;di dù;gy cè;dz dìng;bp fǎ;dq	100
+混浊度测定法	hùn;dk zhuó;di dù;gy cè;dz dìng;bp fǎ;dq	100
 活蹦乱跳的鸡	huó;du bèng;zb luàn;ug tiào;zv de;bu jī;ny	100
 活蹦乱跳的鱼	huó;du bèng;zb luàn;ug tiào;zv de;bu yú;da	100
 货币的购买力	huò;bh bì;pj de;bu gòu;bg mǎi;at lì;gp	100
@@ -109902,7 +109814,7 @@ sort: by_weight
 货车非法改装	huò;bh chē;aa fēi;aa fǎ;dq gǎi;wj zhuāng;yv	100
 火车驶向云外	huǒ;dd chē;aa shǐ;mu xiàng;pk yún;es wài;xb	100
 货车违法载人	huò;bh chē;aa wéi;zw fǎ;dq zài;ig rén;pd	100
-或但臂不遂者	huò;gk dàn;rd bì;ob bù;ad suí;zu zhě;ol	100
+或但臂不遂者	huò;gk dàn;rd bì;ob bú;ad suì;zu zhě;ol	100
 霍丹二氏产钳	huò;yv dān;pd èr;aa shì;pg chǎn;wi qián;jg	100
 活到老学到老	huó;du dào;dv lǎo;lb xué;zb dào;dv lǎo;lb	100
 活得不耐烦了	huó;du de;xc bú;ad nài;ce fán;hy le;aa	100
@@ -117897,7 +117809,7 @@ sort: by_weight
 旅游景点门票	lǚ;fp yóu;dz jǐng;oj diǎn;hv mén;dg piào;xu	100
 旅游景点众多	lǚ;fp yóu;dz jǐng;oj diǎn;hv zhòng;rc duō;xx	100
 旅游景区景点	lǚ;fp yóu;dz jǐng;oj qū;ki jǐng;oj diǎn;hv	100
-旅游目的地国	lǚ;fp yóu;dz mù;aa di;bu dì;ty guó;ky	100
+旅游目的地国	lǚ;fp yóu;dz mù;aa dì;bu dì;ty guó;ky	100
 旅游事务专员	lǚ;fp yóu;dz shì;aa wù;wl zhuān;ad yuán;kb	100
 旅游星级饭店	lǚ;fp yóu;dz xīng;ou jí;sj fàn;uf diàn;gv	100
 旅游形象大使	lǚ;fp yóu;dz xíng;pk xiàng;du dà;ad shǐ;rl	100
@@ -118173,7 +118085,7 @@ sort: by_weight
 瞒天过海之计	mán;ol tiān;ad guò;zc hǎi;dm zhī;dd jì;yu	100
 漫威漫画人物	màn;dm wēi;gn màn;dm huà;ak rén;pd wù;nw	100
 漫威午夜之子	màn;dm wēi;gn wǔ;ru yè;wd zhī;dd zǐ;aa	100
-漫无目的地走	màn;dm wú;ag mù;aa di;bu dì;ty zǒu;tv	100
+漫无目的地走	màn;dm wú;ag mù;aa dì;bu dì;ty zǒu;tv	100
 慢咽宁袋泡茶	màn;xm yàn;ky níng;bd dài;yd pào;db chá;cm	100
 慢咽宁袋泡剂	màn;xm yàn;ky níng;bd dài;yd pào;db jì;dq	100
 漫游随录图记	màn;dm yóu;dz suí;ey lù;au tú;kd jì;yj	100
@@ -119144,7 +119056,6 @@ sort: by_weight
 名字倒过来念	míng;xk zì;bz dào;rd guò;zc lái;am niàn;xj	100
 名字有几个字	míng;xk zì;bz yǒu;ou jǐ;py gè;ra zì;bz	100
 名足球运动员	míng;xk zú;kv qiú;wq yùn;zy dòng;ly yuán;kb	100
-默哀大于心死	mò;hq āi;wy dà;ad yú;aa xīn;dd sǐ;db	100
 末班发车时间	mò;ad bān;dw fā;ay chē;aa shí;oc jiān;mo	100
 漠北回鹘汗国	mò;dm běi;ag huí;kk hú;gn hàn;dg guó;ky	100
 莫比乌斯变换	mò;cd bǐ;bb wū;pa sī;jq biàn;wy huàn;fh	100
@@ -123974,7 +123885,7 @@ sort: by_weight
 认清当前形势	rèn;yr qīng;dq dāng;xx qián;qd xíng;pk shì;lv	100
 认清生活真相	rèn;yr qīng;dq shēng;na huó;du zhēn;uj xiàng;mo	100
 人情世故的事	rén;pd qíng;xq shì;ca gù;wg de;bu shì;aa	100
-任泉和李冰冰	rèn;rr quán;ub hé;hk lǐ;mz bīng;du bīng;du	100
+任泉和李冰冰	rén;rr quán;ub hé;hk lǐ;mz bīng;du bīng;du	100
 人群聚集场所	rén;pd qún;yj jù;ed jí;vm chǎng;ty suǒ;hj	100
 人群普遍易感	rén;pd qún;yj pǔ;ob biàn;zb yì;ow gǎn;xx	100
 人群熙熙攘攘	rén;pd qún;yj xī;hs xī;hs rǎng;fx rǎng;fx	100
@@ -132807,6 +132718,7 @@ sort: by_weight
 温肾助阳药酒	wēn;dm shèn;oy zhù;lq yáng;eo yào;cy jiǔ;dy	100
 温室大棚种植	wēn;dm shì;bv dà;ad péng;mp zhòng;hv zhí;mv	100
 温氏食品集团	wēn;dm shì;pg shí;rl pǐn;kk jí;vm tuán;kc	100
+文殊广法天尊	wén;wi shū;dv guǎng;dp fǎ;dq tiān;ad zūn;cq	17
 文殊说般若经	wén;wi shū;dv shuō;yd bō;vu rě;cy jīng;sg	100
 温水洗净便座	wēn;dm shuǐ;ad xǐ;dx jìng;dv biàn;rg zuò;gz	100
 问松我醉何如	wèn;km sōng;mg wǒ;pd zuì;yz hé;rk rú;nk	100
@@ -134530,20 +134442,6 @@ sort: by_weight
 限定刑事责任	xiàn;eg dìng;bp xíng;dk shì;aa zé;bf rèn;rr	100
 仙洞沟碧岩寺	xiān;ru dòng;dt gōu;dg bì;ub yán;uu sì;ct	100
 宪法的司法化	xiàn;bx fǎ;dq de;bu sī;gk fǎ;dq huà;rb	100
-宪法和基本法	xiàn;bx fǎ;dq hé;hk jī;tq běn;aa fǎ;dq	100
-宪法十九信条	xiàn;bx fǎ;dq shí;aa jiǔ;py xìn;ry tiáo;wm	100
-宪法宣誓仪式	xiàn;bx fǎ;dq xuān;bg shì;yv yí;ry shì;gy	100
-先发优势明显	xiān;ne fā;ay yōu;ry shì;lv míng;oo xiǎn;oy	100
-宪法增修条文	xiàn;bx fǎ;dq zēng;tc xiū;rp tiáo;wm wén;wi	100
-县房产管理局	xiàn;sq fáng;hf chǎn;wi guǎn;vg lǐ;wl jú;uk	100
-限房价竞地价	xiàn;eg fáng;hf jià;rj jìng;lx dì;ty jià;rj	100
-先丰服务集团	xiān;ne fēng;aa fú;oy wù;wl jí;vm tuán;kc	100
-先锋霉素中毒	xiān;ne fēng;jf méi;ym sù;sf zhòng;aa dú;fm	100
-咸丰年间提督	xián;kg fēng;aa nián;ra jiān;mo tí;fu dū;ou	100
-先富带动后富	xiān;ne fù;bf dài;jb dòng;ly hòu;pk fù;bf	100
-先富起来的人	xiān;ne fù;bf qǐ;zj lái;am de;bu rén;pd	100
-县妇幼保健所	xiàn;sq fù;nx yòu;ly bǎo;rd jiàn;rj suǒ;hj	100
-县妇幼保健院	xiàn;sq fù;nx yòu;ly bǎo;rd jiàn;rj yuàn;ew	100
 腺苷钴胺冻干	xiàn;oq gān;cg gǔ;jg àn;oa dòng;dd gān;aa	100
 限购限贷政策	xiàn;eg gòu;bg xiàn;eg dài;bd zhèng;wv cè;vc	100
 县官不如现管	xiàn;sq guān;bg bù;ad rú;nk xiàn;wj guǎn;vg	100
@@ -134559,13 +134457,13 @@ sort: by_weight
 酰基载体蛋白	xiān;yx jī;tq zài;ig tǐ;rb dàn;ip bái;pa	100
 酰基转移酶类	xiān;yx jī;tq zhuǎn;iv yí;hd méi;ym lèi;md	100
 限价商品住房	xiàn;eg jià;rj shāng;wk pǐn;kk zhù;rv fáng;hf	100
-仙剑奇侠传二	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv èr;aa	100
-仙剑奇侠传六	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv liù;wb	100
+仙剑奇侠传二	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv èr;aa	104
+仙剑奇侠传六	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv liù;wb	101
 仙剑奇侠传七	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv qī;ag	100
-仙剑奇侠传三	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv sān;aa	100
-仙剑奇侠传四	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv sì;aa	100
-仙剑奇侠传五	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv wǔ;aa	100
-仙剑奇侠传一	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv yī;aa	100
+仙剑奇侠传三	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv sān;aa	106
+仙剑奇侠传四	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv sì;aa	103
+仙剑奇侠传五	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv wǔ;aa	102
+仙剑奇侠传一	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv yī;aa	105
 仙剑奇侠传中	xiān;ru jiàn;da qí;dk xiá;rj zhuàn;rv zhōng;aa	100
 先进出版公司	xiān;ne jìn;zj chū;aa bǎn;pf gōng;sb sī;gk	100
 先进单位称号	xiān;ne jìn;zj dān;ba wèi;rl chēng;he hào;kk	100
@@ -146486,7 +146384,7 @@ sort: by_weight
 左不变平均值	zuǒ;ug bú;ad biàn;wy píng;aa jūn;ty zhí;rv	100
 做不到的承诺	zuò;rg bú;ad dào;dv de;bu chéng;ad nuò;yr	100
 做不到的事情	zuò;rg bú;ad dào;dv de;bu shì;aa qíng;xq	100
-做不了的事情	zuò;rg bù;ad le;aa de;bu shì;aa qíng;xq	100
+做不了的事情	zuò;rg bù;ad liǎo;aa de;bu shì;aa qíng;xq	100
 做不完的家务	zuò;rg bù;ad wán;by de;bu jiā;bu wù;wl	100
 做不完的事情	zuò;rg bù;ad wán;by de;bu shì;aa qíng;xq	100
 做不完的作业	zuò;rg bù;ad wán;by de;bu zuò;rv yè;aa	100
@@ -146914,7 +146812,6 @@ sort: by_weight
 爱育黎拔力八达	ài;vy yù;os lí;hu bá;fb lì;gp bā;pd dá;zd	100
 爱与欲望之学园	ài;vy yǔ;aa yù;qg wàng;wo zhī;dd xué;zb yuán;ky	100
 爱在别乡的季节	ài;vy zài;ut bié;dl xiāng;ap de;bu jì;hz jié;ce	100
-爱在基吧的日子	ài;vy zài;ut jī;tq ba;kb de;bu rì;aa zi;aa	100
 爱在记忆中找你	ài;vy zài;ut jì;yj yì;xy zhōng;aa zhǎo;fg nǐ;re	100
 爱在刻骨铭心时	ài;vy zài;ut kè;dh gǔ;go míng;jm xīn;dd shí;oc	100
 爱在黎明破晓前	ài;vy zài;ut lí;hu míng;oo pò;up xiǎo;oy qián;qd	100
@@ -146975,7 +146872,7 @@ sort: by_weight
 安培林娱乐公司	ān;bn péi;tk lín;mm yú;nw lè;pd gōng;sb sī;gk	100
 安全才是第一位	ān;bn quán;rw cái;ap shì;op dì;vp yī;aa wèi;rl	100
 安全操作与维护	ān;bn quán;rw cāo;fz zuò;rv yǔ;aa wéi;sv hù;fh	100
-安全到达目的地	ān;bn quán;rw dào;dv dá;zd mù;aa di;bu dì;ty	100
+安全到达目的地	ān;bn quán;rw dào;dv dá;zd mù;aa dì;bu dì;ty	100
 安全导航运算符	ān;bn quán;rw dǎo;cs háng;vk yùn;zy suàn;vc fú;vf	100
 安全得不到保障	ān;bn quán;rw dé;xc bú;ad dào;dv bǎo;rd zhàng;ev	100
 安全放在第一位	ān;bn quán;rw fàng;wf zài;ut dì;vp yī;aa wèi;rl	100
@@ -148233,7 +148130,7 @@ sort: by_weight
 变性剂沉积作用	biàn;wy xìng;xu jì;dq chén;dj jī;hv zuò;rv yòng;kf	100
 变性调节混合的	biàn;wy xìng;xu tiáo;yv jié;ce hùn;dk hé;rk de;bu	120
 变形细胞溶解物	biàn;wy xíng;pk xì;st bāo;ob róng;dr jiě;jn wù;nw	100
-变性性角膜混浊	biàn;wy xìng;xu xìng;xu jiǎo;dy mó;om hún;dk zhuó;di	100
+变性性角膜混浊	biàn;wy xìng;xu xìng;xu jiǎo;dy mó;om hùn;dk zhuó;di	100
 变性性面肌抽搐	biàn;wy xìng;xu xìng;xu miàn;aa jī;oj chōu;fy chù;fi	100
 变性型涎腺肿大	biàn;wy xìng;xu xíng;tx xián;dy xiàn;oq zhǒng;ov dà;ad	100
 萹蓄大黄滑石研	biǎn;cb xù;ci dà;ad huáng;cb huá;dg shí;kp yán;uk	100
@@ -148379,7 +148276,6 @@ sort: by_weight
 濒危野生动植物	bīn;dp wēi;de yě;ly shēng;na dòng;ly zhí;mv wù;nw	100
 宾夕法尼亚大道	bīn;bb xī;pd fǎ;dq ní;ub yà;ay dà;ad dào;zu	100
 宾夕法尼亚大学	bīn;bb xī;pd fǎ;dq ní;ub yà;ay dà;ad xué;zb	100
-宾夕凡尼亚大学	bīn;bb xī;pd fán;jd ní;ub yà;ay dà;ad xué;zb	100
 鬓云欲度香腮雪	bìn;ib yún;es yù;qg dù;gy xiāng;ho sāi;os xuě;yx	100
 槟州华人大会堂	bīn;mb zhōu;id huá;uh rén;pd dà;ad huì;ry táng;tk	100
 丙氨酰氨裂解酶	bǐng;an ān;qa xiān;yx ān;qa liè;yl jiě;jn méi;ym	100
@@ -150323,7 +150219,7 @@ sort: by_weight
 处处有路通长安	chù;wb chù;wb yǒu;ou lù;zg tōng;zy cháng;pd ān;bn	100
 储存危险化学品	chǔ;rv cún;uz wēi;de xiǎn;ea huà;rb xué;zb pǐn;kk	100
 楚尔盖分枝杆菌	chǔ;mp ěr;dx gài;my fēn;bd zhī;mv gǎn;mg jūn;ch	100
-出发地和目的地	chū;aa fā;ay dì;ty hé;hk mù;aa di;bu dì;ty	100
+出发地和目的地	chū;aa fā;ay dì;ty hé;hk mù;aa dì;bu dì;ty	100
 出发点和落脚点	chū;aa fā;ay diǎn;hv hé;hk luò;cl jiǎo;oq diǎn;hv	100
 厨房油烟净化器	chú;ic fáng;hf yóu;dy yān;hy jìng;dv huà;rb qì;kk	100
 楚国方城以为城	chǔ;mp guó;ky fāng;wd chéng;ti yǐ;rd wéi;dd chéng;ti	100
@@ -155934,8 +155830,8 @@ sort: by_weight
 孩子毕竟是孩子	hái;zh zi;aa bì;bu jìng;le shì;op hái;zh zi;aa	100
 孩子不好好吃饭	hái;zh zi;aa bù;ad hǎo;nz hǎo;nz chī;kq fàn;uf	100
 孩子缺乏安全感	hái;zh zi;aa quē;fd fá;pv ān;bn quán;rw gǎn;xx	100
-孩子是自己的好	hái;zh zǐ;aa shì;op zì;pa jǐ;ag de;bu hǎo;nz	100
-孩子特别喜欢吃	hái;zh zi;aa tè;ns bié;dl xǐ;uk huān;qy chī;kq	100
+孩子是自己的好	hái;zh zi;aa shì;op zì;pa jǐ;ag de;bu hǎo;nz	100
+孩子特别喜欢吃	hái;zh zi;aa tè;ns bié;dl xǐ;uk huan;qy chī;kq	100
 孩子最好的老师	hái;zh zi;aa zuì;oq hǎo;nz de;bu lǎo;lb shī;ab	100
 罕百里教法学派	hǎn;bg bǎi;ab lǐ;aa jiào;wx fǎ;dq xué;zb pài;dp	100
 汉堡纤维蛋白原	hàn;dy bǎo;tb xiān;sq wéi;sv dàn;ip bái;pa yuán;ix	100
@@ -158382,7 +158278,7 @@ sort: by_weight
 热论篇第三十一	rè;hv lùn;yl piān;vb dì;vp sān;aa shí;aa yī;aa	100
 热门的旅游景点	rè;hv mén;dg de;bu lǚ;fp yóu;dz jǐng;oj diǎn;hv	100
 热门关键词搜索	rè;hv mén;dg guān;qd jiàn;jj cí;ys sōu;fs suǒ;sb	100
-热门旅游目的地	rè;hv mén;dg lǚ;fp yóu;dz mù;aa di;bu dì;ty	100
+热门旅游目的地	rè;hv mén;dg lǚ;fp yóu;dz mù;aa dì;bu dì;ty	100
 热门搜索关键词	rè;hv mén;dg sōu;fs suǒ;sb guān;qd jiàn;jj cí;ys	100
 热门搜索关键字	rè;hv mén;dg sōu;fs suǒ;sb guān;qd jiàn;jj zì;bz	100
 热门乡村单曲榜	rè;hv mén;dg xiāng;ap cūn;mc dān;ba qǔ;aa bǎng;mp	100
@@ -160701,6 +160597,7 @@ sort: by_weight
 植物体细胞杂交	zhí;mv wù;nw tǐ;rb xì;st bāo;ob zá;jm jiāo;li	100
 直线缝合器钉仓	zhí;uq xiàn;sj féng;sf hé;rk qì;kk dīng;jd cāng;re	100
 直线切割缝合器	zhí;uq xiàn;sj qiē;dq gē;dh féng;sf hé;rk qì;kk	100
+知小礼而无大义	zhī;ku xiǎo;ad lǐ;ug ér;aa wú;ag dà;ad yì;id	100
 致泻性大肠杆菌	zhì;wv xiè;dx xìng;xu dà;ad cháng;oy gǎn;mg jūn;ch	100
 直型钢板不锈钢	zhí;uq xíng;tx gāng;jg bǎn;mf bú;ad xiù;jx gāng;jg	100
 直型钢板钛合金	zhí;uq xíng;tx gāng;jg bǎn;mf tài;jt hé;rk jīn;ra	100

@@ -3274,7 +3274,8 @@ sort: by_weight
 忏	chàn;xq	431
 潺	chán;di	388
 蟾	chán;iv	349
-產	chǎn;ui	314
+産	chǎn;ui	322
+產	chǎn;ui	304
 搀	chān;fd	283
 婵	chán;nd	255
 单	chán;ba	242
@@ -3283,7 +3284,6 @@ sort: by_weight
 孱	chán;un	167
 浐	chǎn;di	150
 澶	chán;dd	135
-産	chǎn;ui	122
 禪	chán;ud	110
 觇	chān;jv	99
 瀍	chán;di	89
@@ -13333,12 +13333,12 @@ sort: by_weight
 𫌩	hǒu;jj	1
 𫝗	hòu;iz	1
 户	hù;dp	10805
+胡	hú;og	8766
 护	hù;fh	3420
 互	hù;aa	3078
 乎	hū;pa	2770
 湖	hú;dh	2493
 呼	hū;kh	1605
-胡	hú;og	766
 虎	hǔ;hj	727
 忽	hū;xw	607
 狐	hú;qg	546
@@ -17310,6 +17310,7 @@ sort: by_weight
 迳	jìng;zg	20
 儆	jǐng;rj	19
 肼	jǐng;oj	18
+䴖	jīng;nq	17
 鏡	jìng;jj	14
 靚	jìng;jq	13
 競	jìng;jj	12
@@ -17402,7 +17403,6 @@ sort: by_weight
 䜘	jǐng;yj	1
 䡖	jìng;it	1
 䲔	jīng;ya	1
-䴖	jīng;nq	1
 䵞	jìng;hd	1
 𠑱	jǐng;hj	1
 𠓆	jīng;ee	1
