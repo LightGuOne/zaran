@@ -331,7 +331,7 @@ sort: by_weight
 临镇	lín;ao zhèn;jv	756
 林芝	lín;mm zhī;cv	735
 林州	lín;mm zhōu;id	57
-林周	lín;mm zhōu;kj	51
+林周	lín;mm zhōu;kt	51
 林庄	lín;mm zhuāng;gt	932
 苓雅	líng;cl yǎ;vy	691
 刘村	liú;dw cūn;mc	243
@@ -412,7 +412,7 @@ sort: by_weight
 麦寮	mài;fw liáo;bl	1
 满州	mǎn;dl zhōu;id	1697
 芒市	máng;cw shì;wj	174
-茂县	mào;cw xiàn;sq	2672
+茂县	mào;cw xiàn;sq	672
 美滨	měi;dy bīn;db	6
 眉县	méi;om xiàn;sq	678
 孟村	mèng;mz cūn;mc	47
@@ -727,14 +727,14 @@ sort: by_weight
 钟吾	zhōng;jv wú;kw	35
 忠县	zhōng;xv xiàn;sq	138
 钟祥	zhōng;jv xiáng;uy	923
-周村	zhōu;kj cūn;mc	122
-周河	zhōu;kj hé;dk	1107
-周口	zhōu;kj kǒu;aa	163
-周浦	zhōu;kj pǔ;df	78
-周山	zhōu;kj shān;aa	738
-周宅	zhōu;kj zhái;bq	6
-周至	zhōu;kj zhì;tv	140
-周庄	zhōu;kj zhuāng;gt	179
+周村	zhōu;kt cūn;mc	122
+周河	zhōu;kt hé;dk	1107
+周口	zhōu;kt kǒu;aa	163
+周浦	zhōu;kt pǔ;df	78
+周山	zhōu;kt shān;aa	738
+周宅	zhōu;kt zhái;bq	6
+周至	zhōu;kt zhì;tv	140
+周庄	zhōu;kt zhuāng;gt	179
 朱巴	zhū;pw bā;ag	742
 朱村	zhū;pw cūn;mc	42
 朱店	zhū;pw diàn;gv	92
@@ -3403,7 +3403,7 @@ sort: by_weight
 措瓦乡	cuò;fx wǎ;ad xiāng;ap	1
 酂阳镇	cuó;ez yáng;eo zhèn;jv	1
 撮镇镇	cuō;fz zhèn;jv zhèn;jv	1
-措周乡	cuò;fx zhōu;kj xiāng;ap	1
+措周乡	cuò;fx zhōu;kt xiāng;ap	1
 大阿镇	dà;ad ā;ek zhèn;jv	89
 大安区	dà;ad ān;bn qū;ki	236
 大安市	dà;ad ān;bn shì;wj	858
@@ -4023,8 +4023,8 @@ sort: by_weight
 大洲乡	dà;ad zhōu;dv xiāng;ap	56
 达州站	dá;zd zhōu;id zhàn;lv	356
 大洲站	dà;ad zhōu;dv zhàn;lv	262
-大周站	dà;ad zhōu;kj zhàn;lv	44
-大周镇	dà;ad zhōu;kj zhèn;jv	84
+大周站	dà;ad zhōu;kt zhàn;lv	44
+大周镇	dà;ad zhōu;kt zhèn;jv	84
 大洲镇	dà;ad zhōu;dv zhèn;jv	73
 大竹县	dà;ad zhú;gg xiàn;sq	637
 大竹站	dà;ad zhú;gg zhàn;lv	234
@@ -4865,7 +4865,7 @@ sort: by_weight
 垌塚镇	dòng;tt zhǒng;tv zhèn;jv	1
 峒中镇	dòng;ut zhōng;aa zhèn;jv	0
 东洲区	dōng;ad zhōu;dv qū;ki	172
-董周乡	dǒng;cv zhōu;kj xiāng;ap	1
+董周乡	dǒng;cv zhōu;kt xiāng;ap	1
 东庄村	dōng;ad zhuāng;gt cūn;mc	100
 东庄镇	dōng;ad zhuāng;gt zhèn;jv	100
 豆坝镇	dòu;aa bà;tb zhèn;jv	1
@@ -12105,7 +12105,7 @@ sort: by_weight
 林州仓	lín;mm zhōu;id cāng;re	45
 林州市	lín;mm zhōu;id shì;wj	35
 林州市	lín;mm zhōu;id shì;wj	33
-林周县	lín;mm zhōu;kj xiàn;sq	156
+林周县	lín;mm zhōu;kt xiàn;sq	156
 临淄区	lín;ao zī;dt qū;ki	200
 林子头	lín;mm zi;aa tóu;dd	464
 林子镇	lín;mm zi;aa zhèn;jv	1
@@ -16679,9 +16679,9 @@ sort: by_weight
 屈原镇	qū;ui yuán;ix zhèn;jv	1
 去枣庄	qù;ts zǎo;cd zhuāng;gt	504
 曲樟乡	qǔ;aa zhāng;mv xiāng;ap	1
-曲周县	qū;aa zhōu;kj xiàn;sq	172
+曲周县	qū;aa zhōu;kt xiàn;sq	172
 衢州站	qú;xq zhōu;id zhàn;lv	369
-曲周镇	qū;aa zhōu;kj zhèn;jv	1
+曲周镇	qū;aa zhōu;kt zhèn;jv	1
 渠子镇	qú;mj zǐ;aa zhèn;jv	1
 曲子镇	qǔ;aa zi;aa zhèn;jv	0
 区总站	qū;ki zǒng;xk zhàn;lv	594
@@ -16918,7 +16918,7 @@ sort: by_weight
 溶溪镇	róng;dr xī;dx zhèn;jv	0
 绒辖乡	róng;sr xiá;ih xiāng;ap	1
 荣誉堡	róng;cm yù;yx bǎo;tb	214
-荣周乡	róng;cm zhōu;kj xiāng;ap	1
+荣周乡	róng;cm zhōu;kt xiāng;ap	1
 容州镇	róng;bg zhōu;id zhèn;jv	1
 揉谷镇	róu;fr gǔ;bk zhèn;jv	1
 柔远镇	róu;mm yuǎn;zy zhèn;jv	1
@@ -21687,7 +21687,7 @@ sort: by_weight
 息冢镇	xī;xz zhǒng;bd zhèn;jv	1
 西洲乡	xī;aa zhōu;dv xiāng;ap	1
 溪州乡	xī;dx zhōu;id xiāng;ap	0
-西周镇	xī;aa zhōu;kj zhèn;jv	1
+西周镇	xī;aa zhōu;kt zhèn;jv	1
 喜洲镇	xǐ;uk zhōu;dv zhèn;jv	0
 西渚镇	xī;aa zhǔ;dv zhèn;jv	1
 西庄村	xī;aa zhuāng;gt cūn;mc	314
@@ -22143,7 +22143,7 @@ sort: by_weight
 襄州区	xiāng;wy zhōu;id qū;ki	176
 象州县	xiàng;du zhōu;id xiàn;sq	168
 相州镇	xiāng;mo zhōu;id zhèn;jv	1
-祥周镇	xiáng;uy zhōu;kj zhèn;jv	0
+祥周镇	xiáng;uy zhōu;kt zhèn;jv	0
 象州镇	xiàng;du zhōu;id zhèn;jv	0
 象珠镇	xiàng;du zhū;wv zhèn;jv	1
 香孜乡	xiāng;ho zī;wz xiāng;ap	1
@@ -22339,7 +22339,7 @@ sort: by_weight
 肖张镇	xiāo;xo zhāng;gi zhèn;jv	1
 小芝镇	xiǎo;ad zhī;cv zhèn;jv	1
 孝直镇	xiào;zl zhí;uq zhèn;jv	0
-小周镇	xiǎo;ad zhōu;kj zhèn;jv	1
+小周镇	xiǎo;ad zhōu;kt zhèn;jv	1
 小庄镇	xiǎo;ad zhuāng;gt zhèn;jv	1
 小樽站	xiǎo;ad zūn;mz zhàn;lv	482
 小作镇	xiǎo;ad zuò;rv zhèn;jv	1
@@ -23264,7 +23264,7 @@ sort: by_weight
 亚运村	yà;ay yùn;zy cūn;mc	459
 崖州区	yá;uy zhōu;id qū;ki	438
 亚洲站	yà;ay zhōu;dv zhàn;lv	464
-雅周镇	yǎ;vy zhōu;kj zhèn;jv	1
+雅周镇	yǎ;vy zhōu;kt zhèn;jv	1
 牙舟镇	yá;ap zhōu;pd zhèn;jv	0
 亚卓镇	yà;ay zhuó;uo zhèn;jv	1
 崖子镇	yá;uy zǐ;aa zhèn;jv	1
@@ -26326,150 +26326,150 @@ sort: by_weight
 中庄镇	zhōng;aa zhuāng;gt zhèn;jv	1
 重孜乡	zhòng;pa zī;wz xiāng;ap	1
 中子镇	zhōng;aa zǐ;aa zhèn;jv	1
-周岙村	zhōu;kj ào;uy cūn;mc	103
+周岙村	zhōu;kt ào;uy cūn;mc	103
 舟坝镇	zhōu;pd bà;tb zhèn;jv	1
-周堡村	zhōu;kj bǎo;tb cūn;mc	206
-周北村	zhōu;kj běi;ag cūn;mc	31
-周陂镇	zhōu;kj bēi;ep zhèn;jv	1
-周边村	zhōu;kj biān;zl cūn;mc	317
-周边县	zhōu;kj biān;zl xiàn;sq	218
-周布村	zhōu;kj bù;ju cūn;mc	127
-周场村	zhōu;kj chǎng;ty cūn;mc	1
-周陈村	zhōu;kj chén;ed cūn;mc	1
-周城村	zhōu;kj chéng;ti cūn;mc	210
-周城县	zhōu;kj chéng;ti xiàn;sq	164
-周城乡	zhōu;kj chéng;ti xiāng;ap	94
-周城镇	zhōu;kj chéng;ti zhèn;jv	145
+周堡村	zhōu;kt bǎo;tb cūn;mc	206
+周北村	zhōu;kt běi;ag cūn;mc	31
+周陂镇	zhōu;kt bēi;ep zhèn;jv	1
+周边村	zhōu;kt biān;zl cūn;mc	317
+周边县	zhōu;kt biān;zl xiàn;sq	218
+周布村	zhōu;kt bù;ju cūn;mc	127
+周场村	zhōu;kt chǎng;ty cūn;mc	1
+周陈村	zhōu;kt chén;ed cūn;mc	1
+周城村	zhōu;kt chéng;ti cūn;mc	210
+周城县	zhōu;kt chéng;ti xiàn;sq	164
+周城乡	zhōu;kt chéng;ti xiāng;ap	94
+周城镇	zhōu;kt chéng;ti zhèn;jv	145
 州城镇	zhōu;id chéng;ti zhèn;jv	1
-周处庙	zhōu;kj chǔ;wb miào;gy	200
-周村区	zhōu;kj cūn;mc qū;ki	178
-周村镇	zhōu;kj cūn;mc zhèn;jv	206
-周村庄	zhōu;kj cūn;mc zhuāng;gt	69
-周厝村	zhōu;kj cuò;ix cūn;mc	150
-周党镇	zhōu;kj dǎng;xx zhèn;jv	163
-周店村	zhōu;kj diàn;gv cūn;mc	82
-周东村	zhōu;kj dōng;ad cūn;mc	1
-周墩村	zhōu;kj dūn;td cūn;mc	1
-周坊村	zhōu;kj fāng;tf cūn;mc	103
-周坊镇	zhōu;kj fāng;tf zhèn;jv	1
-周岗村	zhōu;kj gǎng;ug cūn;mc	1
-周戈庄	zhōu;kj gē;ad zhuāng;gt	246
-周哥庄	zhōu;kj gē;kd zhuāng;gt	133
-周沟村	zhōu;kj gōu;dg cūn;mc	52
-周官村	zhōu;kj guān;bg cūn;mc	52
-周河村	zhōu;kj hé;dk cūn;mc	127
-周河乡	zhōu;kj hé;dk xiāng;ap	201
-周河镇	zhōu;kj hé;dk zhèn;jv	159
-周湖村	zhōu;kj hú;dh cūn;mc	69
+周处庙	zhōu;kt chǔ;wb miào;gy	200
+周村区	zhōu;kt cūn;mc qū;ki	178
+周村镇	zhōu;kt cūn;mc zhèn;jv	206
+周村庄	zhōu;kt cūn;mc zhuāng;gt	69
+周厝村	zhōu;kt cuò;ix cūn;mc	150
+周党镇	zhōu;kt dǎng;xx zhèn;jv	163
+周店村	zhōu;kt diàn;gv cūn;mc	82
+周东村	zhōu;kt dōng;ad cūn;mc	1
+周墩村	zhōu;kt dūn;td cūn;mc	1
+周坊村	zhōu;kt fāng;tf cūn;mc	103
+周坊镇	zhōu;kt fāng;tf zhèn;jv	1
+周岗村	zhōu;kt gǎng;ug cūn;mc	1
+周戈庄	zhōu;kt gē;ad zhuāng;gt	246
+周哥庄	zhōu;kt gē;kd zhuāng;gt	133
+周沟村	zhōu;kt gōu;dg cūn;mc	52
+周官村	zhōu;kt guān;bg cūn;mc	52
+周河村	zhōu;kt hé;dk cūn;mc	127
+周河乡	zhōu;kt hé;dk xiāng;ap	201
+周河镇	zhōu;kt hé;dk zhèn;jv	159
+周湖村	zhōu;kt hú;dh cūn;mc	69
 洲湖镇	zhōu;dv hú;dh zhèn;jv	1
-周集村	zhōu;kj jí;vm cūn;mc	1
-周集乡	zhōu;kj jí;vm xiāng;ap	206
-周集镇	zhōu;kj jí;vm zhèn;jv	120
-周家坳	zhōu;kj jiā;bu ào;ty	130
-周家坝	zhōu;kj jiā;bu bà;tb	338
-周家祠	zhōu;kj jiā;bu cí;us	252
-周家村	zhōu;kj jiā;bu cūn;mc	324
-周家店	zhōu;kj jiā;bu diàn;gv	270
-周家渡	zhōu;kj jiā;bu dù;dd	309
-周家墩	zhōu;kj jiā;bu dūn;td	178
-周家岗	zhōu;kj jiā;bu gǎng;ug	103
-周家沟	zhōu;kj jiā;bu gōu;dg	139
-周家河	zhōu;kj jiā;bu hé;dk	288
-周家井	zhōu;kj jiā;bu jǐng;aa	1
-周家口	zhōu;kj jiā;bu kǒu;aa	268
-周家坪	zhōu;kj jiā;bu píng;tp	236
-周家坡	zhōu;kj jiā;bu pō;tp	159
-周家桥	zhōu;kj jiā;bu qiáo;mq	112
-周家山	zhōu;kj jiā;bu shān;aa	215
-周家台	zhōu;kj jiā;bu tái;sk	145
-周家湾	zhōu;kj jiā;bu wān;dw	208
-周家巷	zhōu;kj jiā;bu xiàng;sg	255
-周家乡	zhōu;kj jiā;bu xiāng;ap	191
-周家营	zhōu;kj jiā;bu yíng;cl	215
-周家院	zhōu;kj jiā;bu yuàn;ew	52
-周家寨	zhōu;kj jiā;bu zhài;mb	133
-周家镇	zhōu;kj jiā;bu zhèn;jv	242
-周嘉镇	zhōu;kj jiā;uj zhèn;jv	1
-周家庄	zhōu;kj jiā;bu zhuāng;gt	366
-周家嘴	zhōu;kj jiā;bu zuǐ;kj	394
-周江镇	zhōu;kj jiāng;dg zhèn;jv	1
+周集村	zhōu;kt jí;vm cūn;mc	1
+周集乡	zhōu;kt jí;vm xiāng;ap	206
+周集镇	zhōu;kt jí;vm zhèn;jv	120
+周家坳	zhōu;kt jiā;bu ào;ty	130
+周家坝	zhōu;kt jiā;bu bà;tb	338
+周家祠	zhōu;kt jiā;bu cí;us	252
+周家村	zhōu;kt jiā;bu cūn;mc	324
+周家店	zhōu;kt jiā;bu diàn;gv	270
+周家渡	zhōu;kt jiā;bu dù;dd	309
+周家墩	zhōu;kt jiā;bu dūn;td	178
+周家岗	zhōu;kt jiā;bu gǎng;ug	103
+周家沟	zhōu;kt jiā;bu gōu;dg	139
+周家河	zhōu;kt jiā;bu hé;dk	288
+周家井	zhōu;kt jiā;bu jǐng;aa	1
+周家口	zhōu;kt jiā;bu kǒu;aa	268
+周家坪	zhōu;kt jiā;bu píng;tp	236
+周家坡	zhōu;kt jiā;bu pō;tp	159
+周家桥	zhōu;kt jiā;bu qiáo;mq	112
+周家山	zhōu;kt jiā;bu shān;aa	215
+周家台	zhōu;kt jiā;bu tái;sk	145
+周家湾	zhōu;kt jiā;bu wān;dw	208
+周家巷	zhōu;kt jiā;bu xiàng;sg	255
+周家乡	zhōu;kt jiā;bu xiāng;ap	191
+周家营	zhōu;kt jiā;bu yíng;cl	215
+周家院	zhōu;kt jiā;bu yuàn;ew	52
+周家寨	zhōu;kt jiā;bu zhài;mb	133
+周家镇	zhōu;kt jiā;bu zhèn;jv	242
+周嘉镇	zhōu;kt jiā;uj zhèn;jv	1
+周家庄	zhōu;kt jiā;bu zhuāng;gt	366
+周家嘴	zhōu;kt jiā;bu zuǐ;kj	394
+周江镇	zhōu;kt jiāng;dg zhèn;jv	1
 州郡县	zhōu;id jùn;ej xiàn;sq	790
-周康路	zhōu;kj kāng;gl lù;zg	270
-周坑村	zhōu;kj kēng;tk cūn;mc	120
-周口村	zhōu;kj kǒu;aa cūn;mc	69
-周口镇	zhōu;kj kǒu;aa zhèn;jv	178
+周康路	zhōu;kt kāng;gl lù;zg	270
+周坑村	zhōu;kt kēng;tk cūn;mc	120
+周口村	zhōu;kt kǒu;aa cūn;mc	69
+周口镇	zhōu;kt kǒu;aa zhèn;jv	178
 洲口镇	zhōu;dv kǒu;aa zhèn;jv	1
-周礼镇	zhōu;kj lǐ;ug zhèn;jv	139
-周岭村	zhōu;kj lǐng;ul cūn;mc	120
-周陵镇	zhōu;kj líng;el zhèn;jv	103
-周楼村	zhōu;kj lóu;ml cūn;mc	150
-周鹿镇	zhōu;kj lù;gb zhèn;jv	150
-周庙村	zhōu;kj miào;gy cūn;mc	82
-周南村	zhōu;kj nán;ua cūn;mc	52
-周宁县	zhōu;kj níng;bd xiàn;sq	186
-周坪村	zhōu;kj píng;tp cūn;mc	82
-周坡镇	zhōu;kj pō;tp zhèn;jv	1
-周浦镇	zhōu;kj pǔ;df zhèn;jv	332
-周桥村	zhōu;kj qiáo;mq cūn;mc	1
+周礼镇	zhōu;kt lǐ;ug zhèn;jv	139
+周岭村	zhōu;kt lǐng;ul cūn;mc	120
+周陵镇	zhōu;kt líng;el zhèn;jv	103
+周楼村	zhōu;kt lóu;ml cūn;mc	150
+周鹿镇	zhōu;kt lù;gb zhèn;jv	150
+周庙村	zhōu;kt miào;gy cūn;mc	82
+周南村	zhōu;kt nán;ua cūn;mc	52
+周宁县	zhōu;kt níng;bd xiàn;sq	186
+周坪村	zhōu;kt píng;tp cūn;mc	82
+周坡镇	zhōu;kt pō;tp zhèn;jv	1
+周浦镇	zhōu;kt pǔ;df zhèn;jv	332
+周桥村	zhōu;kt qiáo;mq cūn;mc	1
 舟曲县	zhōu;pd qū;aa xiàn;sq	150
 洲泉镇	zhōu;dv quán;ub zhèn;jv	1
 舟群乡	zhōu;pd qún;yj xiāng;ap	1
-周壤镇	zhōu;kj rǎng;tx zhèn;jv	1
+周壤镇	zhōu;kt rǎng;tx zhèn;jv	1
 洲瑞镇	zhōu;dv ruì;we zhèn;jv	1
-周山村	zhōu;kj shān;aa cūn;mc	210
-周山镇	zhōu;kj shān;aa zhèn;jv	1
+周山村	zhōu;kt shān;aa cūn;mc	210
+周山镇	zhōu;kt shān;aa zhèn;jv	1
 舟山镇	zhōu;pd shān;aa zhèn;jv	0
 洲上乡	zhōu;dv shàng;aa xiāng;ap	1
 州十县	zhōu;id shí;aa xiàn;sq	76
-周市镇	zhōu;kj shì;wj zhèn;jv	259
-周士庄	zhōu;kj shì;aa zhuāng;gt	175
-周水子	zhōu;kj shuǐ;ad zi;aa	3
+周市镇	zhōu;kt shì;wj zhèn;jv	259
+周士庄	zhōu;kt shì;aa zhuāng;gt	175
+周水子	zhōu;kt shuǐ;ad zi;aa	3
 舟塔乡	zhōu;pd tǎ;td xiāng;ap	1
-周台村	zhōu;kj tái;sk cūn;mc	31
-周潭镇	zhōu;kj tán;dt zhèn;jv	1
-周覃镇	zhōu;kj tán;xz zhèn;jv	0
-周塘村	zhōu;kj táng;tt cūn;mc	127
-周堂村	zhōu;kj táng;tk cūn;mc	1
-周堂镇	zhōu;kj táng;tk zhèn;jv	127
-周田村	zhōu;kj tián;aa cūn;mc	243
-周田镇	zhōu;kj tián;aa zhèn;jv	305
-周铁镇	zhōu;kj tiě;ju zhèn;jv	255
+周台村	zhōu;kt tái;sk cūn;mc	31
+周潭镇	zhōu;kt tán;dt zhèn;jv	1
+周覃镇	zhōu;kt tán;xz zhèn;jv	0
+周塘村	zhōu;kt táng;tt cūn;mc	127
+周堂村	zhōu;kt táng;tk cūn;mc	1
+周堂镇	zhōu;kt táng;tk zhèn;jv	127
+周田村	zhōu;kt tián;aa cūn;mc	243
+周田镇	zhōu;kt tián;aa zhèn;jv	305
+周铁镇	zhōu;kt tiě;ju zhèn;jv	255
 洲头乡	zhōu;dv tóu;dd xiāng;ap	1
-周疃村	zhōu;kj tuǎn;tt cūn;mc	155
-周屯村	zhōu;kj tún;ag cūn;mc	1
-周湾村	zhōu;kj wān;dw cūn;mc	103
-周湾镇	zhōu;kj wān;dw zhèn;jv	150
-周王村	zhōu;kj wáng;aa cūn;mc	52
-周旺镇	zhōu;kj wàng;ow zhèn;jv	133
-周王镇	zhōu;kj wáng;aa zhèn;jv	1
-周围村	zhōu;kj wéi;kw cūn;mc	139
-周圩村	zhōu;kj wéi;ty cūn;mc	1
-周窝镇	zhōu;kj wō;xn zhèn;jv	1
-周屋村	zhōu;kj wū;uv cūn;mc	1
-周西村	zhōu;kj xī;aa cūn;mc	326
-周溪村	zhōu;kj xī;dx cūn;mc	31
-周溪乡	zhōu;kj xī;dx xiāng;ap	1
-周溪镇	zhōu;kj xī;dx zhèn;jv	1
+周疃村	zhōu;kt tuǎn;tt cūn;mc	155
+周屯村	zhōu;kt tún;ag cūn;mc	1
+周湾村	zhōu;kt wān;dw cūn;mc	103
+周湾镇	zhōu;kt wān;dw zhèn;jv	150
+周王村	zhōu;kt wáng;aa cūn;mc	52
+周旺镇	zhōu;kt wàng;ow zhèn;jv	133
+周王镇	zhōu;kt wáng;aa zhèn;jv	1
+周围村	zhōu;kt wéi;kw cūn;mc	139
+周圩村	zhōu;kt wéi;ty cūn;mc	1
+周窝镇	zhōu;kt wō;xn zhèn;jv	1
+周屋村	zhōu;kt wū;uv cūn;mc	1
+周西村	zhōu;kt xī;aa cūn;mc	326
+周溪村	zhōu;kt xī;dx cūn;mc	31
+周溪乡	zhōu;kt xī;dx xiāng;ap	1
+周溪镇	zhōu;kt xī;dx zhèn;jv	1
 舟溪镇	zhōu;pd xī;dx zhèn;jv	0
 州辖县	zhōu;id xiá;ih xiàn;sq	79
-周乡村	zhōu;kj xiāng;ap cūn;mc	1
-周巷镇	zhōu;kj xiàng;sg zhèn;jv	276
-周新村	zhōu;kj xīn;jq cūn;mc	82
-周新镇	zhōu;kj xīn;jq zhèn;jv	127
-周徐村	zhōu;kj xú;xy cūn;mc	82
-周杨村	zhōu;kj yáng;my cūn;mc	1
-周窑村	zhōu;kj yáo;xf cūn;mc	52
-周营村	zhōu;kj yíng;cl cūn;mc	82
-周营乡	zhōu;kj yíng;cl xiāng;ap	193
-周营镇	zhōu;kj yíng;cl zhèn;jv	163
-周原镇	zhōu;kj yuán;ix zhèn;jv	1
+周乡村	zhōu;kt xiāng;ap cūn;mc	1
+周巷镇	zhōu;kt xiàng;sg zhèn;jv	276
+周新村	zhōu;kt xīn;jq cūn;mc	82
+周新镇	zhōu;kt xīn;jq zhèn;jv	127
+周徐村	zhōu;kt xú;xy cūn;mc	82
+周杨村	zhōu;kt yáng;my cūn;mc	1
+周窑村	zhōu;kt yáo;xf cūn;mc	52
+周营村	zhōu;kt yíng;cl cūn;mc	82
+周营乡	zhōu;kt yíng;cl xiāng;ap	193
+周营镇	zhōu;kt yíng;cl zhèn;jv	163
+周原镇	zhōu;kt yuán;ix zhèn;jv	1
 洲仔镇	zhōu;dv zǎi;rz zhèn;jv	1
-周寨村	zhōu;kj zhài;mb cūn;mc	159
-周宅村	zhōu;kj zhái;bq cūn;mc	52
-周寨镇	zhōu;kj zhài;mb zhèn;jv	145
-周至县	zhōu;kj zhì;tv xiàn;sq	624
-周庄村	zhōu;kj zhuāng;gt cūn;mc	276
-周庄镇	zhōu;kj zhuāng;gt zhèn;jv	361
+周寨村	zhōu;kt zhài;mb cūn;mc	159
+周宅村	zhōu;kt zhái;bq cūn;mc	52
+周寨镇	zhōu;kt zhài;mb zhèn;jv	145
+周至县	zhōu;kt zhì;tv xiàn;sq	624
+周庄村	zhōu;kt zhuāng;gt cūn;mc	276
+周庄镇	zhōu;kt zhuāng;gt zhèn;jv	361
 祝阿镇	zhù;ux ā;ek zhèn;jv	1
 珠岙镇	zhū;wv ào;uy zhèn;jv	1
 朱巴河	zhū;pw bā;ag hé;dk	310
@@ -29215,13 +29215,13 @@ sort: by_weight
 北中马村	běi;ag zhōng;aa mǎ;aa cūn;mc	1
 北中塘村	běi;ag zhōng;aa táng;tt cūn;mc	1
 北仲寨村	běi;ag zhòng;rv zhài;mb cūn;mc	1
-北周壁村	běi;ag zhōu;kj bì;tb cūn;mc	1
+北周壁村	běi;ag zhōu;kt bì;tb cūn;mc	1
 北舟冈站	běi;ag zhōu;pd gāng;ki zhàn;lv	144
-北周卦村	běi;ag zhōu;kj guà;bg cūn;mc	1
-北周流村	běi;ag zhōu;kj liú;di cūn;mc	1
-北周章村	běi;ag zhōu;kj zhāng;lz cūn;mc	1
-北周庄村	běi;ag zhōu;kj zhuāng;gt cūn;mc	1
-北周庄镇	běi;ag zhōu;kj zhuāng;gt zhèn;jv	1
+北周卦村	běi;ag zhōu;kt guà;bg cūn;mc	1
+北周流村	běi;ag zhōu;kt liú;di cūn;mc	1
+北周章村	běi;ag zhōu;kt zhāng;lz cūn;mc	1
+北周庄村	běi;ag zhōu;kt zhuāng;gt cūn;mc	1
+北周庄镇	běi;ag zhōu;kt zhuāng;gt zhèn;jv	1
 北洲子镇	běi;ag zhōu;dv zǐ;aa zhèn;jv	1
 北朱皋村	běi;ag zhū;pw gāo;bu cūn;mc	1
 北朱耿村	běi;ag zhū;pw gěng;eh cūn;mc	1
@@ -29555,7 +29555,7 @@ sort: by_weight
 步云桥镇	bù;vx yún;es qiáo;mq zhèn;jv	1
 步云山乡	bù;vx yún;es shān;aa xiāng;ap	1
 不在家乡	bú;ad zài;ut jiā;bu xiāng;ap	1
-不在周村	bú;ad zài;ut zhōu;kj cūn;mc	1
+不在周村	bú;ad zài;ut zhōu;kt cūn;mc	1
 布扎克乡	bù;ju zhā;fg kè;eg xiāng;ap	1
 布政新村	bù;ju zhèng;wv xīn;jq cūn;mc	1
 部治谯县	bù;ek zhì;dt qiáo;yj xiàn;sq	1
@@ -31109,8 +31109,8 @@ sort: by_weight
 茨榆坨村	cí;cc yú;my tuó;tt cūn;mc	1
 茨榆坨镇	cí;cc yú;my tuó;tt zhèn;jv	1
 磁灶社区	cí;uz zào;ht shè;ut qū;ki	45
-慈周寨乡	cí;xz zhōu;kj zhài;mb xiāng;ap	1
-慈周寨镇	cí;xz zhōu;kj zhài;mb zhèn;jv	1
+慈周寨乡	cí;xz zhōu;kt zhài;mb xiāng;ap	1
+慈周寨镇	cí;xz zhōu;kt zhài;mb zhèn;jv	1
 淙城街道	cóng;dz chéng;ti jiē;xg dào;zu	1
 从汉伯堡	cóng;rr hàn;dy bó;rb bǎo;tb	1
 丛家沟村	cóng;ac jiā;bu gōu;dg cūn;mc	1
@@ -32458,7 +32458,7 @@ sort: by_weight
 大钟新村	dà;ad zhōng;jv xīn;jq cūn;mc	1
 大钟庄镇	dà;ad zhōng;jv zhuāng;gt zhèn;jv	1
 达州渠县	dá;zd zhōu;id qú;mj xiàn;sq	1
-大周庄村	dà;ad zhōu;kj zhuāng;gt cūn;mc	1
+大周庄村	dà;ad zhōu;kt zhuāng;gt cūn;mc	1
 大竹堡乡	dà;ad zhú;gg bǎo;tb xiāng;ap	1
 大朱家村	dà;ad zhū;pw jiā;bu cūn;mc	1
 大竹林村	dà;ad zhú;gg lín;mm cūn;mc	1
@@ -32634,7 +32634,7 @@ sort: by_weight
 党武街道	dǎng;xx wǔ;vy jiē;xg dào;zu	1
 党校社区	dǎng;xx xiào;mj shè;ut qū;ki	50
 党杖子村	dǎng;xx zhàng;mv zi;aa cūn;mc	1
-当周街道	dāng;xx zhōu;kj jiē;xg dào;zu	1
+当周街道	dāng;xx zhōu;kt jiē;xg dào;zu	1
 挡竹湾村	dǎng;fd zhú;gg wān;dw cūn;mc	1
 道坝子乡	dào;zu bà;tb zi;aa xiāng;ap	1
 道北街道	dào;zu běi;ag jiē;xg dào;zu	1
@@ -33244,7 +33244,7 @@ sort: by_weight
 东埠前村	dōng;ad bù;tf qián;qd cūn;mc	1
 东埠头村	dōng;ad bù;tf tóu;dd cūn;mc	1
 东部新区	dōng;ad bù;ek xīn;jq qū;ki	1
-东埠周村	dōng;ad bù;tf zhōu;kj cūn;mc	1
+东埠周村	dōng;ad bù;tf zhōu;kt cūn;mc	1
 东堡子村	dōng;ad bǔ;tb zi;aa cūn;mc	1
 东蔡邓村	dōng;ad cài;cj dèng;ey cūn;mc	1
 东蔡家庄	dōng;ad cài;cj jiā;bu zhuāng;gt	1
@@ -34760,9 +34760,9 @@ sort: by_weight
 东冢头村	dōng;ad zhǒng;bd tóu;dd cūn;mc	1
 东中烟村	dōng;ad zhōng;aa yān;hy cūn;mc	1
 东洲街道	dōng;ad zhōu;dv jiē;xg dào;zu	1
-东周口村	dōng;ad zhōu;kj kǒu;aa cūn;mc	1
+东周口村	dōng;ad zhōu;kt kǒu;aa cūn;mc	1
 东洲新村	dōng;ad zhōu;dv xīn;jq cūn;mc	1
-东周庄村	dōng;ad zhōu;kj zhuāng;gt cūn;mc	1
+东周庄村	dōng;ad zhōu;kt zhuāng;gt cūn;mc	1
 东朱堡村	dōng;ad zhū;pw bǎo;tb cūn;mc	1
 东竹昌村	dōng;ad zhú;gg chāng;oo cūn;mc	1
 东朱东村	dōng;ad zhū;pw dōng;ad cūn;mc	1
@@ -36187,7 +36187,7 @@ sort: by_weight
 福州北站	fú;uf zhōu;id běi;ag zhàn;lv	238
 复州城镇	fù;wo zhōu;id chéng;ti zhèn;jv	1
 福州街道	fú;uf zhōu;id jiē;xg dào;zu	1
-富周塘村	fù;bf zhōu;kj táng;tt cūn;mc	1
+富周塘村	fù;bf zhōu;kt táng;tt cūn;mc	1
 复州湾镇	fù;wo zhōu;id wān;dw zhèn;jv	1
 浮竹山村	fú;df zhú;gg shān;aa cūn;mc	1
 富竹山村	fù;bf zhú;gg shān;aa cūn;mc	0
@@ -37731,7 +37731,6 @@ sort: by_weight
 广州北站	guǎng;dp zhōu;id běi;ag zhàn;lv	585
 广州东站	guǎng;dp zhōu;id dōng;ad zhàn;lv	31
 广州南站	guǎng;dp zhōu;id nán;ua zhàn;lv	855
-广州省站	guǎng;dp zhōu;id shěng;ou zhàn;lv	3
 广州塔站	guǎng;dp zhōu;id tǎ;td zhàn;lv	387
 广州仙村	guǎng;dp zhōu;id xiān;ru cūn;mc	1
 桄子沟村	guàng;mg zi;aa gōu;dg cūn;mc	1
@@ -41088,16 +41087,9 @@ sort: by_weight
 霍宾台村	huò;yv bīn;bb tái;sk cūn;mc	1
 伙草涧村	huǒ;rh cǎo;cz jiàn;dj cūn;mc	1
 火厂坪镇	huǒ;dd chǎng;ap píng;tp zhèn;jv	1
-火车北站	huǒ;dd chē;aa běi;ag zhàn;lv	44
-火车东站	huǒ;dd chē;aa dōng;ad zhàn;lv	35
-火车进站	huǒ;dd chē;aa jìn;zj zhàn;lv	558
-火车客站	huǒ;dd chē;aa kè;bg zhàn;lv	266
-火车南站	huǒ;dd chē;aa nán;ua zhàn;lv	57
-火车西站	huǒ;dd chē;aa xī;aa zhàn;lv	590
 火车站村	huǒ;dd chē;aa zhàn;lv cūn;mc	1
 火车站乡	huǒ;dd chē;aa zhàn;lv xiāng;ap	1
 火车站镇	huǒ;dd chē;aa zhàn;lv zhèn;jv	1
-火车总站	huǒ;dd chē;aa zǒng;xk zhàn;lv	837
 火城子村	huǒ;dd chéng;ti zǐ;aa cūn;mc	1
 火虫驿村	huǒ;dd chóng;ad yì;mf cūn;mc	1
 伙达营村	huǒ;rh dá;zd yíng;cl cūn;mc	1
@@ -49491,7 +49483,7 @@ sort: by_weight
 南西滩村	nán;ua xī;aa tān;dn cūn;mc	1
 南西屋村	nán;ua xī;aa wū;uv cūn;mc	1
 南溪一村	nán;ua xī;dx yī;aa cūn;mc	1
-南西周村	nán;ua xī;aa zhōu;kj cūn;mc	1
+南西周村	nán;ua xī;aa zhōu;kt cūn;mc	1
 南西庄村	nán;ua xī;aa zhuāng;gt cūn;mc	1
 南夏家村	nán;ua xià;wz jiā;bu cūn;mc	1
 南霞口镇	nán;ua xiá;yj kǒu;aa zhèn;jv	1
@@ -49733,12 +49725,12 @@ sort: by_weight
 南中皋村	nán;ua zhōng;aa gāo;bu cūn;mc	1
 南仲家村	nán;ua zhòng;rv jiā;bu cūn;mc	1
 南中原村	nán;ua zhōng;aa yuán;ix cūn;mc	1
-南周家村	nán;ua zhōu;kj jiā;bu cūn;mc	1
-南周家庄	nán;ua zhōu;kj jiā;bu zhuāng;gt	1
+南周家村	nán;ua zhōu;kt jiā;bu cūn;mc	1
+南周家庄	nán;ua zhōu;kt jiā;bu zhuāng;gt	1
 南洲街道	nán;ua zhōu;dv jiē;xg dào;zu	1
 南洲社区	nán;ua zhōu;dv shè;ut qū;ki	4
-南周章村	nán;ua zhōu;kj zhāng;lz cūn;mc	1
-南周庄村	nán;ua zhōu;kj zhuāng;gt cūn;mc	1
+南周章村	nán;ua zhōu;kt zhāng;lz cūn;mc	1
+南周庄村	nán;ua zhōu;kt zhuāng;gt cūn;mc	1
 南注泔村	nán;ua zhù;dv gān;dg cūn;mc	1
 南朱皋村	nán;ua zhū;pw gāo;bu cūn;mc	1
 南朱戈村	nán;ua zhū;pw gē;ad cūn;mc	1
@@ -51594,7 +51586,7 @@ sort: by_weight
 前中庄村	qián;qd zhōng;aa zhuāng;gt cūn;mc	1
 前洲街道	qián;qd zhōu;dv jiē;xg dào;zu	1
 乾州街道	qián;uq zhōu;id jiē;xg dào;zu	0
-前周庄村	qián;qd zhōu;kj zhuāng;gt cūn;mc	1
+前周庄村	qián;qd zhōu;kt zhuāng;gt cūn;mc	1
 前朱各庄	qián;qd zhū;pw gè;wk zhuāng;gt	1
 前朱家村	qián;qd zhū;pw jiā;bu cūn;mc	1
 前朱毛村	qián;qd zhū;pw máo;pg cūn;mc	1
@@ -55624,7 +55616,7 @@ sort: by_weight
 水浮山村	shuǐ;ad fú;df shān;aa cūn;mc	1
 水高庄村	shuǐ;ad gāo;wk zhuāng;gt cūn;mc	1
 水阁街道	shuǐ;ad gé;mg jiē;xg dào;zu	1
-水阁周村	shuǐ;ad gé;mg zhōu;kj cūn;mc	1
+水阁周村	shuǐ;ad gé;mg zhōu;kt cūn;mc	1
 水沟河村	shuǐ;ad gōu;dg hé;dk cūn;mc	1
 水沟涧村	shuǐ;ad gōu;dg jiàn;dj cūn;mc	1
 水沟门村	shuǐ;ad gōu;dg mén;dg cūn;mc	1
@@ -55902,7 +55894,7 @@ sort: by_weight
 四季山庄	sì;aa jì;hz shān;aa zhuāng;gt	1
 四季社区	sì;aa jì;hz shè;ut qū;ki	76
 四季屯村	sì;aa jì;hz tún;ag cūn;mc	1
-四季周庄	sì;aa jì;hz zhōu;kj zhuāng;gt	1
+四季周庄	sì;aa jì;hz zhōu;kt zhuāng;gt	1
 斯家场镇	sī;jq jiā;bu chǎng;ty zhèn;jv	1
 司家沟村	sī;gk jiā;bu gōu;dg cūn;mc	1
 寺家沟村	sì;ct jiā;bu gōu;dg cūn;mc	0
@@ -57090,7 +57082,7 @@ sort: by_weight
 塘头桥村	táng;tt tóu;dd qiáo;mq cūn;mc	1
 棠头溪村	táng;mk tóu;dd xī;dx cūn;mc	1
 塘头应村	táng;tt tóu;dd yīng;ga cūn;mc	1
-塘头周村	táng;tt tóu;dd zhōu;kj cūn;mc	1
+塘头周村	táng;tt tóu;dd zhōu;kt cūn;mc	1
 汤土沟村	tāng;dy tǔ;aa gōu;dg cūn;mc	1
 塘湾街道	táng;tt wān;dw jiē;xg dào;zu	1
 唐王沟村	táng;gk wáng;aa gōu;dg cūn;mc	1
@@ -57810,6 +57802,7 @@ sort: by_weight
 通河新村	tōng;zy hé;dk xīn;jq cūn;mc	1
 通河一村	tōng;zy hé;dk yī;aa cūn;mc	1
 桐花沟村	tóng;mt huā;ch gōu;dg cūn;mc	1
+通化聚鑫	tōng;zy huà;rb jù;ed xīn;jj	10
 铜化新村	tóng;jt huà;rb xīn;jq cūn;mc	1
 桐花塬村	tóng;mt huā;ch yuán;ty cūn;mc	1
 通惠街道	tōng;zy huì;xh jiē;xg dào;zu	1
@@ -58892,7 +58885,7 @@ sort: by_weight
 王毛刘村	wáng;aa máo;pg liú;dw cūn;mc	1
 王帽圈村	wáng;aa mào;jm quān;kj cūn;mc	1
 王茂湾村	wáng;aa mào;cw wān;dw cūn;mc	1
-王毛周村	wáng;aa máo;pg zhōu;kj cūn;mc	1
+王毛周村	wáng;aa máo;pg zhōu;kt cūn;mc	1
 王茂庄村	wáng;aa mào;cw zhuāng;gt cūn;mc	1
 王蒙解庄	wáng;aa méng;cm jiě;jn zhuāng;gt	1
 王孟瑞村	wáng;aa mèng;mz ruì;we cūn;mc	1
@@ -59493,7 +59486,7 @@ sort: by_weight
 文武坝镇	wén;wi wǔ;vy bà;tb zhèn;jv	1
 文武砂镇	wén;wi wǔ;vy shā;uu zhèn;jv	1
 文喜代村	wén;wi xǐ;uk dài;ry cūn;mc	1
-汶溪周村	wèn;dw xī;dx zhōu;kj cūn;mc	1
+汶溪周村	wèn;dw xī;dx zhōu;kt cūn;mc	1
 温峡水库	wēn;dm xiá;uj shuǐ;ad kù;gi	1
 文新街道	wén;wi xīn;jq jiē;xg dào;zu	1
 文新社区	wén;wi xīn;jq shè;ut qū;ki	45
@@ -61503,7 +61496,7 @@ sort: by_weight
 西万坨村	xī;aa wàn;ag tuó;tt cūn;mc	1
 西湾新村	xī;aa wān;dw xīn;jq cūn;mc	1
 西万院村	xī;aa wàn;ag yuàn;ew cūn;mc	1
-溪湾周村	xī;dx wān;dw zhōu;kj cūn;mc	1
+溪湾周村	xī;dx wān;dw zhōu;kt cūn;mc	1
 西湾子村	xī;aa wān;dw zi;aa cūn;mc	1
 西湾子镇	xī;aa wān;dw zi;aa zhèn;jv	1
 西王车村	xī;aa wáng;aa chē;aa cūn;mc	1
@@ -61863,12 +61856,12 @@ sort: by_weight
 西中营村	xī;aa zhōng;aa yíng;cl cūn;mc	1
 西钟芝村	xī;aa zhōng;jv zhī;cv cūn;mc	1
 西中庄村	xī;aa zhōng;aa zhuāng;gt cūn;mc	1
-西周堡村	xī;aa zhōu;kj bǎo;tb cūn;mc	1
+西周堡村	xī;aa zhōu;kt bǎo;tb cūn;mc	1
 喜洲古镇	xǐ;uk zhōu;dv gǔ;uk zhèn;jv	1
-西周家村	xī;aa zhōu;kj jiā;bu cūn;mc	1
-西周家庄	xī;aa zhōu;kj jiā;bu zhuāng;gt	1
+西周家村	xī;aa zhōu;kt jiā;bu cūn;mc	1
+西周家庄	xī;aa zhōu;kt jiā;bu zhuāng;gt	1
 西洲街道	xī;aa zhōu;dv jiē;xg dào;zu	1
-西周庄村	xī;aa zhōu;kj zhuāng;gt cūn;mc	1
+西周庄村	xī;aa zhōu;kt zhuāng;gt cūn;mc	1
 西朱堡村	xī;aa zhū;pw bǎo;tb cūn;mc	1
 西竹昌村	xī;aa zhú;gg chāng;oo cūn;mc	1
 西朱崔村	xī;aa zhū;pw cuī;uv cūn;mc	1
@@ -62697,7 +62690,7 @@ sort: by_weight
 小板桥镇	xiǎo;ad bǎn;mf qiáo;mq zhèn;jv	1
 小葆台村	xiǎo;ad bǎo;cb tái;sk cūn;mc	1
 小堡台村	xiǎo;ad bǎo;tb tái;sk cūn;mc	0
-肖包周村	xiāo;xo bāo;gs zhōu;kj cūn;mc	1
+肖包周村	xiāo;xo bāo;gs zhōu;kt cūn;mc	1
 小北堡村	xiǎo;ad běi;ag bǎo;tb cūn;mc	1
 小北岔村	xiǎo;ad běi;ag chà;uf cūn;mc	1
 小北关村	xiǎo;ad běi;ag guān;qd cūn;mc	1
@@ -63120,7 +63113,7 @@ sort: by_weight
 小中甸乡	xiǎo;ad zhōng;aa diàn;gt xiāng;ap	1
 小中甸镇	xiǎo;ad zhōng;aa diàn;gt zhèn;jv	1
 小舟山乡	xiǎo;ad zhōu;pd shān;aa xiāng;ap	1
-小周易村	xiǎo;ad zhōu;kj yì;ow cūn;mc	1
+小周易村	xiǎo;ad zhōu;kt yì;ow cūn;mc	1
 小朱家村	xiǎo;ad zhū;pw jiā;bu cūn;mc	1
 小朱庄村	xiǎo;ad zhū;pw zhuāng;gt cūn;mc	1
 小朱庄乡	xiǎo;ad zhū;pw zhuāng;gt xiāng;ap	1
@@ -65669,7 +65662,7 @@ sort: by_weight
 腰站子乡	yāo;oy zhàn;lv zi;aa xiāng;ap	1
 姚杖子村	yáo;nv zhàng;mv zi;aa cūn;mc	1
 尧治河村	yáo;gw zhì;dt hé;dk cūn;mc	1
-姚周寨村	yáo;nv zhōu;kj zhài;mb cūn;mc	1
+姚周寨村	yáo;nv zhōu;kt zhài;mb cūn;mc	1
 腰庄河村	yāo;oy zhuāng;gt hé;dk cūn;mc	1
 姚庄子村	yáo;nv zhuāng;gt zǐ;aa cūn;mc	1
 崾子川村	yǎo;uy zǐ;aa chuān;pa cūn;mc	1
@@ -65801,6 +65794,7 @@ sort: by_weight
 宜船湾村	yí;bq chuán;vk wān;dw cūn;mc	1
 宜川五村	yí;bq chuān;pa wǔ;aa cūn;mc	1
 宜川新村	yí;bq chuān;pa xīn;jq cūn;mc	1
+宜春丰城	yí;bq chūn;of fēng;aa chéng;ti	10
 一簇烟村	yí;aa cù;vz yān;hy cūn;mc	1
 怡翠山庄	yí;xt cuì;yz shān;aa zhuāng;gt	1
 意大利站	yì;xy dà;ad lì;hd zhàn;lv	472
@@ -66173,7 +66167,7 @@ sort: by_weight
 阴山堂村	yīn;eo shān;aa táng;tk cūn;mc	1
 银山镇站	yín;jg shān;aa zhèn;jv zhàn;lv	76
 阴水坊村	yīn;eo shuǐ;ad fāng;tf cūn;mc	1
-尹宋周村	yǐn;ap sòng;bm zhōu;kj cūn;mc	1
+尹宋周村	yǐn;ap sòng;bm zhōu;kt cūn;mc	1
 印台街道	yìn;ey tái;sk jiē;xg dào;zu	1
 银台山村	yín;jg tái;sk shān;aa cūn;mc	1
 印堂子乡	yìn;ey táng;tk zi;aa xiāng;ap	1
@@ -67427,8 +67421,8 @@ sort: by_weight
 云中街道	yún;es zhōng;aa jiē;xg dào;zu	1
 运舟湖村	yùn;zy zhōu;pd hú;dh cūn;mc	1
 郓州街道	yùn;ej zhōu;id jiē;xg dào;zu	1
-云周街道	yún;es zhōu;kj jiē;xg dào;zu	0
-云周西村	yún;es zhōu;kj xī;aa cūn;mc	1
+云周街道	yún;es zhōu;kt jiē;xg dào;zu	0
+云周西村	yún;es zhōu;kt xī;aa cūn;mc	1
 芸洲子村	yún;cy zhōu;dv zǐ;aa cūn;mc	1
 杂谷脑镇	zá;jm gǔ;bk nǎo;ox zhèn;jv	1
 杂贺崎村	zá;jm hè;bj qí;uq cūn;mc	1
@@ -67627,6 +67621,7 @@ sort: by_weight
 战驾庄村	zhàn;gv jià;mj zhuāng;gt cūn;mc	1
 詹家庄村	zhān;yb jiā;bu zhuāng;gt cūn;mc	0
 栈尖坞村	zhàn;mj jiān;xd wù;tw cūn;mc	1
+湛江奋勇	zhàn;du jiāng;dg fèn;dt yǒng;ly	10
 瞻江街道	zhān;ov jiāng;dg jiē;xg dào;zu	1
 湛江西站	zhàn;du jiāng;dg xī;aa zhàn;lv	369
 湛郎街道	zhàn;du láng;el jiē;xg dào;zu	1
@@ -67689,7 +67684,7 @@ sort: by_weight
 张村驿村	zhāng;gi cūn;mc yì;mf cūn;mc	1
 张村驿镇	zhāng;gi cūn;mc yì;mf zhèn;jv	1
 张村寨村	zhāng;gi cūn;mc zhài;mb cūn;mc	1
-仉村周村	zhǎng;rj cūn;mc zhōu;kj cūn;mc	1
+仉村周村	zhǎng;rj cūn;mc zhōu;kt cūn;mc	1
 张大庄乡	zhāng;gi dà;ad zhuāng;gt xiāng;ap	1
 张大庄镇	zhāng;gi dà;ad zhuāng;gt zhèn;jv	1
 张代河村	zhāng;gi dài;ry hé;dk cūn;mc	1
@@ -68640,6 +68635,7 @@ sort: by_weight
 镇元柏村	zhèn;jv yuán;aw bǎi;mb cūn;mc	1
 镇远古镇	zhèn;jv yuǎn;zy gǔ;uk zhèn;jv	1
 真源街道	zhēn;uj yuán;dy jiē;xg dào;zu	1
+镇沅彝族	zhèn;jv yuán;dy yí;jc zú;fu	10
 镇云茂村	zhèn;jv yún;es mào;cw cūn;mc	1
 镇云潭镇	zhèn;jv yún;es tán;dt zhèn;jv	1
 镇扎佐镇	zhèn;jv zhā;fg zuǒ;rz zhèn;jv	1
@@ -69191,135 +69187,135 @@ sort: by_weight
 钟庄街道	zhōng;jv zhuāng;gt jiē;xg dào;zu	0
 冢子坡村	zhǒng;bd zǐ;aa pō;tp cūn;mc	1
 冢子庄村	zhǒng;bd zǐ;aa zhuāng;gt cūn;mc	1
-周隘陈村	zhōu;kj ài;ey chén;ed cūn;mc	1
+周隘陈村	zhōu;kt ài;ey chén;ed cūn;mc	1
 舟白街道	zhōu;pd bái;pa jiē;xg dào;zu	1
-周邶墩村	zhōu;kj bèi;eb dūn;td cūn;mc	1
-周边区县	zhōu;kj biān;zl qū;ki xiàn;sq	1
-周草庙村	zhōu;kj cǎo;cz miào;gy cūn;mc	1
+周邶墩村	zhōu;kt bèi;eb dūn;td cūn;mc	1
+周边区县	zhōu;kt biān;zl qū;ki xiàn;sq	1
+周草庙村	zhōu;kt cǎo;cz miào;gy cūn;mc	1
 州城街道	zhōu;id chéng;ti jiē;xg dào;zu	1
 州春绿村	zhōu;id chūn;of lǜ;sl cūn;mc	1
-周村西庄	zhōu;kj cūn;mc xī;aa zhuāng;gt	1
-周厝仑庄	zhōu;kj cuò;ix lún;rb zhuāng;gt	1
-周堤口村	zhōu;kj dī;tu kǒu;aa cūn;mc	1
+周村西庄	zhōu;kt cūn;mc xī;aa zhuāng;gt	1
+周厝仑庄	zhōu;kt cuò;ix lún;rb zhuāng;gt	1
+周堤口村	zhōu;kt dī;tu kǒu;aa cūn;mc	1
 粥店街道	zhōu;mg diàn;gv jiē;xg dào;zu	1
-周顶屯村	zhōu;kj dǐng;yd tún;ag cūn;mc	1
-周东新村	zhōu;kj dōng;ad xīn;jq cūn;mc	1
-周段头村	zhōu;kj duàn;ud tóu;dd cūn;mc	1
-周圪崂村	zhōu;kj gē;tq láo;ul cūn;mc	1
-周圪坨村	zhōu;kj gē;tq tuó;tt cūn;mc	1
-周戈庄村	zhōu;kj gē;ad zhuāng;gt cūn;mc	1
-周格庄村	zhōu;kj gé;mg zhuāng;gt cūn;mc	0
-周戈庄镇	zhōu;kj gē;ad zhuāng;gt zhèn;jv	1
-周公山镇	zhōu;kj gōng;sb shān;aa zhèn;jv	1
-周公宅村	zhōu;kj gōng;sb zhái;bq cūn;mc	1
-周官桥乡	zhōu;kj guān;bg qiáo;mq xiāng;ap	1
-周官屯村	zhōu;kj guān;bg tún;ag cūn;mc	1
-周官营村	zhōu;kj guān;bg yíng;cl cūn;mc	1
-周官庄村	zhōu;kj guān;bg zhuāng;gt cūn;mc	1
+周顶屯村	zhōu;kt dǐng;yd tún;ag cūn;mc	1
+周东新村	zhōu;kt dōng;ad xīn;jq cūn;mc	1
+周段头村	zhōu;kt duàn;ud tóu;dd cūn;mc	1
+周圪崂村	zhōu;kt gē;tq láo;ul cūn;mc	1
+周圪坨村	zhōu;kt gē;tq tuó;tt cūn;mc	1
+周戈庄村	zhōu;kt gē;ad zhuāng;gt cūn;mc	1
+周格庄村	zhōu;kt gé;mg zhuāng;gt cūn;mc	0
+周戈庄镇	zhōu;kt gē;ad zhuāng;gt zhèn;jv	1
+周公山镇	zhōu;kt gōng;sb shān;aa zhèn;jv	1
+周公宅村	zhōu;kt gōng;sb zhái;bq cūn;mc	1
+周官桥乡	zhōu;kt guān;bg qiáo;mq xiāng;ap	1
+周官屯村	zhōu;kt guān;bg tún;ag cūn;mc	1
+周官营村	zhōu;kt guān;bg yíng;cl cūn;mc	1
+周官庄村	zhōu;kt guān;bg zhuāng;gt cūn;mc	1
 洲河北村	zhōu;dv hé;dk běi;ag cūn;mc	1
-周河湾村	zhōu;kj hé;dk wān;dw cūn;mc	1
+周河湾村	zhōu;kt hé;dk wān;dw cūn;mc	1
 州河湾镇	zhōu;id hé;dk wān;dw zhèn;jv	1
-周洪庄村	zhōu;kj hóng;dg zhuāng;gt cūn;mc	1
-周矶街道	zhōu;kj jī;uj jiē;xg dào;zu	1
-周家岙村	zhōu;kj jiā;bu ào;uy cūn;mc	1
-周夹岙村	zhōu;kj jiā;fb ào;uy cūn;mc	0
-周家坝镇	zhōu;kj jiā;bu bà;tb zhèn;jv	1
-周家浜村	zhōu;kj jiā;bu bāng;db cūn;mc	1
-周家堡村	zhōu;kj jiā;bu bǎo;tb cūn;mc	1
-周家埠村	zhōu;kj jiā;bu bù;tf cūn;mc	1
-周家城村	zhōu;kj jiā;bu chéng;ti cūn;mc	1
-周家冲村	zhōu;kj jiā;bu chōng;dv cūn;mc	1
-周家埭村	zhōu;kj jiā;bu dài;tl cūn;mc	1
-周家道村	zhōu;kj jiā;bu dào;zu cūn;mc	1
-周家地村	zhōu;kj jiā;bu dì;ty cūn;mc	1
-周家店村	zhōu;kj jiā;bu diàn;gv cūn;mc	1
-周家店镇	zhōu;kj jiā;bu diàn;gv zhèn;jv	1
-周家段村	zhōu;kj jiā;bu duàn;ud cūn;mc	1
-周家畈村	zhōu;kj jiā;bu fàn;tf cūn;mc	1
-周家港村	zhōu;kj jiā;bu gǎng;dx cūn;mc	1
-周家岗村	zhōu;kj jiā;bu gǎng;ug cūn;mc	0
-周家阁村	zhōu;kj jiā;bu gé;mg cūn;mc	1
-周家沟村	zhōu;kj jiā;bu gōu;dg cūn;mc	1
-周家硷镇	zhōu;kj jiā;bu jiǎn;ua zhèn;jv	1
-周家街村	zhōu;kj jiā;bu jiē;xg cūn;mc	1
-周家街道	zhōu;kj jiā;bu jiē;xg dào;zu	1
-周家路村	zhōu;kj jiā;bu lù;zg cūn;mc	1
-周家坡村	zhōu;kj jiā;bu pō;tp cūn;mc	1
-周家铺村	zhōu;kj jiā;bu pù;jf cūn;mc	1
-周家泉村	zhōu;kj jiā;bu quán;ub cūn;mc	1
-周家山镇	zhōu;kj jiā;bu shān;aa zhèn;jv	1
-周家寺村	zhōu;kj jiā;bu sì;ct cūn;mc	1
-周家台村	zhōu;kj jiā;bu tái;sk cūn;mc	1
-周家滩村	zhōu;kj jiā;bu tān;dn cūn;mc	1
-周家堂村	zhōu;kj jiā;bu táng;tk cūn;mc	1
-周家湾村	zhōu;kj jiā;bu wān;dw cūn;mc	1
-周家窝堡	zhōu;kj jiā;bu wō;xn bǎo;tb	1
-周家巷村	zhōu;kj jiā;bu xiàng;sg cūn;mc	1
-周家墕村	zhōu;kj jiā;bu yàn;ty cūn;mc	1
-周家堰村	zhōu;kj jiā;bu yàn;tn cūn;mc	0
-周家窑村	zhōu;kj jiā;bu yáo;xf cūn;mc	1
-周家营村	zhōu;kj jiā;bu yíng;cl cūn;mc	1
-周家峪村	zhōu;kj jiā;bu yù;ug cūn;mc	1
-周家塬村	zhōu;kj jiā;bu yuán;ty cūn;mc	1
-周家院村	zhōu;kj jiā;bu yuàn;ew cūn;mc	0
-周家寨村	zhōu;kj jiā;bu zhài;mb cūn;mc	1
-周家庄村	zhōu;kj jiā;bu zhuāng;gt cūn;mc	1
-周家庄乡	zhōu;kj jiā;bu zhuāng;gt xiāng;ap	1
+周洪庄村	zhōu;kt hóng;dg zhuāng;gt cūn;mc	1
+周矶街道	zhōu;kt jī;uj jiē;xg dào;zu	1
+周家岙村	zhōu;kt jiā;bu ào;uy cūn;mc	1
+周夹岙村	zhōu;kt jiā;fb ào;uy cūn;mc	0
+周家坝镇	zhōu;kt jiā;bu bà;tb zhèn;jv	1
+周家浜村	zhōu;kt jiā;bu bāng;db cūn;mc	1
+周家堡村	zhōu;kt jiā;bu bǎo;tb cūn;mc	1
+周家埠村	zhōu;kt jiā;bu bù;tf cūn;mc	1
+周家城村	zhōu;kt jiā;bu chéng;ti cūn;mc	1
+周家冲村	zhōu;kt jiā;bu chōng;dv cūn;mc	1
+周家埭村	zhōu;kt jiā;bu dài;tl cūn;mc	1
+周家道村	zhōu;kt jiā;bu dào;zu cūn;mc	1
+周家地村	zhōu;kt jiā;bu dì;ty cūn;mc	1
+周家店村	zhōu;kt jiā;bu diàn;gv cūn;mc	1
+周家店镇	zhōu;kt jiā;bu diàn;gv zhèn;jv	1
+周家段村	zhōu;kt jiā;bu duàn;ud cūn;mc	1
+周家畈村	zhōu;kt jiā;bu fàn;tf cūn;mc	1
+周家港村	zhōu;kt jiā;bu gǎng;dx cūn;mc	1
+周家岗村	zhōu;kt jiā;bu gǎng;ug cūn;mc	0
+周家阁村	zhōu;kt jiā;bu gé;mg cūn;mc	1
+周家沟村	zhōu;kt jiā;bu gōu;dg cūn;mc	1
+周家硷镇	zhōu;kt jiā;bu jiǎn;ua zhèn;jv	1
+周家街村	zhōu;kt jiā;bu jiē;xg cūn;mc	1
+周家街道	zhōu;kt jiā;bu jiē;xg dào;zu	1
+周家路村	zhōu;kt jiā;bu lù;zg cūn;mc	1
+周家坡村	zhōu;kt jiā;bu pō;tp cūn;mc	1
+周家铺村	zhōu;kt jiā;bu pù;jf cūn;mc	1
+周家泉村	zhōu;kt jiā;bu quán;ub cūn;mc	1
+周家山镇	zhōu;kt jiā;bu shān;aa zhèn;jv	1
+周家寺村	zhōu;kt jiā;bu sì;ct cūn;mc	1
+周家台村	zhōu;kt jiā;bu tái;sk cūn;mc	1
+周家滩村	zhōu;kt jiā;bu tān;dn cūn;mc	1
+周家堂村	zhōu;kt jiā;bu táng;tk cūn;mc	1
+周家湾村	zhōu;kt jiā;bu wān;dw cūn;mc	1
+周家窝堡	zhōu;kt jiā;bu wō;xn bǎo;tb	1
+周家巷村	zhōu;kt jiā;bu xiàng;sg cūn;mc	1
+周家墕村	zhōu;kt jiā;bu yàn;ty cūn;mc	1
+周家堰村	zhōu;kt jiā;bu yàn;tn cūn;mc	0
+周家窑村	zhōu;kt jiā;bu yáo;xf cūn;mc	1
+周家营村	zhōu;kt jiā;bu yíng;cl cūn;mc	1
+周家峪村	zhōu;kt jiā;bu yù;ug cūn;mc	1
+周家塬村	zhōu;kt jiā;bu yuán;ty cūn;mc	1
+周家院村	zhōu;kt jiā;bu yuàn;ew cūn;mc	0
+周家寨村	zhōu;kt jiā;bu zhài;mb cūn;mc	1
+周家庄村	zhōu;kt jiā;bu zhuāng;gt cūn;mc	1
+周家庄乡	zhōu;kt jiā;bu zhuāng;gt xiāng;ap	1
 州客运站	zhōu;id kè;bg yùn;zy zhàn;lv	310
-周口店村	zhōu;kj kǒu;aa diàn;gv cūn;mc	1
-周口店镇	zhōu;kj kǒu;aa diàn;gv zhèn;jv	1
-周口街道	zhōu;kj kǒu;aa jiē;xg dào;zu	1
-周老嘴镇	zhōu;kj lǎo;lb zuǐ;kj zhèn;jv	1
-周李庄村	zhōu;kj lǐ;mz zhuāng;gt cūn;mc	1
-周李庄站	zhōu;kj lǐ;mz zhuāng;gt zhàn;lv	130
-周良街道	zhōu;kj liáng;dg jiē;xg dào;zu	1
-周良庄镇	zhōu;kj liáng;dg zhuāng;gt zhèn;jv	1
-周陵街道	zhōu;kj líng;el jiē;xg dào;zu	1
-周龙华村	zhōu;kj lóng;ad huá;uh cūn;mc	1
-周锣铺村	zhōu;kj luó;jl pù;jf cūn;mc	1
-周罗文村	zhōu;kj luó;sx wén;wi cūn;mc	1
+周口店村	zhōu;kt kǒu;aa diàn;gv cūn;mc	1
+周口店镇	zhōu;kt kǒu;aa diàn;gv zhèn;jv	1
+周口街道	zhōu;kt kǒu;aa jiē;xg dào;zu	1
+周老嘴镇	zhōu;kt lǎo;lb zuǐ;kj zhèn;jv	1
+周李庄村	zhōu;kt lǐ;mz zhuāng;gt cūn;mc	1
+周李庄站	zhōu;kt lǐ;mz zhuāng;gt zhàn;lv	130
+周良街道	zhōu;kt liáng;dg jiē;xg dào;zu	1
+周良庄镇	zhōu;kt liáng;dg zhuāng;gt zhèn;jv	1
+周陵街道	zhōu;kt líng;el jiē;xg dào;zu	1
+周龙华村	zhōu;kt lóng;ad huá;uh cūn;mc	1
+周锣铺村	zhōu;kt luó;jl pù;jf cūn;mc	1
+周罗文村	zhōu;kt luó;sx wén;wi cūn;mc	1
 州门司镇	zhōu;id mén;dg sī;gk zhèn;jv	1
-周棚街道	zhōu;kj péng;mp jiē;xg dào;zu	1
-周坡庄村	zhōu;kj pō;tp zhuāng;gt cūn;mc	1
-周起营村	zhōu;kj qǐ;zj yíng;cl cūn;mc	1
+周棚街道	zhōu;kt péng;mp jiē;xg dào;zu	1
+周坡庄村	zhōu;kt pō;tp zhuāng;gt cūn;mc	1
+周起营村	zhōu;kt qǐ;zj yíng;cl cūn;mc	1
 州桥街道	zhōu;id qiáo;mq jiē;xg dào;zu	1
-周桥新村	zhōu;kj qiáo;mq xīn;jq cūn;mc	1
+周桥新村	zhōu;kt qiáo;mq xīn;jq cūn;mc	1
 洲瑞林场	zhōu;dv ruì;we lín;mm chǎng;ty	1
-周山头村	zhōu;kj shān;aa tóu;dd cūn;mc	1
-周石窑村	zhōu;kj shí;kp yáo;xf cūn;mc	1
-周士庄镇	zhōu;kj shì;aa zhuāng;gt zhèn;jv	1
-周树塬村	zhōu;kj shù;md yuán;ty cūn;mc	1
-周宋寨村	zhōu;kj sòng;bm zhài;mb cūn;mc	1
-周台子村	zhōu;kj tái;sk zi;aa cūn;mc	1
-周台子乡	zhōu;kj tái;sk zi;aa xiāng;ap	1
-周塘东村	zhōu;kj táng;tt dōng;ad cūn;mc	1
-周塘西村	zhōu;kj táng;tt xī;aa cūn;mc	1
+周山头村	zhōu;kt shān;aa tóu;dd cūn;mc	1
+周石窑村	zhōu;kt shí;kp yáo;xf cūn;mc	1
+周士庄镇	zhōu;kt shì;aa zhuāng;gt zhèn;jv	1
+周树塬村	zhōu;kt shù;md yuán;ty cūn;mc	1
+周宋寨村	zhōu;kt sòng;bm zhài;mb cūn;mc	1
+周台子村	zhōu;kt tái;sk zi;aa cūn;mc	1
+周台子乡	zhōu;kt tái;sk zi;aa xiāng;ap	1
+周塘东村	zhōu;kt táng;tt dōng;ad cūn;mc	1
+周塘西村	zhōu;kt táng;tt xī;aa cūn;mc	1
 洲头街道	zhōu;dv tóu;dd jiē;xg dào;zu	1
-周坨子乡	zhōu;kj tuó;tt zi;aa xiāng;ap	1
-周坨子镇	zhōu;kj tuó;tt zi;aa zhèn;jv	1
-周洼新村	zhōu;kj wā;dg xīn;jq cūn;mc	1
-周万沟村	zhōu;kj wàn;ag gōu;dg cūn;mc	1
-周王庙镇	zhōu;kj wáng;aa miào;gy zhèn;jv	1
-周王庄村	zhōu;kj wáng;aa zhuāng;gt cūn;mc	1
-周圩子村	zhōu;kj wéi;ty zǐ;aa cūn;mc	1
-周文庙乡	zhōu;kj wén;wi miào;gy xiāng;ap	1
-周吴岕村	zhōu;kj wú;kt jiè;uj cūn;mc	1
-周坞山村	zhōu;kj wù;tw shān;aa cūn;mc	1
+周坨子乡	zhōu;kt tuó;tt zi;aa xiāng;ap	1
+周坨子镇	zhōu;kt tuó;tt zi;aa zhèn;jv	1
+周洼新村	zhōu;kt wā;dg xīn;jq cūn;mc	1
+周万沟村	zhōu;kt wàn;ag gōu;dg cūn;mc	1
+周王庙镇	zhōu;kt wáng;aa miào;gy zhèn;jv	1
+周王庄村	zhōu;kt wáng;aa zhuāng;gt cūn;mc	1
+周圩子村	zhōu;kt wéi;ty zǐ;aa cūn;mc	1
+周文庙乡	zhōu;kt wén;wi miào;gy xiāng;ap	1
+周吴岕村	zhōu;kt wú;kt jiè;uj cūn;mc	1
+周坞山村	zhōu;kt wù;tw shān;aa cūn;mc	1
 洲心街道	zhōu;dv xīn;dd jiē;xg dào;zu	1
-周辛庄村	zhōu;kj xīn;lu zhuāng;gt cūn;mc	1
-周新庄村	zhōu;kj xīn;jq zhuāng;gt cūn;mc	0
-周岩头村	zhōu;kj yán;uu tóu;dd cūn;mc	1
-周羊庄村	zhōu;kj yáng;da zhuāng;gt cūn;mc	1
-周营子村	zhōu;kj yíng;cl zi;aa cūn;mc	1
-周玉堂村	zhōu;kj yù;wd táng;tk cūn;mc	1
-周园子村	zhōu;kj yuán;ky zi;aa cūn;mc	1
-周宅新村	zhōu;kj zhái;bq xīn;jq cūn;mc	1
-周张坡村	zhōu;kj zhāng;gi pō;tp cūn;mc	1
-周杖子村	zhōu;kj zhàng;mv zi;aa cūn;mc	1
-周赵庄村	zhōu;kj zhào;zi zhuāng;gt cūn;mc	1
-周庄街道	zhōu;kj zhuāng;gt jiē;xg dào;zu	1
-周庄子村	zhōu;kj zhuāng;gt zǐ;aa cūn;mc	1
-周子坪村	zhōu;kj zǐ;aa píng;tp cūn;mc	1
+周辛庄村	zhōu;kt xīn;lu zhuāng;gt cūn;mc	1
+周新庄村	zhōu;kt xīn;jq zhuāng;gt cūn;mc	0
+周岩头村	zhōu;kt yán;uu tóu;dd cūn;mc	1
+周羊庄村	zhōu;kt yáng;da zhuāng;gt cūn;mc	1
+周营子村	zhōu;kt yíng;cl zi;aa cūn;mc	1
+周玉堂村	zhōu;kt yù;wd táng;tk cūn;mc	1
+周园子村	zhōu;kt yuán;ky zi;aa cūn;mc	1
+周宅新村	zhōu;kt zhái;bq xīn;jq cūn;mc	1
+周张坡村	zhōu;kt zhāng;gi pō;tp cūn;mc	1
+周杖子村	zhōu;kt zhàng;mv zi;aa cūn;mc	1
+周赵庄村	zhōu;kt zhào;zi zhuāng;gt cūn;mc	1
+周庄街道	zhōu;kt zhuāng;gt jiē;xg dào;zu	1
+周庄子村	zhōu;kt zhuāng;gt zǐ;aa cūn;mc	1
+周子坪村	zhōu;kt zǐ;aa píng;tp cūn;mc	1
 竹阿觉乡	zhú;gg ā;ek jué;jb xiāng;ap	1
 竹阿觉镇	zhú;gg ā;ek jué;jb zhèn;jv	1
 朱艾龙县	zhū;pw ài;ci lóng;ad xiàn;sq	1
@@ -69720,7 +69716,7 @@ sort: by_weight
 庄中角庄	zhuāng;gt zhōng;aa jiǎo;dy zhuāng;gt	1
 庄中崎庄	zhuāng;gt zhōng;aa qí;uq zhuāng;gt	1
 庄中芸庄	zhuāng;gt zhōng;aa yún;cy zhuāng;gt	1
-庄周街道	zhuāng;gt zhōu;kj jiē;xg dào;zu	1
+庄周街道	zhuāng;gt zhōu;kt jiē;xg dào;zu	1
 庄壮二庄	zhuāng;gt zhuàng;up èr;aa zhuāng;gt	1
 庄子沟村	zhuāng;gt zǐ;aa gōu;dg cūn;mc	1
 庄子头村	zhuāng;gt zǐ;aa tóu;dd cūn;mc	1
@@ -69759,7 +69755,7 @@ sort: by_weight
 自贡荣县	zì;pa gòng;bg róng;cm xiàn;sq	1
 紫汉沟村	zǐ;sc hàn;dy gōu;dg cūn;mc	1
 淄河店村	zī;dt hé;dk diàn;gv cūn;mc	1
-滋合周村	zī;dz hé;rk zhōu;kj cūn;mc	1
+滋合周村	zī;dz hé;rk zhōu;kt cūn;mc	1
 紫洪山村	zǐ;sc hóng;dg shān;aa cūn;mc	1
 訾家灌庄	zī;yc jiā;bu guàn;dv zhuāng;gt	1
 訾家山村	zī;yc jiā;bu shān;aa cūn;mc	1
@@ -70788,7 +70784,11 @@ sort: by_weight
 复兴圩农场	fù;wo xīng;ba wéi;ty nóng;by chǎng;ty	1
 阜阳市乡镇	fù;pu yáng;eo shì;wj xiāng;ap zhèn;jv	1
 富源路街道	fù;bf yuán;dy lù;zg jiē;xg dào;zu	1
+福州高新区	fú;uf zhōu;id gāo;wk xīn;jq qū;ki	12
+抚州高新区	fǔ;fw zhōu;id gāo;wk xīn;jq qū;ki	10
 抚州市乡镇	fǔ;fw zhōu;id shì;wj xiāng;ap zhèn;jv	1
+福州市政府	fú;uf zhōu;id shì;wj zhèng;wv fǔ;gf	12
+抚州市政府	fǔ;fw zhōu;id shì;wj zhèng;wv fǔ;gf	10
 复州湾街道	fù;wo zhōu;id wān;dw jiē;xg dào;zu	1
 夫子庙街道	fū;ad zǐ;aa miào;gy jiē;xg dào;zu	1
 尕巴松多镇	gǎ;xn bā;ag sōng;mg duō;xx zhèn;jv	1
@@ -71543,7 +71543,7 @@ sort: by_weight
 孔目江街道	kǒng;zg mù;aa jiāng;dg jiē;xg dào;zu	1
 库尔德宁镇	kù;gi ěr;dx dé;xx níng;bd zhèn;jv	1
 库木巴什乡	kù;gi mù;ad bā;ag shí;ru xiāng;ap	1
-宽敞的街道	kuān;bj chǎng;wu de;bu jiē;xg dào;zu	1
+宽敞的街道	kuān;bj chang;wu de;bu jiē;xg dào;zu	1
 宽阔的街道	kuān;bj kuò;mh de;bu jiē;xg dào;zu	1
 矿工路街道	kuàng;ug gōng;aa lù;zg jiē;xg dào;zu	1
 矿山集街道	kuàng;ug shān;aa jí;vm jiē;xg dào;zu	1
@@ -71625,7 +71625,7 @@ sort: by_weight
 丽新畲族乡	lì;ad xīn;jq shē;tu zú;fu xiāng;ap	1
 黎阳路街道	lí;hu yáng;eo lù;zg jiē;xg dào;zu	1
 鲤鱼山街道	lǐ;yl yú;da shān;aa jiē;xg dào;zu	1
-利周瑶族乡	lì;hd zhōu;kj yáo;wf zú;fu xiāng;ap	1
+利周瑶族乡	lì;hd zhōu;kt yáo;wf zú;fu xiāng;ap	1
 联纺东街道	lián;eg fǎng;sf dōng;ad jiē;xg dào;zu	1
 联纺西街道	lián;eg fǎng;sf xī;aa jiē;xg dào;zu	1
 联港工业区	lián;eg gǎng;dx gōng;aa yè;aa qū;ki	1
@@ -73606,18 +73606,18 @@ sort: by_weight
 中原路街道	zhōng;aa yuán;ix lù;zg jiē;xg dào;zu	1
 中州路街道	zhōng;aa zhōu;id lù;zg jiē;xg dào;zu	1
 中专路街道	zhōng;aa zhuān;ad lù;zg jiē;xg dào;zu	1
-周矶管理区	zhōu;kj jī;uj guǎn;vg lǐ;wl qū;ki	1
-周家坝街道	zhōu;kj jiā;bu bà;tb jiē;xg dào;zu	1
-周家渡街道	zhōu;kj jiā;bu dù;dd jiē;xg dào;zu	1
-周家桥街道	zhōu;kj jiā;bu qiáo;mq jiē;xg dào;zu	1
-周家泉街道	zhōu;kj jiā;bu quán;ub jiē;xg dào;zu	1
-周口店地区	zhōu;kj kǒu;aa diàn;gv dì;ty qū;ki	1
-周路口街道	zhōu;kj lù;zg kǒu;aa jiē;xg dào;zu	1
-周山路街道	zhōu;kj shān;aa lù;zg jiē;xg dào;zu	1
-周山畲族乡	zhōu;kj shān;aa shē;tu zú;fu xiāng;ap	1
+周矶管理区	zhōu;kt jī;uj guǎn;vg lǐ;wl qū;ki	1
+周家坝街道	zhōu;kt jiā;bu bà;tb jiē;xg dào;zu	1
+周家渡街道	zhōu;kt jiā;bu dù;dd jiē;xg dào;zu	1
+周家桥街道	zhōu;kt jiā;bu qiáo;mq jiē;xg dào;zu	1
+周家泉街道	zhōu;kt jiā;bu quán;ub jiē;xg dào;zu	1
+周口店地区	zhōu;kt kǒu;aa diàn;gv dì;ty qū;ki	1
+周路口街道	zhōu;kt lù;zg kǒu;aa jiē;xg dào;zu	1
+周山路街道	zhōu;kt shān;aa lù;zg jiē;xg dào;zu	1
+周山畲族乡	zhōu;kt shān;aa shē;tu zú;fu xiāng;ap	1
 舟山市街道	zhōu;pd shān;aa shì;wj jiē;xg dào;zu	1
 舟水桥街道	zhōu;pd shuǐ;ad qiáo;mq jiē;xg dào;zu	1
-周水子街道	zhōu;kj shuǐ;ad zi;aa jiē;xg dào;zu	1
+周水子街道	zhōu;kt shuǐ;ad zi;aa jiē;xg dào;zu	1
 诸福屯街道	zhū;yv fú;uf tún;ag jiē;xg dào;zu	1
 珠海路街道	zhū;wv hǎi;dm lù;zg jiē;xg dào;zu	1
 渚河路街道	zhǔ;dv hé;dk lù;zg jiē;xg dào;zu	1
@@ -74634,7 +74634,7 @@ sort: by_weight
 辛家山林业场	xīn;lu jiā;bu shān;aa lín;mm yè;aa chǎng;ty	1
 新江湾城街道	xīn;jq jiāng;dg wān;dw chéng;ti jiē;xg dào;zu	1
 新能源产业园	xīn;jq néng;sb yuán;dy chǎn;wi yè;aa yuán;ky
-新祺周管理处	xīn;jq qí;uq zhōu;kj guǎn;vg lǐ;wl chù;wb
+新祺周管理处	xīn;jq qí;uq zhōu;kt guǎn;vg lǐ;wl chù;wb
 新山傈僳族乡	xīn;jq shān;aa lì;rl sù;rs zú;fu xiāng;ap	1
 新世纪工业园	xīn;jq shì;ca jì;sj gōng;aa yè;aa yuán;ky
 新添堡回族乡	xīn;jq tiān;dt bǎo;tb huí;kk zú;fu xiāng;ap	1
@@ -75396,7 +75396,7 @@ sort: by_weight
 中建苗族彝族乡	zhōng;aa jiàn;zy miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 中卫山羊选育场	zhōng;aa wèi;ga shān;aa yáng;da xuǎn;zx yù;os chǎng;ty	1
 中新天津生态城	zhōng;aa xīn;jq tiān;ad jīn;dy shēng;na tài;xt chéng;ti
-周口临港开发区	zhōu;kj kǒu;aa lín;ao gǎng;dx kāi;ac fā;ay qū;ki	1
+周口临港开发区	zhōu;kt kǒu;aa lín;ao gǎng;dx kāi;ac fā;ay qū;ki	1
 猪场苗族彝族乡	zhū;qv chǎng;ty miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 诸城经济开发区	zhū;yv chéng;ti jīng;sg jì;dq kāi;ac fā;ay qū;ki
 竹园彝族苗族乡	zhú;gg yuán;ky yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1

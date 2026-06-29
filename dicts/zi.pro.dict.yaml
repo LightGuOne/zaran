@@ -3319,7 +3319,7 @@ sort: by_weight
 儳	chán;ri	1
 毚	chán;dt	1
 冁	chǎn;dv	1
-瀺	chán;dt	1
+瀺	chán;di	1
 剷	chǎn;di	1
 鄽	chán;ei	1
 湹	chán;dl	1
@@ -11678,8 +11678,8 @@ sort: by_weight
 规	guī;fj	9112
 柜	guì;mj	3108
 归	guī;ax	3045
-轨	guǐ;ij	2984
-鬼	guǐ;pd	2834
+鬼	guǐ;pd	2984
+轨	guǐ;ij	2834
 桂	guì;mg	1012
 瑰	guī;wg	599
 龟	guī;dd	569
@@ -12538,7 +12538,7 @@ sort: by_weight
 𪐦	hāng;hk	1
 𪕇	hāng;uk	1
 𪗜	háng;ik	1
-好	hǎo;nz	391074
+好	hǎo;nz	6391074
 号	hào;kk	36961
 好	hào;nz	36221
 豪	háo;ub	2631
@@ -14905,6 +14905,7 @@ sort: by_weight
 脊	jǐ;od	32
 饥	jī;uj	30
 𫓹	jī;jq	21
+𬶨	jì;yj	19
 矶	jī;uj	17
 稽	jī;hv	16
 冀	jì;bg	15
@@ -15160,7 +15161,6 @@ sort: by_weight
 㡭	jì;ya	1
 𧐐	jī;iz	1
 𫌀	jī;yz	1
-𬶨	jì;yj	1
 㧀	jí;hj	1
 鸄	jī;nj	1
 𠮯	jǐ;kj	1
@@ -26635,6 +26635,7 @@ sort: by_weight
 拧	nìng;fn	64
 寕	níng;bd	55
 獰	níng;qn	50
+𡩋	níng;br	47
 嬣	níng;nn	45
 倿	nìng;rq	40
 鑏	níng;jn	36
@@ -26651,6 +26652,7 @@ sort: by_weight
 擰	nǐng;fn	1
 橣	níng;mn	1
 甯	nìng;by	1
+𡩋	nìng;br	1
 㝕	níng;by	1
 㣷	nìng;xn	1
 㩶	nǐng;fe	1
@@ -31715,7 +31717,7 @@ sort: by_weight
 𨋚	ruǎn;iy	1
 𨒩	ruǎn;ze	1
 𨨰	ruàn;jd	1
-𨪳	ruàn;jd	1
+𨪳	ruàn;jh	1
 𩏈	ruǎn;wy	1
 瑞	ruì;we	2575
 锐	ruì;jd	2318
@@ -32877,9 +32879,9 @@ sort: by_weight
 肾	shèn;oy	768
 参	shēn;sp	729
 渗	shèn;dc	692
-绅	shēn;su	376
-娠	shēn;ni	338
-婶	shěn;nu	321
+婶	shěn;nu	376
+绅	shēn;su	338
+娠	shēn;ni	321
 莘	shēn;cx	274
 呻	shēn;ku	247
 砷	shēn;uu	234
@@ -49361,7 +49363,7 @@ sort: by_weight
 𫝟	zhòng;tl	1
 𫟆	zhòng;sv	1
 𬑔	zhòng;sd	1
-周	zhōu;kj	34964
+周	zhōu;kt	34964
 州	zhōu;id	10839
 洲	zhōu;dv	3062
 骤	zhòu;mj	2724
