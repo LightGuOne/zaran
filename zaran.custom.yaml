@@ -1,5 +1,11 @@
 patch:
-  style/+: 
+  # show_notifications: false
+  # style/+: 
+  #   preedit_type: preview
+  #   inline_preedit: true
+  #   layout:
+  #     margin_x: -10
+
   schema/dependencies/+:
     - wanxiang_reverse               # 反查
     - chaifen
@@ -7,7 +13,7 @@ patch:
 
 
   engine/processors/@before 2: lua_processor@*kagiroi/kagiroi_kana_speller  # 需要在key_binder后面
-  engine/segmentors/@before 2: lua_segmentor@*mylua.paired_punct            # 成对符号
+  # engine/segmentors/@before 2: lua_segmentor@*mylua.paired_punct            # 成对符号
   engine/segmentors/@before 3: affix_segmentor@kagiroi                      # 需要在abc_segmentor前面
   engine/segmentors/@before 4: affix_segmentor@reverse_wanxiang
   engine/translators/+:
@@ -23,8 +29,8 @@ patch:
     - { when: composing, accept: "Control+g", toggle: extended_charset }            # 大小字符集
     - { when: has_menu, accept: "Control+s", toggle: tone_display }                 # 拼音显示
     - { when: has_menu, accept: "Control+b", toggle: chaifen_switch }               # 补全信息开关
-    - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }             # 切换用字标准 
-    - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_opencc }    # 切换用字标准 
+    # - { when: has_menu, accept: "Control+0", toggle: std_opencc }             # 切换用字标准 
+    # - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_opencc }    # 切换用字标准 
     # - { match: "^[a-z]{2,3}", accept: "Shift+Shift_L", send_sequence: 3 }           # 有候选时三选
     # - { match: "^V.+", accept: "KP_Enter", send_sequence: '{space}' }           # 空格上屏
     # - { when: composing, accept: "space", send_sequence: '{Return}l/' } 
@@ -97,30 +103,7 @@ patch:
   # 手机专用
   # moran/quick_code_indicator: "⚡"
 
-  fixed/dictionary_exclude: 
-    - 骄奢淫逸
-    - 仅适用于
-    - 江山易改，本性难移
-    - 六神不安
-    - 凤求凰
-    - 实时传输
-    - 舍本求末
-    - 说不清道不明
-    - 没啥用处
-    - 只可意会不可言传
-    - 只可意会，不可言传
-    - 你永远都无法叫醒一个装睡的人
-    - 大有文章可做
-    - 影影绰绰
-    - 晕晕沉沉
-    - 疑云重重
-    - 历尽艰辛
-    - 启动市场
-    - 下晓地理
-    - 说的也是
-    - 十大元师
-    - 恨不相逢未嫁时
-    - 遇神杀神
-    - 端茶送水
+  # fixed/dictionary_exclude: 
+  #   - 骄奢淫逸
 
 

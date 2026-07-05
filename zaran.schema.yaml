@@ -32,15 +32,22 @@ switches:
     states: [ 半角🌗, 全角🌕 ]          # 2024-09-05
   - name: chaifen_switch                # 2025-03-30
     states: [拆字❌, 拆字✔] 
-  - name: traditionalization
-    states: [ 简体, 繁體 ]               # 2024-09-05
+  # - name: traditionalization
+  #   states: [ 简体, 繁體 ]               # 2024-09-05
   - name: extended_charset
     states: [ 通用, 增廣 ]
   - name: inflexible
     states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
-  - options: [ std_opencc,  std_tw, std_hk]
-    reset: 0
-    states: [ 通, 臺, 港]
+  # - options: [ std_opencc,  std_tw, std_hk]
+  #   reset: 0
+  #   # states: [ 通, 臺, 港]
+  #   states: [ 臺, 通, 港]
+  # - options: [ std_s, std_s2t, std_s2tw, std_s2hk, std_s2jp]
+  #   states: [ 简, 繁, 台, 港, 日]
+  - options: [ std_s, std_s2tw, std_s2hk, std_s2jp]
+    states: [ 简, 臺, 港, 日]
+  # 快捷鍵 Ctrl-S 會在前兩個字集之間切換, 由 moran_processor.lua 實現.
+  # 若經常切換簡繁且偏好特定繁體標準, 可自行修改字集列表順序, 例如
 
 
 
@@ -48,8 +55,8 @@ switches:
 engine:
   processors:
     - key_binder                          # 快捷键
-    - lua_processor@*moran.moran_pin*pin_processor                            # PIN
     - lua_processor@*moran.moran_processor                                    # 魔然processor
+    - lua_processor@*moran.moran_pin*pin_processor                            # PIN
     - ascii_composer                      # 按键是否启动(Ctrl键、CapsLock键、Shift键等)
     - recognizer                          # 处理符合特定规则的输入码，如网址、反查
     # - lua_processor@*key_binder           # 绑定按键扩展能力
@@ -80,9 +87,12 @@ engine:
     - lua_filter@*mylua.simple_comment    #  简易注释
     - lua_filter@*moran.moran_hint_filter                                     # 魔然简词提示
     - lua_filter@*mylua.add_words         # 英文造词
-    - simplifier@traditionalize           # 简繁切换
-    - simplifier@std_hk                   # 香港用字标准
-    - simplifier@std_tw                   # 台湾用字标准
+    # - simplifier@traditionalize           # 简繁切换
+    # - simplifier@std_hk                   # 香港用字标准
+    # - simplifier@std_tw                   # 台湾用字标准
+    - simplifier@std_s2tw                 # 台湾用字标准
+    - simplifier@std_s2hk                 # 香港用字标准
+    - simplifier@std_s2jp                 # 日本用字标准
     - uniquifier                          # 去重
 
 
@@ -113,7 +123,7 @@ frequency:
   enable_completion: true   # 补全提示
   max_homographs: 5         # 最大同形簇长度
   max_homophones: 10        # 最大同音簇长度
-  max_sentences: 2
+  # max_sentences: 2        # 输出的句子数量
 
 
 # 字词翻译器
@@ -159,28 +169,52 @@ custom_phrase:
   enable_sentence: false    # 禁止造句
 
 
-# 简繁切换
-traditionalize:
-  option_name: traditionalization
-  # opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
-  opencc_config: zaran_s2t.json
-  tips: char                # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
-  tags: [ abc, number, gregorian_to_lunar, mixed_V ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
+# # 简繁切换
+# traditionalize:
+#   option_name: traditionalization
+#   # opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
+#   opencc_config: s2tw.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
+#   # opencc_config: zaran_s2t.json
+#   tips: char                # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
+#   tags: [ abc, number, gregorian_to_lunar, mixed_V ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
 
 
-std_hk:
-  opencc_config: t2hk.json
-  option_name: std_hk
-  tips: all
-  tags: [abc]
+# std_hk:
+#   opencc_config: tw2kh.json
+#   option_name: std_hk
+#   tips: all
+#   tags: [abc]
 
 
-std_tw:
-  opencc_config: t2tw.json
-  option_name: std_tw
-  tips: all
-  tags: [abc]
+# std_tw:
+#   opencc_config: tw2t.json
+#   option_name: std_tw
+#   tips: all
+#   tags: [abc]
 
+
+# std_s2t:
+#   opencc_config: s2t.json
+#   option_name: std_s2t
+#   tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+
+std_s2hk:
+  opencc_config: s2hk.json
+  option_name: std_s2hk
+  #tips: char
+  tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+
+std_s2tw:
+  opencc_config: s2tw.json
+  option_name: std_s2tw
+  tips: char
+  tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+
+std_s2jp:
+  opencc_config: s2jp.json
+  option_name: std_s2jp
+  # tips: all
+  tags: [ abc, number, gregorian_to_lunar, mixed_V ]
 
 # 标点符号
 punctuator:
@@ -237,18 +271,35 @@ speller:
 
 grammar:
   language: wanxiang-lts-zh-hans
-  collocation_max_length: 7
-  # collocation_max_length: 6
+  collocation_max_length: 6
   collocation_min_length: 3
-  collocation_penalty: -10
-  non_collocation_penalty: -20
-  weak_collocation_penalty: -35
-  # weak_collocation_penalty: -45
-  rear_penalty: -12
+  collocation_penalty: -15
+  non_collocation_penalty: -6
+  weak_collocation_penalty: -100
+  rear_penalty: -10
 
+# grammar:
+#   language: wanxiang-lts-zh-hans
+#   collocation_max_length: 8
+#   collocation_min_length: 2
+#   collocation_penalty: -15
+#   non_collocation_penalty: -5
+#   weak_collocation_penalty: -100
+#   rear_penalty: -10
+
+# grammar:
+#   language: wanxiang-lts-zh-hans
+#   collocation_max_length: 7
+#   # collocation_max_length: 6
+#   collocation_min_length: 3
+#   collocation_penalty: -10
+#   non_collocation_penalty: -20
+#   weak_collocation_penalty: -35
+#   # weak_collocation_penalty: -45
+#   rear_penalty: -12
 
 moran:
-  quick_code_indicator: "🗲"        # 简码标识符
+  quick_code_indicator: "<"        # 简码标识符
   enable_word_filter: false         # 词辅功能
   word_filter_match_indicator: {}   # 词辅命中提示词 
   inject_fixed_chars: false          # 启用单字注入 是否输出简码表单字（如 jwrg 次选「佳」）
@@ -258,7 +309,7 @@ moran:
     enable: true                    # 出简让全开关
     show_hint: true                 # 显示简码提示
     enable_word: true               # 詞語級「讓全」，對二、三、四字詞有效
-    enable_word_delay: 200          # 延遲觸發詞語級讓全效果,一般爲 200 *毫秒* 上下（僅 librime >= 1.14 可用）
+    enable_word_delay: 300          # 延遲觸發詞語級讓全效果,一般爲 200 *毫秒* 上下（僅 librime >= 1.14 可用）
     enable_word_defer: 2            # 延遲候選個數。必須是大於等於 1 的整數才有效果。
     suffix: "/"                     # 让全后缀
   # moran_hint_filter 的相关设置
@@ -275,7 +326,7 @@ moran:
     panacea:
       infix: "//"                   # 造词分隔符
       prompt: "〔加词〕"            # 造词提示
-      freestyle: false              # 启用自由模式
+      freestyle: true              # 启用自由模式
   # 「通用」字符集設置 （不影響「增廣」：增廣仍顯示*所有*字符）
   charset: simp             # both: 允許繁體和簡體同時顯示 | simp: 只顯示簡化字 | trad: 只顯示繁體字
   #略码  moran_processor.lua → shorthands 修改
