@@ -1,4 +1,4 @@
-name: 自动下载词典 → 运行脚本 → 提交结果
+name: 自动更新wanxiang数据并生成词典
 on:
   schedule:
     - cron: '0 0 * * 1'   # 每周一凌晨0点执行
@@ -43,7 +43,7 @@ jobs:
       - name: 提交输出文件到仓库（仅 dicts/）
         uses: EndBug/add-and-commit@v10
         with:
-          message: "自动更新处理后词库 [ci skip]"
+          message: "ci: 同步wanxiang词库"
           add: "dicts/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
