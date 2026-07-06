@@ -757,7 +757,7 @@ sort: by_weight
 阿城区	ā;ek chéng;ti qū;ki	1
 阿城县	ā;ek chéng;ti xiàn;sq	85
 阿城镇	ā;ek chéng;ti zhèn;jv	1
-阿党镇	ā;ek dǎng;xx zhèn;jv	1
+阿党镇	ā;ek dǎng;ek zhèn;jv	1
 阿都乡	ā;ek dōu;ev xiāng;ap	1
 阿多乡	ā;ek duō;xx xiāng;ap	1
 阿干镇	ā;ek gàn;aa zhèn;jv	259
@@ -1986,7 +1986,7 @@ sort: by_weight
 博白县	bó;uc bái;pa xiàn;sq	215
 博白镇	bó;uc bái;pa zhèn;jv	1
 亳城镇	bó;wq chéng;ti zhèn;jv	1
-伯党乡	bó;rb dǎng;xx xiāng;ap	1
+伯党乡	bó;rb dǎng;ek xiāng;ap	1
 伯都乡	bó;rb dōu;ev xiāng;ap	1
 博多站	bó;uc duō;xx zhàn;lv	670
 伯岗镇	bó;rb gǎng;ug zhèn;jv	1
@@ -4141,30 +4141,30 @@ sort: by_weight
 丹竹镇	dān;pd zhú;gg zhèn;jv	0
 耽子镇	dān;eg zǐ;aa zhèn;jv	660
 弹子镇	dàn;gd zǐ;aa zhèn;jv	630
-党坝乡	dǎng;xx bà;tb xiāng;ap	1
-党坝镇	dǎng;xx bà;tb zhèn;jv	1
+党坝乡	dǎng;ek bà;tb xiāng;ap	1
+党坝镇	dǎng;ek bà;tb zhèn;jv	1
 当壁镇	dāng;xx bì;tb zhèn;jv	1
-党岔镇	dǎng;xx chà;uf zhèn;jv	1
-党城乡	dǎng;xx chéng;ti xiāng;ap	1
+党岔镇	dǎng;ek chà;uf zhèn;jv	1
+党城乡	dǎng;ek chéng;ti xiāng;ap	1
 砀城镇	dàng;uy chéng;ti zhèn;jv	1
-党川镇	dǎng;xx chuān;pa zhèn;jv	1
+党川镇	dǎng;ek chuān;pa zhèn;jv	1
 凼底乡	dàng;ku dǐ;gd xiāng;ap	1
-党店镇	dǎng;xx diàn;gv zhèn;jv	1
+党店镇	dǎng;ek diàn;gv zhèn;jv	1
 当堆乡	dāng;xx duī;tv xiāng;ap	1
-党江镇	dǎng;xx jiāng;dg zhèn;jv	1
+党江镇	dǎng;ek jiāng;dg zhèn;jv	1
 当洛乡	dāng;xx luò;dg xiāng;ap	1
-党睦镇	dǎng;xx mù;ot zhèn;jv	1
+党睦镇	dǎng;ek mù;ot zhèn;jv	1
 砀山县	dàng;uy shān;aa xiàn;sq	189
 当顺乡	dāng;xx shùn;yi xiāng;ap	1
 当涂县	dāng;xx tú;dy xiàn;sq	194
-党湾镇	dǎng;xx wān;dw zhèn;jv	1
+党湾镇	dǎng;ek wān;dw zhèn;jv	1
 当雄县	dāng;xx xióng;vh xiàn;sq	165
 当阳市	dāng;xx yáng;eo shì;wj	1
 当阳县	dāng;xx yáng;eo xiàn;sq	63
 当阳乡	dāng;xx yáng;eo xiāng;ap	1
-党峪镇	dǎng;xx yù;ug zhèn;jv	1
-党原镇	dǎng;xx yuán;ix zhèn;jv	1
-党寨镇	dǎng;xx zhài;mb zhèn;jv	1
+党峪镇	dǎng;ek yù;ug zhèn;jv	1
+党原镇	dǎng;ek yuán;ix zhèn;jv	1
+党寨镇	dǎng;ek zhài;mb zhèn;jv	1
 刀坝镇	dāo;gp bà;tb zhèn;jv	1
 到保镇	dào;dv bǎo;rd zhèn;jv	1
 到北镇	dào;dv běi;ag zhèn;jv	1
@@ -4229,7 +4229,7 @@ sort: by_weight
 德昌乡	dé;xx chāng;oo xiāng;ap	1
 德城区	dé;xx chéng;ti qū;ki	194
 德达乡	dé;xx dá;zd xiāng;ap	1
-德党镇	dé;xx dǎng;xx zhèn;jv	1
+德党镇	dé;xx dǎng;ek zhèn;jv	1
 德岛县	dé;xx dǎo;nu xiàn;sq	226
 德登乡	dé;xx dēng;dd xiāng;ap	1
 德都县	dé;xx dū;ev xiàn;sq	64
@@ -4870,7 +4870,7 @@ sort: by_weight
 东庄镇	dōng;ad zhuāng;gt zhèn;jv	100
 豆坝镇	dòu;aa bà;tb zhèn;jv	1
 豆村镇	dòu;aa cūn;mc zhèn;jv	1
-都党乡	dōu;ev dǎng;xx xiāng;ap	1
+都党乡	dōu;ev dǎng;ek xiāng;ap	1
 窦店镇	dòu;xm diàn;gv zhèn;jv	1
 陡岗镇	dǒu;ez gǎng;ug zhèn;jv	1
 都格镇	dōu;ev gé;mg zhèn;jv	1
@@ -13014,7 +13014,7 @@ sort: by_weight
 罗厝村	luó;sx cuò;ix cūn;mc	163
 洛大镇	luò;dg dà;ad zhèn;jv	1
 洛带镇	luò;dg dài;jb zhèn;jv	230
-洛党镇	luò;dg dǎng;xx zhèn;jv	1
+洛党镇	luò;dg dǎng;ek zhèn;jv	1
 罗道庄	luó;sx dào;zu zhuāng;gt	167
 罗店村	luó;sx diàn;gv cūn;mc	69
 罗甸县	luó;sx diàn;gt xiàn;sq	187
@@ -17494,8 +17494,8 @@ sort: by_weight
 上村乡	shàng;aa cūn;mc xiāng;ap	1
 尚村镇	shàng;xk cūn;mc zhèn;jv	1
 上村镇	shàng;aa cūn;mc zhèn;jv	0
-上党区	shàng;aa dǎng;xx qū;ki	119
-上党镇	shàng;aa dǎng;xx zhèn;jv	1
+上党区	shàng;aa dǎng;ek qū;ki	119
+上党镇	shàng;aa dǎng;ek zhèn;jv	1
 尚德镇	shàng;xk dé;xx zhèn;jv	1
 上地站	shàng;aa dì;ty zhàn;lv	22
 尚店镇	shàng;xk diàn;gv zhèn;jv	1
@@ -21717,7 +21717,7 @@ sort: by_weight
 夏村镇	xià;wz cūn;mc zhèn;jv	145
 下村镇	xià;ab cūn;mc zhèn;jv	100
 夏达河	xià;wz dá;zd hé;dk	153
-下党乡	xià;ab dǎng;xx xiāng;ap	100
+下党乡	xià;ab dǎng;ek xiāng;ap	100
 夏道镇	xià;wz dào;zu zhèn;jv	191
 夏店村	xià;wz diàn;gv cūn;mc	1
 夏店乡	xià;wz diàn;gv xiāng;ap	94
@@ -25331,7 +25331,7 @@ sort: by_weight
 张厝乡	zhāng;gi cuò;ix xiāng;ap	1
 张达乡	zhāng;gi dá;zd xiāng;ap	524
 章旦乡	zhāng;lz dàn;oa xiāng;ap	1
-章党镇	zhāng;lz dǎng;xx zhèn;jv	1
+章党镇	zhāng;lz dǎng;ek zhèn;jv	1
 张得镇	zhāng;gi dé;xc zhèn;jv	1
 张登镇	zhāng;gi dēng;dd zhèn;jv	69
 张堤村	zhāng;gi dī;tu cūn;mc	1
@@ -26346,7 +26346,7 @@ sort: by_weight
 周村镇	zhōu;kt cūn;mc zhèn;jv	206
 周村庄	zhōu;kt cūn;mc zhuāng;gt	69
 周厝村	zhōu;kt cuò;ix cūn;mc	150
-周党镇	zhōu;kt dǎng;xx zhèn;jv	163
+周党镇	zhōu;kt dǎng;ek zhèn;jv	163
 周店村	zhōu;kt diàn;gv cūn;mc	82
 周东村	zhōu;kt dōng;ad cūn;mc	1
 周墩村	zhōu;kt dūn;td cūn;mc	1
@@ -30314,6 +30314,7 @@ sort: by_weight
 常信营村	cháng;jk xìn;ry yíng;cl cūn;mc	1
 长兴堡镇	cháng;pd xīng;ba bǎo;tb zhèn;jv	1
 长兴岛镇	cháng;pd xīng;ba dǎo;nu zhèn;jv	1
+长兴岛镇	cháng;pd xīng;ba dǎo;nu zhèn;jv	1
 常兴店镇	cháng;jk xīng;ba diàn;gv zhèn;jv	1
 长兴沟村	cháng;pd xīng;ba gōu;dg cūn;mc	1
 长兴集乡	cháng;pd xīng;ba jí;vm xiāng;ap	1
@@ -31269,8 +31270,8 @@ sort: by_weight
 村大莲村	cūn;mc dà;ad lián;cl cūn;mc	1
 村大忠村	cūn;mc dà;ad zhōng;xv cūn;mc	1
 村淡轮村	cūn;mc dàn;dy lún;il cūn;mc	1
-村党川乡	cūn;mc dǎng;xx chuān;pa xiāng;ap	1
-村党阳村	cūn;mc dǎng;xx yáng;eo cūn;mc	1
+村党川乡	cūn;mc dǎng;ek chuān;pa xiāng;ap	1
+村党阳村	cūn;mc dǎng;ek yáng;eo cūn;mc	1
 村砥堀村	cūn;mc dǐ;ud kū;tq cūn;mc	1
 村鼎湾村	cūn;mc dǐng;oa wān;dw cūn;mc	1
 村碓冲村	cūn;mc duì;uv chōng;dv cūn;mc	1
@@ -32594,46 +32595,46 @@ sort: by_weight
 丹治部村	dān;pd zhì;dt bù;ek cūn;mc	1
 丹州街道	dān;pd zhōu;id jiē;xg dào;zu	1
 丹竹头村	dān;pd zhú;gg tóu;dd cūn;mc	1
-党城湾镇	dǎng;xx chéng;ti wān;dw zhèn;jv	1
+党城湾镇	dǎng;ek chéng;ti wān;dw zhèn;jv	1
 当地社区	dāng;xx dì;ty shè;ut qū;ki	107
 当湖街道	dāng;xx hú;dh jiē;xg dào;zu	1
-党吉山村	dǎng;xx jí;ku shān;aa cūn;mc	1
-党家堡村	dǎng;xx jiā;bu bǎo;tb cūn;mc	1
-党家川村	dǎng;xx jiā;bu chuān;pa cūn;mc	1
-党家墩村	dǎng;xx jiā;bu dūn;td cūn;mc	1
-党家沟村	dǎng;xx jiā;bu gōu;dg cūn;mc	1
-党家河村	dǎng;xx jiā;bu hé;dk cūn;mc	1
-党家街道	dǎng;xx jiā;bu jiē;xg dào;zu	1
-党家峁村	dǎng;xx jiā;bu mǎo;um cūn;mc	1
-党家坪村	dǎng;xx jiā;bu píng;tp cūn;mc	1
+党吉山村	dǎng;ek jí;ku shān;aa cūn;mc	1
+党家堡村	dǎng;ek jiā;bu bǎo;tb cūn;mc	1
+党家川村	dǎng;ek jiā;bu chuān;pa cūn;mc	1
+党家墩村	dǎng;ek jiā;bu dūn;td cūn;mc	1
+党家沟村	dǎng;ek jiā;bu gōu;dg cūn;mc	1
+党家河村	dǎng;ek jiā;bu hé;dk cūn;mc	1
+党家街道	dǎng;ek jiā;bu jiē;xg dào;zu	1
+党家峁村	dǎng;ek jiā;bu mǎo;um cūn;mc	1
+党家坪村	dǎng;ek jiā;bu píng;tp cūn;mc	1
 挡驾桥村	dǎng;fd jià;mj qiáo;mq cūn;mc	1
-党家山村	dǎng;xx jiā;bu shān;aa cūn;mc	1
-党家水村	dǎng;xx jiā;bu shuǐ;ad cūn;mc	1
-党家塌村	dǎng;xx jiā;bu tā;ty cūn;mc	1
-党家桐村	dǎng;xx jiā;bu tóng;mt cūn;mc	1
-党家湾村	dǎng;xx jiā;bu wān;dw cūn;mc	1
-党家岘乡	dǎng;xx jiā;bu xiàn;uj xiāng;ap	1
-党家墕村	dǎng;xx jiā;bu yàn;ty cūn;mc	1
-党家营村	dǎng;xx jiā;bu yíng;cl cūn;mc	1
-党家塬村	dǎng;xx jiā;bu yuán;ty cūn;mc	1
-党家垣村	dǎng;xx jiā;bu yuán;tg cūn;mc	0
-党家寨村	dǎng;xx jiā;bu zhài;mb cūn;mc	1
-党家庄村	dǎng;xx jiā;bu zhuāng;gt cūn;mc	1
-党家庄站	dǎng;xx jiā;bu zhuāng;gt zhàn;lv	207
-党家庄镇	dǎng;xx jiā;bu zhuāng;gt zhèn;jv	1
-党金沟村	dǎng;xx jīn;ra gōu;dg cūn;mc	1
+党家山村	dǎng;ek jiā;bu shān;aa cūn;mc	1
+党家水村	dǎng;ek jiā;bu shuǐ;ad cūn;mc	1
+党家塌村	dǎng;ek jiā;bu tā;ty cūn;mc	1
+党家桐村	dǎng;ek jiā;bu tóng;mt cūn;mc	1
+党家湾村	dǎng;ek jiā;bu wān;dw cūn;mc	1
+党家岘乡	dǎng;ek jiā;bu xiàn;uj xiāng;ap	1
+党家墕村	dǎng;ek jiā;bu yàn;ty cūn;mc	1
+党家营村	dǎng;ek jiā;bu yíng;cl cūn;mc	1
+党家塬村	dǎng;ek jiā;bu yuán;ty cūn;mc	1
+党家垣村	dǎng;ek jiā;bu yuán;tg cūn;mc	0
+党家寨村	dǎng;ek jiā;bu zhài;mb cūn;mc	1
+党家庄村	dǎng;ek jiā;bu zhuāng;gt cūn;mc	1
+党家庄站	dǎng;ek jiā;bu zhuāng;gt zhàn;lv	207
+党家庄镇	dǎng;ek jiā;bu zhuāng;gt zhèn;jv	1
+党金沟村	dǎng;ek jīn;ra gōu;dg cūn;mc	1
 荡口古镇	dàng;ct kǒu;aa gǔ;uk zhèn;jv	1
 宕梁街道	dàng;bu liáng;md jiē;xg dào;zu	1
-党留庄乡	dǎng;xx liú;td zhuāng;gt xiāng;ap	1
+党留庄乡	dǎng;ek liú;td zhuāng;gt xiāng;ap	1
 当木江乡	dāng;xx mù;ad jiāng;dg xiāng;ap	1
 当铺地村	dàng;xx pù;jf dì;ty cūn;mc	1
 当铺地镇	dàng;xx pù;jf dì;ty zhèn;jv	1
-党旗寨村	dǎng;xx qí;fq zhài;mb cūn;mc	1
+党旗寨村	dǎng;ek qí;fq zhài;mb cūn;mc	1
 当曲卡镇	dāng;xx qǔ;aa kǎ;ub zhèn;jv	1
-党洼子村	dǎng;xx wā;dg zi;aa cūn;mc	1
-党武街道	dǎng;xx wǔ;vy jiē;xg dào;zu	1
-党校社区	dǎng;xx xiào;mj shè;ut qū;ki	50
-党杖子村	dǎng;xx zhàng;mv zi;aa cūn;mc	1
+党洼子村	dǎng;ek wā;dg zi;aa cūn;mc	1
+党武街道	dǎng;ek wǔ;vy jiē;xg dào;zu	1
+党校社区	dǎng;ek xiào;mj shè;ut qū;ki	50
+党杖子村	dǎng;ek zhàng;mv zi;aa cūn;mc	1
 当周街道	dāng;xx zhōu;kt jiē;xg dào;zu	1
 挡竹湾村	dǎng;fd zhú;gg wān;dw cūn;mc	1
 道坝子乡	dào;zu bà;tb zi;aa xiāng;ap	1
@@ -33850,7 +33851,7 @@ sort: by_weight
 东廉良村	dōng;ad lián;gj liáng;dg cūn;mc	1
 东联新村	dōng;ad lián;eg xīn;jq cūn;mc	1
 东梁堡村	dōng;ad liáng;md bǎo;tb cūn;mc	1
-东良党村	dōng;ad liáng;dg dǎng;xx cūn;mc	1
+东良党村	dōng;ad liáng;dg dǎng;ek cūn;mc	1
 东良淀村	dōng;ad liáng;dg diàn;dd cūn;mc	1
 东良店村	dōng;ad liáng;dg diàn;gv cūn;mc	0
 东梁格村	dōng;ad liáng;md gé;mg cūn;mc	1
@@ -35629,7 +35630,7 @@ sort: by_weight
 封家岔村	fēng;cg jiā;bu chà;uf cūn;mc	0
 冯家川乡	féng;dm jiā;bu chuān;pa xiāng;ap	1
 冯家大庄	féng;dm jiā;bu dà;ad zhuāng;gt	1
-冯家党村	féng;dm jiā;bu dǎng;xx cūn;mc	1
+冯家党村	féng;dm jiā;bu dǎng;ek cūn;mc	1
 冯家店村	féng;dm jiā;bu diàn;gv cūn;mc	1
 冯家洞村	féng;dm jiā;bu dòng;dt cūn;mc	1
 冯家斗村	féng;dm jiā;bu dòu;du cūn;mc	1
@@ -35990,6 +35991,8 @@ sort: by_weight
 付家佐乡	fù;rc jiā;bu zuǒ;rz xiāng;ap	1
 付家佐镇	fù;rc jiā;bu zuǒ;rz zhèn;jv	1
 福建建宁	fú;uf jiàn;zy jiàn;zy níng;bd	1
+福建晋江	fú;uf jiàn;zy jìn;oy jiāng;dg	1
+福建龙海	fú;uf jiàn;zy lóng;ad hǎi;dm	1
 福建三元	fú;uf jiàn;zy sān;aa yuán;aw	1
 涪江街道	fú;dk jiāng;dg jiē;xg dào;zu	1
 福聚昌村	fú;uf jù;ed chāng;oo cūn;mc	1
@@ -37644,6 +37647,7 @@ sort: by_weight
 广殿渔村	guǎng;dp diàn;ug yú;dy cūn;mc	1
 广东潮安	guǎng;dp dōng;ad cháo;di ān;bn	1
 广东地乡	guǎng;dp dōng;ad dì;ty xiāng;ap	1
+广东东莞	guǎng;dp dōng;ad dōng;ad guǎn;cw	1
 广东街道	guǎng;dp dōng;ad jiē;xg dào;zu	1
 广发永乡	guǎng;dp fā;ay yǒng;dd xiāng;ap	1
 光丰街道	guāng;ea fēng;aa jiē;xg dào;zu	1
@@ -49455,7 +49459,7 @@ sort: by_weight
 南卧石村	nán;ua wò;ib shí;kp cūn;mc	1
 南武备村	nán;ua wǔ;vy bèi;wt cūn;mc	1
 南午村镇	nán;ua wǔ;ru cūn;mc zhèn;jv	1
-南坞党村	nán;ua wù;tw dǎng;xx cūn;mc	1
+南坞党村	nán;ua wù;tw dǎng;ek cūn;mc	1
 南五夫村	nán;ua wǔ;aa fū;ad cūn;mc	1
 南武沟村	nán;ua wǔ;vy gōu;dg cūn;mc	1
 南伍河村	nán;ua wǔ;rw hé;dk cūn;mc	1
@@ -49681,7 +49685,7 @@ sort: by_weight
 南张浜村	nán;ua zhāng;gi bāng;db cūn;mc	1
 南障城镇	nán;ua zhàng;ev chéng;ti zhèn;jv	1
 南张岱村	nán;ua zhāng;gi dài;ud cūn;mc	1
-南彰党村	nán;ua zhāng;pv dǎng;xx cūn;mc	1
+南彰党村	nán;ua zhāng;pv dǎng;ek cūn;mc	1
 南张丰村	nán;ua zhāng;gi fēng;aa cūn;mc	1
 南张沟村	nán;ua zhāng;gi gōu;dg cūn;mc	1
 南丈沟村	nán;ua zhàng;ad gōu;dg cūn;mc	0
@@ -50604,7 +50608,7 @@ sort: by_weight
 平陵街道	píng;aa líng;el jiē;xg dào;zu	1
 平岭头村	píng;aa lǐng;ul tóu;dd cūn;mc	1
 平路庙乡	píng;aa lù;zg miào;gy xiāng;ap	1
-平罗党村	píng;aa luó;sx dǎng;xx cūn;mc	1
+平罗党村	píng;aa luó;sx dǎng;ek cūn;mc	1
 平罗街道	píng;aa luó;sx jiē;xg dào;zu	1
 平罗雷村	píng;aa luó;sx léi;yt cūn;mc	1
 平罗朱村	píng;aa luó;sx zhū;pw cūn;mc	1
@@ -51147,7 +51151,7 @@ sort: by_weight
 前大寨村	qián;qd dà;ad zhài;mb cūn;mc	1
 前大章乡	qián;qd dà;ad zhāng;lz xiāng;ap	1
 前当堡镇	qián;qd dāng;xx bǎo;tb zhèn;jv	1
-前党赵庄	qián;qd dǎng;xx zhào;zi zhuāng;gt	1
+前党赵庄	qián;qd dǎng;ek zhào;zi zhuāng;gt	1
 千岛湖站	qiān;pa dǎo;nu hú;dh zhàn;lv	387
 千岛湖镇	qiān;pa dǎo;nu hú;dh zhèn;jv	1
 千岛街道	qiān;pa dǎo;nu jiē;xg dào;zu	1
@@ -53368,6 +53372,7 @@ sort: by_weight
 山东街道	shān;aa dōng;ad jiē;xg dào;zu	0
 山东金乡	shān;aa dōng;ad jīn;ra xiāng;ap	1
 山东莒县	shān;aa dōng;ad jǔ;cl xiàn;sq	1
+山东荣成	shān;aa dōng;ad róng;cm chéng;gg	1
 山东单县	shān;aa dōng;ad shàn;ba xiàn;sq	1
 山东莘县	shān;aa dōng;ad shēn;cx xiàn;sq	1
 山东头村	shān;aa dōng;ad tóu;dd cūn;mc	1
@@ -53575,7 +53580,7 @@ sort: by_weight
 上村社区	shàng;aa cūn;mc shè;ut qū;ki	189
 上达摩村	shàng;aa dá;zd mó;um cūn;mc	1
 上岱峪村	shàng;aa dài;ud yù;ug cūn;mc	1
-上党武乡	shàng;aa dǎng;xx wǔ;vy xiāng;ap	1
+上党武乡	shàng;aa dǎng;ek wǔ;vy xiāng;ap	1
 上等皋村	shàng;aa děng;vs gāo;bu cūn;mc	1
 上地街道	shàng;aa dì;ty jiē;xg dào;zu	1
 上甸子村	shàng;aa diàn;gt zǐ;aa cūn;mc	1
@@ -58680,7 +58685,7 @@ sort: by_weight
 王家祠村	wáng;aa jiā;bu cí;us cūn;mc	1
 王家大庄	wáng;aa jiā;bu dà;ad zhuāng;gt	1
 王家埭村	wáng;aa jiā;bu dài;tl cūn;mc	1
-王家党村	wáng;aa jiā;bu dǎng;xx cūn;mc	1
+王家党村	wáng;aa jiā;bu dǎng;ek cūn;mc	1
 王夹道村	wáng;aa jiā;fb dào;zu cūn;mc	1
 王家地村	wáng;aa jiā;bu dì;ty cūn;mc	1
 王家店村	wáng;aa jiā;bu diàn;gv cūn;mc	1
@@ -67689,7 +67694,7 @@ sort: by_weight
 张大庄镇	zhāng;gi dà;ad zhuāng;gt zhèn;jv	1
 张代河村	zhāng;gi dài;ry hé;dk cūn;mc	1
 张呆子村	zhāng;gi dāi;km zi;aa cūn;mc	1
-章党街道	zhāng;lz dǎng;xx jiē;xg dào;zu	1
+章党街道	zhāng;lz dǎng;ek jiē;xg dào;zu	1
 张道沟村	zhāng;gi dào;zu gōu;dg cūn;mc	1
 张道口村	zhāng;gi dào;zu kǒu;aa cūn;mc	1
 张道庄村	zhāng;gi dào;zu zhuāng;gt cūn;mc	1
@@ -67835,7 +67840,7 @@ sort: by_weight
 张家祠村	zhāng;gi jiā;bu cí;us cūn;mc	1
 张家村村	zhāng;gi jiā;bu cūn;mc cūn;mc	1
 章家埭村	zhāng;lz jiā;bu dài;tl cūn;mc	1
-张家党村	zhāng;gi jiā;bu dǎng;xx cūn;mc	1
+张家党村	zhāng;gi jiā;bu dǎng;ek cūn;mc	1
 张家地村	zhāng;gi jiā;bu dì;ty cūn;mc	1
 张家店村	zhāng;gi jiā;bu diàn;gv cūn;mc	1
 张贾店村	zhāng;gi jiǎ;bx diàn;gv cūn;mc	0
@@ -68410,6 +68415,8 @@ sort: by_weight
 折家湾村	zhé;fj jiā;bu wān;dw cūn;mc	1
 折家寨村	zhé;fj jiā;bu zhài;mb cūn;mc	1
 折剑山庄	zhé;fj jiàn;da shān;aa zhuāng;gt	1
+浙江瑞安	zhè;dv jiāng;dg ruì;we ān;bn	1
+浙江上虞	zhè;dv jiāng;dg shàng;aa yú;hw	1
 浙江桐乡	zhè;dv jiāng;dg tóng;mt xiāng;ap	1
 浙江乌镇	zhè;dv jiāng;dg wū;pa zhèn;jv	1
 柘坑戴村	zhè;mu kēng;tk dài;gg cūn;mc	1
@@ -70451,6 +70458,7 @@ sort: by_weight
 大练地街道	dà;ad liàn;sd dì;ty jiē;xg dào;zu	1
 大连路街道	dà;ad lián;zi lù;zg jiē;xg dào;zu	1
 大连奶牛场	dà;ad lián;zi nǎi;nn niú;pa chǎng;ty	1
+大连市城镇	dà;ad lián;zi shì;wj chéng;ti zhèn;jv	1
 大连湾街道	dà;ad lián;zi wān;dw jiē;xg dào;zu	1
 大凌河街道	dà;ad líng;dl hé;dk jiē;xg dào;zu	1
 大岭山林场	dà;ad lǐng;ul shān;aa lín;mm chǎng;ty	1
@@ -70939,6 +70947,7 @@ sort: by_weight
 广至藏族乡	guǎng;dp zhì;tv zàng;cz zú;fu xiāng;ap	1
 广中路街道	guǎng;dp zhōng;aa lù;zg jiē;xg dào;zu	1
 广州路街道	guǎng;dp zhōu;id lù;zg jiē;xg dào;zu	1
+广州市城镇	guǎng;dp zhōu;id shì;wj chéng;ti zhèn;jv	1
 广州市街道	guǎng;dp zhōu;id shì;wj jiē;xg dào;zu	1
 贵港市乡镇	guì;ba gǎng;dx shì;wj xiāng;ap zhèn;jv	1
 桂花坪街道	guì;mg huā;ch píng;tp jiē;xg dào;zu	1
@@ -71969,6 +71978,7 @@ sort: by_weight
 娘娘宫街道	niáng;nl niáng;nl gōng;bl jiē;xg dào;zu	1
 聂家满族乡	niè;eu jiā;bu mǎn;dl zú;fu xiāng;ap	1
 宁边路街道	níng;bd biān;zl lù;zg jiē;xg dào;zu	1
+宁波市城镇	níng;bd bō;dp shì;wj chéng;ti zhèn;jv	1
 宁波市街道	níng;bd bō;dp shì;wj jiē;xg dào;zu	1
 宁德市乡镇	níng;bd dé;xx shì;wj xiāng;ap zhèn;jv	1
 宁海路街道	níng;bd hǎi;dm lù;zg jiē;xg dào;zu	1
@@ -73694,6 +73704,9 @@ sort: by_weight
 安徽芜湖三山	ān;bn huī;xw wú;cw hú;dh sān;aa shān;aa	1
 安宁西路街道	ān;bn níng;bd xī;aa lù;zg jiē;xg dào;zu	1
 安庆矿区街道	ān;bn qìng;gd kuàng;ug qū;ki jiē;xg dào;zu	1
+安庆市大观区	ān;bn qìng;gd shì;wj dà;ad guān;jy qū;ki
+安庆市宜秀区	ān;bn qìng;gd shì;wj yí;bq xiù;hn qū;ki
+安庆市迎江区	ān;bn qìng;gd shì;wj yíng;ze jiāng;dg qū;ki
 安图县林业局	ān;bn tú;kd xiàn;sq lín;mm yè;aa jú;uk
 昂格特勒克乡	áng;oe gé;mg tè;ns lè;lg kè;eg xiāng;ap	1
 敖伦布拉格镇	áo;wd lún;rl bù;ju lā;fl gé;mg zhèn;jv	1
@@ -73740,10 +73753,17 @@ sort: by_weight
 巴音门克街道	bā;ag yīn;lo mén;dg kè;eg jiē;xg dào;zu	1
 巴音陶海苏木	bā;ag yīn;lo táo;et hǎi;dm sū;cb mù;ad
 巴音乌兰苏木	bā;ag yīn;lo wū;pa lán;qe sū;cb mù;ad
+巴中市巴州区	bā;ag zhōng;aa shì;wj bā;ag zhōu;id qū;ki
+巴中市恩阳区	bā;ag zhōng;aa shì;wj ēn;xy yáng;eo qū;ki
+巴中市南江县	bā;ag zhōng;aa shì;wj nán;ua jiāng;dg xiàn;sq
+巴中市平昌县	bā;ag zhōng;aa shì;wj píng;aa chāng;oo xiàn;sq
+巴中市通江县	bā;ag zhōng;aa shì;wj tōng;zy jiāng;dg xiàn;sq
 白鹭湖管理区	bái;pa lù;nl hú;dh guǎn;vg lǐ;wl qū;ki	1
 白旗寨满族乡	bái;pa qí;fq zhài;mb mǎn;dl zú;fu xiāng;ap	1
 白清姚千街道	bái;pa qīng;dq yáo;nv qiān;pa jiē;xg dào;zu	1
+百色市右江区	bǎi;ab sè;db shì;wj yòu;ku jiāng;dg qū;ki
 白沙洲工业园	bái;pa shā;du zhōu;dv gōng;aa yè;aa yuán;ky
+白山市江源区	bái;pa shān;aa shì;wj jiāng;dg yuán;dy qū;ki
 拜什艾日克镇	bài;uf shí;ru ài;ci rì;aa kè;eg zhèn;jv	1
 拜什吐格曼乡	bài;uf shí;ru tǔ;kt gé;mg màn;oy xiāng;ap	1
 白水湖管理处	bái;pa shuǐ;ad hú;dh guǎn;vg lǐ;wl chù;wb
@@ -73758,11 +73778,19 @@ sort: by_weight
 半淞园路街道	bàn;bf sōng;ds yuán;ky lù;zg jiē;xg dào;zu	1
 坂头防护林场	bǎn;tf tóu;dd fáng;ef hù;fh lín;mm chǎng;ty	1
 保定白沟新城	bǎo;rd dìng;bp bái;pa gōu;dg xīn;jq chéng;ti
+宝鸡市陈仓区	bǎo;by jī;ny shì;wj chén;ed cāng;re qū;ki
+宝鸡市金台区	bǎo;by jī;ny shì;wj jīn;ra tái;sk qū;ki
 宝力根花苏木	bǎo;by lì;gp gēn;mg huā;ch sū;cb mù;ad
 宝山西路街道	bǎo;by shān;aa xī;aa lù;zg jiē;xg dào;zu	1
 北二十家子镇	běi;ag èr;aa shí;aa jiā;bu zǐ;aa zhèn;jv	1
 北岗街道地区	běi;ag gǎng;ug jiē;xg dào;zu dì;ty qū;ki	1
+北海市海城区	běi;ag hǎi;dm shì;wj hǎi;dm chéng;ti qū;ki
+北海市合浦县	běi;ag hǎi;dm shì;wj hé;rk pǔ;df xiàn;sq
+北海市银海区	běi;ag hǎi;dm shì;wj yín;jg hǎi;dm qū;ki
 北京南路街道	běi;ag jīng;wx nán;ua lù;zg jiē;xg dào;zu	1
+北京市大兴区	běi;ag jīng;wx shì;wj dà;ad xīng;ba qū;ki
+北京市密云县	běi;ag jīng;wx shì;wj mì;ub yún;es xiàn;sq
+北京市平谷区	běi;ag jīng;wx shì;wj píng;aa gǔ;bk qū;ki
 北京西路街道	běi;ag jīng;wx xī;aa lù;zg jiē;xg dào;zu	1
 北京中路街道	běi;ag jīng;wx zhōng;aa lù;zg jiē;xg dào;zu	1
 北三家子街道	běi;ag sān;aa jiā;bu zǐ;aa jiē;xg dào;zu	1
@@ -73857,6 +73885,9 @@ sort: by_weight
 长白新村街道	cháng;pd bái;pa xīn;jq cūn;mc jiē;xg dào;zu	1
 长城中路街道	cháng;pd chéng;ti zhōng;aa lù;zg jiē;xg dào;zu	1
 长春中路街道	cháng;pd chūn;of zhōng;aa lù;zg jiē;xg dào;zu	1
+常德市鼎城区	cháng;jk dé;xx shì;wj dǐng;oa chéng;ti qū;ki
+常德市桃源县	cháng;jk dé;xx shì;wj táo;mv yuán;dy xiàn;sq
+常德市武陵区	cháng;jk dé;xx shì;wj wǔ;vy líng;el qū;ki
 长底布依族乡	cháng;pd dǐ;gd bù;ju yī;ry zú;fu xiāng;ap	1
 长丰土家族乡	cháng;pd fēng;aa tǔ;aa jiā;bu zú;fu xiāng;ap	1
 长风西街街道	cháng;pd fēng;ji xī;aa jiē;xg jiē;xg dào;zu	1
@@ -73868,17 +73899,23 @@ sort: by_weight
 长乐中路街道	cháng;pd lè;pd zhōng;aa lù;zg jiē;xg dào;zu	1
 长哨营满族乡	cháng;pd shào;kx yíng;cl mǎn;dl zú;fu xiāng;ap	1
 长潭河侗族乡	cháng;pd tán;dt hé;dk dòng;rt zú;fu xiāng;ap	1
+常州市武进区	cháng;jk zhōu;id shì;wj wǔ;vy jìn;zj qū;ki
 潮格温都尔镇	cháo;di gé;mg wēn;dm dōu;ev ěr;dx zhèn;jv	1
 朝克乌拉苏木	cháo;ou kè;eg wù;pa lā;fl sū;cb mù;ad
 朝阳社区街道	cháo;ou yáng;eo shè;ut qū;ki jiē;xg dào;zu	1
+潮州市饶平县	cháo;di zhōu;id shì;wj ráo;uy píng;aa xiàn;sq
+郴州市北湖区	chēn;el zhōu;id shì;wj běi;ag hú;dh qū;ki
 城南经济新区	chéng;ti nán;ua jīng;sg jì;dq xīn;jq qū;ki	1
 城市社区街道	chéng;ti shì;wj shè;ut qū;ki jiē;xg dào;zu	1
-成武县党集镇	chéng;gg wǔ;vy xiàn;sq dǎng;xx jí;vm zhèn;jv	1
+成武县党集镇	chéng;gg wǔ;vy xiàn;sq dǎng;ek jí;vm zhèn;jv	1
 成武县孙寺镇	chéng;gg wǔ;vy xiàn;sq sūn;zx sì;ct zhèn;jv	1
 成武县张楼镇	chéng;gg wǔ;vy xiàn;sq zhāng;gi lóu;ml zhèn;jv	1
 城垣西路街道	chéng;ti yuán;tg xī;aa lù;zg jiē;xg dào;zu	1
+赤峰市红山区	chì;tb fēng;uf shì;wj hóng;sg shān;aa qū;ki
+赤峰市松山区	chì;tb fēng;uf shì;wj sōng;mg shān;aa qū;ki
 敕勒川路街道	chì;wu lè;lg chuān;pa lù;zg jiē;xg dào;zu	1
 崇文门外街道	chóng;uz wén;wi mén;dg wài;xb jiē;xg dào;zu	1
+崇左市大新县	chóng;uz zuǒ;ug shì;wj dà;ad xīn;jq xiàn;sq
 翠雷山垦殖场	cuì;yz léi;yt shān;aa kěn;tg zhí;dv chǎng;ty	1
 大堡蒙古族乡	dà;ad bǎo;tb měng;cm gǔ;uk zú;fu xiāng;ap	1
 大曹庄管理区	dà;ad cáo;oc zhuāng;gt guǎn;vg lǐ;wl qū;ki	1
@@ -73890,6 +73927,8 @@ sort: by_weight
 大河中路街道	dà;ad hé;dk zhōng;aa lù;zg jiē;xg dào;zu	1
 达来胡硕苏木	dá;zd lái;am hú;og shuò;uy sū;cb mù;ad
 达里雅布依乡	dá;zd lǐ;aa yǎ;vy bù;ju yī;ry xiāng;ap	1
+大连市金州区	dà;ad lián;zi shì;wj jīn;ra zhōu;id qū;ki
+大连市西岗区	dà;ad lián;zi shì;wj xī;aa gǎng;ug qū;ki
 大龙潭彝族乡	dà;ad lóng;ad tán;dt yí;jc zú;fu xiāng;ap	1
 大坪国有林场	dà;ad píng;tp guó;ky yǒu;ou lín;mm chǎng;ty	1
 大坡蒙古族乡	dà;ad pō;tp měng;cm gǔ;uk zú;fu xiāng;ap	1
@@ -73897,15 +73936,20 @@ sort: by_weight
 大沙湖管理区	dà;ad shā;du hú;dh guǎn;vg lǐ;wl qū;ki	1
 大石布依族乡	dà;ad shí;kp bù;ju yī;ry zú;fu xiāng;ap	1
 大同湖管理区	dà;ad tóng;kk hú;dh guǎn;vg lǐ;wl qū;ki	1
+大同市平城区	dà;ad tóng;kk shì;wj píng;aa chéng;ti qū;ki
+大同市云冈区	dà;ad tóng;kk shì;wj yún;es gāng;ki qū;ki
+大同市云州区	dà;ad tóng;kk shì;wj yún;es zhōu;id qū;ki
 大洼商业渔场	dà;ad wā;dg shāng;wk yè;aa yú;dy chǎng;ty	1
 达斡尔民族乡	dá;zd wò;ud ěr;dx mín;ag zú;fu xiāng;ap	1
 大新屯储木场	dà;ad xīn;jq tún;ag chǔ;rv mù;ad chǎng;ty	1
 大兴安岭地区	dà;ad xīng;ba ān;bn lǐng;ul dì;ty qū;ki	1
 大兴沟林业局	dà;ad xīng;ba gōu;dg lín;mm yè;aa jú;uk
 大兴国际机场	dà;ad xīng;ba guó;ky jì;eu jī;mj chǎng;ty	1
+大兴区黄村镇	dà;ad xīng;ba qū;ki huáng;cb cūn;mc zhèn;jv
 大学东路街道	dà;ad xué;zb dōng;ad lù;zg jiē;xg dào;zu	1
 大学西路街道	dà;ad xué;zb xī;aa lù;zg jiē;xg dào;zu	1
 代钦塔拉苏木	dài;ry qīn;jq tǎ;td lā;fl sū;cb mù;ad
+丹阳市后巷镇	dān;pd yáng;eo shì;wj hòu;pk xiàng;sg zhèn;jv	1
 当郎忽洞苏木	dāng;xx láng;el hū;xw dòng;dt sū;cb mù;ad
 当铺地满族乡	dàng;xx pù;jf dì;ty mǎn;dl zú;fu xiāng;ap	1
 当阳市半月镇	dāng;xx yáng;eo shì;wj bàn;bf yuè;pa zhèn;jv	1
@@ -73916,6 +73960,9 @@ sort: by_weight
 当阳市淯溪镇	dāng;xx yáng;eo shì;wj yù;dy xī;dx zhèn;jv	1
 德胜企业集团	dé;xx shèng;ou qǐ;rv yè;aa jí;vm tuán;kc	1
 德顺蒙古族乡	dé;xx shùn;yi měng;cm gǔ;uk zú;fu xiāng;ap	1
+德阳市罗江区	dé;xx yáng;eo shì;wj luó;sx jiāng;dg qū;ki
+德阳市中江县	dé;xx yáng;eo shì;wj zhōng;aa jiāng;dg xiàn;sq
+德州市齐河县	dé;xx zhōu;id shì;wj qí;wa hé;dk xiàn;sq
 德州天衢新区	dé;xx zhōu;id tiān;ad qú;xq xīn;jq qū;ki	1
 地宝土家族乡	dì;ty bǎo;by tǔ;aa jiā;bu zú;fu xiāng;ap	1
 迪庆扶贫民族	dí;zy qìng;gd fú;ff pín;bf mín;ag zú;fu	1
@@ -73923,6 +73970,7 @@ sort: by_weight
 甸柳新村街道	diān;gt liǔ;mm xīn;jq cūn;mc jiē;xg dào;zu	1
 汈汊湖养殖场	diāo;dd chà;di hú;dh yǎng;ya zhí;dv chǎng;ty	1
 定南县工业园	dìng;bp nán;ua xiàn;sq gōng;aa yè;aa yuán;ky
+定西市安定区	dìng;bp xī;aa shì;wj ān;bn dìng;bp qū;ki
 丁香北路街道	dīng;aa xiāng;ho běi;ag lù;zg jiē;xg dào;zu	1
 东巴扎回族乡	dōng;ad bā;ag zhā;fg huí;kk zú;fu xiāng;ap	1
 东大门管理处	dōng;ad dà;ad mén;dg guǎn;vg lǐ;wl chù;wb
@@ -73934,6 +73982,16 @@ sort: by_weight
 东工人镇街道	dōng;ad gōng;aa rén;pd zhèn;jv jiē;xg dào;zu	1
 东关大街街道	dōng;ad guān;qd dà;ad jiē;xg jiē;xg dào;zu	1
 东关南街街道	dōng;ad guān;qd nán;ua jiē;xg jiē;xg dào;zu	1
+东莞市常平镇	dōng;ad guǎn;cw shì;wj cháng;jk píng;aa zhèn;jv	1
+东莞市常平镇	dōng;ad guǎn;cw shì;wj cháng;jk píng;aa zhèn;jv	1
+东莞市石碣镇	dōng;ad guǎn;cw shì;wj dàn;kp jié;uh zhèn;jv	1
+东莞市石碣镇	dōng;ad guǎn;cw shì;wj dàn;kp jié;uh zhèn;jv	1
+东莞市石排镇	dōng;ad guǎn;cw shì;wj dàn;kp pái;ff zhèn;jv	1
+东莞市石排镇	dōng;ad guǎn;cw shì;wj dàn;kp pái;ff zhèn;jv	1
+东莞市洪梅镇	dōng;ad guǎn;cw shì;wj hóng;dg méi;mm zhèn;jv	1
+东莞市厚街镇	dōng;ad guǎn;cw shì;wj hòu;iz jiē;xg zhèn;jv	1
+东莞市厚街镇	dōng;ad guǎn;cw shì;wj hòu;iz jiē;xg zhèn;jv	1
+东莞市企石镇	dōng;ad guǎn;cw shì;wj qǐ;rv shí;kp zhèn;jv	1
 东环中街街道	dōng;ad huán;wb zhōng;aa jiē;xg jiē;xg dào;zu	1
 东疆保税港区	dōng;ad jiāng;gj bǎo;rd shuì;hd gǎng;dx qū;ki	1
 东京城林业局	dōng;ad jīng;wx chéng;ti lín;mm yè;aa jú;uk
@@ -73978,6 +74036,8 @@ sort: by_weight
 浮山新区街道	fú;df shān;aa xīn;jq qū;ki jiē;xg dào;zu	1
 伏羲山风景区	fú;rq xī;yg shān;aa fēng;ji jǐng;oj qū;ki	1
 滏阳东路街道	fǔ;df yáng;eo dōng;ad lù;zg jiē;xg dào;zu	1
+抚州市东乡区	fǔ;fw zhōu;id shì;wj dōng;ad xiāng;ap qū;ki
+福州市闽侯县	fú;uf zhōu;id shì;wj mǐn;im hòu;ru xiàn;sq
 嘎玛贡桑街道	gā;kg mǎ;wm gòng;bg sāng;mr jiē;xg dào;zu	1
 甘坑生态林场	gān;ca kēng;tk shēng;na tài;xt lín;mm chǎng;ty	1
 甘肃农垦集团	gān;ca sù;ad nóng;by kěn;tg jí;vm tuán;kc	1
@@ -74012,7 +74072,17 @@ sort: by_weight
 官塘社区街道	guān;bg táng;tt shè;ut qū;ki jiē;xg dào;zu	1
 广安门内街道	guǎng;dp ān;bn mén;dg nèi;ad jiē;xg dào;zu	1
 广安门外街道	guǎng;dp ān;bn mén;dg wài;xb jiē;xg dào;zu	1
+广安市广安区	guǎng;dp ān;bn shì;wj guǎng;dp ān;bn qū;ki
+广安市邻水县	guǎng;dp ān;bn shì;wj lín;el shuǐ;ad xiàn;sq
+广安市前锋区	guǎng;dp ān;bn shì;wj qián;qd fēng;jf qū;ki
 光明西道街道	guāng;ea míng;oo xī;aa dào;zu jiē;xg dào;zu	1
+广元市苍溪县	guǎng;dp yuán;aw shì;wj cāng;cc xī;dx xiàn;sq
+贵港市平南县	guì;ba gǎng;dx shì;wj píng;aa nán;ua xiàn;sq
+桂林市临桂区	guì;mg lín;mm shì;wj lín;ao guì;mg qū;ki
+桂林市灵川县	guì;mg lín;mm shì;wj líng;hx chuān;pa xiàn;sq
+桂林市象山区	guì;mg lín;mm shì;wj xiàng;du shān;aa qū;ki
+桂林市雁山区	guì;mg lín;mm shì;wj yàn;iv shān;aa qū;ki
+贵阳市花溪区	guì;ba yáng;eo shì;wj huā;ch xī;dx qū;ki
 桂云花满族乡	guì;mg yún;es huā;ch mǎn;dl zú;fu xiāng;ap	1
 郭家坳街街道	guō;ex jiā;bu ào;ty jiē;xg jiē;xg dào;zu	1
 国营博爱农场	guó;ky yíng;cl bó;uc ài;vy nóng;by chǎng;ty	1
@@ -74037,13 +74107,25 @@ sort: by_weight
 哈拉布拉克乡	hā;kh la;fl bù;ju lā;fl kè;eg xiāng;ap	1
 哈尼喀塔木乡	hā;kh ní;ub kā;kk tǎ;td mù;ad xiāng;ap	1
 哈日诺尔苏木	hā;kh rì;aa nuò;yr ěr;dx sū;cb mù;ad
+海东市平安区	hǎi;dm dōng;ad shì;wj píng;aa ān;bn qū;ki
 海防办事处乡	hǎi;dm fáng;ef bàn;lb shì;aa chù;wb xiāng;ap	1
 海军广场街道	hǎi;dm jūn;bi guǎng;dp chǎng;ty jiē;xg dào;zu	1
+海门市包场镇	hǎi;dm mén;dg shì;wj bāo;gs chǎng;ty zhèn;jv	1
+海门市德胜镇	hǎi;dm mén;dg shì;wj dé;xx shèng;ou zhèn;jv	1
 海南朝鲜族乡	hǎi;dm nán;ua cháo;ou xiǎn;yy zú;fu xiāng;ap	1
 韩村北路街道	hán;uw cūn;mc běi;ag lù;zg jiē;xg dào;zu	1
 邯郸冀南新区	hán;eg dān;ed jì;bg nán;ua xīn;jq qū;ki	1
+邯郸市丛台区	hán;eg dān;ed shì;wj cóng;ac tái;sk qū;ki
+邯郸市复兴区	hán;eg dān;ed shì;wj fù;wo xīng;ba qū;ki
+邯郸市永年区	hán;eg dān;ed shì;wj yǒng;dd nián;ra qū;ki
+汉中市汉台区	hàn;dy zhōng;aa shì;wj hàn;dy tái;sk qū;ki
+汉中市南郑区	hàn;dy zhōng;aa shì;wj nán;ua zhèng;eg qū;ki
 航海东路街道	háng;vk hǎi;dm dōng;ad lù;zg jiē;xg dào;zu	1
 航海西路街道	háng;vk hǎi;dm xī;aa lù;zg jiē;xg dào;zu	1
+杭州市淳安县	háng;mk zhōu;id shì;wj chún;dx ān;bn xiàn;sq
+杭州市拱墅区	háng;mk zhōu;id shì;wj gǒng;fg shù;ty qū;ki
+杭州市江干区	háng;mk zhōu;id shì;wj jiāng;dg gān;aa qū;ki
+杭州市桐庐县	háng;mk zhōu;id shì;wj tóng;mt lú;gh xiàn;sq
 蒿吉坪瑶族乡	hāo;cg jí;ku píng;tp yáo;wf zú;fu xiāng;ap	1
 浩来呼热苏木	hào;dg lái;am hū;kh rè;hv sū;cb mù;ad
 浩勒图高勒镇	hào;dg lè;lg tú;kd gāo;wk lè;lg zhèn;jv	1
@@ -74054,7 +74136,10 @@ sort: by_weight
 河北唐山海港	hé;dk běi;ag táng;gk shān;aa hǎi;dm gǎng;dx	1
 河北唐山芦台	hé;dk běi;ag táng;gk shān;aa lú;ch tái;sk	1
 和布克赛尔镇	hé;hk bù;ju kè;eg sài;bb ěr;dx zhèn;jv	1
+河池市宜州区	hé;dk chí;dy shì;wj yí;bq zhōu;id qū;ki
 合肥龙岗综合	hé;rk féi;ob lóng;ad gǎng;ug zōng;sz hé;rk	1
+合肥市肥东县	hé;rk féi;ob shì;wj féi;ob dōng;ad xiàn;sq
+合肥市肥西县	hé;rk féi;ob shì;wj féi;ob xī;aa xiàn;sq
 禾斛岭垦殖场	hé;pd hú;jd lǐng;ul kěn;tg zhí;dv chǎng;ty	1
 贺家山原种场	hè;bj jiā;bu shān;aa yuán;ix zhǒng;hv chǎng;ty	1
 和龙市林业局	hé;hk lóng;ad shì;wj lín;mm yè;aa jú;uk
@@ -74062,11 +74147,17 @@ sort: by_weight
 和什托洛盖镇	hé;hk shí;ru tuō;fq luò;dg gài;my zhèn;jv	1
 河潭埠垦殖场	hé;dk tán;dt bù;tf kěn;tg zhí;dv chǎng;ty	1
 和夏阿瓦提镇	hé;hk xià;wz ā;ek wǎ;ad tí;fu zhèn;jv	1
+河源市东源县	hé;dk yuán;dy shì;wj dōng;ad yuán;dy xiàn;sq
+河源市和平县	hé;dk yuán;dy shì;wj hé;hk píng;aa xiàn;sq
+河源市龙川县	hé;dk yuán;dy shì;wj lóng;ad chuān;pa xiàn;sq
+河源市紫金县	hé;dk yuán;dy shì;wj zǐ;sc jīn;ra xiàn;sq
+菏泽市开发区	hé;ch zé;df shì;wj kāi;ac fā;ay qū;ki
 黑城子示范区	hēi;ha chéng;ti zǐ;aa shì;ex fàn;ce qū;ki	1
 黑龙江省乡镇	hēi;ha lóng;ad jiāng;dg shěng;ou xiāng;ap zhèn;jv	1
 恒丰企业集团	héng;xg fēng;aa qǐ;rv yè;aa jí;vm tuán;kc	1
 恒合土家族乡	héng;xg hé;rk tǔ;aa jiā;bu zú;fu xiāng;ap	1
 衡水滨湖新区	héng;xd shuǐ;ad bīn;db hú;dh xīn;jq qū;ki	1
+衡水市冀州区	héng;xd shuǐ;ad shì;wj jì;bg zhōu;id qū;ki
 洪格尔高勒镇	hóng;dg gé;mg ěr;dx gāo;wk lè;lg zhèn;jv	1
 洪家关白族乡	hóng;dg jiā;bu guān;qd bái;pa zú;fu xiāng;ap	1
 红旗奶山羊场	hóng;sg qí;fq nǎi;nn shān;aa yáng;da chǎng;ty	1
@@ -74081,9 +74172,14 @@ sort: by_weight
 户撒阿昌族乡	hù;dp sā;fs ā;ek chāng;oo zú;fu xiāng;ap	1
 呼图壁种牛场	hū;kh tú;kd bì;tb zhòng;hv niú;pa chǎng;ty	1
 虎形山瑶族乡	hǔ;hj xíng;pk shān;aa yáo;wf zú;fu xiāng;ap	1
+湖州市安吉县	hú;dh zhōu;id shì;wj ān;bn jí;ku xiàn;sq
+湖州市吴兴区	hú;dh zhōu;id shì;wj wú;kt xīng;ba qū;ki
 华罗庚高新区	huá;uh luó;sx gēng;gr gāo;wk xīn;jq qū;ki	1
 华南热作学院	huá;uh nán;ua rè;hv zuò;rv xué;zb yuàn;ew
+淮安市淮阴区	huái;dv ān;bn shì;wj huái;dv yīn;eo qū;ki
+淮安市金湖县	huái;dv ān;bn shì;wj jīn;ra hú;dh xiàn;sq
 淮海中路街道	huái;dv hǎi;dm zhōng;aa lù;zg jiē;xg dào;zu	1
+怀化市鹤城区	huái;xb huà;rb shì;wj hè;nv chéng;ti qū;ki
 环城北路街道	huán;wb chéng;ti běi;ag lù;zg jiē;xg dào;zu	1
 环城西路街道	huán;wb chéng;ti xī;aa lù;zg jiē;xg dào;zu	1
 黄柏岭垦殖场	huáng;cb bò;mb lǐng;ul kěn;tg zhí;dv chǎng;ty	1
@@ -74092,6 +74188,8 @@ sort: by_weight
 黄河东路街道	huáng;cb hé;dk dōng;ad lù;zg jiē;xg dào;zu	1
 黄河西路街道	huáng;cb hé;dk xī;aa lù;zg jiē;xg dào;zu	1
 黄花塔拉苏木	huáng;cb huā;ch tǎ;td lā;fl sū;cb mù;ad
+黄石市下陆区	huáng;cb shí;kp shì;wj xià;ab lù;ej qū;ki
+黄石市阳新县	huáng;cb shí;kp shì;wj yáng;eo xīn;jq xiàn;sq
 黄土场开发区	huáng;cb tǔ;aa chǎng;ty kāi;ac fā;ay qū;ki	1
 黄羊关藏族乡	huáng;cb yáng;da guān;qd zàng;cz zú;fu xiāng;ap	1
 回龙山瑶族乡	huí;kk lóng;ad shān;aa yáo;wf zú;fu xiāng;ap	1
@@ -74103,8 +74201,13 @@ sort: by_weight
 火车西站街道	huǒ;dd chē;aa xī;aa zhàn;lv jiē;xg dào;zu	1
 火车站街街道	huǒ;dd chē;aa zhàn;lv jiē;xg jiē;xg dào;zu	1
 火车站开发区	huǒ;dd chē;aa zhàn;lv kāi;ac fā;ay qū;ki	1
+吉安市吉州区	jí;ku ān;bn shì;wj jí;ku zhōu;id qū;ki
+吉安市青原区	jí;ku ān;bn shì;wj qīng;of yuán;ix qū;ki
 吉洞峪满族乡	jí;ku dòng;dt yù;ug mǎn;dl zú;fu xiāng;ap	1
 吉忽伦图苏木	jí;ku hū;xw lún;rl tú;kd sū;cb mù;ad
+吉林市昌邑区	jí;ku lín;mm shì;wj chāng;oo yì;kb qū;ki
+吉林市船营区	jí;ku lín;mm shì;wj chuán;vk yíng;cl qū;ki
+济南市济阳区	jǐ;dq nán;ua shì;wj jì;dq yáng;eo qū;ki
 吉日嘎郎吐镇	jí;ku rì;aa gā;kg láng;el tǔ;kt zhèn;jv	1
 吉日嘎朗图镇	jí;ku rì;aa gā;kg lǎng;ol tú;kd zhèn;jv	0
 济源市承留镇	jì;dq yuán;dy shì;wj chéng;ad liú;td zhèn;jv	1
@@ -74125,16 +74228,24 @@ sort: by_weight
 坚木克尔街道	jiān;ty mù;ad kè;eg ěr;dx jiē;xg dào;zu	1
 建设北街街道	jiàn;zy shè;yu běi;ag jiē;xg jiē;xg dào;zu	1
 建设大街街道	jiàn;zy shè;yu dà;ad jiē;xg jiē;xg dào;zu	1
+江都市大桥镇	jiāng;dg dū;ev shì;wj dà;ad qiáo;mq zhèn;jv	1
 江汉二桥街道	jiāng;dg hàn;dy èr;aa qiáo;mq jiē;xg dào;zu	1
 江桥蒙古族镇	jiāng;dg qiáo;mq měng;cm gǔ;uk zú;fu zhèn;jv	1
 江苏吕四海洋	jiāng;dg sū;cb lǚ;kk sì;aa hǎi;dm yáng;dy	1
+江阴市璜土镇	jiāng;dg yīn;eo shì;wj huáng;wh tǔ;aa zhèn;jv	1
+江阴市南闸镇	jiāng;dg yīn;eo shì;wj nán;ua zhá;mj zhèn;jv	1
+江阴市长泾镇	jiāng;dg yīn;eo shì;wj zhǎng;pd jīng;dg zhèn;jv	1
+焦作市解放区	jiāo;hv zuò;rv shì;wj jiě;jn fàng;wf qū;ki
 解放北路街道	jiě;jn fàng;wf běi;ag lù;zg jiē;xg dào;zu	1
 解放南路街道	jiě;jn fàng;wf nán;ua lù;zg jiē;xg dào;zu	1
 解放西街街道	jiě;jn fàng;wf xī;aa jiē;xg jiē;xg dào;zu	1
 杰勒阿尕什镇	jié;hm lè;lg ā;ek gǎ;xn shí;ru zhèn;jv	1
 解特阿热勒镇	jiě;jn tè;ns ā;ek rè;hv lè;lg zhèn;jv	1
+揭阳市惠来县	jiē;fh yáng;eo shì;wj huì;xh lái;am xiàn;sq
+晋城市阳城县	jìn;oy chéng;ti shì;wj yáng;eo chéng;ti xiàn;sq
 金凤桥管理处	jīn;ra fèng;jy qiáo;mq guǎn;vg lǐ;wl chù;wb
 金谷园路街道	jīn;ra gǔ;bk yuán;ky lù;zg jiē;xg dào;zu	1
+晋江市安海镇	jìn;oy jiāng;dg shì;wj ān;bn hǎi;dm zhèn;jv
 金沙傈僳族乡	jīn;ra shā;du lì;rl sù;rs zú;fu xiāng;ap	1
 金沙滩农牧场	jīn;ra shā;du tān;dn nóng;by mù;nw chǎng;ty	1
 金山社区街道	jīn;ra shān;aa shè;ut qū;ki jiē;xg dào;zu	1
@@ -74145,8 +74256,12 @@ sort: by_weight
 景哈哈尼族乡	jǐng;oj hā;kh hā;kh ní;ub zú;fu xiāng;ap	1
 经济开发区镇	jīng;sg jì;dq kāi;ac fā;ay qū;ki zhèn;jv	1
 荆角土家族乡	jīng;dk jiǎo;dy tǔ;aa jiā;bu zú;fu xiāng;ap	1
+荆州市荆州区	jīng;dk zhōu;id shì;wj jīng;dk zhōu;id qū;ki
 九保阿昌族乡	jiǔ;py bǎo;rd ā;ek chāng;oo zú;fu xiāng;ap	1
 九合垸原种场	jiǔ;py hé;rk yuàn;tw yuán;ix zhǒng;hv chǎng;ty	1
+九江市柴桑区	jiǔ;py jiāng;dg shì;wj chái;mc sāng;mr qū;ki
+九江市濂溪区	jiǔ;py jiāng;dg shì;wj lián;dl xī;dx qū;ki
+九江市浔阳区	jiǔ;py jiāng;dg shì;wj xún;dx yáng;eo qū;ki
 酒井哈尼族乡	jiǔ;dy jǐng;aa hā;kh ní;ub zú;fu xiāng;ap	1
 九矿广场街道	jiǔ;py kuàng;ug guǎng;dp chǎng;ty jiē;xg dào;zu	1
 九龙坡区街道	jiǔ;py lóng;ad pō;tp qū;ki jiē;xg dào;zu	1
@@ -74164,6 +74279,8 @@ sort: by_weight
 喀什东路街道	kā;kk shí;ru dōng;ad lù;zg jiē;xg dào;zu	1
 开发区办事处	kāi;ac fā;ay qū;ki bàn;lb shì;aa chù;wb
 开发区关堤乡	kāi;ac fā;ay qū;ki guān;qd dī;tu xiāng;ap	1
+开封市龙亭区	kāi;ac fēng;cg shì;wj lóng;ad tíng;wd qū;ki
+开封市祥符区	kāi;ac fēng;cg shì;wj xiáng;uy fú;vf qū;ki
 凯旋东路街道	kǎi;jj xuán;fp dōng;ad lù;zg jiē;xg dào;zu	1
 康都街道片区	kāng;gl dōu;ev jiē;xg dào;zu piàn;pa qū;ki	1
 康健新村街道	kāng;gl jiàn;rj xīn;jq cūn;mc jiē;xg dào;zu	1
@@ -74182,20 +74299,33 @@ sort: by_weight
 库兰萨日克乡	kù;gi lán;qe sà;ci rì;aa kè;eg xiāng;ap	1
 库木库萨尔乡	kù;gi mù;ad kù;gi sà;ci ěr;dx xiāng;ap	1
 库木西力克乡	kù;gi mù;ad xī;aa lì;gp kè;eg xiāng;ap	1
+昆明市宜良县	kūn;ob míng;oo shì;wj yí;bq liáng;dg xiàn;sq
+昆山市巴城镇	kūn;ob shān;aa shì;wj bā;ag chéng;ti zhèn;jv	1
+昆山市巴城镇	kūn;ob shān;aa shì;wj bā;ag chéng;ti zhèn;jv
+昆山市锦溪镇	kūn;ob shān;aa shì;wj jǐn;jb xī;dx zhèn;jv	1
+昆山市玉山镇	kūn;ob shān;aa shì;wj yù;wd shān;aa zhèn;jv	1
 阔克阿尕什乡	kuò;mh kè;eg ā;ek gǎ;xn shí;ru xiāng;ap	1
 阔什艾日克乡	kuò;mh shí;ru ài;ci rì;aa kè;eg xiāng;ap	1
 阔什萨特玛乡	kuò;mh shí;ru sà;ci tè;ns mǎ;wm xiāng;ap	1
 拉布大林街道	lā;fl bù;ju dà;ad lín;mm jiē;xg dào;zu	1
+拉萨市城关区	lā;fl sà;ci shì;wj chéng;ti guān;qd qū;ki
 蓝山浆洞林场	lán;cj shān;aa jiāng;ux dòng;dt lín;mm chǎng;ty	1
 蓝山荆竹林场	lán;cj shān;aa jīng;dk zhú;gg lín;mm chǎng;ty	1
 蓝山南岭林场	lán;cj shān;aa nán;ua lǐng;ul lín;mm chǎng;ty	1
+兰州市安宁区	lán;qe zhōu;id shì;wj ān;bn níng;bd qū;ki
+兰州市榆中县	lán;qe zhōu;id shì;wj yú;my zhōng;aa xiàn;sq
+廊坊市大城县	láng;gl fāng;tf shì;wj dài;ad chéng;ti xiàn;sq
 勒门巴民族乡	lè;lg mén;dg bā;ag mín;ag zú;fu xiāng;ap	1
 立陡山良种场	lì;da dǒu;ez shān;aa liáng;dg zhǒng;hv chǎng;ty	1
 丽光华侨农场	lì;ad guāng;ea huá;uh qiáo;rq nóng;by chǎng;ty	1
+丽江市古城区	lì;ad jiāng;dg shì;wj gǔ;uk chéng;ti qū;ki
+丽江市玉龙县	lì;ad jiāng;dg shì;wj yù;wd lóng;ad xiàn;sq
 黎明关水族乡	lí;hu míng;oo guān;qd shuǐ;ad zú;fu xiāng;ap	1
 黎明傈僳族乡	lí;hu míng;oo lì;rl sù;rs zú;fu xiāng;ap	1
 力所拉祜族乡	lì;gp suǒ;hj lā;fl hù;ug zú;fu xiāng;ap	1
 立新社区街道	lì;da xīn;jq shè;ut qū;ki jiē;xg dào;zu	1
+溧阳市溧城镇	lì;dl yáng;eo shì;wj lì;dl chéng;ti zhèn;jv	1
+溧阳市南渡镇	lì;dl yáng;eo shì;wj nán;ua dù;dd zhèn;jv	1
 鲤鱼洲管理处	lǐ;yl yú;da zhōu;dv guǎn;vg lǐ;wl chù;wb
 栗子坪彝族乡	lì;mx zi;aa píng;tp yí;jc zú;fu xiāng;ap	1
 恋乡太行水镇	liàn;xy xiāng;ap tài;dd háng;xi shuǐ;ad zhèn;jv	1
@@ -74205,11 +74335,15 @@ sort: by_weight
 两家子满族乡	liǎng;ad jiā;bu zǐ;aa mǎn;dl zú;fu xiāng;ap	1
 凉水朝鲜族乡	liáng;dj shuǐ;ad cháo;ou xiǎn;yy zú;fu xiāng;ap	1
 良种繁育中心	liáng;dg zhǒng;hv fán;sm yù;os zhōng;aa xīn;dd
+聊城市茌平区	liáo;em chéng;ti shì;wj chí;cu píng;aa qū;ki
 烈山区工业园	liè;hl shān;aa qū;ki gōng;aa yè;aa yuán;ky
 林东东城街道	lín;mm dōng;ad dōng;ad chéng;ti jiē;xg dào;zu	1
 林东西城街道	lín;mm dōng;ad xi;aa chéng;ti jiē;xg dào;zu	1
 临港化工园区	lín;ao gǎng;dx huà;rb gōng;aa yuán;ky qū;ki	1
 临港物流园区	lín;ao gǎng;dx wù;nw liú;di yuán;ky qū;ki	1
+临沂市临沭县	lín;ao yí;dj shì;wj lín;ao shù;du xiàn;sq
+临沂市平邑县	lín;ao yí;dj shì;wj píng;aa yì;kb xiàn;sq
+临沂市沂水县	lín;ao yí;dj shì;wj yí;dj shuǐ;ad xiàn;sq
 灵宝市园艺场	líng;hx bǎo;by shì;wj yuán;ky yì;cy chǎng;ty	1
 菱角湖管理区	líng;cl jiǎo;dy hú;dh guǎn;vg lǐ;wl qū;ki	1
 六合垸管理区	liù;wb hé;rk yuàn;tw guǎn;vg lǐ;wl qū;ki	1
@@ -74221,6 +74355,7 @@ sort: by_weight
 陇海马路街道	lǒng;el hǎi;dm mǎ;aa lù;zg jiē;xg dào;zu	1
 龙湖新村街道	lóng;ad hú;dh xīn;jq cūn;mc jiē;xg dào;zu	1
 龙井市林业局	lóng;ad jǐng;aa shì;wj lín;mm yè;aa jú;uk
+龙口市东江镇	lóng;ad kǒu;aa shì;wj dōng;ad jiāng;dg zhèn;jv	1
 龙门石窟街道	lóng;ad mén;dg shí;kp kū;xq jiē;xg dào;zu	1
 隆平高科技园	lóng;eu píng;aa gāo;wk kē;hd jì;fv yuán;ky
 龙桥土家族乡	lóng;ad qiáo;mq tǔ;aa jiā;bu zú;fu xiāng;ap	1
@@ -74231,12 +74366,18 @@ sort: by_weight
 露采社区街道	lù;yl cǎi;vm shè;ut qū;ki jiē;xg dào;zu	1
 芦柴湖办事处	lú;ch chái;mc hú;dh bàn;lb shì;aa chù;wb
 鲁础营回族乡	lǔ;yo chǔ;ui yíng;cl huí;kk zú;fu xiāng;ap	1
+泸州市合江县	lú;dl zhōu;id shì;wj hé;rk jiāng;dg xiàn;sq
 萝北县林业局	luó;cl běi;ag xiàn;sq lín;mm yè;aa jú;uk
 萝北县农业局	luó;cl běi;ag xiàn;sq nóng;by yè;aa jú;uk
 洛本卓白族乡	luò;dg běn;aa zhuó;uo bái;pa zú;fu xiāng;ap	1
 罗浮山管理区	luó;sx fú;df shān;aa guǎn;vg lǐ;wl qū;ki	1
 罗汉寺办事处	luó;sx hàn;dy sì;ct bàn;lb shì;aa chù;wb
 罗汉寺种畜场	luó;sx hàn;dy sì;ct zhǒng;hv chù;tx chǎng;ty	1
+漯河市临颍县	luò;dl hé;dk shì;wj lín;ao yǐng;yu xiàn;sq
+漯河市舞阳县	luò;dl hé;dk shì;wj wǔ;rf yáng;eo xiàn;sq
+漯河市郾城区	luò;dl hé;dk shì;wj yǎn;en chéng;ti qū;ki
+漯河市源汇区	luò;dl hé;dk shì;wj yuán;dy huì;dk qū;ki
+洛阳市洛龙区	luò;dg yáng;eo shì;wj luò;dg lóng;ad qū;ki
 罗子山瑶族乡	luó;sx zǐ;aa shān;aa yáo;wf zú;fu xiāng;ap	1
 绿色草原牧场	lǜ;sl sè;db cǎo;cz yuán;ix mù;nw chǎng;ty	1
 麻城林店茶场	má;gl chéng;ti lín;mm diàn;gv chá;cm chǎng;ty	1
@@ -74249,7 +74390,11 @@ sort: by_weight
 满族屯满族乡	mǎn;dl zú;fu tún;ag mǎn;dl zú;fu xiāng;ap	1
 芒市勐焕街道	máng;cw shì;wj měng;lm huàn;hh jiē;xg dào;zu	1
 芒市遮放农场	máng;cw shì;wj zhē;zu fàng;wf nóng;by chǎng;ty	1
+眉山市仁寿县	méi;om shān;aa shì;wj rén;re shòu;cf xiàn;sq
 梅园新村街道	méi;mm yuán;ky xīn;jq cūn;mc jiē;xg dào;zu	1
+梅州市丰顺县	méi;mm zhōu;id shì;wj fēng;aa shùn;yi xiàn;sq
+梅州市梅江区	méi;mm zhōu;id shì;wj méi;mm jiāng;dg qū;ki
+梅州市五华县	méi;mm zhōu;id shì;wj wǔ;aa huá;uh xiàn;sq
 门楼下瑶族乡	mén;dg lóu;ml xià;ab yáo;wf zú;fu xiāng;ap	1
 蒙兀室韦苏木	méng;cm wù;ae shì;bv wéi;aa sū;cb mù;ad
 米粮泉回族乡	mǐ;dd liáng;ml quán;ub huí;kk zú;fu xiāng;ap	1
@@ -74266,11 +74411,17 @@ sort: by_weight
 纳尔巴格街道	nà;sn ěr;dx bā;ag gé;mg jiē;xg dào;zu	1
 乃林果树农场	nǎi;pg lín;mm guǒ;tm shù;md nóng;by chǎng;ty	1
 乃则尔巴格镇	nǎi;pg zé;bd ěr;dx bā;ag gé;mg zhèn;jv	1
+南安市水头镇	nán;ua ān;bn shì;wj shuǐ;ad tóu;dd zhèn;jv
+南昌市东湖区	nán;ua chāng;oo shì;wj dōng;ad hú;dh qū;ki
+南昌市南昌县	nán;ua chāng;oo shì;wj nán;ua chāng;oo xiàn;sq
+南昌市湾里区	nán;ua chāng;oo shì;wj wān;dw lǐ;aa qū;ki
+南昌市新建区	nán;ua chāng;oo shì;wj xīn;jq jiàn;zy qū;ki
 南昌县银三角	nán;ua chāng;oo xiàn;sq yín;jg sān;aa jiǎo;dy	1
 南川东路街道	nán;ua chuān;pa dōng;ad lù;zg jiē;xg dào;zu	1
 南川西路街道	nán;ua chuān;pa xī;aa lù;zg jiē;xg dào;zu	1
 南大港管理区	nán;ua dà;ad gǎng;dx guǎn;vg lǐ;wl qū;ki	1
 楠杆土家族乡	nán;mn gān;mg tǔ;aa jiā;bu zú;fu xiāng;ap	1
+南海区狮山镇	nán;ua hǎi;dm qū;ki shī;qu shān;aa zhèn;jv
 南湖北路街道	nán;ua hú;dh běi;ag lù;zg jiē;xg dào;zu	1
 南湖南路街道	nán;ua hú;dh nán;ua lù;zg jiē;xg dào;zu	1
 南环中路街道	nán;ua huán;wb zhōng;aa lù;zg jiē;xg dào;zu	1
@@ -74279,16 +74430,26 @@ sort: by_weight
 南康市工业园	nán;ua kāng;gl shì;wj gōng;aa yè;aa yuán;ky
 南码头路街道	nán;ua mǎ;um tóu;dd lù;zg jiē;xg dào;zu	1
 南美拉祜族乡	nán;ua měi;dy lā;fl hù;ug zú;fu xiāng;ap	1
+南宁市江南区	nán;ua níng;bd shì;wj jiāng;dg nán;ua qū;ki
 南沙河口街道	nán;ua shā;du hé;dk kǒu;aa jiē;xg dào;zu	1
 南山傈僳族乡	nán;ua shān;aa lì;rl sù;rs zú;fu xiāng;ap	1
 南天门满族乡	nán;ua tiān;ad mén;dg mǎn;dl zú;fu xiāng;ap	1
+南通市崇川区	nán;ua tōng;zy shì;wj chóng;uz chuān;pa qū;ki
+南通市港闸区	nán;ua tōng;zy shì;wj gǎng;dx zhá;mj qū;ki
 南湾湖管理处	nán;ua wān;dw hú;dh guǎn;vg lǐ;wl chù;wb
 南五十家子镇	nán;ua wǔ;aa shí;aa jiā;bu zǐ;aa zhèn;jv	1
+南阳市方城县	nán;ua yáng;eo shì;wj fāng;wd chéng;ti xiàn;sq
+南阳市内乡县	nán;ua yáng;eo shì;wj nèi;ad xiāng;ap xiàn;sq
 南阳新村街道	nán;ua yáng;eo xīn;jq cūn;mc jiē;xg dào;zu	1
 曩宋阿昌族乡	nǎng;ox sòng;bm ā;ek chāng;oo zú;fu xiāng;ap	1
+内江市市中区	nèi;ad jiāng;dg shì;wj shì;wj zhōng;aa qū;ki
+内江市威远县	nèi;ad jiāng;dg shì;wj wēi;gn yuǎn;zy xiàn;sq
 内蒙古鄂托克	nèi;ad méng;cm gǔ;uk è;ee tuō;fq kè;eg	1
 内蒙古自治区	nèi;ad méng;cm gǔ;uk zì;pa zhì;dt qū;ki	1
 年丰朝鲜族乡	nián;ra fēng;aa cháo;ou xiǎn;yy zú;fu xiāng;ap	1
+宁波市北仑区	níng;bd bō;dp shì;wj běi;ag lún;rb qū;ki
+宁波市奉化区	níng;bd bō;dp shì;wj fèng;ff huà;rb qū;ki
+宁波市象山县	níng;bd bō;dp shì;wj xiàng;du shān;aa xiàn;sq
 宁姜蒙古族乡	níng;bd jiāng;ny měng;cm gǔ;uk zú;fu xiāng;ap	1
 牛场布依族乡	niú;pa chǎng;ty bù;ju yī;ry zú;fu xiāng;ap	1
 农产品加工园	nóng;by chǎn;wi pǐn;kk jiā;lk gōng;aa yuán;ky
@@ -74312,6 +74473,9 @@ sort: by_weight
 平庄西城街道	píng;aa zhuāng;gt xī;aa chéng;ti jiē;xg dào;zu	1
 泊尔江海子镇	pō;db ěr;dx jiāng;dg hǎi;dm zǐ;aa zhèn;jv	1
 濮公山管理区	pú;df gōng;sb shān;aa guǎn;vg lǐ;wl qū;ki	1
+莆田市涵江区	pú;cf tián;aa shì;wj hán;dh jiāng;dg qū;ki
+莆田市荔城区	pú;cf tián;aa shì;wj lì;cl chéng;ti qū;ki
+莆田市仙游县	pú;cf tián;aa shì;wj xiān;ru yóu;dz xiàn;sq
 濮阳县白堽乡	pú;df yáng;eo xiàn;sq bái;pa gāng;tg xiāng;ap	1
 濮阳县海通乡	pú;df yáng;eo xiàn;sq hǎi;dm tōng;zy xiāng;ap	1
 濮阳县胡状镇	pú;df yáng;eo xiàn;sq hú;og zhuàng;qp zhèn;jv	1
@@ -74327,6 +74491,7 @@ sort: by_weight
 濮阳县习城乡	pú;df yáng;eo xiàn;sq xí;ga chéng;ti xiāng;ap	1
 濮阳县徐镇镇	pú;df yáng;eo xiàn;sq xú;xy zhèn;jv zhèn;jv	1
 濮阳县子岸镇	pú;df yáng;eo xiàn;sq zǐ;aa àn;ug zhèn;jv	1
+启东市汇龙镇	qǐ;hk dōng;ad shì;wj huì;dk lóng;ad zhèn;jv	1
 齐干却勒街道	qí;wa gàn;aa què;eq lè;lg jiē;xg dào;zu	1
 七家岱满族乡	qī;ag jiā;bu dài;ud mǎn;dl zú;fu xiāng;ap	1
 齐勒乌泽克镇	qí;wa lè;lg wū;pa zé;df kè;eg zhèn;jv	1
@@ -74342,6 +74507,7 @@ sort: by_weight
 前所果树农场	qián;qd suǒ;hj guǒ;tm shù;md nóng;by chǎng;ty	1
 切木尔切克镇	qiè;dq mù;ad ěr;dx qiè;dq kè;eg zhèn;jv	1
 秦皇岛市街道	qín;hf huáng;bw dǎo;nu shì;wj jiē;xg dào;zu	1
+青岛市即墨区	qīng;of dǎo;nu shì;wj jí;eg mò;th qū;ki
 青冈县果树场	qīng;of gāng;ki xiàn;sq guǒ;tm shù;md chǎng;ty	1
 青冈县原种场	qīng;of gāng;ki xiàn;sq yuán;ix zhǒng;hv chǎng;ty	1
 青冈县种马场	qīng;of gāng;ki xiàn;sq zhǒng;hv mǎ;aa chǎng;ty	1
@@ -74349,21 +74515,36 @@ sort: by_weight
 庆华街道地区	qìng;gd huá;uh jiē;xg dào;zu dì;ty qū;ki	1
 青泥洼桥街道	qīng;of ní;dn wā;dg qiáo;mq jiē;xg dào;zu	1
 青年公园街道	qīng;of nián;ra gōng;sb yuán;ky jiē;xg dào;zu	1
+青浦区徐泾镇	qīng;of pǔ;df qū;ki xú;xy jīng;dg zhèn;jv
 清水土家族乡	qīng;dq shuǐ;ad tǔ;aa jiā;bu zú;fu xiāng;ap	1
 青阳县开发区	qīng;of yáng;eo xiàn;sq kāi;ac fā;ay qū;ki	1
+清远市清城区	qīng;dq yuǎn;zy shì;wj qīng;dq chéng;ti qū;ki
+清远市阳山县	qīng;dq yuǎn;zy shì;wj yáng;eo shān;aa xiàn;sq
 琼科瑞克街道	qióng;wj kē;hd ruì;we kè;eg jiē;xg dào;zu	1
 琼库尔恰克乡	qióng;wj kù;gi ěr;dx qià;xh kè;eg xiāng;ap	1
 穹窿山风景区	qióng;xg lóng;xl shān;aa fēng;ji jǐng;oj qū;ki	1
+曲靖市会泽县	qū;aa jìng;lq shì;wj huì;ry zé;df xiàn;sq
+曲靖市麒麟区	qū;aa jìng;lq shì;wj qí;lq lín;ll qū;ki
+曲靖市沾益区	qū;aa jìng;lq shì;wj zhān;dv yì;mb qū;ki
+衢州市柯城区	qú;xq zhōu;id shì;wj kē;mk chéng;ti qū;ki
+衢州市衢江区	qú;xq zhōu;id shì;wj qú;xq jiāng;dg qū;ki
 全南县工业园	quán;rw nán;ua xiàn;sq gōng;aa yè;aa yuán;ky
 热河南路街道	rè;hv hé;dk nán;ua lù;zg jiē;xg dào;zu	1
 人民广场街道	rén;pd mín;ag guǎng;dp chǎng;ty jiē;xg dào;zu	1
 人民社区街道	rén;pd mín;ag shè;ut qū;ki jiē;xg dào;zu	1
+日照市岚山区	rì;aa zhào;hv shì;wj lán;uf shān;aa qū;ki
+日照市五莲县	rì;aa zhào;hv shì;wj wǔ;aa lián;cl xiàn;sq
 荣炳盐资源区	róng;cm bǐng;hb yán;mb zī;bc yuán;dy qū;ki	1
+荣成市虎山镇	róng;cm chéng;gg shì;wj hǔ;hj shān;aa zhèn;jv	1
+荣成市人和镇	róng;cm chéng;gg shì;wj rén;pd hé;hk zhèn;jv	1
 如东沿海旅游	rú;nk dōng;ad yán;dk hǎi;dm lǚ;fp yóu;dz	1
 如皋市蚕种场	rú;nk gāo;bu shì;wj cán;it zhǒng;hv chǎng;ty	1
 如皋市良种场	rú;nk gāo;bu shì;wj liáng;dg zhǒng;hv chǎng;ty	1
 如皋市农科所	rú;nk gāo;bu shì;wj nóng;by kē;hd suǒ;hj
 如皋市种猪场	rú;nk gāo;bu shì;wj zhǒng;hv zhū;qv chǎng;ty	1
+瑞安市莘塍镇	ruì;we ān;bn shì;wj shēn;cx chéng;tf zhèn;jv	1
+瑞安市塘下镇	ruì;we ān;bn shì;wj táng;tt xià;ab zhèn;jv	1
+瑞安市塘下镇	ruì;we ān;bn shì;wj táng;tt xià;ab zhèn;jv
 瑞金二路街道	ruì;we jīn;ra èr;aa lù;zg jiē;xg dào;zu	1
 萨地克于孜乡	sà;ci dì;ty kè;eg yú;aa zī;wz xiāng;ap	1
 萨尔布拉克镇	sà;ci ěr;dx bù;ju lā;fl kè;eg zhèn;jv	1
@@ -74404,19 +74585,32 @@ sort: by_weight
 山东烟台福山	shān;aa dōng;ad yān;hy tái;sk fú;uf shān;aa	1
 山河屯林业局	shān;aa hé;dk tún;ag lín;mm yè;aa jú;uk
 山市种奶牛场	shān;aa shì;wj zhǒng;hv nǎi;nn niú;pa chǎng;ty	1
+汕头市潮阳区	shàn;du tóu;dd shì;wj cháo;di yáng;eo qū;ki
 上坝土家族乡	shàng;aa bà;tb tǔ;aa jiā;bu zú;fu xiāng;ap	1
 上钢新村街道	shàng;aa gāng;jg xīn;jq cūn;mc jiē;xg dào;zu	1
+上海市崇明县	shàng;aa hǎi;dm shì;wj chóng;uz míng;oo xiàn;sq
 上海西路街道	shàng;aa hǎi;dm xī;aa lù;zg jiē;xg dào;zu	1
+商洛市商州区	shāng;wk luò;dg shì;wj shāng;wk zhōu;id qū;ki
 上蒲溪瑶族乡	shàng;aa pú;cp xī;dx yáo;wf zú;fu xiāng;ap	1
+上饶市信州区	shàng;aa ráo;uy shì;wj xìn;ry zhōu;id qū;ki
 商颂大街街道	shāng;wk sòng;yg dà;ad jiē;xg jiē;xg dào;zu	1
 上梧江瑶族乡	shàng;aa wú;mw jiāng;dg yáo;wf zú;fu xiāng;ap	1
+上虞市崧厦镇	shàng;aa yú;hw shì;wj sōng;us shà;ix zhèn;jv	1
 尚寨土家族乡	shàng;xk zhài;mb tǔ;aa jiā;bu zú;fu xiāng;ap	1
+韶关市曲江区	sháo;yv guān;qd shì;wj qǔ;aa jiāng;dg qū;ki
+韶关市武江区	sháo;yv guān;qd shì;wj wǔ;vy jiāng;dg qū;ki
+韶关市新丰县	sháo;yv guān;qd shì;wj xīn;jq fēng;aa xiàn;sq
 召陵区老窝镇	shào;kd líng;el qū;ki lǎo;lb wō;xn zhèn;jv	1
 召陵区青年镇	shào;kd líng;el qū;ki qīng;of nián;ra zhèn;jv	1
 召陵区召陵镇	shào;kd líng;el qū;ki shào;kd líng;el zhèn;jv	1
 召陵区万金镇	shào;kd líng;el qū;ki wàn;ag jīn;ra zhèn;jv	1
+绍兴市上虞区	shào;sv xīng;ba shì;wj shàng;aa yú;hw qū;ki
+绍兴市新昌县	shào;sv xīng;ba shì;wj xīn;jq chāng;oo xiàn;sq
 射阳港经济区	shè;cu yáng;eo gǎng;dx jīng;sg jì;dq qū;ki	1
+沈阳市和平区	shěn;dg yáng;eo shì;wj hé;hk píng;aa qū;ki
+沈阳市铁西区	shěn;dg yáng;eo shì;wj tiě;ju xī;aa qū;ki
 审章塘瑶族乡	shěn;bu zhāng;lz táng;tt yáo;wf zú;fu xiāng;ap	1
+深圳市光明区	shēn;dm zhèn;ti shì;wj guāng;ea míng;oo qū;ki
 圣安多尼堂区	shèng;ty ān;bn duō;xx ní;ub táng;tk qū;ki	1
 盛达东路街道	shèng;mi dá;zd dōng;ad lù;zg jiē;xg dào;zu	1
 圣方济各堂区	shèng;ty fāng;wd jì;dq gè;wk táng;tk qū;ki	1
@@ -74441,10 +74635,17 @@ sort: by_weight
 十六里河街道	shí;aa liù;wb lǐ;aa hé;dk jiē;xg dào;zu	1
 石门二路街道	shí;kp mén;dg èr;aa lù;zg jiē;xg dào;zu	1
 石人子沟街道	shí;kp rén;pd zǐ;aa gōu;dg jiē;xg dào;zu	1
+石狮市鸿山镇	shí;kp shī;qu shì;wj hóng;nj shān;aa zhèn;jv	1
+石狮市锦尚镇	shí;kp shī;qu shì;wj jǐn;jb shàng;xk zhèn;jv	1
+石狮市祥芝镇	shí;kp shī;qu shì;wj xiáng;uy zhī;cv zhèn;jv	1
+石狮市永宁镇	shí;kp shī;qu shì;wj yǒng;dd níng;bd zhèn;jv	1
 十四号种畜场	shí;aa sì;aa hào;kk zhǒng;hv chù;tx chǎng;ty	1
 十万山瑶族乡	shí;aa wàn;ag shān;aa yáo;wf zú;fu xiāng;ap	1
 石厢子彝族乡	shí;kp xiāng;ix zǐ;aa yí;jc zú;fu xiāng;ap	1
 十堰工业新区	shí;aa yàn;tn gōng;aa yè;aa xīn;jq qū;ki	1
+十堰市茅箭区	shí;aa yàn;tn shì;wj máo;cm jiàn;vq qū;ki
+十堰市郧阳区	shí;aa yàn;tn shì;wj yún;ey yáng;eo qū;ki
+十堰市张湾区	shí;aa yàn;tn shì;wj zhāng;gi wān;dw qū;ki
 石油新城街道	shí;kp yóu;dy xīn;jq chéng;ti jiē;xg dào;zu	1
 石油新村街道	shí;kp yóu;dy xīn;jq cūn;mc jiē;xg dào;zu	1
 首都机场街道	shǒu;qz dū;ev jī;mj chǎng;ty jiē;xg dào;zu	1
@@ -74458,12 +74659,17 @@ sort: by_weight
 四方坨子农场	sì;aa fāng;wd tuó;tt zi;aa nóng;by chǎng;ty	1
 四顾闸管理处	sì;aa gù;ye zhá;mj guǎn;vg lǐ;wl chù;wb
 丝路街道片区	sī;aa lù;zg jiē;xg dào;zu piàn;pa qū;ki	1
+四平市铁西区	sì;aa píng;aa shì;wj tiě;ju xī;aa qū;ki
 四十里城子镇	sì;aa shí;aa lǐ;aa chéng;ti zǐ;aa zhèn;jv	1
+松原市宁江区	sōng;mg yuán;ix shì;wj níng;bd jiāng;dg qū;ki
 苏典傈僳族乡	sū;cb diǎn;ba lì;rl sù;rs zú;fu xiāng;ap	1
 苏木溪瑶族乡	sū;cb mù;ad xī;dx yáo;wf zú;fu xiāng;ap	1
 苏泊淖尔苏木	sū;cb pō;db nào;dv ěr;dx sū;cb mù;ad
 苏州高铁新城	sū;cb zhōu;id gāo;wk tiě;ju xīn;jq chéng;ti
+苏州市吴江区	sū;cb zhōu;id shì;wj wú;kt jiāng;dg qū;ki
+苏州市吴中区	sū;cb zhōu;id shì;wj wú;kt zhōng;aa qū;ki
 绥东镇种畜场	suí;st dōng;ad zhèn;jv zhǒng;hv chù;tx chǎng;ty	1
+绥化市北林区	suí;st huà;rb shì;wj běi;ag lín;mm qū;ki
 孙各庄满族乡	sūn;zx gè;wk zhuāng;gt mǎn;dl zú;fu xiāng;ap	1
 孙家堡子街道	sūn;zx jiā;bu bǔ;tb zi;aa jiē;xg dào;zu	1
 孙扎齐牛录镇	sūn;zx zhā;fg qí;wa niú;pa lù;au zhèn;jv	1
@@ -74472,6 +74678,9 @@ sort: by_weight
 塔什库尔干乡	tǎ;td shí;ru kù;gi ěr;dx gàn;aa xiāng;ap	1
 塔什库尔干镇	tǎ;td shí;ru kù;gi ěr;dx gàn;aa zhèn;jv	1
 塔什米里克乡	tǎ;td shí;ru mǐ;dd lǐ;aa kè;eg xiāng;ap	1
+台北市信义区	tái;sk běi;ag shì;wj xìn;ry yì;id qū;ki
+太仓市璜泾镇	tài;dd cāng;re shì;wj huáng;wh jīng;dg zhèn;jv	1
+太仓市陆渡镇	tài;dd cāng;re shì;wj lù;ej dù;dd zhèn;jv	1
 台创园管委会	tái;sk chuàng;dc yuán;ky guǎn;vg wěi;hn huì;ry
 太行东街街道	tài;dd háng;xi dōng;ad jiē;xg jiē;xg dào;zu	1
 太行西街街道	tài;dd háng;xi xī;aa jiē;xg jiē;xg dào;zu	1
@@ -74484,15 +74693,23 @@ sort: by_weight
 太平岭满族乡	tài;dd píng;aa lǐng;ul mǎn;dl zú;fu xiāng;ap	1
 太平新城街道	tài;dd píng;aa xīn;jq chéng;ti jiē;xg dào;zu	1
 太平庄满族乡	tài;dd píng;aa zhuāng;gt mǎn;dl zú;fu xiāng;ap	1
+泰兴市泰兴镇	tài;uf xīng;ba shì;wj tài;uf xīng;ba zhèn;jv	1
+太原市晋源区	tài;dd yuán;ix shì;wj jìn;oy yuán;dy qū;ki
+台州市黄岩区	tāi;sk zhōu;id shì;wj huáng;cb yán;uu qū;ki
+台州市椒江区	tāi;sk zhōu;id shì;wj jiāo;mu jiāng;dg qū;ki
+台州市路桥区	tāi;sk zhōu;id shì;wj lù;zg qiáo;mq qū;ki
 唐槐园区街道	táng;gk huái;mg yuán;ky qū;ki jiē;xg dào;zu	1
 唐家墩街街道	táng;gk jiā;bu dūn;td jiē;xg jiē;xg dào;zu	1
 汤泉池管理处	tāng;dy quán;ub chí;dy guǎn;vg lǐ;wl chù;wb
+唐山市开平区	táng;gk shān;aa shì;wj kāi;ac píng;aa qū;ki
 提克阿热克镇	tí;fu kè;eg ā;ek rè;hv kè;eg zhèn;jv	1
 体育馆路街道	tǐ;rb yù;os guǎn;ug lù;zg jiē;xg dào;zu	1
 体育中心街道	tǐ;rb yù;os zhōng;aa xīn;dd jiē;xg dào;zu	1
 天鹅洲开发区	tiān;ad é;nw zhōu;dv kāi;ac fā;ay qū;ki	1
 天津港保税区	tiān;ad jīn;dy gǎng;dx bǎo;rd shuì;hd qū;ki	1
+天津市和平区	tiān;ad jīn;dy shì;wj hé;hk píng;aa qū;ki
 天津市蓟州区	tiān;ad jīn;dy shì;wj jì;cd zhōu;id qū;ki	1
+天津市静海县	tiān;ad jīn;dy shì;wj jìng;qv hǎi;dm xiàn;sq
 天津铁厂街道	tiān;ad jīn;dy tiě;ju chǎng;ap jiē;xg dào;zu	1
 天马华侨农场	tiān;ad mǎ;aa huá;uh qiáo;rq nóng;by chǎng;ty	1
 天目西路街道	tiān;ad mù;aa xī;aa lù;zg jiē;xg dào;zu	1
@@ -74513,10 +74730,14 @@ sort: by_weight
 铁西街道地区	tiě;ju xī;aa jiē;xg dào;zu dì;ty qū;ki	1
 铜拔山垦殖场	tóng;jt bá;fb shān;aa kěn;tg zhí;dv chǎng;ty	1
 通达傈僳族乡	tōng;zy dá;zd lì;rl sù;rs zú;fu xiāng;ap	1
+通化市东昌区	tōng;zy huà;rb shì;wj dōng;ad chāng;oo qū;ki
 通济新经济区	tōng;zy jì;dq xīn;jq jīng;sg jì;dq qū;ki	1
 桶井土家族乡	tǒng;my jǐng;aa tǔ;aa jiā;bu zú;fu xiāng;ap	1
+铜陵市义安区	tóng;jt líng;el shì;wj yì;id ān;bn qū;ki
 桐木漯瑶族乡	tóng;mt mù;ad luò;dl yáo;wf zú;fu xiāng;ap	1
 桐木坪侗族乡	tóng;mt mù;ad píng;tp dòng;rt zú;fu xiāng;ap	1
+铜仁市万山区	tóng;jt rén;re shì;wj wàn;ag shān;aa qū;ki
+通州区潞城镇	tōng;zy zhōu;id qū;ki lù;dl chéng;ti zhèn;jv
 头道牌楼街道	tóu;dd dào;zu pái;pb lóu;ml jiē;xg dào;zu	1
 吐列毛杜农场	tǔ;kt liè;dd máo;pg dù;mt nóng;by chǎng;ty	1
 吐鲁番于孜乡	tǔ;kt lǔ;yo fān;tm yú;aa zī;wz xiāng;ap	1
@@ -74532,12 +74753,18 @@ sort: by_weight
 万安县工业园	wàn;ag ān;bn xiàn;sq gōng;aa yè;aa yuán;ky
 万寿滩良种场	wàn;ag shòu;cf tān;dn liáng;dg zhǒng;hv chǎng;ty	1
 王家楼回族乡	wáng;aa jiā;bu lóu;ml huí;kk zú;fu xiāng;ap	1
+潍坊市潍城区	wéi;dw fāng;tf shì;wj wéi;dw chéng;ti qū;ki
 潍坊新村街道	wéi;dw fāng;tf xīn;jq cūn;mc jiē;xg dào;zu	1
+威海市环翠区	wēi;gn hǎi;dm shì;wj huán;wb cuì;yz qū;ki
+威海市文登区	wēi;gn hǎi;dm shì;wj wén;wi dēng;dd qū;ki
+渭南市华州区	wèi;dw nán;ua shì;wj huá;uh zhōu;id qū;ki
 渭阳西路街道	wèi;dw yáng;eo xī;aa lù;zg jiē;xg dào;zu	1
 文昌大道街道	wén;wi chāng;oo dà;ad dào;zu jiē;xg dào;zu	1
 温都尔勒图镇	wēn;dm dōu;ev ěr;dx lè;lg tú;kd zhèn;jv	1
 文明大道街道	wén;wi míng;oo dà;ad dào;zu jiē;xg dào;zu	1
 温图高勒苏木	wēn;dm tú;kd gāo;wk lè;lg sū;cb mù;ad
+温州市平阳县	wēn;dm zhōu;id shì;wj píng;aa yáng;eo xiàn;sq
+温州市永嘉县	wēn;dm zhōu;id shì;wj yǒng;dd jiā;uj xiàn;sq
 翁贡乌拉苏木	wēng;yg gòng;bg wù;pa lā;fl sū;cb mù;ad
 卧龙朝鲜族乡	wò;ib lóng;ad cháo;ou xiǎn;yy zú;fu xiāng;ap	1
 五陂下垦殖场	wǔ;aa bēi;ep xià;ab kěn;tg zhí;dv chǎng;ty	1
@@ -74546,7 +74773,13 @@ sort: by_weight
 乌额格其牧场	wū;pa é;yk gé;mg qí;ba mù;nw chǎng;ty	1
 乌额格其苏木	wū;pa é;yk gé;mg qí;ba sū;cb mù;ad
 悟峰山度假区	wù;xw fēng;uf shān;aa dù;gy jià;rj qū;ki	1
+武汉市江夏区	wǔ;vy hàn;dy shì;wj jiāng;dg xià;wz qū;ki
+武汉市硚口区	wǔ;vy hàn;dy shì;wj qiáo;uq kǒu;aa qū;ki
+武汉市武昌区	wǔ;vy hàn;dy shì;wj wǔ;vy chāng;oo qū;ki
 五家渠市北屯	wǔ;aa jiā;bu qú;mj shì;wj běi;ag tún;ag	1
+吴江市七都镇	wú;kt jiāng;dg shì;wj qī;ag dōu;ev zhèn;jv	1
+吴江市盛泽镇	wú;kt jiāng;dg shì;wj shèng;mi zé;df zhèn;jv	1
+吴江市松陵镇	wú;kt jiāng;dg shì;wj sōng;mg líng;el zhèn;jv	1
 屋脚蒙古族乡	wū;uv jiǎo;oq měng;cm gǔ;uk zú;fu xiāng;ap	1
 乌拉哈乌拉乡	wù;pa lā;fl hā;kh wù;pa lā;fl xiāng;ap	1
 乌兰敖道渔场	wū;pa lán;qe áo;wd dào;zu yú;dy chǎng;ty	1
@@ -74569,9 +74802,25 @@ sort: by_weight
 五四大街街道	wǔ;aa sì;aa dà;ad jiē;xg jiē;xg dào;zu	1
 五松社区街道	wǔ;aa sōng;mg shè;ut qū;ki jiē;xg dào;zu	1
 乌图布拉格镇	wū;pa tú;kd bù;ju lā;fl gé;mg zhèn;jv	1
+武威市凉州区	wǔ;vy wēi;gn shì;wj liáng;dj zhōu;id qū;ki
 五五新镇街道	wǔ;aa wǔ;aa xīn;jq zhèn;jv jiē;xg dào;zu	1
+无锡市锡山区	wú;ag xī;jy shì;wj xī;jy shān;aa qū;ki
 武陟宁郭农场	wǔ;vy zhì;eb níng;bd guō;ex nóng;by chǎng;ty	1
+吴忠市利通区	wú;kt zhōng;xv shì;wj lì;hd tōng;zy qū;ki
 乌尊布拉克镇	wū;pa zūn;cq bù;ju lā;fl kè;eg zhèn;jv	1
+西安市灞桥区	xī;aa ān;bn shì;wj bà;db qiáo;mq qū;ki
+西安市碑林区	xī;aa ān;bn shì;wj bēi;ub lín;mm qū;ki
+西安市高陵区	xī;aa ān;bn shì;wj gāo;wk líng;el qū;ki
+西安市高新区	xī;aa ān;bn shì;wj gāo;wk xīn;jq qū;ki
+西安市鄠邑区	xī;aa ān;bn shì;wj hù;ek yì;kb qū;ki
+西安市蓝田县	xī;aa ān;bn shì;wj lán;cj tián;aa xiàn;sq
+西安市莲湖区	xī;aa ān;bn shì;wj lián;cl hú;dh qū;ki
+西安市临潼区	xī;aa ān;bn shì;wj lín;ao tóng;dt qū;ki
+西安市未央区	xī;aa ān;bn shì;wj wèi;ex yāng;ad qū;ki
+西安市新城区	xī;aa ān;bn shì;wj xīn;jq chéng;ti qū;ki
+西安市阎良区	xī;aa ān;bn shì;wj yán;mj liáng;dg qū;ki
+西安市雁塔区	xī;aa ān;bn shì;wj yàn;iv tǎ;td qū;ki
+西安市周至县	xī;aa ān;bn shì;wj zhōu;kt zhì;tv xiàn;sq
 西长安街街道	xī;aa cháng;pd ān;bn jiē;xg jiē;xg dào;zu	1
 西关大街街道	xī;aa guān;qd dà;ad jiē;xg jiē;xg dào;zu	1
 西湖片区街道	xī;aa hú;dh piàn;pa qū;ki jiē;xg dào;zu	1
@@ -74603,12 +74852,16 @@ sort: by_weight
 县特产场场区	xiàn;sq tè;ns chǎn;wi chǎng;ty chǎng;ty qū;ki	1
 仙霞新村街道	xiān;ru xiá;yj xīn;jq cūn;mc jiē;xg dào;zu	1
 咸阳北路街道	xián;kg yáng;eo běi;ag lù;zg jiē;xg dào;zu	1
+咸阳市渭城区	xián;kg yáng;eo shì;wj wèi;dw chéng;ti qū;ki
 芗城区奶牛场	xiāng;cx chéng;ti qū;ki nǎi;nn niú;pa chǎng;ty	1
 香坊大街街道	xiāng;ho fāng;tf dà;ad jiē;xg jiē;xg dào;zu	1
 香港中路街道	xiāng;ho gǎng;dx zhōng;aa lù;zg jiē;xg dào;zu	1
 向海蒙古族乡	xiàng;pk hǎi;dm měng;cm gǔ;uk zú;fu xiāng;ap	1
 湘江源瑶族乡	xiāng;dx jiāng;dg yuán;dy yáo;wf zú;fu xiāng;ap	1
 项脚蒙古族乡	xiàng;gy jiǎo;oq měng;cm gǔ;uk zú;fu xiāng;ap	1
+襄阳市樊城区	xiāng;wy yáng;eo shì;wj fán;dm chéng;ti qū;ki
+襄阳市襄城区	xiāng;wy yáng;eo shì;wj xiāng;wy chéng;ti qū;ki
+襄阳市襄州区	xiāng;wy yáng;eo shì;wj xiāng;wy zhōu;id qū;ki
 向阳小区街道	xiàng;pk yáng;eo xiǎo;ad qū;ki jiē;xg dào;zu	1
 小城子管理处	xiǎo;ad chéng;ti zǐ;aa guǎn;vg lǐ;wl chù;wb
 肖尔布拉克镇	xiāo;xo ěr;dx bù;ju lā;fl kè;eg zhèn;jv	1
@@ -74638,16 +74891,28 @@ sort: by_weight
 新山傈僳族乡	xīn;jq shān;aa lì;rl sù;rs zú;fu xiāng;ap	1
 新世纪工业园	xīn;jq shì;ca jì;sj gōng;aa yè;aa yuán;ky
 新添堡回族乡	xīn;jq tiān;dt bǎo;tb huí;kk zú;fu xiāng;ap	1
+新乡市牧野区	xīn;jq xiāng;ap shì;wj mù;nw yě;ly qū;ki
+新乡市卫滨区	xīn;jq xiāng;ap shì;wj wèi;ga bīn;db qū;ki
 新星市核心区	xīn;jq xīng;ou shì;wj hé;mh xīn;dd qū;ki	1
+信阳市光山县	xìn;ry yáng;eo shì;wj guāng;ea shān;aa xiàn;sq
+信阳市平桥区	xìn;ry yáng;eo shì;wj píng;aa qiáo;mq qū;ki
+信阳市浉河区	xìn;ry yáng;eo shì;wj shī;du hé;dk qū;ki
+新余市渝水区	xīn;jq yú;rb shì;wj yú;dy shuǐ;ad qū;ki
+新郑市龙湖镇	xīn;jq zhèng;eg shì;wj lóng;ad hú;dh zhèn;jv
 幸福社区街道	xìng;tu fú;uf shè;ut qū;ki jiē;xg dào;zu	1
 幸福之路苏木	xìng;tu fú;uf zhī;dd lù;zg sū;cb mù;ad
 兴国县工业园	xīng;ba guó;ky xiàn;sq gōng;aa yè;aa yuán;ky
 兴和朝鲜族乡	xīng;ba hé;hk cháo;ou xiǎn;yy zú;fu xiāng;ap	1
+兴化市张郭镇	xīng;ba huà;rb shì;wj zhāng;gi guō;ex zhèn;jv	1
 兴隆华侨农场	xīng;ba lóng;eu huá;uh qiáo;rq nóng;by chǎng;ty	1
 兴蒙蒙古族乡	xīng;ba méng;cm méng;cm gǔ;uk zú;fu xiāng;ap	1
 杏树朝鲜族乡	xìng;mk shù;md cháo;ou xiǎn;yy zú;fu xiāng;ap	1
+许昌市建安区	xǔ;yw chāng;oo shì;wj jiàn;zy ān;bn qū;ki
 畜牧良种农场	xù;tx mù;nw liáng;dg zhǒng;hv nóng;by chǎng;ty	1
 浒墅关经开区	xǔ;dx shù;ty guān;qd jīng;sg kāi;ac qū;ki
+徐州市睢宁县	xú;xy zhōu;id shì;wj suī;ov níng;bd xiàn;sq
+宣城市绩溪县	xuān;bg chéng;ti shì;wj jì;sz xī;dx xiàn;sq
+宣城市宣州区	xuān;bg chéng;ti shì;wj xuān;bg zhōu;id qū;ki
 学府园区街道	xué;zb fǔ;gf yuán;ky qū;ki jiē;xg dào;zu	1
 学院南路街道	xué;zb yuàn;ew nán;ua lù;zg jiē;xg dào;zu	1
 学苑社区街道	xué;zb yuàn;ce shè;ut qū;ki jiē;xg dào;zu	1
@@ -74659,6 +74924,10 @@ sort: by_weight
 亚瓦通古孜乡	yà;ay wǎ;ad tōng;zy gǔ;uk zī;wz xiāng;ap	1
 延安北路街道	yán;zv ān;bn běi;ag lù;zg jiē;xg dào;zu	1
 延安南路街道	yán;zv ān;bn nán;ua lù;zg jiē;xg dào;zu	1
+延安市安塞区	yán;zv ān;bn shì;wj ān;bn sài;tb qū;ki
+延安市宝塔区	yán;zv ān;bn shì;wj bǎo;by tǎ;td qū;ki
+延安市宜川县	yán;zv ān;bn shì;wj yí;bq chuān;pa xiàn;sq
+盐城市建湖县	yán;mb chéng;ti shì;wj jiàn;zy hú;dh xiàn;sq
 延和朝鲜族乡	yán;zv hé;hk cháo;ou xiǎn;yy zú;fu xiāng;ap	1
 延吉市林业局	yán;zv jí;ku shì;wj lín;mm yè;aa jú;uk
 延吉新村街道	yán;zv jí;ku xīn;jq cūn;mc jiē;xg dào;zu	1
@@ -74667,12 +74936,15 @@ sort: by_weight
 堰塘土家族乡	yàn;tn táng;tt tǔ;aa jiā;bu zú;fu xiāng;ap	1
 阳光社区街道	yáng;eo guāng;ea shè;ut qū;ki jiē;xg dào;zu	1
 阳和土家族乡	yáng;eo hé;hk tǔ;aa jiā;bu zú;fu xiāng;ap	1
+阳江市江城区	yáng;eo jiāng;dg shì;wj jiāng;dg chéng;ti qū;ki
 羊桥土家族乡	yáng;da qiáo;mq tǔ;aa jiā;bu zú;fu xiāng;ap	1
 羊三木回族乡	yáng;da sān;aa mù;ad huí;kk zú;fu xiāng;ap	1
 仰天湖瑶族乡	yǎng;re tiān;ad hú;dh yáo;wf zú;fu xiāng;ap	1
 扬子江路街道	yáng;fy zǐ;aa jiāng;dg lù;zg jiē;xg dào;zu	1
 鹞山社区街道	yào;nf shān;aa shè;ut qū;ki jiē;xg dào;zu	1
 也格孜托别乡	yě;gg gé;mg zī;wz tuō;fq bié;dl xiāng;ap	1
+宜宾市屏山县	yí;bq bīn;bb shì;wj píng;ub shān;aa xiàn;sq
+宜昌市西陵区	yí;bq chāng;oo shì;wj xī;aa líng;el qū;ki
 依格孜也尔乡	yī;ry gé;mg zī;wz yě;gg ěr;dx xiāng;ap	1
 伊和高勒苏木	yī;ry hé;hk gāo;wk lè;lg sū;cb mù;ad
 伊和淖尔苏木	yī;ry hé;hk nào;dv ěr;dx sū;cb mù;ad
@@ -74685,6 +74957,15 @@ sort: by_weight
 依其艾日克镇	yī;ry qí;ba ài;ci rì;aa kè;eg zhèn;jv	1
 依吞布拉克镇	yī;ry tūn;kt bù;ju lā;fl kè;eg zhèn;jv	1
 依希来木其乡	yī;ry xī;ib lái;am mù;ad qí;ba xiāng;ap	1
+宜兴市丁蜀镇	yí;bq xīng;ba shì;wj dīng;aa shǔ;si zhèn;jv	1
+宜兴市丁蜀镇	yí;bq xīng;ba shì;wj dīng;aa shǔ;si zhèn;jv
+宜兴市芳桥镇	yí;bq xīng;ba shì;wj fāng;cf qiáo;mq zhèn;jv	1
+宜兴市高塍镇	yí;bq xīng;ba shì;wj gāo;wk chéng;tf zhèn;jv	1
+宜兴市屺亭镇	yí;bq xīng;ba shì;wj qǐ;uj tíng;wd zhèn;jv	1
+益阳市赫山区	yì;mb yáng;eo shì;wj hè;ii shān;aa qū;ki
+益阳市资阳区	yì;mb yáng;eo shì;wj zī;bc yáng;eo qū;ki
+银川市贺兰县	yín;jg chuān;pa shì;wj hè;bj lán;qe xiàn;sq
+银川市西夏区	yín;jg chuān;pa shì;wj xī;aa xià;wz qū;ki
 银河北路街道	yín;jg hé;dk běi;ag lù;zg jiē;xg dào;zu	1
 银河南路街道	yín;jg hé;dk nán;ua lù;zg jiē;xg dào;zu	1
 尹家营满族乡	yǐn;ap jiā;bu yíng;cl mǎn;dl zú;fu xiāng;ap	1
@@ -74713,26 +74994,39 @@ sort: by_weight
 玉佛山风景区	yù;wd fó;rf shān;aa fēng;ji jǐng;oj qū;ki	1
 于家务回族乡	yú;aa jiā;bu wù;wl huí;kk zú;fu xiāng;ap	1
 鱼梁洲开发区	yú;da liáng;md zhōu;dv kāi;ac fā;ay qū;ki	1
+榆林市横山区	yú;my lín;mm shì;wj héng;mh shān;aa qū;ki
+榆林市榆阳区	yú;my lín;mm shì;wj yú;my yáng;eo qū;ki
 玉奇吾斯塘乡	yù;wd qí;dk wú;kw sī;jq táng;tt xiāng;ap	1
 愉群翁回族乡	yú;xy qún;yj wēng;yg huí;kk zú;fu xiāng;ap	1
 玉什喀拉苏镇	yù;wd shí;ru kā;kk lā;fl sū;cb zhèn;jv	1
 榆树沟管理处	yú;my shù;md gōu;dg guǎn;vg lǐ;wl chù;wb
+玉溪市红塔区	yù;wd xī;dx shì;wj hóng;sg tǎ;td qū;ki
 元台子满族乡	yuán;aw tái;sk zi;aa mǎn;dl zú;fu xiāng;ap	1
 原种繁育中心	yuán;ix zhǒng;hv fán;sm yù;os zhōng;aa xīn;dd
+乐清市柳市镇	yuè;pd qīng;dq shì;wj liǔ;mm shì;wj zhèn;jv	1
+岳阳市云溪区	yuè;uq yáng;eo shì;wj yún;es xī;dx qū;ki
+云浮市新兴县	yún;es fú;df shì;wj xīn;jq xīng;ba xiàn;sq
+云浮市云安区	yún;es fú;df shì;wj yún;es ān;bn qū;ki
+云浮市云城区	yún;es fú;df shì;wj yún;es chéng;ti qū;ki
 运粮湖管理区	yùn;zy liáng;ml hú;dh guǎn;vg lǐ;wl qū;ki	1
 云山企业集团	yún;es shān;aa qǐ;rv yè;aa jí;vm tuán;kc	1
 云雾土家族乡	yún;es wù;yw tǔ;aa jiā;bu zú;fu xiāng;ap	1
 藏青工业园乡	zàng;cz qīng;of gōng;aa yè;aa yuán;ky xiāng;ap	1
+枣庄市市中区	zǎo;cd zhuāng;gt shì;wj shì;wj zhōng;aa qū;ki
 泽普县良种场	zé;df pǔ;ob xiàn;sq liáng;dg zhǒng;hv chǎng;ty	1
 泽普县依玛乡	zé;df pǔ;ob xiàn;sq yī;ry mǎ;wm xiāng;ap	1
 扎格斯台苏木	zhā;fg gé;mg sī;jq tái;sk sū;cb mù;ad
 扎库齐牛录乡	zhā;fg kù;gi qí;wa niú;pa lù;au xiāng;ap	1
 扎赉诺尔矿区	zhā;fg lài;bl nuò;yr ěr;dx kuàng;ug qū;ki	1
 湛河北路街道	zhàn;du hé;dk běi;ag lù;zg jiē;xg dào;zu	1
+湛江市遂溪县	zhàn;du jiāng;dg shì;wj suì;zu xī;dx xiàn;sq
+湛江市霞山区	zhàn;du jiāng;dg shì;wj xiá;yj shān;aa qū;ki
 张家港保税区	zhāng;gi jiā;bu gǎng;dx bǎo;rd shuì;hd qū;ki	1
+张掖市甘州区	zhāng;gi yè;fy shì;wj gān;ca zhōu;id qū;ki
 兆麟街道地区	zhào;ed lín;ll jiē;xg dào;zu dì;ty qū;ki	1
 赵陵铺路街道	zhào;zi líng;el pū;jf lù;zg jiē;xg dào;zu	1
 昭平台库区乡	zhāo;ov píng;aa tái;sk kù;gi qū;ki xiāng;ap	1
+昭通市镇雄县	zhāo;ov tōng;zy shì;wj zhèn;jv xióng;vh xiàn;sq
 昭乌达路街道	zhāo;ov wū;pa dá;zd lù;zg jiē;xg dào;zu	1
 者米拉祜族乡	zhě;ol mǐ;dd lā;fl hù;ug zú;fu xiāng;ap	1
 哲日根图林场	zhé;kv rì;aa gēn;mg tú;kd lín;mm chǎng;ty	1
@@ -74740,6 +75034,11 @@ sort: by_weight
 真新新村街道	zhēn;uj xīn;jq xīn;jq cūn;mc jiē;xg dào;zu	1
 振兴东路街道	zhèn;fi xīng;ba dōng;ad lù;zg jiē;xg dào;zu	1
 振兴中路街道	zhèn;fi xīng;ba zhōng;aa lù;zg jiē;xg dào;zu	1
+郑州市二七区	zhèng;eg zhōu;id shì;wj èr;aa qī;ag qū;ki
+郑州市管城区	zhèng;eg zhōu;id shì;wj guǎn;vg chéng;ti qū;ki
+郑州市惠济区	zhèng;eg zhōu;id shì;wj huì;xh jì;dq qū;ki
+郑州市上街区	zhèng;eg zhōu;id shì;wj shàng;aa jiē;xg qū;ki
+郑州市中原区	zhèng;eg zhōu;id shì;wj zhōng;aa yuán;ix qū;ki
 职工新街街道	zhí;ev gōng;aa xīn;jq jiē;xg jiē;xg dào;zu	1
 芷江西路街道	zhǐ;cv jiāng;dg xī;aa lù;zg jiē;xg dào;zu	1
 中大槐树街道	zhōng;aa dà;ad huái;mg shù;md jiē;xg dào;zu	1
@@ -74749,11 +75048,26 @@ sort: by_weight
 中山北路街道	zhōng;aa shān;aa běi;ag lù;zg jiē;xg dào;zu	1
 中山东路街道	zhōng;aa shān;aa dōng;ad lù;zg jiē;xg dào;zu	1
 中山南街街道	zhōng;aa shān;aa nán;ua jiē;xg jiē;xg dào;zu	1
+中山市大涌镇	zhōng;aa shān;aa shì;wj dà;ad yǒng;dy zhèn;jv	1
+中山市大涌镇	zhōng;aa shān;aa shì;wj dà;ad yǒng;dy zhèn;jv	1
+中山市东凤镇	zhōng;aa shān;aa shì;wj dōng;ad fèng;jy zhèn;jv	1
+中山市东凤镇	zhōng;aa shān;aa shì;wj dōng;ad fèng;jy zhèn;jv
+中山市古镇镇	zhōng;aa shān;aa shì;wj gǔ;uk zhèn;jv zhèn;jv	1
+中山市古镇镇	zhōng;aa shān;aa shì;wj gǔ;uk zhèn;jv zhèn;jv
+中山市南头镇	zhōng;aa shān;aa shì;wj nán;ua tóu;dd zhèn;jv	1
+中山市三角镇	zhōng;aa shān;aa shì;wj sān;aa jiǎo;dy zhèn;jv	1
+中山市三角镇	zhōng;aa shān;aa shì;wj sān;aa jiǎo;dy zhèn;jv
 中山西路街道	zhōng;aa shān;aa xī;aa lù;zg jiē;xg dào;zu	1
 中原西路街道	zhōng;aa yuán;ix xī;aa lù;zg jiē;xg dào;zu	1
 驻马店市乡镇	zhù;mv mǎ;aa diàn;gv shì;wj xiāng;ap zhèn;jv	1
+株洲市天元区	zhū;mv zhōu;dv shì;wj tiān;ad yuán;aw qū;ki
+淄博市高青县	zī;dt bó;uc shì;wj gāo;wk qīng;of xiàn;sq
+自贡市大安区	zì;pa gòng;bg shì;wj dà;ad ān;bn qū;ki
+自贡市富顺县	zì;pa gòng;bg shì;wj fù;bf shùn;yi xiàn;sq
 紫蓬山管委会	zǐ;sc péng;cf shān;aa guǎn;vg wěi;hn huì;ry
 紫薇大道街道	zǐ;sc wēi;cw dà;ad dào;zu jiē;xg dào;zu	1
+资阳市安岳县	zī;bc yáng;eo shì;wj ān;bn yuè;uq xiàn;sq
+资阳市雁江区	zī;bc yáng;eo shì;wj yàn;iv jiāng;dg qū;ki
 走马坪白族乡	zǒu;tv mǎ;aa píng;tp bái;pa zú;fu xiāng;ap	1
 左江华侨农场	zuǒ;ug jiāng;dg huá;uh qiáo;rq nóng;by chǎng;ty	1
 阿尔丁大街街道	ā;ek ěr;dx dīng;aa dà;ad jiē;xg jiē;xg dào;zu	1
@@ -74803,8 +75117,10 @@ sort: by_weight
 宝田侗族苗族乡	bǎo;by tián;aa dòng;rt zú;fu miáo;ct zú;fu xiāng;ap	1
 北安管理局局直	běi;ag ān;bn guǎn;vg lǐ;wl jú;uk jú;uk zhí;uq
 北川羌族自治县	běi;ag chuān;pa qiāng;yg zú;fu zì;pa zhì;dt xiàn;sq	1
+北海市铁山港区	běi;ag hǎi;dm shì;wj tiě;ju shān;aa gǎng;dx qū;ki
 北湖风景管理区	běi;ag hú;dh fēng;ji jǐng;oj guǎn;vg lǐ;wl qū;ki	1
 北街办事处街道	běi;ag jiē;xg bàn;lb shì;aa chù;wb jiē;xg dào;zu	1
+北京市门头沟区	běi;ag jīng;wx shì;wj mén;dg tóu;dd gōu;dg qū;ki
 北京市双河农场	běi;ag jīng;wx shì;wj shuāng;yy hé;dk nóng;by chǎng;ty	1
 贝林哈日莫墩乡	bèi;ad lín;mm hā;kh rì;aa mò;cd dūn;td xiāng;ap	1
 本溪满族自治县	běn;aa xī;dx mǎn;dl zú;fu zì;pa zhì;dt xiàn;sq	1
@@ -74852,13 +75168,17 @@ sort: by_weight
 大丰经济开发区	dà;ad fēng;aa jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 大化瑶族自治县	dà;ad huà;rb yáo;wf zú;fu zì;pa zhì;dt xiàn;sq	1
 大理白族自治州	dà;ad lǐ;wl bái;pa zú;fu zì;pa zhì;dt zhōu;id	1
+大连市普兰店区	dà;ad lián;zi shì;wj pǔ;ob lán;qe diàn;gv qū;ki
+大连市沙河口区	dà;ad lián;zi shì;wj shā;du hé;dk kǒu;aa qū;ki
 达木珞巴民族乡	dá;zd mù;ad luò;wg bā;ag mín;ag zú;fu xiāng;ap	1
 大平苗族彝族乡	dà;ad píng;aa miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
+大庆市让胡路区	dà;ad qìng;gd shì;wj ràng;yu hú;og lù;zg qū;ki
 达日罕乌拉苏木	dá;zd rì;aa hǎn;bg wù;pa lā;fl sū;cb mù;ad
 大山苗族彝族乡	dà;ad shān;aa miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 大石桥市示范场	dà;ad shí;kp qiáo;mq shì;wj shì;ex fàn;ce chǎng;ty	1
 大台山果树农场	dà;ad tái;sk shān;aa guǒ;tm shù;md nóng;by chǎng;ty	1
 大兴经济开发区	dà;ad xīng;ba jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+大兴区西红门镇	dà;ad xīng;ba qū;ki xī;aa hóng;sg mén;dg zhèn;jv
 大熊山国有林场	dà;ad xióng;hn shān;aa guó;ky yǒu;ou lín;mm chǎng;ty	1
 大亚湾澳头街道	dà;ad yà;ay wān;dw ào;da tóu;dd jiē;xg dào;zu	1
 大亚湾西区街道	dà;ad yà;ay wān;dw xī;aa qū;ki jiē;xg dào;zu	1
@@ -74888,6 +75208,7 @@ sort: by_weight
 东风农场管理区	dōng;ad fēng;ji nóng;by chǎng;ty guǎn;vg lǐ;wl qū;ki	1
 东风农场生活区	dōng;ad fēng;ji nóng;by chǎng;ty shēng;na huó;du qū;ki	1
 东莞滨海湾新区	dōng;ad guǎn;cw bīn;db hǎi;dm wān;dw xīn;jq qū;ki	1
+东莞市樟木头镇	dōng;ad guǎn;cw shì;wj zhāng;mv mù;ad tou;dd zhèn;jv	1
 东湖风景区街道	dōng;ad hú;dh fēng;ji jǐng;oj qū;ki jiē;xg dào;zu	1
 东湖水库管理站	dōng;ad hú;dh shuǐ;ad kù;gi guǎn;vg lǐ;wl zhàn;lv
 东山办事处街道	dōng;ad shān;aa bàn;lb shì;aa chù;wb jiē;xg dào;zu	1
@@ -74959,6 +75280,14 @@ sort: by_weight
 国营长江机械厂	guó;ky yíng;cl zhǎng;pd jiāng;dg jī;mj xiè;mj chǎng;ap
 国有林场管理局	guó;ky yǒu;ou lín;mm chǎng;ty guǎn;vg lǐ;wl jú;uk
 国有林管理中心	guó;ky yǒu;ou lín;mm guǎn;vg lǐ;wl zhōng;aa xīn;dd
+哈尔滨市道里区	hā;kh ěr;dx bīn;db shì;wj dào;zu lǐ;aa qū;ki
+哈尔滨市道外区	hā;kh ěr;dx bīn;db shì;wj dào;zu wài;xb qū;ki
+哈尔滨市呼兰区	hā;kh ěr;dx bīn;db shì;wj hū;kh lán;qe qū;ki
+哈尔滨市南岗区	hā;kh ěr;dx bīn;db shì;wj nán;ua gǎng;ug qū;ki
+哈尔滨市平房区	hā;kh ěr;dx bīn;db shì;wj píng;aa fáng;hf qū;ki
+哈尔滨市双城区	hā;kh ěr;dx bīn;db shì;wj shuāng;yy chéng;ti qū;ki
+哈尔滨市松北区	hā;kh ěr;dx bīn;db shì;wj sōng;mg běi;ag qū;ki
+哈尔滨市香坊区	hā;kh ěr;dx bīn;db shì;wj xiāng;ho fāng;tf qū;ki
 哈拉盖图农牧场	hā;kh la;fl gài;my tú;kd nóng;by mù;nw chǎng;ty	1
 哈拉毛都良种场	hā;kh la;fl máo;pg dōu;ev liáng;dg zhǒng;hv chǎng;ty	1
 哈勒景蒙古族乡	hā;kh lè;lg jǐng;oj měng;cm gǔ;uk zú;fu xiāng;ap	1
@@ -74969,6 +75298,7 @@ sort: by_weight
 海拉尔西路街道	hǎi;dm lā;fl ěr;dx xī;aa lù;zg jiē;xg dào;zu	1
 海南藏族自治州	hǎi;dm nán;ua zàng;cz zú;fu zì;pa zhì;dt zhōu;id	1
 海州经济开发区	hǎi;dm zhōu;id jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+邯郸市峰峰矿区	hán;eg dān;ed shì;wj fēng;uf fēng;uf kuàng;ug qū;ki
 河伯岭国有林场	hé;dk bó;rb lǐng;ul guó;ky yǒu;ou lín;mm chǎng;ty	1
 河口经济开发区	hé;dk kǒu;aa jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 河口瑶族自治县	hé;dk kǒu;aa yáo;wf zú;fu zì;pa zhì;dt xiàn;sq	1
@@ -74989,6 +75319,8 @@ sort: by_weight
 洪泽经济开发区	hóng;dg zé;df jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 呼和托哈种畜场	hū;kh hé;hk tuō;fq hā;kh zhǒng;hv chù;tx chǎng;ty	1
 胡力吐蒙古族乡	hú;og lì;gp tǔ;kt měng;cm gǔ;uk zú;fu xiāng;ap	1
+葫芦岛市连山区	hú;ch lu;ch dǎo;nu shì;wj lián;zi shān;aa qū;ki
+葫芦岛市龙港区	hú;ch lu;ch dǎo;nu shì;wj lóng;ad gǎng;dx qū;ki
 呼热图淖尔苏木	hū;kh rè;hv tú;kd nào;dv ěr;dx sū;cb mù;ad
 互助土族自治县	hù;aa zhù;lq tǔ;aa zú;fu zì;pa zhì;dt xiàn;sq	1
 华北石油管理局	huá;uh běi;ag shí;kp yóu;dy guǎn;vg lǐ;wl jú;uk
@@ -75068,6 +75400,7 @@ sort: by_weight
 宽甸满族自治县	kuān;bj diān;gt mǎn;dl zú;fu zì;pa zhì;dt xiàn;sq	1
 奎香苗族彝族乡	kuí;dg xiāng;ho miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 昆山旅游度假区	kūn;ob shān;aa lǚ;fp yóu;dz dù;gy jià;rj qū;ki	1
+昆山市淀山湖镇	kūn;ob shān;aa shì;wj diàn;dd shān;aa hú;dh zhèn;jv	1
 阔什比克良种场	kuò;mh shí;ru bǐ;bb kè;eg liáng;dg zhǒng;hv chǎng;ty	1
 喇叭沟门满族乡	lǎ;kd bā;kb gōu;dg mén;dg mǎn;dl zú;fu xiāng;ap	1
 拉林灌区管理局	lā;fl lín;mm guàn;dv qū;ki guǎn;vg lǐ;wl jú;uk
@@ -75082,9 +75415,16 @@ sort: by_weight
 莲花管理委员会	lián;cl huā;ch guǎn;vg lǐ;wl wěi;hn yuán;kb huì;ry
 连南瑶族自治县	lián;zi nán;ua yáo;wf zú;fu zì;pa zhì;dt xiàn;sq	1
 连山飞地经济区	lián;zi shān;aa fēi;yd dì;ty jīng;sg jì;dq qū;ki	1
+连云港市东海县	lián;zi yún;es gǎng;dx shì;wj dōng;ad hǎi;dm xiàn;sq
+连云港市赣榆区	lián;zi yún;es gǎng;dx shì;wj gàn;vg yú;my qū;ki
+连云港市灌南县	lián;zi yún;es gǎng;dx shì;wj guàn;dv nán;ua xiàn;sq
+连云港市灌云县	lián;zi yún;es gǎng;dx shì;wj guàn;dv yún;es xiàn;sq
+连云港市海州区	lián;zi yún;es gǎng;dx shì;wj hǎi;dm zhōu;id qū;ki
+连云港市连云区	lián;zi yún;es gǎng;dx shì;wj lián;zi yún;es qū;ki
 良庆经济开发区	liáng;dg qìng;gd jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 凉山彝族自治州	liáng;dj shān;aa yí;jc zú;fu zì;pa zhì;dt zhōu;id	1
 凉水河蒙古族乡	liáng;dj shuǐ;ad hé;dk měng;cm gǔ;uk zú;fu xiāng;ap	1
+聊城市东昌府区	liáo;em chéng;ti shì;wj dōng;ad chāng;oo fǔ;gf qū;ki
 林甸县长青林场	lín;mm diàn;gt xiàn;sq zhǎng;pd qīng;of lín;mm chǎng;ty	1
 临汾经济开发区	lín;ao fén;df jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 临港经济开发区	lín;ao gǎng;dx jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
@@ -75092,6 +75432,7 @@ sort: by_weight
 林口彝族苗族乡	lín;mm kǒu;aa yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 临夏回族自治州	lín;ao xià;wz huí;kk zú;fu zì;pa zhì;dt zhōu;id	1
 陵水黎族自治县	líng;el shuǐ;ad lí;hu zú;fu zì;pa zhì;dt xiàn;sq	1
+六盘水市水城县	liù;wb pán;mv shuǐ;ad shì;wj shuǐ;ad chéng;ti xiàn;sq
 隆安华侨管理区	lóng;eu ān;bn huá;uh qiáo;rq guǎn;vg lǐ;wl qū;ki	1
 龙港飞地经济区	lóng;ad gǎng;dx fēi;yd dì;ty jīng;sg jì;dq qū;ki	1
 龙河镇保安林场	lóng;ad hé;dk zhèn;jv bǎo;rd ān;bn lín;mm chǎng;ty	1
@@ -75111,6 +75452,10 @@ sort: by_weight
 螺蛳山社区街道	luó;il sī;iu shān;aa shè;ut qū;ki jiē;xg dào;zu	1
 绿化白族彝族乡	lǜ;sl huà;rb bái;pa zú;fu yí;jc zú;fu xiāng;ap	1
 绿园经济开发区	lǜ;sl yuán;ky jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+马鞍山市博望区	mǎ;aa ān;ga shān;aa shì;wj bó;uc wàng;wo qū;ki
+马鞍山市含山县	mǎ;aa ān;ga shān;aa shì;wj hán;rk shān;aa xiàn;sq
+马鞍山市花山区	mǎ;aa ān;ga shān;aa shì;wj huā;ch shān;aa qū;ki
+马鞍山市雨山区	mǎ;aa ān;ga shān;aa shì;wj yǔ;ad shān;aa qū;ki
 马边彝族自治县	mǎ;aa biān;zl yí;jc zú;fu zì;pa zhì;dt xiàn;sq	1
 马路彝族苗族乡	mǎ;aa lù;zg yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 麻麻门巴民族乡	má;gl má;gl mén;dg bā;ag mín;ag zú;fu xiāng;ap	1
@@ -75133,10 +75478,12 @@ sort: by_weight
 木里藏族自治县	mù;ad lǐ;aa zàng;cz zú;fu zì;pa zhì;dt xiàn;sq	1
 那仁宝拉格苏木	nà;el rén;re bǎo;by lā;fl gé;mg sū;cb mù;ad
 南堡经济开发区	nán;ua bǎo;tb jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+南昌市青山湖区	nán;ua chāng;oo shì;wj qīng;of shān;aa hú;dh qū;ki
 南环街道办事处	nán;ua huán;wb jiē;xg dào;zu bàn;lb shì;aa chù;wb
 南涧彝族自治县	nán;ua jiàn;dj yí;jc zú;fu zì;pa zhì;dt xiàn;sq	1
 南街办事处街道	nán;ua jiē;xg bàn;lb shì;aa chù;wb jiē;xg dào;zu	1
 南京龙潭物流园	nán;ua jīng;wx lóng;ad tán;dt wù;nw liú;di yuán;ky
+南京市雨花台区	nán;ua jīng;wx shì;wj yǔ;ad huā;ch tái;sk qū;ki
 南京仙林大学城	nán;ua jīng;wx xiān;ru lín;mm dà;ad xué;zb chéng;ti
 南开苗族彝族乡	nán;ua kāi;ac miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 南宁华侨投资区	nán;ua níng;bd huá;uh qiáo;rq tóu;fu zī;bc qū;ki	1
@@ -75160,9 +75507,16 @@ sort: by_weight
 农三师红旗农场	nóng;by sān;aa shī;ab hóng;sg qí;fq nóng;by chǎng;ty	1
 牌坊回族满族乡	pái;pb fāng;tf huí;kk zú;fu mǎn;dl zú;fu xiāng;ap	1
 潘家湾土家族乡	pān;df jiā;bu wān;dw tǔ;aa jiā;bu zú;fu xiāng;ap	1
+攀枝花市米易县	pān;ud zhī;mv huā;ch shì;wj mǐ;dd yì;ow xiàn;sq
+攀枝花市仁和区	pān;ud zhī;mv huā;ch shì;wj rén;re hé;hk qū;ki
 炮团侗族苗族乡	pào;hb tuán;kc dòng;rt zú;fu miáo;ct zú;fu xiāng;ap	1
 屏边苗族自治县	píng;ub biān;zl miáo;ct zú;fu zì;pa zhì;dt xiàn;sq	1
 平村彝族傣族乡	píng;aa cūn;mc yí;jc zú;fu dǎi;rt zú;fu xiāng;ap	1
+平顶山市宝丰县	píng;aa dǐng;yd shān;aa shì;wj bǎo;by fēng;aa xiàn;sq
+平顶山市鲁山县	píng;aa dǐng;yd shān;aa shì;wj lǔ;yo shān;aa xiàn;sq
+平顶山市卫东区	píng;aa dǐng;yd shān;aa shì;wj wèi;ga dōng;ad qū;ki
+平顶山市新华区	píng;aa dǐng;yd shān;aa shì;wj xīn;jq huá;uh qū;ki
+平顶山市湛河区	píng;aa dǐng;yd shān;aa shì;wj zhàn;du hé;dk qū;ki
 平度经济开发区	píng;aa dù;gy jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 平山湖蒙古族乡	píng;aa shān;aa hú;dh měng;cm gǔ;uk zú;fu xiāng;ap	1
 普古彝族苗族乡	pǔ;ob gǔ;uk yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
@@ -75184,6 +75538,8 @@ sort: by_weight
 谯城经济开发区	qiáo;yj chéng;ti jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 乔拉克铁热克镇	qiáo;ya lā;fl kè;eg tiě;ju rè;hv kè;eg zhèn;jv	1
 桥头苗族壮族乡	qiáo;mq tóu;dd miáo;ct zú;fu zhuàng;up zú;fu xiāng;ap	1
+秦皇岛市抚宁区	qín;hf huáng;bw dǎo;nu shì;wj fǔ;fw níng;bd qū;ki
+秦皇岛市海港区	qín;hf huáng;bw dǎo;nu shì;wj hǎi;dm gǎng;dx qū;ki
 轻工食品产业园	qīng;ig gōng;aa shí;rl pǐn;kk chǎn;wi yè;aa yuán;ky
 青朗侗族苗族乡	qīng;of lǎng;ol dòng;rt zú;fu miáo;ct zú;fu xiāng;ap	1
 青林苗族彝族乡	qīng;of lín;mm miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
@@ -75208,6 +75564,8 @@ sort: by_weight
 三家子蒙古族乡	sān;aa jiā;bu zǐ;aa měng;cm gǔ;uk zú;fu xiāng;ap	1
 三江侗族自治县	sān;aa jiāng;dg dòng;rt zú;fu zì;pa zhì;dt xiàn;sq	1
 三棵树大街街道	sān;aa kē;mg shù;md dà;ad jiē;xg jiē;xg dào;zu	1
+三门峡市湖滨区	sān;aa mén;dg xiá;uj shì;wj hú;dh bīn;db qū;ki
+三门峡市陕州区	sān;aa mén;dg xiá;uj shì;wj shǎn;ej zhōu;id qū;ki
 三台山德昂族乡	sān;aa tái;sk shān;aa dé;xx áng;oe zú;fu xiāng;ap	1
 三源浦朝鲜族镇	sān;aa yuán;dy pǔ;df cháo;ou xiǎn;yy zú;fu zhèn;jv	1
 莎车县第一林场	shā;cu chē;aa xiàn;sq dì;vp yī;aa lín;mm chǎng;ty	1
@@ -75221,16 +75579,30 @@ sort: by_weight
 社区建设办公室	shè;ut qū;ki jiàn;zy shè;yu bàn;lb gōng;sb shì;bv
 歙县经济开发区	shè;qy xiàn;sq jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 沈北新区种畜场	shěn;dg běi;ag xīn;jq qū;ki zhǒng;hv chù;tx chǎng;ty	1
+深圳市大鹏新区	shēn;dm zhèn;ti shì;wj dà;ad péng;np xīn;jq qū;ki
+深圳市龙华新区	shēn;dm zhèn;ti shì;wj lóng;ad huá;uh xīn;jq qū;ki
 生物科技产业园	shēng;na wù;nw kē;hd jì;fv chǎn;wi yè;aa yuán;ky
 生物医药产业园	shēng;na wù;nw yī;ku yào;cy chǎn;wi yè;aa yuán;ky
 石场苗族彝族乡	shí;kp chǎng;ty miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 十二师三坪农场	shí;aa èr;aa shī;ab sān;aa píng;tp nóng;by chǎng;ty	1
 十二师五一农场	shí;aa èr;aa shī;ab wǔ;aa yī;aa nóng;by chǎng;ty	1
 十二师西山农场	shí;aa èr;aa shī;ab xī;aa shān;aa nóng;by chǎng;ty	1
+石家庄市藁城区	shí;kp jiā;bu zhuāng;gt shì;wj gǎo;cm chéng;ti qū;ki
+石家庄市高新区	shí;kp jiā;bu zhuāng;gt shì;wj gāo;wk xīn;jq qū;ki
+石家庄市井陉县	shí;kp jiā;bu zhuāng;gt shì;wj jǐng;aa xíng;eg xiàn;sq
+石家庄市鹿泉区	shí;kp jiā;bu zhuāng;gt shì;wj lù;gb quán;ub qū;ki
+石家庄市栾城区	shí;kp jiā;bu zhuāng;gt shì;wj luán;my chéng;ti qū;ki
+石家庄市平山县	shí;kp jiā;bu zhuāng;gt shì;wj píng;aa shān;aa xiàn;sq
+石家庄市桥西区	shí;kp jiā;bu zhuāng;gt shì;wj qiáo;mq xī;aa qū;ki
+石家庄市新华区	shí;kp jiā;bu zhuāng;gt shì;wj xīn;jq huá;uh qū;ki
+石家庄市裕华区	shí;kp jiā;bu zhuāng;gt shì;wj yù;yg huá;uh qū;ki
+石家庄市正定县	shí;kp jiā;bu zhuāng;gt shì;wj zhèng;av dìng;bp xiàn;sq
+石家庄市主城区	shí;kp jiā;bu zhuāng;gt shì;wj zhǔ;dw chéng;ti qū;ki
 石林彝族自治县	shí;kp lín;mm yí;jc zú;fu zì;pa zhì;dt xiàn;sq	1
 食品工业管理处	shí;rl pǐn;kk gōng;aa yè;aa guǎn;vg lǐ;wl chù;wb
 十字回族苗族乡	shí;aa zì;bz huí;kk zú;fu miáo;ct zú;fu xiāng;ap	1
 狮子山社区街道	shī;qu zi;aa shān;aa shè;ut qū;ki jiē;xg dào;zu	1
+石嘴山市惠农区	shí;kp zuǐ;kj shān;aa shì;wj huì;xh nóng;by qū;ki
 疏附广州工业城	shū;pi fù;ef guǎng;dp zhōu;id gōng;aa yè;aa chéng;ti
 树林彝族苗族乡	shù;md lín;mm yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 沭阳经济开发区	shù;du yáng;eo jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
@@ -75238,6 +75610,7 @@ sort: by_weight
 双牌打鼓坪林场	shuāng;yy pái;pb dǎ;fd gǔ;vd píng;tp lín;mm chǎng;ty	1
 双牌五星岭林场	shuāng;yy pái;pb wǔ;aa xīng;ou lǐng;ul lín;mm chǎng;ty	1
 双坪彝族苗族乡	shuāng;yy píng;tp yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
+双鸭山市尖山区	shuāng;yy yā;nj shān;aa shì;wj jiān;xd shān;aa qū;ki
 四家子蒙古族乡	sì;aa jiā;bu zǐ;aa měng;cm gǔ;uk zú;fu xiāng;ap	1
 松城街道筹备处	sōng;mg chéng;ti jiē;xg dào;zu chóu;vu bèi;wt chù;wb
 松岭门蒙古族乡	sōng;mg lǐng;ul mén;dg měng;cm gǔ;uk zú;fu xiāng;ap	1
@@ -75255,6 +75628,7 @@ sort: by_weight
 太平川机械林场	tài;dd píng;aa chuān;pa jī;mj xiè;mj lín;mm chǎng;ty	1
 太平彝族苗族乡	tài;dd píng;aa yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 台湾农民创业园	tái;sk wān;dw nóng;by mín;ag chuàng;dc yè;aa yuán;ky
+太原市尖草坪区	tài;dd yuán;ix shì;wj jiān;xd cǎo;cz píng;tp qū;ki
 唐山国际旅游岛	táng;gk shān;aa guó;ky jì;eu lǚ;fp yóu;dz dǎo;nu
 腾格里额里斯镇	téng;mf gé;mg lǐ;aa é;yk lǐ;aa sī;jq zhèn;jv	1
 天津风电产业园	tiān;ad jīn;dy fēng;ji diàn;ag chǎn;wi yè;aa yuán;ky
@@ -75270,7 +75644,9 @@ sort: by_weight
 通道侗族自治县	tōng;zy dào;zu dòng;rt zú;fu zì;pa zhì;dt xiàn;sq	1
 通道县播阳农场	tōng;zy dào;zu xiàn;sq bō;ff yáng;eo nóng;by chǎng;ty	1
 通道县地连林场	tōng;zy dào;zu xiàn;sq dì;ty lián;zi lín;mm chǎng;ty	1
+通辽市科尔沁区	tōng;zy liáo;zl shì;wj kē;hd ěr;dx qìn;dx qū;ki
 通榆经济开发区	tōng;zy yú;my jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+吐鲁番市高昌区	tǔ;kt lǔ;yo fān;tm shì;wj gāo;wk chāng;oo qū;ki
 团结彝族苗族乡	tuán;kc jié;sj yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 托格拉克勒克乡	tuō;fq gé;mg lā;fl kè;eg lè;lg kè;eg xiāng;ap	1
 瓦房彝族苗族乡	wǎ;ad fáng;hf yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
@@ -75296,6 +75672,7 @@ sort: by_weight
 吾斯塘博依街道	wú;kw sī;jq táng;tt bó;uc yī;ry jiē;xg dào;zu	1
 无锡锡山开发区	wú;ag xī;jy xī;jy shān;aa kāi;ac fā;ay qū;ki	1
 伍寨彝族苗族乡	wǔ;rw zhài;mb yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
+吴忠市红寺堡区	wú;kt zhōng;xv shì;wj hóng;sg sì;ct bǔ;tb qū;ki
 吾宗布拉克牧场	wú;kw zōng;bu bù;ju lā;fl kè;eg mù;nw chǎng;ty	1
 西岗子试验林场	xī;aa gǎng;ug zi;aa shì;yu yàn;ma lín;mm chǎng;ty	1
 西街办事处街道	xī;aa jiē;xg bàn;lb shì;aa chù;wb jiē;xg dào;zu	1
@@ -75348,6 +75725,7 @@ sort: by_weight
 学田镇富源林场	xué;zb tián;aa zhèn;jv fù;bf yuán;dy lín;mm chǎng;ty	1
 雅玛里克山街道	yǎ;vy mǎ;wm lǐ;aa kè;eg shān;aa jiē;xg dào;zu	1
 炎陵县大院农场	yán;hh líng;el xiàn;sq dà;ad yuàn;ew nóng;by chǎng;ty	1
+彦淖尔市五原县	yàn;ip nào;dv ěr;dx shì;wj wǔ;aa yuán;ix xiàn;sq
 焉耆回族自治县	yān;vh qí;lo huí;kk zú;fu zì;pa zhì;dt xiàn;sq	1
 漾濞彝族自治县	yàng;dy bì;db yí;jc zú;fu zì;pa zhì;dt xiàn;sq	1
 羊场苗族彝族乡	yáng;da chǎng;ty miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
@@ -75358,6 +75736,7 @@ sort: by_weight
 腰站子东乡族镇	yāo;oy zhàn;lv zi;aa dōng;ad xiāng;ap zú;fu zhèn;jv	1
 也克先拜巴扎镇	yě;gg kè;eg xiān;ne bài;uf bā;ag zhā;fg zhèn;jv	1
 义安经济开发区	yì;id ān;bn jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+宜昌市伍家岗区	yí;bq chāng;oo shì;wj wǔ;rw jiā;bu gǎng;ug qū;ki
 宜城经济开发区	yí;bq chéng;ti jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 宜春经济开发区	yí;bq chūn;of jīng;sg jì;dq kāi;ac fā;ay qū;ki
 宜春市宜阳新区	yí;bq chūn;of shì;wj yí;bq yáng;eo xīn;jq qū;ki
@@ -75383,22 +75762,37 @@ sort: by_weight
 雨山经济开发区	yǔ;ad shān;aa jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
 玉树藏族自治州	yù;wd shù;md zàng;cz zú;fu zì;pa zhì;dt zhōu;id	1
 鱼塘侗族苗族乡	yú;da táng;tt dòng;rt zú;fu miáo;ct zú;fu xiāng;ap	1
+岳阳市岳阳楼区	yuè;uq yáng;eo shì;wj yuè;uq yáng;eo lóu;ml qū;ki
 云陵工业开发区	yún;es líng;el gōng;aa yè;aa kāi;ac fā;ay qū;ki	1
 再生资源产业园	zài;aa shēng;na zī;bc yuán;dy chǎn;wi yè;aa yuán;ky
 枣阳经济开发区	zǎo;cd yáng;eo jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
+枣庄市台儿庄区	zǎo;cd zhuāng;gt shì;wj tái;sk ér;pg zhuāng;gt qū;ki
 寨市苗族侗族乡	zhài;mb shì;wj miáo;ct zú;fu dòng;rt zú;fu xiāng;ap	1
+张家港市南丰镇	zhāng;gi jiā;bu gǎng;dx shì;wj nán;ua fēng;aa zhèn;jv	1
+张家港市杨舍镇	zhāng;gi jiā;bu gǎng;dx shì;wj yáng;my shě;ru zhèn;jv
+张家界市慈利县	zhāng;gi jiā;bu jiè;tj shì;wj cí;xz lì;hd xiàn;sq
+张家界市桑植县	zhāng;gi jiā;bu jiè;tj shì;wj sāng;mr zhí;mv xiàn;sq
+张家界市永定区	zhāng;gi jiā;bu jiè;tj shì;wj yǒng;dd dìng;bp qū;ki
+张家口市崇礼区	zhāng;gi jiā;bu kǒu;aa shì;wj chóng;uz lǐ;ug qū;ki
+张家口市桥东区	zhāng;gi jiā;bu kǒu;aa shì;wj qiáo;mq dōng;ad qū;ki
+张家口市桥西区	zhāng;gi jiā;bu kǒu;aa shì;wj qiáo;mq xī;aa qū;ki
+张家口市万全区	zhāng;gi jiā;bu kǒu;aa shì;wj wàn;ag quán;rw qū;ki
+张家口市张北县	zhāng;gi jiā;bu kǒu;aa shì;wj zhāng;gi běi;ag xiàn;sq
 张江高科技园区	zhāng;gi jiāng;dg gāo;wk kē;hd jì;fv yuán;ky qū;ki	1
 张掖宝瓶河牧场	zhāng;gi yè;fy bǎo;by píng;wb hé;dk mù;nw chǎng;ty	1
 赵家岗土家族乡	zhào;zi jiā;bu gǎng;ug tǔ;aa jiā;bu zú;fu xiāng;ap	1
 昭乌达南路街道	zhāo;ov wū;pa dá;zd nán;ua lù;zg jiē;xg dào;zu	1
+郑州市郑东新区	zhèng;eg zhōu;id shì;wj zhèng;eg dōng;ad xīn;jq qū;ki
 芷江侗族自治县	zhǐ;cv jiāng;dg dòng;rt zú;fu zì;pa zhì;dt xiàn;sq	1
 雉街彝族苗族乡	zhì;vu jiē;xg yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 中建苗族彝族乡	zhōng;aa jiàn;zy miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 中卫山羊选育场	zhōng;aa wèi;ga shān;aa yáng;da xuǎn;zx yù;os chǎng;ty	1
+中卫市沙坡头区	zhōng;aa wèi;ga shì;wj shā;du pō;tp tóu;dd qū;ki
 中新天津生态城	zhōng;aa xīn;jq tiān;ad jīn;dy shēng;na tài;xt chéng;ti
 周口临港开发区	zhōu;kt kǒu;aa lín;ao gǎng;dx kāi;ac fā;ay qū;ki	1
 猪场苗族彝族乡	zhū;qv chǎng;ty miáo;ct zú;fu yí;jc zú;fu xiāng;ap	1
 诸城经济开发区	zhū;yv chéng;ti jīng;sg jì;dq kāi;ac fā;ay qū;ki
+驻马店市驿城区	zhù;mv mǎ;aa diàn;gv shì;wj yì;mf chéng;ti qū;ki
 竹园彝族苗族乡	zhú;gg yuán;ky yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 紫荆山南路街道	zǐ;sc jīng;dk shān;aa nán;ua lù;zg jiē;xg dào;zu	1
 枞阳经济开发区	zōng;mc yáng;eo jīng;sg jì;dq kāi;ac fā;ay qū;ki	1
@@ -75446,7 +75840,7 @@ sort: by_weight
 大青中朝友谊街道	dà;ad qīng;of zhōng;aa cháo;ou yǒu;yu yì;yy jiē;xg dào;zu	1
 大围河回族满族乡	dà;ad wéi;kw hé;dk huí;kk zú;fu mǎn;dl zú;fu xiāng;ap	1
 大纵湖旅游度假区	dà;ad zòng;sc hú;dh lǚ;fp yóu;dz dù;gy jià;rj qū;ki	1
-代县党群服务中心	dài;ry xiàn;sq dǎng;xx qún;yj fú;oy wù;wl zhōng;aa xīn;dd
+代县党群服务中心	dài;ry xiàn;sq dǎng;ek qún;yj fú;oy wù;wl zhōng;aa xīn;dd
 德旺土家族苗族乡	dé;xx wàng;ow tǔ;aa jiā;bu zú;fu miáo;ct zú;fu xiāng;ap	1
 地方国营六连林场	dì;ty fāng;wd guó;ky yíng;cl liù;wb lián;zi lín;mm chǎng;ty	1
 定襄县居民办事处	dìng;bp xiāng;wy xiàn;sq jū;ug mín;ag bàn;lb shì;aa chù;wb
@@ -75461,6 +75855,10 @@ sort: by_weight
 凤山彝族蒙古族乡	fèng;jy shān;aa yí;jc zú;fu měng;cm gǔ;uk zú;fu xiāng;ap	1
 枫香仡佬族侗族乡	fēng;mf xiāng;ho gē;rq lǎo;rl zú;fu dòng;rt zú;fu xiāng;ap	1
 枫芸土家族苗族乡	fēng;mf yún;cy tǔ;aa jiā;bu zú;fu miáo;ct zú;fu xiāng;ap	1
+福建晋江市池店镇	fú;uf jiàn;zy jìn;oy jiāng;dg shì;wj chí;dy diàn;gv zhèn;jv	1
+福建晋江市深沪镇	fú;uf jiàn;zy jìn;oy jiāng;dg shì;wj shēn;dm hù;dh zhèn;jv	1
+福建龙海市石码镇	fú;uf jiàn;zy lóng;ad hǎi;dm shì;wj dàn;kp mǎ;um zhèn;jv	1
+福建龙海市角美镇	fú;uf jiàn;zy lóng;ad hǎi;dm shì;wj jiǎo;dy měi;dy zhèn;jv	1
 富锦市国营原种场	fù;bf jǐn;jb shì;wj guó;ky yíng;cl yuán;ix zhǒng;hv chǎng;ty	1
 阜新蒙古族自治县	fù;pu xīn;jq měng;cm gǔ;uk zú;fu zì;pa zhì;dt xiàn;sq	1
 夫子庙秦淮风光带	fū;ad zǐ;aa miào;gy qín;hf huái;dv fēng;ji guāng;ea dài;jb
@@ -75474,6 +75872,7 @@ sort: by_weight
 高寨苗族布依族乡	gāo;wk zhài;mb miáo;ct zú;fu bù;ju yī;ry zú;fu xiāng;ap	1
 耿家营彝族苗族乡	gěng;eh jiā;bu yíng;cl yí;jc zú;fu miáo;ct zú;fu xiāng;ap	1
 光华傈僳族彝族乡	guāng;ea huá;uh lì;rl sù;rs zú;fu yí;jc zú;fu xiāng;ap	1
+广西东兴市东兴镇	guǎng;dp xī;aa dōng;ad xīng;ba shì;wj dōng;ad xīng;ba zhèn;jv	1
 广西钦州保税港区	guǎng;dp xī;aa qīn;jq zhōu;id bǎo;rd shuì;hd gǎng;dx qū;ki	1
 广州军区三水农场	guǎng;dp zhōu;id jūn;bi qū;ki sān;aa shuǐ;ad nóng;by chǎng;ty	1
 郭大寨彝族白族乡	guō;ex dà;ad zhài;mb yí;jc zú;fu bái;pa zú;fu xiāng;ap	1
@@ -75487,6 +75886,7 @@ sort: by_weight
 海西州莫河畜牧场	hǎi;dm xī;aa zhōu;id mò;cd hé;dk xù;tx mù;nw chǎng;ty	1
 汗德尕特蒙古族乡	hàn;dg dé;xx gǎ;xn tè;ns měng;cm gǔ;uk zú;fu xiāng;ap	1
 浩口苗族仡佬族乡	hào;dg kǒu;aa miáo;ct zú;fu gē;rq lǎo;rl zú;fu xiāng;ap	1
+河北霸州市胜芳镇	hé;dk běi;ag bà;yo zhōu;id shì;wj shèng;ou fāng;cf zhèn;jv	1
 禾丰布依族苗族乡	hé;pd fēng;aa bù;ju yī;ry zú;fu miáo;ct zú;fu xiāng;ap	1
 河南蒙古族自治县	hé;dk nán;ua měng;cm gǔ;uk zú;fu zì;pa zhì;dt xiàn;sq	1
 和平土家族侗族乡	hé;hk píng;aa tǔ;aa jiā;bu zú;fu dòng;rt zú;fu xiāng;ap	1
@@ -75499,6 +75899,7 @@ sort: by_weight
 猴场苗族仡佬族乡	hóu;qh chǎng;ty miáo;ct zú;fu gē;rq lǎo;rl zú;fu xiāng;ap	1
 后坪苗族土家族乡	hòu;pk píng;tp miáo;ct zú;fu tǔ;aa jiā;bu zú;fu xiāng;ap	1
 后山苗族布依族乡	hòu;pk shān;aa miáo;ct zú;fu bù;ju yī;ry zú;fu xiāng;ap	1
+湖北大冶市陈贵镇	hú;dh běi;ag dà;ad yě;dt shì;wj chén;ed guì;ba zhèn;jv	1
 湖潮苗族布依族乡	hú;dh cháo;di miáo;ct zú;fu bù;ju yī;ry zú;fu xiāng;ap	1
 呼和车力蒙古族乡	hū;kh hé;hk chē;aa lì;gp měng;cm gǔ;uk zú;fu xiāng;ap	1
 胡力海原种繁殖场	hú;og lì;gp hǎi;dm yuán;ix zhǒng;hv fán;sm zhí;dv chǎng;ty	1
@@ -75544,6 +75945,7 @@ sort: by_weight
 来字良种繁育基地	lái;am zì;bz liáng;dg zhǒng;hv fán;sm yù;os jī;tq dì;ty
 澜沧拉祜族自治县	lán;dl cāng;dc lā;fl hù;ug zú;fu zì;pa zhì;dt xiàn;sq	1
 乐安铺苗族侗族乡	lè;pd ān;bn pù;jf miáo;ct zú;fu dòng;rt zú;fu xiāng;ap	1
+辽宁海城市西柳镇	liáo;zl níng;bd hǎi;dm chéng;ti shì;wj xī;aa liǔ;mm zhèn;jv	1
 辽宁葫芦岛八家子	liáo;zl níng;bd hú;ch lu;ch dǎo;nu bā;pd jiā;bu zǐ;aa	1
 辽宁省金城原种场	liáo;zl níng;bd shěng;ou jīn;ra chéng;ti yuán;ix zhǒng;hv chǎng;ty	1
 六德傈僳族彝族乡	liù;wb dé;xx lì;rl sù;rs zú;fu yí;jc zú;fu xiāng;ap	1
@@ -75588,6 +75990,8 @@ sort: by_weight
 棋山国家森林公园	qí;mq shān;aa guó;ky jiā;bu sēn;ml lín;mm gōng;sb yuán;ky
 前山哈萨克民族乡	qián;qd shān;aa hā;kh sà;ci kè;eg mín;ag zú;fu xiāng;ap	1
 黔陶布依族苗族乡	qián;hj táo;et bù;ju yī;ry zú;fu miáo;ct zú;fu xiāng;ap	1
+秦皇岛市北戴河区	qín;hf huáng;bw dǎo;nu shì;wj běi;ag dài;gg hé;dk qū;ki
+秦皇岛市山海关区	qín;hf huáng;bw dǎo;nu shì;wj shān;aa hǎi;dm guān;qd qū;ki
 青岗岭回族彝族乡	qīng;of gǎng;ug lǐng;ul huí;kk zú;fu yí;jc zú;fu xiāng;ap	1
 青冈县互利营林站	qīng;of gāng;ki xiàn;sq hù;aa lì;hd yíng;cl lín;mm zhàn;lv
 清远市羊角山林场	qīng;dq yuǎn;zy shì;wj yáng;da jiǎo;dy shān;aa lín;mm chǎng;ty	1
@@ -75694,6 +76098,7 @@ sort: by_weight
 站北社区服务中心	zhàn;lv běi;ag shè;ut qū;ki fú;oy wù;wl zhōng;aa xīn;dd
 张家川回族自治县	zhāng;gi jiā;bu chuān;pa huí;kk zú;fu zì;pa zhì;dt xiàn;sq	1
 张家港宿豫工业园	zhāng;gi jiā;bu gǎng;dx sù;bb yù;yx gōng;aa yè;aa yuán;ky
+张家界市武陵源区	zhāng;gi jiā;bu jiè;tj shì;wj wǔ;vy líng;el yuán;dy qū;ki
 招商局漳州开发区	zhāo;fv shāng;wk jú;uk zhāng;dv zhōu;id kāi;ac fā;ay qū;ki	1
 珍珠泉旅游度假区	zhēn;wp zhū;wv quán;ub lǚ;fp yóu;dz dù;gy jià;rj qū;ki	1
 中亚北路片区街道	zhōng;aa yà;ay běi;ag lù;zg piàn;pa qū;ki jiē;xg dào;zu	1
@@ -75853,7 +76258,7 @@ sort: by_weight
 三元彝族苗族白族乡	sān;aa yuán;aw yí;jc zú;fu miáo;ct zú;fu bái;pa zú;fu xiāng;ap	1
 沙金台蒙古族满族乡	shā;du jīn;ra tái;sk měng;cm gǔ;uk zú;fu mǎn;dl zú;fu xiāng;ap	1
 陕西省太白山旅游区	shǎn;ej xī;aa shěng;ou tài;dd bái;pa shān;aa lǚ;fp yóu;dz qū;ki	1
-上党经济技术开发区	shàng;aa dǎng;xx jīng;sg jì;dq jì;fv shù;md kāi;ac fā;ay qū;ki	1
+上党经济技术开发区	shàng;aa dǎng;ek jīng;sg jì;dq jì;fv shù;md kāi;ac fā;ay qū;ki	1
 上海松江出口加工区	shàng;aa hǎi;dm sōng;mg jiāng;dg chū;aa kǒu;aa jiā;lk gōng;aa qū;ki	1
 上游水库工程管理局	shàng;aa yóu;dz shuǐ;ad kù;gi gōng;aa chéng;hi guǎn;vg lǐ;wl jú;uk
 深圳坪山综合保税区	shēn;dm zhèn;ti píng;tp shān;aa zōng;sz hé;rk bǎo;rd shuì;hd qū;ki	1
