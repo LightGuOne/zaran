@@ -9,7 +9,7 @@
 
 ---
 name: zrm_chaifen
-version: "20260712"
+version: "20260719"
 sort: original
 ...
 ⺼	or{⺼}
@@ -6478,12 +6478,12 @@ sort: original
 䶘	il齒立
 䶙	ij齒巨
 䶚	ii齒虫
-䶛	li列齒
+䶛	il齒列
 䶜	ig齒告
 䶝	ij齒夾
 䶞	iq齒其
 䶟	ij齒臼
-䶠	xi咸齒
+䶠	ix齒咸
 䶡	iz齒則
 䶢	ix齒咸
 䶣	iq齒豈
@@ -25424,7 +25424,7 @@ sort: original
 韛	wy韋用
 韜	wy韋舀
 韝	wg韋冓
-韞	ww韋昷
+韞	wm韋皿
 韟	wg韋皋
 韠	wb韋畢
 韡	wh韋華
@@ -60987,7 +60987,7 @@ sort: original
 𩦲	mw馬夂
 𩦳	md馬电
 𩦴	mu馬市
-𩦵	gm广馬
+𩦵	mv馬隹
 𩦶	hm虎馬
 𩦷	mj馬截
 𩦸	my馬異
@@ -61023,7 +61023,7 @@ sort: original
 𩧗	mi馬赤
 𩧘	mq馬瞿
 𩧙	mm馬灭
-𩧚	qm瞿馬
+𩧚	mq馬瞿
 𩧛	mj馬鞫
 𩧜	mv馬轉
 𩧝	mg馬工
@@ -61041,7 +61041,7 @@ sort: original
 𩧫	my马央
 𩧬	mr马冉
 𩧭	mu马失
-𩧮	lm列马
+𩧮	ml马列
 𩧯	mf马发
 𩧰	mj马军
 𩧱	mq马岂
@@ -61049,7 +61049,7 @@ sort: original
 𩧳	mv马舟
 𩧴	mq马全
 𩧵	mj马吉
-𩧶	im舛马
+𩧶	mi马舛
 𩧺	mj马局
 𩧻	mw马宛
 𩧼	mb马奔

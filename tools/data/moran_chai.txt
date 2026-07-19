@@ -6924,12 +6924,12 @@
 䶘	il	齒立	auto
 䶙	ij	齒巨	auto
 䶚	ii	齒虫	auto
-䶛	li	列齒	auto
+䶛	il	齒列	
 䶜	ig	齒告	auto
 䶝	ij	齒夾	auto
 䶞	iq	齒其	auto
 䶟	ij	齒臼	auto
-䶠	xi	咸齒	auto
+䶠	ix	齒咸	
 䶡	iz	齒則	auto
 䶢	ix	齒咸	auto
 䶣	iq	齒豈	auto
@@ -7583,6 +7583,7 @@
 俭	ra	亻一	
 俭	rq	亻佥	
 修	rp	亻彡	
+修	pw	彡夂	
 俯	rf	亻府	
 俰	rh	亻和	
 俱	rj	亻具	
@@ -23179,6 +23180,7 @@
 脧	ow	月攵	
 脨	ou	月束	
 脩	ro	亻月	
+脩	ow	月夂	
 脪	ox	月希	
 脫	od	月兑	
 脬	of	月孚	
@@ -30204,6 +30206,7 @@
 韜	wy	韋舀	
 韝	wg	韋冓	
 韝	wr	韋冉	
+韞	wm	韋皿	
 韞	ww	韋昷	
 韟	wg	韋皋	
 韟	wu	韋十	
@@ -72906,7 +72909,7 @@
 𩦙	mu	馬矢	auto
 𩦚	mx	馬小	auto
 𩦛	ma	馬一	auto
-𩦛	rm	亻馬	auto
+𩦛	pm	丿馬	auto
 𩦜	mu	馬勝	auto
 𩦜	um	勝馬	auto
 𩦞	mg	馬葛	auto
@@ -72933,10 +72936,10 @@
 𩦲	mw	馬夂	auto
 𩦳	md	馬电	auto
 𩦴	mu	馬市	auto
-𩦵	gm	广馬	auto
-𩦵	mv	馬隹	auto
-𩦶	hm	虎馬	auto
-𩦶	me	馬二	auto
+𩦵	mv	馬隹	
+𩦵	gm	广馬	
+𩦶	hm	虎馬	
+𩦶	mf	馬夫	
 𩦷	mj	馬截	auto
 𩦸	my	馬異	auto
 𩦹	mj	馬監	auto
@@ -72972,15 +72975,14 @@
 𩧗	mi	馬赤	auto
 𩧘	mq	馬瞿	auto
 𩧙	mm	馬灭	auto
-𩧚	qm	瞿馬	auto
-𩧚	mq	馬瞿	auto
+𩧚	mq	馬瞿	
+𩧚	mv	馬隹	
 𩧛	mj	馬鞫	auto
 𩧜	mv	馬轉	auto
 𩧝	mg	馬工	auto
 𩧟	mh	馬火	auto
 𩧠	mn	馬牛	auto
 𩧡	mj	馬矍	auto
-𩧡	jm	矍馬	auto
 𩧢	mm	馬馬	auto
 𩧣	mf	馬𰀁	auto
 𩧤	ma	馬丨	auto
@@ -72992,7 +72994,7 @@
 𩧫	my	马央	auto
 𩧬	mr	马冉	auto
 𩧭	mu	马失	auto
-𩧮	lm	列马	auto
+𩧮	ml	马列	
 𩧯	mf	马发	auto
 𩧰	mj	马军	auto
 𩧱	mq	马岂	auto
@@ -73000,7 +73002,9 @@
 𩧳	mv	马舟	auto
 𩧴	mq	马全	auto
 𩧵	mj	马吉	auto
-𩧶	im	舛马	auto
+𩧶	mi	马舛	
+𩧶	mf	马㐄	
+𩧶	xm	夕马	
 𩧺	mj	马局	auto
 𩧻	mw	马宛	auto
 𩧼	mb	马奔	auto
