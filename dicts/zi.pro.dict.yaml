@@ -16111,7 +16111,7 @@ sort: by_weight
 䵤	jiǎn;hk	1
 䵡	jiǎn;ht	1
 䶢	jiān;ix	1
-䶠	jiǎn;xi	1
+䶠	jiǎn;ix	1
 䶬	jiān;lg	1
 𠊒	jiàn;rw	1
 𠍚	jiǎn;ri	1
@@ -19961,7 +19961,7 @@ sort: by_weight
 䟑	lǎ;zy	1
 䪉	là;gl	1
 䱫	là;yl	1
-䶛	là;li	1
+䶛	là;il	1
 𠾩	là;kh	1
 𡅘	là;kl	1
 𡉆	lá;tk	1
@@ -21921,7 +21921,7 @@ sort: by_weight
 䪉	liè;gl	1
 䬅	liè;fl	1
 䮋	liè;ml	1
-䶛	liè;li	1
+䶛	liè;il	1
 𠛱	liè;	1
 𠠗	liè;dl	1
 𠷈	liè;kl	1
@@ -21978,7 +21978,7 @@ sort: by_weight
 𩙑	liè;fl	1
 𩢾	liè;ml	1
 𩧆	liè;ml	1
-𩧮	liè;lm	1
+𩧮	liè;ml	1
 𩨐	liè;ml	1
 𩭌	liè;ij	1
 𩼭	liè;yw	1
@@ -23276,9 +23276,9 @@ sort: by_weight
 𧣵	lùn;jl	1
 𧱜	lún;ul	1
 罗	luó;sx	39922
-络	luò;sg	3375
-落	luò;cl	3307
-洛	luò;dg	2734
+落	luò;cl	3375
+洛	luò;dg	3307
+络	luò;sg	2734
 逻	luó;zl	2292
 萝	luó;cl	1493
 螺	luó;il	1355
@@ -33209,6 +33209,7 @@ sort: by_weight
 史	shǐ;ki	2331
 诗	shī;ys	2214
 世	shì;ca	2103
+室	shì;bv	2020
 实	shí;bt	1997
 师	shī;ab	1897
 食	shí;rl	1802
@@ -33222,7 +33223,6 @@ sort: by_weight
 失	shī;pf	1191
 施	shī;fy	1131
 石	shí;kp	1074
-室	shì;bv	1020
 释	shì;pf	969
 驶	shǐ;mu	920
 湿	shī;dx	874
@@ -38534,6 +38534,7 @@ sort: by_weight
 鹜	wù;nm	39
 骛	wù;mm	37
 邬	wū;ew	35
+無	wú;rh	31
 忤	wǔ;xw	26
 庑	wǔ;gw	24
 鹀	wú;nw	22
@@ -38564,7 +38565,6 @@ sort: by_weight
 恶	wū;xy	1
 旿	wù;ow	1
 迕	wǔ;zw	1
-無	wú;rh	1
 務	wù;mw	1
 誤	wù;yw	1
 吳	wú;kd	1
@@ -39961,7 +39961,7 @@ sort: by_weight
 䵌	xiān;hj	1
 䶟	xiàn;ij	1
 䶢	xián;ix	1
-䶠	xián;xi	1
+䶠	xián;ix	1
 𠊏	xián;ud	1
 𠍦	xián;	1
 𠏓	xiān;ct	1
@@ -46735,7 +46735,7 @@ sort: by_weight
 篔	yún;vy	1
 傊	yùn;ry	1
 薀	yùn;cw	1
-韞	yùn;ww	1
+韞	yùn;wm	1
 蝹	yūn;iw	1
 韗	yùn;wj	1
 緷	yùn;sj	1
@@ -47214,7 +47214,6 @@ sort: by_weight
 迮	zé;zv	257
 舴	zé;vv	231
 侧	zè;rz	208
-沢	zé;di	187
 則	zé;db	168
 擇	zé;fx	151
 責	zé;bf	136
@@ -47222,6 +47221,7 @@ sort: by_weight
 択	zé;fi	110
 崱	zè;uz	99
 嘖	zé;kz	89
+沢	zé;di	87
 皟	zé;bz	80
 唶	zé;kx	72
 礋	zé;ux	65
