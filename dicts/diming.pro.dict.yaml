@@ -15484,7 +15484,7 @@ sort: by_weight
 郫都区	pí;eb dū;ev qū;ki	172
 毗卢镇	pí;tb lú;bu zhèn;jv	10
 皮马县	pí;ad mǎ;aa xiàn;sq	167
-琵琶镇	pí;wb pá;bw zhèn;jv	10
+琵琶镇	pí;wb pa;bw zhèn;jv	10
 皮山县	pí;ad shān;aa xiàn;sq	166
 匹斯堡	pǐ;ke sī;jq bǎo;tb	199
 皮特堡	pí;ad tè;ns bǎo;tb	185
@@ -31901,6 +31901,8 @@ sort: by_weight
 大昌汗镇	dà;ad chāng;oo hàn;dg zhèn;jv	10
 大厂街道	dà;ad chǎng;ap jiē;xg dào;zu	10
 大厂三村	dà;ad chǎng;ap sān;aa cūn;mc	10
+大长亭村	dà;ad cháng;pd tíng;wd cūn;mc	10
+大长屯站	dà;ad cháng;pd tún;ag zhàn;lv	99
 大朝阳村	dà;ad cháo;ou yáng;eo cūn;mc	10
 大车行村	dà;ad chē;aa xíng;xi cūn;mc	10
 大陈各庄	dà;ad chén;ed gè;wk zhuāng;gt	10
@@ -32822,8 +32824,6 @@ sort: by_weight
 大张家镇	dà;ad zhāng;gi jiā;bu zhèn;jv	10
 大张楼镇	dà;ad zhāng;gi lóu;ml zhèn;jv	10
 大鄣山乡	dà;ad zhāng;ev shān;aa xiāng;ap	10
-大长亭村	dà;ad zhǎng;pd tíng;wd cūn;mc	10
-大长屯站	dà;ad zhǎng;pd tún;ag zhàn;lv	99
 大张湾村	dà;ad zhāng;gi wān;dw cūn;mc	10
 大张营村	dà;ad zhāng;gi yíng;cl cūn;mc	10
 大张庄村	dà;ad zhāng;gi zhuāng;gt cūn;mc	10
@@ -52046,14 +52046,14 @@ sort: by_weight
 匹林斯堡	pǐ;ke lín;mm sī;jq bǎo;tb	10
 淠绿新村	pì;db lǜ;sl xīn;jq cūn;mc	10
 枇杷洞村	pí;mb pá;mb dòng;dt cūn;mc	10
-琵琶沟村	pí;wb pá;bw gōu;dg cūn;mc	10
+琵琶沟村	pí;wb pa;bw gōu;dg cūn;mc	10
 枇杷沟村	pí;mb pá;mb gōu;dg cūn;mc	10
-琵琶街道	pí;wb pá;bw jiē;xg dào;zu	10
-琵琶寺村	pí;wb pá;bw sì;ct cūn;mc	10
+琵琶街道	pí;wb pa;bw jiē;xg dào;zu	10
+琵琶寺村	pí;wb pa;bw sì;ct cūn;mc	10
 枇杷湾村	pí;mb pá;mb wān;dw cūn;mc	10
-琵琶垣村	pí;wb pá;bw yuán;tg cūn;mc	10
-琵琶寨村	pí;wb pá;bw zhài;mb cūn;mc	10
-琵琶嘴村	pí;wb pá;bw zuǐ;kj cūn;mc	10
+琵琶垣村	pí;wb pa;bw yuán;tg cūn;mc	10
+琵琶寨村	pí;wb pa;bw zhài;mb cūn;mc	10
+琵琶嘴村	pí;wb pa;bw zuǐ;kj cūn;mc	10
 皮婆屯村	pí;ad pó;nb tún;ag cūn;mc	10
 伾山街道	pī;rp shān;aa jiē;xg dào;zu	10
 皮什盖村	pí;ad shí;ru gài;my cūn;mc	10
