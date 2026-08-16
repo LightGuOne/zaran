@@ -8423,10 +8423,10 @@
 劐	dh	刂蒦	
 劐	dy	刂又	
 劑	dq	刂齊	
-劒	pd	丿丶	
 劒	rq	刃僉	
 劓	db	刂鼻	
 劔	rq	刄僉	
+劔	rc	刄从	
 劕	dv	刂質	
 劖	di	氵毚	
 劖	dt	刂兔	
@@ -90543,8 +90543,9 @@
 𰅈	md	免刂	auto
 𰅉	jl	井力	auto
 𰅉	lj	力井	auto
-𰅊	dl	旦力	auto
-𰅊	ld	力旦	auto
+𰅊	ol	日力	
+𰅊	dl	旦力	
+𰅊	ld	力旦	
 𰅋	bl	北力	auto
 𰅋	lb	力北	auto
 𰅍	jl	夹力	auto
@@ -100178,6 +100179,120 @@
 𨛗	ye	邑阝	
 𰛄	aa	亅乛	
 𣦶	aa	一乛	
+𣄯	pw	丿旡	
+𱘭	dx	大心	# auto
+𤢪	qu	犭{鼠}	
+𱤦	ml	木卵	# auto
+𱤦	am	𰀉木	# auto
+𨘇	zm	辶牟	
+𨘇	zf	辶㐄	
+𲆰	yy	酉易	
+𡿰	ji	彐巛	
+𱗎	ty	土幽	
+𱮿	wb	王邦	
+𱗖	tz	土总	
+𢏈	ga	弓一	
+𢏈	gg	弓㠯	
+𧿓	zd	足乀	
+𨰆	jd	金乀	
+𠲑	bg	半𠄎	
+𨺫	ya	臾一	
+𱽿	cj	艹降	
+𡼻	iv	垂𠂤	
+𲌞	ix	镸闲	
+𣲖	dd	氵乀	
+𥄉	oi	目巛	
+𲆦	yx	酉夕	
+𧦮	yd	言乀	
+𠃊	aa	{𠃊}	
+𱶡	ut	十秃	
+𰀢	ad	丨丶	
+𨺀	vg	𠂤𠃌	
+𦥚	jk	臼丂	
+𢩦	yu	㇈手	
+𱗋	tg	土革	
+𱍕	ad	一丶	
+𱍕	ar	一人	
+𡋬	th	土灬	
+𱰤	yt	㇈田	
+𢖎	xa	彳一	
+𢖎	xg	彳㠯	
+𨦜	jk	金丂	
+𠀁	ag	一㇉	
+𱓰	kr	口热	
+𱗉	ty	土{衣}	
+𱗢	th	土晃	
+𥭢	vk	𥫗丂	
+𨺅	pa	丿一	
+𠮾	kw	口兀	
+𠛱	dx	刂夕	
+𦊗	ke	冂⺋	
+𦦩	je	𠂆⺋	
+𦦩	fe	缶⺋	
+𥱺	vg	𥫗乚	
+𲌡	is	镸啬	
+𱛔	uq	山去	
+𱩂	dy	氵颖	
+𱸜	vt	𥫗土	
+𣫬	ac	𠃌艹	
+𣫬	vc	𠃌艹	
+𠞤	du	刂氺	
+𠞤	da	刂𡿨	
+𦜸	op	月丿	
+𢎘	gg	𠃌㇉	
+𱣄	mw	木为	
+𠑹	ek	儿コ	
+𠑹	kk	匚コ	
+𡬞	yc	㇈寸	
+𡬞	cy	寸㇈	
+𢦍	gp	戈丿	
+𢦍	ad	㇂丶	
+𱑖	ba	卜一	
+𱑖	bg	卜㠯	
+𡒏	ta	土㇂	
+𡒏	tu	土{鼠}	
+𱜀	uy	山勇	
+𥾬	sy	糸幺	
+𠄌	aa	{𠄌}	
+𨷒	ma	門㇁	
+𨷒	mu	門山	
+𡴎	cv	屮𠂤	
+𱖝	tz	土再	
+𱗤	tg	土皋	
+𠳋	ka	口一	
+𠳋	va	中一	
+𠳋	kg	口㠯	
+𠳋	vg	中㠯	
+𠀀	aa	一𠃊	
+𠘧	pa	丿㇍	
+𱘆	tj	土解	
+灰	uh	𠂇火	
+灰	hu	火𠂇	
+𲀄	ix	虫虚	
+𱐿	wa	勿爱	
+𰯲	is	臣罒	
+𧺽	za	走一	
+𧺽	zg	走㠯	
+𲄀	zm	足迷	
+𢈂	ga	广一	
+𢈂	gg	广㠯	
+𱖟	tk	土匡	
+𡇑	ka	囗一	
+𡇑	kg	囗㠯	
+𱿅	cc	艹次	
+𤿄	bi	白巛	
+𠃫	ug	十𠃌	
+𢁤	jd	巾乀	
+𦘳	oa	月𠃊	
+𦘳	og	月乚	
+𡿨	aa	{𡿨}	
+𱗂	tu	土舍	
+𱹁	mq	米齐	
+𡿼	au	𡿨十	
+𠃌	gg	{𠃌}	
+𦸊	ce	艹⺋	
+𡪑	bk	宀丂	
+𤳭	te	田⺋	
 
 # 待考
 

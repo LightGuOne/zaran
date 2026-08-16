@@ -9,7 +9,7 @@
 
 ---
 name: zrm_chaifen
-version: "20260809"
+version: "20260816"
 sort: original
 ...
 ⺼	or{⺼}
@@ -7684,7 +7684,7 @@ sort: original
 劏	dd當刂
 劐	dh刂蒦
 劑	dq刂齊
-劒	pd丿丶
+劒	rq刃僉
 劓	db刂鼻
 劔	rq刄僉
 劕	dv刂質
@@ -27499,6 +27499,8 @@ sort: original
 﨩	ed阝島
 𖿲	pg丿乚
 𖿳	ej儿臼
+𠀀	aa一𠃊
+𠀁	ag一㇉
 𠀂	ay一乙
 𠀃	ak一冂
 𠀄	aa乛一
@@ -27652,6 +27654,8 @@ sort: original
 𠃆	pm丿米
 𠃇	qb千皕
 𠃈	pe𠂆儿
+𠃊	aa{𠃊}
+𠃌	gb{𠃌}
 𠃐	yy乙乙
 𠃓	yp乙丿
 𠃕	pg丿乚
@@ -27670,6 +27674,7 @@ sort: original
 𠃦	yg由乚
 𠃧	ff飞飞
 𠃪	qg曲乚
+𠃫	ug十𠃌
 𠃬	jk己匚
 𠃭	vg爫乚
 𠃮	yn乙尿
@@ -27699,6 +27704,7 @@ sort: original
 𠄉	rv乳重
 𠄊	uq十乞
 𠄋	gq工乞
+𠄌	aa{𠄌}
 𠄍	aa丨亅
 𠄏	aa丨乛
 𠄑	ag丨乚
@@ -28474,6 +28480,7 @@ sort: original
 𠑶	ae一儿
 𠑷	eu儿上
 𠑸	ge乚儿
+𠑹	ek儿コ
 𠑺	aj一几
 𠑻	ew儿亠
 𠑽	ek儿口
@@ -28856,6 +28863,7 @@ sort: original
 𠘤	dp冫丿
 𠘥	dy冫嚴
 𠘦	dm冫皿
+𠘧	pa丿㇍
 𠘩	bj匕几
 𠘪	jj几九
 𠘫	jy几又
@@ -29044,6 +29052,7 @@ sort: original
 𠛮	dq刂全
 𠛯	dj刂巾
 𠛰	dk刂冂
+𠛱	dx刂夕
 𠛲	da刂一
 𠛳	dh刀亥
 𠛴	dx刂小
@@ -29200,6 +29209,7 @@ sort: original
 𠞞	dy刂舀
 𠞠	dv刀秩
 𠞣	dg刂冓
+𠞤	du刂氺
 𠞥	dm刂麻
 𠞦	dj刂莢
 𠞧	dm刀麻
@@ -30159,6 +30169,7 @@ sort: original
 𠮺	kd口丶
 𠮻	kj口久
 𠮽	kc口廾
+𠮾	kw口兀
 𠮿	ku口山
 𠯀	ki口川
 𠯁	kb口卜
@@ -30352,6 +30363,7 @@ sort: original
 𠲎	kf口伐
 𠲏	kr口任
 𠲐	ku口氏
+𠲑	bg半𠄎
 𠲒	kx口心
 𠲓	kj口夅
 𠲔	ky口亦
@@ -30401,6 +30413,7 @@ sort: original
 𠳈	ky口右
 𠳉	ka口一
 𠳊	kq可去
+𠳋	ka口一
 𠳌	qk去可
 𠳍	km口皿
 𠳎	ku口似
@@ -31378,6 +31391,7 @@ sort: original
 𡇎	kx囗玄
 𡇏	kw囗万
 𡇐	kb囗本
+𡇑	ka囗一
 𡇒	km囗米
 𡇓	kv囗至
 𡇔	kn囗女
@@ -31637,6 +31651,7 @@ sort: original
 𡋩	tu土士
 𡋪	bt卜土
 𡋫	tm土卯
+𡋬	th土灬
 𡋭	tb土冖
 𡋮	tv土兆
 𡋯	tb土孛
@@ -31999,6 +32014,7 @@ sort: original
 𡒌	tq土遣
 𡒍	tj土聚
 𡒎	ct艹塗
+𡒏	ta土㇂
 𡒐	st孫土
 𡒑	tt土土
 𡒒	tv土中
@@ -33373,6 +33389,7 @@ sort: original
 𡪎	bm宀梦
 𡪏	xd宣旦
 𡪐	bw宀丸
+𡪑	bk宀丂
 𡪒	bt宀田
 𡪓	bb宀貝
 𡪔	zm宰木
@@ -33506,6 +33523,7 @@ sort: original
 𡬛	bi宀虫
 𡬜	bh宀寒
 𡬝	ad一丶
+𡬞	yc㇈寸
 𡬟	hc禾寸
 𡬠	cg寸艮
 𡬡	cj寸巨
@@ -33913,6 +33931,7 @@ sort: original
 𡴋	cm屮母
 𡴌	rb人丷
 𡴍	ct屮土
+𡴎	cv屮𠂤
 𡴏	co屮日
 𡴐	cz屮早
 𡴑	cv屮中
@@ -34425,6 +34444,7 @@ sort: original
 𡼶	ux山心
 𡼷	uh山火
 𡼺	uu山示
+𡼻	iv垂𠂤
 𡼼	ui山朝
 𡼽	uy山飲
 𡼾	uh山會
@@ -34587,11 +34607,14 @@ sort: original
 𡿥	uy山鬱
 𡿦	pd丿丶
 𡿧	ia巛一
+𡿨	aa{𡿨}
 𡿩	ia巛一
 𡿫	wi亡川
 𡿯	oi日巛
+𡿰	ji彐巛
 𡿱	at一土
 𡿺	ix巛囟
+𡿼	au𡿨十
 𡿾	iv巛隹
 𡿿	ih巛或
 𢀁	ib巛{犮}
@@ -34669,6 +34692,7 @@ sort: original
 𢁡	jd巾丶
 𢁢	jk巾亏
 𢁣	jw巾亡
+𢁤	jd巾乀
 𢁥	fj分巾
 𢁦	jb巾比
 𢁧	jq巾欠
@@ -35046,6 +35070,7 @@ sort: original
 𢇿	gi广出
 𢈀	gy广业
 𢈁	gk广口
+𢈂	ga广一
 𢈃	gb广匕
 𢈄	ga广一
 𢈅	gg广瓜
@@ -35431,6 +35456,7 @@ sort: original
 𢎕	iy齒弋
 𢎖	gq戈瞿
 𢎗	ag乛㇉
+𢎘	gg𠃌㇉
 𢎙	mm{马}{马}
 𢎚	gd弓丶
 𢎛	gd弓丶
@@ -35475,6 +35501,7 @@ sort: original
 𢏅	gh弓火
 𢏆	gg弓古
 𢏇	fg弗弓
+𢏈	ga弓一
 𢏉	gj弓久
 𢏊	gp弓平
 𢏋	gt弓它
@@ -35903,6 +35930,7 @@ sort: original
 𢖋	xb彳畀
 𢖌	xq彳戚
 𢖍	xi彳亍
+𢖎	xa彳一
 𢖏	xm彳賣
 𢖐	xh彳灬
 𢖑	xb彳貝
@@ -36806,6 +36834,7 @@ sort: original
 𢦊	xu心甚
 𢦋	pl珀戀
 𢦌	ga戈一
+𢦍	gp戈丿
 𢦎	gj戈九
 𢦏	gu戈十
 𢦐	gx戈𫜹
@@ -37011,8 +37040,10 @@ sort: original
 𢩡	hb户八
 𢩢	ht户兔
 𢩥	pa丿一
+𢩦	yu㇈手
 𢩨	fk扌丂
 𢩩	fi扌乂
+𢩪	
 𢩫	fj扌几
 𢩬	ud手刂
 𢩭	fc扌寸
@@ -38530,6 +38561,7 @@ sort: original
 𣄫	fy方頁
 𣄭	ap丆丿
 𣄮	kw口{无}
+𣄯	pw丿旡
 𣄰	wk{无}可
 𣄱	wg{无}圭
 𣄲	ww{无}危
@@ -40563,6 +40595,7 @@ sort: original
 𣫩	um殳木
 𣫪	th土會
 𣫫	uj殳金
+𣫬	ac𠃌艹
 𣫭	mw母亠
 𣫮	mz母子
 𣫯	mm母母
@@ -40905,6 +40938,7 @@ sort: original
 𣲓	db氵卜
 𣲔	da氵一
 𣲕	de氵二
+𣲖	dd氵乀
 𣲗	dw氵韦
 𣲘	dw氵无
 𣲙	du氵水
@@ -40923,6 +40957,7 @@ sort: original
 𣲧	dh氵火
 𣲨	dy氵牙
 𣲩	db氵巴
+𣲪	
 𣲭	dm氵毛
 𣲰	uv水支
 𣲱	hu火水
@@ -43365,6 +43400,7 @@ sort: original
 𤢧	qx犭舄
 𤢨	qh犭蒿
 𤢩	qs犭隨
+𤢪	qu犭{鼠}
 𤢭	qh犭豪
 𤢮	qq犭犬
 𤢯	qi犭舛
@@ -44232,6 +44268,7 @@ sort: original
 𤳪	ty田厭
 𤳫	zp甾屏
 𤳬	tj田冏
+𤳭	te田⺋
 𤳮	vt舟田
 𤳯	zu甾庶
 𤳲	ta田一
@@ -44838,6 +44875,7 @@ sort: original
 𤿀	bz白贊
 𤿁	bx白小
 𤿃	bc白寸
+𤿄	bi白巛
 𤿅	bl白靈
 𤿆	pd皮丁
 𤿇	pd皮刀
@@ -45126,6 +45164,7 @@ sort: original
 𥄆	oy目幺
 𥄇	ou目氏
 𥄈	ol目六
+𥄉	oi目巛
 𥄊	oe目儿
 𥄋	on目内
 𥄌	ou目十
@@ -46208,6 +46247,7 @@ sort: original
 𥘲	aq一且
 𥘳	uw示瓦
 𥘴	up示平
+𥘵	
 𥘺	uv示正
 𥘼	up示彡
 𥘽	ub示半
@@ -47337,6 +47377,7 @@ sort: original
 𥭟	vj𥫗夋
 𥭠	vw竹吾
 𥭡	vv竹志
+𥭢	vk𥫗丂
 𥭣	vb𥫗八
 𥭤	ve𥫗二
 𥭥	vi𥫗虫
@@ -47548,6 +47589,7 @@ sort: original
 𥱷	vt竹貪
 𥱸	vq𥫗區
 𥱹	vm𥫗莫
+𥱺	vg𥫗乚
 𥱻	vt𥫗途
 𥱼	vb𥫗卑
 𥱽	vq竹圈
@@ -48203,6 +48245,7 @@ sort: original
 𥾩	fs反糸
 𥾪	sd糸丶
 𥾫	sf糸丰
+𥾬	sy糸幺
 𥾮	sg糸戈
 𥾯	sg糸弓
 𥾰	sc糸廿
@@ -48803,6 +48846,7 @@ sort: original
 𦊔	sy罒又
 𦊕	gq冈且
 𦊖	gg冈古
+𦊗	ke冂⺋
 𦊘	wh网禾
 𦊙	bg冖古
 𦊜	sh罒禾
@@ -49612,6 +49656,7 @@ sort: original
 𦘮	om月乜
 𦘱	ob月卜
 𦘲	or月入
+𦘳	oa月𠃊
 𦘴	oq月七
 𦘵	oj月九
 𦘶	oi月川
@@ -49847,6 +49892,7 @@ sort: original
 𦜵	oj月咎
 𦜶	of月方
 𦜷	oo月日
+𦜸	op月丿
 𦜹	ho户月
 𦜺	od月丶
 𦜻	oi月丑
@@ -50283,6 +50329,7 @@ sort: original
 𦥗	jl臼了
 𦥘	jc臼寸
 𦥙	jp臼丿
+𦥚	jk臼丂
 𦥛	jq臼千
 𦥝	vj爪臼
 𦥞	jq臼欠
@@ -50355,6 +50402,7 @@ sort: original
 𦦦	jw臼亡
 𦦧	pa𠂆丨
 𦦨	yy舀炎
+𦦩	je𠂆⺋
 𦦪	jb臼八
 𦦫	jb臼八
 𦦬	od月丶
@@ -51279,6 +51327,7 @@ sort: original
 𦸇	cu艹術
 𦸈	cg艹瓜
 𦸉	cg艹瓜
+𦸊	ce艹⺋
 𦸋	ch艹旱
 𦸌	cw艹脘
 𦸍	ct艹脱
@@ -53849,6 +53898,7 @@ sort: original
 𧦪	gy功言
 𧦬	gy工言
 𧦭	yt言他
+𧦮	yd言乀
 𧦯	yw言勿
 𧦱	xy穴言
 𧦲	jy加言
@@ -55003,6 +55053,7 @@ sort: original
 𧺺	zb走犮
 𧺻	zx走玄
 𧺼	zc走此
+𧺽	za走一
 𧺾	zb走半
 𧺿	zu走世
 𧻀	zg走干
@@ -55234,6 +55285,7 @@ sort: original
 𧿏	zd足丶
 𧿐	zq足千
 𧿒	zb足冖
+𧿓	zd足乀
 𧿔	zi足丑
 𧿕	zh足化
 𧿖	zx足凶
@@ -56567,6 +56619,7 @@ sort: original
 𨘃	zg辶官
 𨘄	zh辶火
 𨘅	zb辶匕
+𨘇	zm辶牟
 𨘈	zx辶幸
 𨘉	zj辶疌
 𨘊	zk辶开
@@ -57404,6 +57457,7 @@ sort: original
 𨦙	jl金列
 𨦚	jd金大
 𨦛	jf金伏
+𨦜	jk金丂
 𨦝	jd金刀
 𨦞	jv金舟
 𨦠	cj次金
@@ -57826,6 +57880,7 @@ sort: original
 𨰃	jy金嬰
 𨰄	jh金還
 𨰅	jb金匕
+𨰆	jd金乀
 𨰉	jj金斤
 𨰊	jl金立
 𨰋	jl金禮
@@ -58237,6 +58292,7 @@ sort: original
 𨷎	mw門王
 𨷏	ml門雷
 𨷐	my門煴
+𨷒	ma門㇁
 𨷓	mh門灬
 𨷔	mx門熏
 𨷕	mh門毁
@@ -58383,10 +58439,12 @@ sort: original
 𨹽	eg阝岡
 𨹾	ev阝炙
 𨹿	ee阝二
+𨺀	vg𠂤𠃌
 𨺁	eg阝果
 𨺂	eh阝函
 𨺃	ej阝吉
 𨺄	er阝壬
+𨺅	pa丿一
 𨺆	ed阝大
 𨺇	ea阝一
 𨺈	ek阝亏
@@ -58416,6 +58474,7 @@ sort: original
 𨺨	ek阝亏
 𨺩	ej阝建
 𨺪	ei阝垂
+𨺫	ya臾一
 𨺬	ej阝界
 𨺭	ec阝从
 𨺮	em阝麦
@@ -66238,6 +66297,7 @@ sort: original
 𫍚	yy讠夭
 𫍛	yf讠分
 𫍜	yq讠去
+𫍝	
 𫍞	yh讠乎
 𫍟	yy言也
 𫍡	yt讠它
@@ -67197,6 +67257,7 @@ sort: original
 𫠛	ix齒星
 𫠜	ie齿兒
 𫠡	ag一个
+𫠣	
 𫠤	fg龶勹
 𫠥	an一内
 𫠦	aa一亅
@@ -71041,6 +71102,8 @@ sort: original
 𬺞	dm⺈黾
 𬺟	yj龠见
 𬺠	ly录龠
+𬺤	
+𬺨	
 𬺭	xk行口
 𬺳	ad一刀
 𬺵	ae一二
@@ -73170,6 +73233,7 @@ sort: original
 𭷋	pm片民
 𭷎	pj片箋
 𭷓	ng牛乚
+𭷔	
 𭷘	jn丩牛
 𭷙	ny牛允
 𭷚	nq牛且
@@ -75685,10 +75749,12 @@ sort: original
 𮹙	nc鸟崔
 𮹜	ny鸟燕
 𮹝	ll龙龙
+灰	uh𠂇火
 𰀁	aa一丨
 𰀂	ak一匚
 𰀃	ak一冂
 𰀄	ak一匚
+𰀅	
 𰀆	aq一䒑
 𰀈	ad一丶
 𰀉	av一中
@@ -75711,6 +75777,7 @@ sort: original
 𰀟	bv不正
 𰀠	ad丨丶
 𰀡	ay丨又
+𰀢	ad丨丶
 𰀣	af乛夫
 𰀧	av乛周
 𰀩	vv主主
@@ -75879,7 +75946,7 @@ sort: original
 𰅆	cn刺南
 𰅈	md免刂
 𰅉	jl井力
-𰅊	dl旦力
+𰅊	ol日力
 𰅋	bl北力
 𰅍	jl夹力
 𰅏	jl加卢
@@ -75923,6 +75990,7 @@ sort: original
 𰆇	by卜又
 𰆈	bt卜天
 𰆉	be卜耳
+𰆊	
 𰆋	ee卩卩
 𰆍	ew卩午
 𰆎	od月丶
@@ -77691,6 +77759,7 @@ sort: original
 𰯬	os月糸
 𰯭	ot月兔
 𰯰	iy臣又
+𰯲	is臣罒
 𰯳	iv臣帚
 𰯶	zg自干
 𰯹	jg臼果
@@ -77719,6 +77788,7 @@ sort: original
 𰰙	sv色重
 𰰝	qi䒑乂
 𰰞	ci屮乂
+𰰟	
 𰰠	cy艹与
 𰰡	ca艹一
 𰰢	cy艹𠃓
@@ -79201,6 +79271,7 @@ sort: original
 𱍉	yg龠龟
 𱍐	ei二川
 𱍓	pf丿𰀁
+𱍕	ad一丶
 𱍗	ay一又
 𱍙	ud尚丁
 𱍛	bh不合
@@ -79303,6 +79374,7 @@ sort: original
 𱐫	lu力石
 𱐯	lt力它
 𱐳	lu力审
+𱐿	wa勿爱
 𱑄	bu匕山
 𱑅	by匕余
 𱑉	kg匚赣
@@ -79312,6 +79384,7 @@ sort: original
 𱑏	af丨𰀁
 𱑓	gb古畢
 𱑔	bw辟午
+𱑖	ba卜一
 𱑘	ey卩弋
 𱑝	ix厂西
 𱑞	id厂带
@@ -79365,6 +79438,7 @@ sort: original
 𱓧	ky口养
 𱓩	kg口癸
 𱓬	ky口有
+𱓰	kr口热
 𱓲	kr口荣
 𱓵	ke口卩
 𱓻	ku口師
@@ -79422,7 +79496,9 @@ sort: original
 𱖘	ti土处
 𱖙	tu土山
 𱖚	et尔土
+𱖝	tz土再
 𱖞	tz土在
+𱖟	tk土匡
 𱖠	lt老土
 𱖢	tl土劣
 𱖥	ts土色
@@ -79449,13 +79525,18 @@ sort: original
 𱖽	tv土忠
 𱖾	tf土非
 𱗁	kt侃土
+𱗂	tu土舍
 𱗃	th土昏
 𱗅	ty土肴
+𱗉	ty土{衣}
+𱗋	tg土革
 𱗌	tl土剌
+𱗎	ty土幽
 𱗏	tl土览
 𱗐	lt里土
 𱗔	tj土急
 𱗕	qt秋土
+𱗖	tz土总
 𱗗	tx土庠
 𱗘	jt降土
 𱗙	tj土叚
@@ -79465,7 +79546,9 @@ sort: original
 𱗞	tg土骨
 𱗟	tl土令
 𱗠	tl土虑
+𱗢	th土晃
 𱗣	wt翁土
+𱗤	tg土皋
 𱗧	dt氵土
 𱗫	ty土雩
 𱗭	ti土川
@@ -79478,6 +79561,7 @@ sort: original
 𱗻	th土黑
 𱘂	nt女土
 𱘄	jt敬土
+𱘆	tj土解
 𱘇	td土遁
 𱘈	dt氵土
 𱘉	tl土廉
@@ -79489,6 +79573,7 @@ sort: original
 𱘥	kw凵夂
 𱘦	xd夕刀
 𱘬	ym厭夢
+𱘭	dx大心
 𱘮	df大方
 𱘰	dj大尖
 𱘲	dn大男
@@ -79583,6 +79668,7 @@ sort: original
 𱛑	ug山夬
 𱛒	uk山孔
 𱛓	ul山龙
+𱛔	uq山去
 𱛕	ub山布
 𱛖	uj山甲
 𱛗	ua山凹
@@ -79612,6 +79698,7 @@ sort: original
 𱛹	uy山耶
 𱛽	ud山段
 𱛾	uw山弯
+𱜀	uy山勇
 𱜁	uw山戊
 𱜃	ui山芻
 𱜆	uk山口
@@ -79831,6 +79918,7 @@ sort: original
 𱣀	mv木支
 𱣂	mw木乌
 𱣃	me木二
+𱣄	mw木为
 𱣅	mw木文
 𱣆	mu木石
 𱣇	my木业
@@ -79883,6 +79971,7 @@ sort: original
 𱤝	mc木粲
 𱤞	mj木冏
 𱤟	mg木葛
+𱤦	ml木卵
 𱤬	mx木賢
 𱤭	ml木林
 𱤳	ma木一
@@ -80098,6 +80187,7 @@ sort: original
 𱨿	dy氵音
 𱩀	dd氵丶
 𱩁	dd氵豆
+𱩂	dy氵颖
 𱩃	dh氵灬
 𱩄	do氵目
 𱩅	da氵一
@@ -80345,6 +80435,7 @@ sort: original
 𱮻	vw止王
 𱮼	dw氵王
 𱮾	wl王来
+𱮿	wb王邦
 𱯀	yw云王
 𱯁	sv厶主
 𱯃	ya玉一
@@ -80410,6 +80501,7 @@ sort: original
 𱰛	nn男男
 𱰜	yg用乚
 𱰢	yj用冏
+𱰤	yt㇈田
 𱰥	ta田一
 𱰧	tt田屯
 𱰨	yb由匕
@@ -80672,6 +80764,7 @@ sort: original
 𱶝	hj禾巾
 𱶞	hl禾郎
 𱶟	hh禾禾
+𱶡	ut十秃
 𱶢	hw禾攵
 𱶣	hh禾回
 𱶤	hb禾貝
@@ -80751,6 +80844,7 @@ sort: original
 𱸘	vv𥫗斋
 𱸚	vl𥫗料
 𱸛	vb竹畚
+𱸜	vt𥫗土
 𱸡	vh𥫗毫
 𱸢	lv笠兆
 𱸥	vv𥫗兆
@@ -80770,6 +80864,7 @@ sort: original
 𱸾	mh米会
 𱸿	dm⺈米
 𱹀	mj米臼
+𱹁	mq米齐
 𱹂	dm丶米
 𱹅	em二米
 𱹆	mt米土
@@ -80963,6 +81058,7 @@ sort: original
 𱽹	ce艹儿
 𱽺	ce艹俄
 𱽻	ct艹田
+𱽿	cj艹降
 𱾀	cg艹栝
 𱾁	cm艹米
 𱾂	cy艹袁
@@ -81002,6 +81098,7 @@ sort: original
 𱾻	cv艹隹
 𱾾	cp艹穙
 𱿀	cd卝丶
+𱿅	cc艹次
 𱿇	cw艹夂
 𱿎	hl虎力
 𱿏	hs虎厶
@@ -81035,6 +81132,7 @@ sort: original
 𲀁	ij虫戛
 𲀂	is虫啬
 𲀃	ib虫崩
+𲀄	ix虫虚
 𲀆	iz虫族
 𲀈	ie虫貳
 𲀊	ir虫肉
@@ -81177,6 +81275,7 @@ sort: original
 𲃽	zl足荖
 𲃾	zb足笔
 𲃿	zu足衰
+𲄀	zm足迷
 𲄄	zl足鸾
 𲄈	zh足灬
 𲄉	zb足佰
@@ -81277,10 +81376,12 @@ sort: original
 𲆣	ge虢阝
 𲆤	se糸阝
 𲆥	yj酉几
+𲆦	yx酉夕
 𲆩	yg酉公
 𲆫	yx酉旬
 𲆬	ya酉一
 𲆭	yu酉寿
+𲆰	yy酉易
 𲆱	yp酉朋
 𲆳	yp酉品
 𲆴	yt酉田
@@ -81508,6 +81609,8 @@ sort: original
 𲌚	ik镸口
 𲌛	ir镸任
 𲌝	ib镸别
+𲌞	ix镸闲
+𲌡	is镸啬
 𲌢	ir镸入
 𲌤	iy鬯又
 𲌥	vc爫寸

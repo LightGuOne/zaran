@@ -5,7 +5,7 @@
 
 ---
 name: moran_fixed_simp
-version: "20260805"
+version: "20260814"
 sort: original
 columns:
   - text
@@ -6808,6 +6808,7 @@ B盘	bpj
 不幸遭遇	bxzy
 并	by
 不要	by
+必要	by
 丙	bya
 并案	byan
 病案	byan
@@ -10487,7 +10488,6 @@ C语言	cyy
 篼	dbvd
 倒不知道	dbvd
 斗争	dbvg
-导播赵干	dbvg
 斗志	dbvi
 对不住了	dbvl
 顶不住了	dbvl
@@ -28369,7 +28369,6 @@ H股	hgu
 海盗	hldk
 海岛	hldk
 海带	hldl
-很蓝的啦	hldl
 海淀	hldm
 合理搭配	hldp
 欢乐斗地主	hldv
@@ -44352,6 +44351,7 @@ JK制服	jkvf
 开机自启	kjzq
 苛捐杂税	kjzu
 靠	kk
+看看	kk
 靠岸	kkan
 苦苦哀求	kkaq
 磕磕绊绊	kkbb
@@ -50282,7 +50282,6 @@ JK制服	jkvf
 孪生兄弟	luxd
 历史新低	luxd
 历史新高	luxg
-蓝瘦香菇	luxg
 芦席	luxi
 历史学家	luxj
 流水线计算机	luxj
@@ -56098,7 +56097,6 @@ JK制服	jkvf
 难度很高	ndhg
 年代后期	ndhq
 难得糊涂	ndht
-你滴寒王	ndhw
 难度很小	ndhx
 难道还要	ndhy
 难道还有	ndhy
@@ -84151,6 +84149,7 @@ U盘	upj
 这厮	vesi
 折伞	vesj
 这所	veso
+折损	vesp
 折算	vesr
 知恩图报	vetb
 这条	vetc
@@ -110189,7 +110188,6 @@ U盘	upj
 字面意思	zmys
 怎么又是	zmyu
 怎么也是	zmyu
-赞美愚者	zmyv
 怎么也在	zmyz
 怎么做到	zmzd
 做没做过	zmzg
@@ -118777,6 +118775,7 @@ SD卡	sdk
 抬头纹	ttw
 踢踏舞	ttw
 唐太宗	ttz
+提示词	tuc
 提示符	tuf
 图书馆	tug
 听说过	tug
@@ -119533,6 +119532,7 @@ SD卡	sdk
 中年人	vnr
 这年头	vnt
 智囊团	vnt
+智能体	vnt
 只能说	vnu
 终南山	vnu
 之能事	vnu
