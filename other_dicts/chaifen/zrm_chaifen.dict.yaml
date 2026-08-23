@@ -9,7 +9,7 @@
 
 ---
 name: zrm_chaifen
-version: "20260816"
+version: "20260823"
 sort: original
 ...
 ⺼	or{⺼}
@@ -27536,6 +27536,7 @@ sort: original
 𠀦	av一州
 𠀩	ad一丁
 𠀪	ad一丶
+𠀫	ap一丿
 𠀬	ar一人
 𠀮	ai一乂
 𠀯	au一水
@@ -66260,9 +66261,9 @@ sort: original
 𫌦	xj先見
 𫌨	je见尔
 𫌩	jj见句
-𫌪	pj𠂆见
-𫌫	jj柬见
-𫌬	pj票见
+𫌪	jp见𠂢
+𫌫	jj见柬
+𫌬	jp见票
 𫌭	jw见微
 𫌯	jq角乔
 𫌰	jw角勿
@@ -69973,19 +69974,19 @@ sort: original
 𬢅	jv見肇
 𬢆	hj虎見
 𬢇	yj又见
-𬢈	dj东见
-𬢉	uj十见
+𬢈	jd见东
+𬢉	jp见丿
 𬢊	js见司
 𬢋	jv见兆
-𬢌	vj志见
-𬢍	uj十见
-𬢎	vj者见
-𬢏	uj甚见
-𬢐	qj契见
-𬢑	yj英见
-𬢒	mj冥见
-𬢓	bj敝见
-𬢔	dj登见
+𬢌	jv见志
+𬢍	jc见朿
+𬢎	jv见者
+𬢏	ju见甚
+𬢐	jq见契
+𬢑	jy见英
+𬢒	jm见冥
+𬢓	jb见敝
+𬢔	jd见登
 𬢕	jj角戋
 𬢙	jk角口
 𬢚	py丿言
@@ -71100,7 +71101,7 @@ sort: original
 𬺜	lm龙木
 𬺝	ul声龙
 𬺞	dm⺈黾
-𬺟	yj龠见
+𬺟	jy见龠
 𬺠	ly录龠
 𬺤	
 𬺨	
@@ -74892,7 +74893,7 @@ sort: original
 𮢹	ji金處
 𮢻	jj金祭
 𮢾	jg金工
-𮢿	jo金日
+𮢿	jg金戈
 𮣀	jy金雨
 𮣁	jm金米
 𮣆	jb金備
@@ -77950,16 +77951,16 @@ sort: original
 𰴏	jj見句
 𰴐	ju見失
 𰴒	jy見雨
-𰴔	cj艹見
-𰴕	bj必见
-𰴖	vj召见
-𰴗	lj丽见
-𰴘	jj间见
-𰴙	jj君见
-𰴚	lj娄见
-𰴜	hj虍见
-𰴝	vj爫见
-𰴞	hj虍见
+𰴔	jv見隹
+𰴕	jb见必
+𰴖	jv见召
+𰴗	jl见丽
+𰴘	jj见间
+𰴙	jj见君
+𰴚	jl见娄
+𰴜	jq见且
+𰴝	jl见𤔔
+𰴞	jd见豆
 𰴟	do刀月
 𰴠	jy角又
 𰴡	jc角廾
@@ -81177,11 +81178,11 @@ sort: original
 𲁏	jj見眷
 𲁑	bj不见
 𲁓	jj见见
-𲁔	lj厉见
-𲁕	jj吉见
-𲁖	cj艹见
-𲁗	qj亲见
-𲁙	pj旁见
+𲁔	jl见厉
+𲁕	jj见吉
+𲁖	jb见冖
+𲁗	jq见亲
+𲁙	jp见旁
 𲁛	jt角台
 𲁞	jm角木
 𲁟	hj或角
