@@ -2071,32 +2071,24 @@ sort: by_weight
 卜庄镇	bo;ad zhuāng;gt zhèn;jv	10
 埠场镇	bù;tf chǎng;ty zhèn;jv	10
 补抽乡	bǔ;yb chōu;fy xiāng;ap	434
-不出村	bù;ad chū;aa cūn;mc	36
-不出县	bù;ad chū;aa xiàn;sq	144
-不出镇	bù;ad chū;aa zhèn;jv	322
 布袋镇	bù;ju dài;yd zhèn;jv	387
 布德镇	bù;ju dé;xx zhèn;jv	10
-不端庄	bù;ad duān;le zhuāng;gt	100
 布多乡	bù;ju duō;xx xiāng;ap	92
 补尔乡	bǔ;yb ěr;dx xiāng;ap	10
-部分县	bù;ek fen;bd xiàn;sq	152
 步凤镇	bù;vx fèng;jy zhèn;jv	10
 部官镇	bù;ek guān;bg zhèn;jv	10
 布海镇	bù;ju hǎi;dm zhèn;jv	10
 埠河镇	bù;tf hé;dk zhèn;jv	10
-不回乡	bù;ad huí;kk xiāng;ap	7251
 布吉镇	bù;ju jí;ku zhèn;jv	233
 布甲乡	bù;ju jiǎ;aa xiāng;ap	10
 埠江镇	bù;tf jiāng;dg zhèn;jv	10
 布久乡	bù;ju jiǔ;pd xiāng;ap	10
-不老村	bù;ad lǎo;lb cūn;mc	100
 埔里镇	bù;tf lǐ;aa zhèn;jv	422
 埠柳镇	bù;tf liǔ;mm zhèn;jv	10
 布隆乡	bù;ju lóng;eu xiāng;ap	10
 步路乡	bù;vx lù;zg xiāng;ap	10
 埠前镇	bù;tf qián;qd zhèn;jv	10
 布泉乡	bù;ju quán;ub xiāng;ap	10
-不少村	bù;ad shǎo;xp cūn;mc	100
 布塔乡	bù;ju tǎ;td xiāng;ap	10
 埠头乡	bù;tf tóu;dd xiāng;ap	359
 埠头镇	bù;tf tóu;dd zhèn;jv	10
@@ -6314,14 +6306,12 @@ sort: by_weight
 圪台乡	gē;tq tái;sk xiāng;ap	10
 葛田乡	gé;ch tián;aa xiāng;ap	10
 葛溪乡	gé;ch xī;dx xiāng;ap	10
-各乡镇	gè;wk xiāng;ap zhèn;jv	517
 革一镇	gé;ca yí;aa zhèn;jv	10
 格宜镇	gé;mg yí;bq zhèn;jv	10
 葛源镇	gé;ch yuán;dy zhèn;jv	10
 格咱乡	gé;mg zán;kz xiāng;ap	10
 葛寨镇	gé;ch zhài;mb zhèn;jv	10
 革镇堡	gé;ca zhèn;jv bǎo;tb	250
-各州县	gè;wk zhōu;id xiàn;sq	164
 各庄镇	gè;wk zhuāng;gt zhèn;jv	222
 格宗镇	gé;mg zōng;bu zhèn;jv	10
 根河市	gēn;mg hé;dk shì;wj	7
@@ -15814,9 +15804,9 @@ sort: by_weight
 蒲台乡	pú;cp tái;sk xiāng;ap	10
 濮塘镇	pú;df táng;tt zhèn;jv	10
 蒲塘镇	pú;cp táng;tt zhèn;jv	10
-葡萄场	pú;cp táo;ct chǎng;ty	10
-葡萄县	pú;cp táo;ct xiàn;sq	98
-葡萄镇	pú;cp táo;ct zhèn;jv	10
+葡萄场	pú;cp tao;ct chǎng;ty	10
+葡萄县	pú;cp tao;ct xiàn;sq	98
+葡萄镇	pú;cp tao;ct zhèn;jv	10
 菩提镇	pú;ck tí;fu zhèn;jv	10
 莆田县	pú;cf tián;aa xiàn;sq	208
 圃田乡	pǔ;kf tián;aa xiāng;ap	10
@@ -29686,7 +29676,6 @@ sort: by_weight
 布敦山村	bù;ju dūn;wx shān;aa cūn;mc	10
 布尔津县	bù;ju ěr;dx jīn;dy xiàn;sq	10
 布尔津镇	bù;ju ěr;dx jīn;dy zhèn;jv	10
-部分街道	bù;ek fen;bd jiē;xg dào;zu	10
 布格仔村	bù;ju gé;mg zǎi;rz cūn;mc	10
 步古沟镇	bù;vx gǔ;uk gōu;dg zhèn;jv	10
 布吉街道	bù;ju jí;ku jiē;xg dào;zu	10
@@ -52337,11 +52326,11 @@ sort: by_weight
 朴实庄村	pǔ;mb shí;bt zhuāng;gt cūn;mc	10
 蒲首山村	pú;cp shǒu;qz shān;aa cūn;mc	10
 蒲台河村	pú;cp tái;sk hé;dk cūn;mc	10
-葡萄沟村	pú;cp táo;ct gōu;dg cūn;mc	10
-葡萄沟乡	pú;cp táo;ct gōu;dg xiāng;ap	10
-葡萄架乡	pú;cp táo;ct jià;mj xiāng;ap	10
-葡萄园村	pú;cp táo;ct yuán;ky cūn;mc	10
-葡萄寨村	pú;cp táo;ct zhài;mb cūn;mc	10
+葡萄沟村	pú;cp tao;ct gōu;dg cūn;mc	10
+葡萄沟乡	pú;cp tao;ct gōu;dg xiāng;ap	10
+葡萄架乡	pú;cp tao;ct jià;mj xiāng;ap	10
+葡萄园村	pú;cp tao;ct yuán;ky cūn;mc	10
+葡萄寨村	pú;cp tao;ct zhài;mb cūn;mc	10
 菩提街道	pú;ck tí;fu jiē;xg dào;zu	10
 菩提寺村	pú;ck tí;fu sì;ct cūn;mc	10
 莆田城厢	pú;cf tián;aa chéng;ti xiāng;ix	10
@@ -75739,7 +75728,7 @@ sort: by_weight
 蒲芦瑶族乡	pú;cp lú;ch yáo;wf zú;fu xiāng;ap	10
 普玛江塘乡	pǔ;ob mǎ;wm jiāng;dg táng;tt xiāng;ap	10
 普恰克其镇	pǔ;ob qià;xh kè;eg qí;ba zhèn;jv	10
-葡萄沟街道	pú;cp táo;ct gōu;dg jiē;xg dào;zu	10
+葡萄沟街道	pú;cp tao;ct gōu;dg jiē;xg dào;zu	10
 普田回族乡	pǔ;ob tián;aa huí;kk zú;fu xiāng;ap	10
 莆田仙游县	pú;cf tián;aa xiān;ru yóu;dz xiàn;sq	10
 普陀路街道	pǔ;ob tuó;et lù;zg jiē;xg dào;zu	10
