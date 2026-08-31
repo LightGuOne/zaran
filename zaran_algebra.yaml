@@ -1,42 +1,41 @@
-# Rime schema
-# encoding: utf-8
 
+# 拼写运算
 pro:
   自然码: 
-    - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
-    - xform/^ng(;.*)/eng$1/
-    - xform/ńg|ňg|ǹg/eng/
-    - xform/ń|ň|ǹ/en/ 
+    # - xlit/āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜü/aaaaooooeeeeiiiiuuuuvvvvv/
+    # - xform/^ng(;.*)/eng$1/
+    # - xform/ńg|ňg|ǹg/eng/
+    # - xform/ń|ň|ǹ/en/ 
 
-    # - derive/^([jqxy])u(\d)(;.*)$/$1v$2$3/          # u <-> v
-    - xform/^([aoe])(ng)?(;.*)$/$1$1$2$3/             # 为后续转换用 ang -> aang / eng ->eeng / o -> oo / a -> aa / e -> ee
-    - xform/^(\w+?)iu(;.*)$/$1Ⓠ$2/                   # 双拼 iu -> q 
-    - xform/^(\w+?)[uv]an(;.*)$/$1Ⓡ$2/               # 双拼 uan -> r / van -> r
-    - xform/^(\w+?)[uv]e(;.*)$/$1Ⓣ$2/                # 双拼 ue -> t / ve -> t
-    - xform/^(\w+?)ing(;.*)$/$1Ⓨ$2/                  # 双拼 ing -> y
-    - xform/^(\w+?)uai(;.*)$/$1Ⓨ$2/                  # 双拼 uai -> y
-    - xform/^(\w+?)uo(;.*)$/$1Ⓞ$2/                   # 双拼 uo -> o
-    - xform/^(\w+?)[uv]n(;.*)$/$1Ⓟ$2/                # 双拼 un -> p / vn -> p
-    - xform/^(\w+?)i?ong(;.*)$/$1Ⓢ$2/                # 双拼 ong -> s / iong -> s
-    - xform/^(\w+?)[iu]ang(;.*)$/$1Ⓓ$2/              # 双拼 iang -> d / uang -> d
-    - xform/^(\w+?)en(;.*)$/$1Ⓕ$2/                   # 双拼 en -> f
-    - xform/^(\w+?)eng(;.*)$/$1Ⓖ$2/                  # 双拼 eng -> g
-    - xform/^(\w+?)ang(;.*)$/$1Ⓗ$2/                  # 双拼 ang -> h
-    - xform/^(\w+?)ian(;.*)$/$1Ⓜ$2/                  # 双拼 ian -> m
-    - xform/^(\w+?)an(;.*)$/$1Ⓙ$2/                   # 双拼 an -> j
-    - xform/^(\w+?)iao(;.*)$/$1Ⓒ$2/                  # 双拼 iao -> c
-    - xform/^(\w+?)ao(;.*)$/$1Ⓚ$2/                   # 双拼 ao -> k
-    - xform/^(\w+?)ai(;.*)$/$1Ⓛ$2/                   # 双拼 ai -> l
-    - xform/^(\w+?)ei(;.*)$/$1Ⓩ$2/                   # 双拼 ei -> z
-    - xform/^(\w+?)ie(;.*)$/$1Ⓧ$2/                   # 双拼 ie -> z
-    - xform/^(\w+?)ui(;.*)$/$1Ⓥ$2/                   # 双拼 ui -> v
-    - xform/^(\w+?)ou(;.*)$/$1Ⓑ$2/                   # 双拼 ou -> b
-    - xform/^(\w+?)in(;.*)$/$1Ⓝ$2/                   # 双拼 in -> n
-    - xform/^(\w+?)[iu]a(;.*)$/$1Ⓦ$2/                # 双拼 ia -> w / ua -> w
-    - xform/^sh/Ⓤ/                                   # 双拼 sh -> u
-    - xform/^ch/Ⓘ/                                   # 双拼 ci -> i
-    - xform/^zh/Ⓥ/                                   # 双拼 zh -> v
-    - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
+    # # - derive/^([jqxy])u(\d)(;.*)$/$1v$2$3/          # u <-> v
+    # - xform/^([aoe])(ng)?(;.*)$/$1$1$2$3/             # 为后续转换用 ang -> aang / eng ->eeng / o -> oo / a -> aa / e -> ee
+    # - xform/^(\w+?)iu(;.*)$/$1Ⓠ$2/                   # 双拼 iu -> q 
+    # - xform/^(\w+?)[uv]an(;.*)$/$1Ⓡ$2/               # 双拼 uan -> r / van -> r
+    # - xform/^(\w+?)[uv]e(;.*)$/$1Ⓣ$2/                # 双拼 ue -> t / ve -> t
+    # - xform/^(\w+?)ing(;.*)$/$1Ⓨ$2/                  # 双拼 ing -> y
+    # - xform/^(\w+?)uai(;.*)$/$1Ⓨ$2/                  # 双拼 uai -> y
+    # - xform/^(\w+?)uo(;.*)$/$1Ⓞ$2/                   # 双拼 uo -> o
+    # - xform/^(\w+?)[uv]n(;.*)$/$1Ⓟ$2/                # 双拼 un -> p / vn -> p
+    # - xform/^(\w+?)i?ong(;.*)$/$1Ⓢ$2/                # 双拼 ong -> s / iong -> s
+    # - xform/^(\w+?)[iu]ang(;.*)$/$1Ⓓ$2/              # 双拼 iang -> d / uang -> d
+    # - xform/^(\w+?)en(;.*)$/$1Ⓕ$2/                   # 双拼 en -> f
+    # - xform/^(\w+?)eng(;.*)$/$1Ⓖ$2/                  # 双拼 eng -> g
+    # - xform/^(\w+?)ang(;.*)$/$1Ⓗ$2/                  # 双拼 ang -> h
+    # - xform/^(\w+?)ian(;.*)$/$1Ⓜ$2/                  # 双拼 ian -> m
+    # - xform/^(\w+?)an(;.*)$/$1Ⓙ$2/                   # 双拼 an -> j
+    # - xform/^(\w+?)iao(;.*)$/$1Ⓒ$2/                  # 双拼 iao -> c
+    # - xform/^(\w+?)ao(;.*)$/$1Ⓚ$2/                   # 双拼 ao -> k
+    # - xform/^(\w+?)ai(;.*)$/$1Ⓛ$2/                   # 双拼 ai -> l
+    # - xform/^(\w+?)ei(;.*)$/$1Ⓩ$2/                   # 双拼 ei -> z
+    # - xform/^(\w+?)ie(;.*)$/$1Ⓧ$2/                   # 双拼 ie -> z
+    # - xform/^(\w+?)ui(;.*)$/$1Ⓥ$2/                   # 双拼 ui -> v
+    # - xform/^(\w+?)ou(;.*)$/$1Ⓑ$2/                   # 双拼 ou -> b
+    # - xform/^(\w+?)in(;.*)$/$1Ⓝ$2/                   # 双拼 in -> n
+    # - xform/^(\w+?)[iu]a(;.*)$/$1Ⓦ$2/                # 双拼 ia -> w / ua -> w
+    # - xform/^sh/Ⓤ/                                   # 双拼 sh -> u
+    # - xform/^ch/Ⓘ/                                   # 双拼 ci -> i
+    # - xform/^zh/Ⓥ/                                   # 双拼 zh -> v
+    # - xlit/ⓆⓌⓇⓉⓎⓊⒾⓄⓅⓈⒹⒻⒼⒽⓂⒿⒸⓀⓁⓏⓍⓋⒷⓃ/qwrtyuiopsdfghmjcklzxvbn/
 
 # 飞键
     - derive/xq;/xo;/                                 # xq -> xo
@@ -44,15 +43,14 @@ pro:
     - derive/wz;/wk;/                                 # wz -> wk
 
 #分号后面第一组辅助码
-    - derive/^(.+);.*$/$1/                            # 纯双拼的情况
-    - derive/^(.+);(\w).*$/$1$2/                      # 双拼+一位辅助码的情况
-    - derive|^(.+);(\w).*$|$1$2/|                     # 双拼+一位辅助码的情况+/
-    - abbrev/^(.+);(\w)(\w).*$/$1$2$3/                # 双拼+2位辅助码的情况
-    - derive|^(.+);(\w)(\w).*$|$1$2$3/|               # 双拼+2位辅助码+/
+    - derive/^(.+);(\w)(\w)$/$1/                    # 纯双拼的情况
+    - derive/^(.+);(\w)(\w)$/$1$2/                  # 双拼+一位辅助码的情况
+    - derive|^(.+);(\w)(\w)$|$1$2/|                 # 双拼+一位辅助码的情况+/
+    - abbrev/^(.+);(\w)(\w)$/$1$2$3/                # 双拼+2位辅助码的情况
+    - derive|^(.+);(\w)(\w)$|$1$2$3/|               # 双拼+2位辅助码+/
 
 #特殊优化：部分音节字极少，几乎不参与构词，则提升对应四码字的优先级，仅对自然码双拼有效，其他双拼方案需作对应修改）
-    - derive/^(.+);(dd|bd|dw|df|yl|rw|fs|iw|pd|sw|cz|dn|zy|nw|kq|fe|bs|fc|pp)$/$1$2/      # ZRM-SPECIFIC
-    - derive/^(.+);.*?,(dd|bd|dw|df|yl|rw|fs|iw|pd|sw|cz|dn|zy|nw|kq|fe|bs|fc|pp)$/$1$2/  # ZRM-SPECIFIC
+    - derive/^(.+);(dd|bd|dw|df|yl|rw|fs|iw|pd|sw|cz|dn|zy|nw|kq|fe|bs|fc|pp|ag)$/$1$2/      # ZRM-SPECIFIC
     - erase/^pp$/                                     # ZRM-SPECIFIC
     - erase/^(.+);(.+)$/                              # 删除原始编码加速检索
 
@@ -99,6 +97,12 @@ reverse:
     - xform/ui(?=^|$|')/<v>/
     - xform/([a-z>])ou(?=^|$|')/$1<b>/
     - xform/in(?=^|$|')/<n>/
+
+    # 飞键
+    - derive/x<q>/x<o>/                                 # xq -> xo
+    - derive/q<x>/q<o>/                                 # qx -> qo
+    - derive/w<z>/w<k>/                                 # wz -> wk
+
     - xform/'|<|>//
 
 

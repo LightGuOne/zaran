@@ -1,20 +1,22 @@
 
 local zaran = require("zaran")
-local tone_map = {
-    ['ā']='a', ['á']='a', ['ǎ']='a', ['à']='a',
-    ['ē']='e', ['é']='e', ['ě']='e', ['è']='e',
-    ['ī']='i', ['í']='i', ['ǐ']='i', ['ì']='i',
-    ['ō']='o', ['ó']='o', ['ǒ']='o', ['ò']='o', ['ň']='n',
-    ['ū']='u', ['ú']='u', ['ǔ']='u', ['ù']='u', ['ǹ']='n',
-    ['ǖ']='ü', ['ǘ']='ü', ['ǚ']='ü', ['ǜ']='ü', ['ń']='n',
-}
 
-local function remove_pinyin_tone(s)
-    local result = {}
-    for uchar in s:gmatch("[%z\1-\127\194-\244][\128-\191]*") do
-        result[#result + 1] = tone_map[uchar] or uchar
+-- ----------------------
+-- # 拆分注释
+-- ----------------------
+local function split_pinyins(comment, exclude_chars)
+    local pinyins, segments = {}, {}
+    if not comment or comment == "" then return pinyins, segments end
+    local pattern = "^[^;" .. (exclude_chars or "") .. "]+"
+    for segment in string.gmatch(comment, "[^%s]+") do
+        table.insert(segments, segment)
+        local pinyin = segment:match(pattern)
+        if pinyin then
+            pinyin = zaran.zrm_map[pinyin] or pinyin   -- 双拼 → 全拼
+            table.insert(pinyins, pinyin)
+        end
     end
-    return table.concat(result)
+    return pinyins, segments
 end
 
 -- ----------------------
@@ -68,47 +70,37 @@ local function get_charset_label(text)
     return nil
 end
 
+
+-- 读取字的unicode码
 local function C2U(char)
     local unicode_d = utf8.codepoint(char)
     local unicode_h = string.format('%X', unicode_d)
     return unicode_h
 end
 
+
 local function get_reverse_lookup_comment(cand, initial_comment)
     local inner_parts = {}
 
     -- 音形注释拆解逻辑
     if initial_comment and initial_comment ~= "" then
-        local segments = {}
-        for segment in string.gmatch(initial_comment, "[^%s]+") do
-            table.insert(segments, segment)
-        end
+        local pinyins, segments = split_pinyins(initial_comment, "~")
 
-        if #segments > 0 then
-            local semicolon_count = select(2, string.gsub(segments[1], ";", ""))
-            local pinyins = {}
+        if #pinyins > 0 then
             local fuzhu = nil
-
-            for _, segment in ipairs(segments) do
-                local pinyin = string.match(segment, "^[^;~]+")
-                local fz = nil
-
+            if #segments > 0 then
+                local semicolon_count = select(2, string.gsub(segments[1], ";", ""))
                 if semicolon_count == 1 then
-                    fz = string.match(segment, ";(.+)$")
+                    fuzhu = string.match(segments[1], ";(.+)$")
                 end
-
-                if pinyin then table.insert(pinyins, pinyin) end
-                if not fuzhu and fz and fz ~= "" then fuzhu = fz end
             end
 
             -- 拼接结果
-            if #pinyins > 0 then
-                local pinyin_str = table.concat(pinyins, "/")
-                table.insert(inner_parts, string.format("音%s", pinyin_str))
+            local pinyin_str = table.concat(pinyins, "/")
+            table.insert(inner_parts, string.format("音%s", pinyin_str))
 
-                if fuzhu then
-                    table.insert(inner_parts, string.format("辅%s", fuzhu))
-                end
+            if fuzhu then
+                table.insert(inner_parts, string.format("辅%s", fuzhu))
             end
         end
     end
@@ -152,7 +144,7 @@ function ZH.fini(env)
     -- 清理
     env.chaifen_dict = nil
     env.corrections_cache = nil
-    -- collectgarbage()
+    collectgarbage()
 end
 
 function ZH.func(input, env)
@@ -190,15 +182,8 @@ function ZH.func(input, env)
             goto after_preedit
         end
         do
-            -- 拆分拼音段（comment）
-            local pinyin_segments = {}
-            for segment in string.gmatch(initial_comment,"[^ ]+") do
-                local pinyin = segment:match("^[^;]+")
-                if pinyin then
-                    if is_full_pinyin then pinyin = remove_pinyin_tone(pinyin) end -- 全拼模式：提前去除声调
-                    table.insert(pinyin_segments, pinyin)
-                end
-            end
+            -- 拆分拼音段（comment）生成 preedit
+            local pinyin_segments = split_pinyins(initial_comment)
             genuine_cand.preedit = table.concat(pinyin_segments, " ")
         end
         ::after_preedit::

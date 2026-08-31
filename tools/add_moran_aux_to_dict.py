@@ -1,8 +1,10 @@
 import os, shutil,re, zipfile, tempfile
 from typing import Dict, List
+from zrmify import zrmify
 from tqdm import tqdm
 
 
+# TODO: 辅助码处理 - 读取辅助码表并刷写入编码
 def getOnlyCharsTable(auxFilePath: str) -> dict:
     """获取第一项辅助码
 
@@ -52,11 +54,11 @@ def getOnlyCharsTable(auxFilePath: str) -> dict:
 
     return aux_map
 
-def refresh_aux(cols: List[str], word: str, aux_map: Dict[str, str], userdb: bool):
+def refresh_aux(cols: List[str], word: str, aux_map: Dict[str, str], userdb: bool, process_pinyin: bool=True):
     """刷辅助码
 
     :param cols: 待处理编码
-    :param word: 内容
+    :param word: 候选文本
     :param aux_map: 辅助码表
     :param userdb: 是否为userdb文件
     :return: _description_
@@ -68,12 +70,18 @@ def refresh_aux(cols: List[str], word: str, aux_map: Dict[str, str], userdb: boo
         cols.append('')
 
     raw_segs = cols[seg_idx].strip().split() if seg_idx < len(cols) else []
-    aux_segs = [aux_map.get(ch, '') for ch in word]  # 行级处理 
+    aux_segs = [aux_map.get(字, '') for 字 in word]  # 行级处理 
 
     merged = []
     for i, py in enumerate(raw_segs):
         aux = aux_segs[i] if i < len(aux_segs) else ''
         py=py.split(';')[0]
+        if process_pinyin:
+            py=re.sub(pattern,lambda x:patternLsit[x.group(0)],py)
+            try:
+                py = zrmify(py)
+            except ValueError:
+                py = {'ng': 'eg', 'm': 'mm'}.get(py, py)   # 嗯→eg、呣/呒→mm（自然码零声母双写）
         merged.append(f"{py};{aux}")
     if userdb:
         cols[0] = ' '.join(merged)
@@ -83,11 +91,13 @@ def refresh_aux(cols: List[str], word: str, aux_map: Dict[str, str], userdb: boo
     return cols
 
 
+# TODO: 词库处理 - 按策略配置批量处理词库
 def process_single_file(src: str, dst: str, aux_map: Dict[str, str]):
     """处理词库文件，刷入辅助码"""
     userdb = False
     
     with open(src, 'r', encoding='utf-8') as inputFile, open(dst, 'w', encoding='utf-8') as outputFile:
+        seen = set()   # 记录 (候选词, 编码) 组合
         for line in inputFile:
             outputFile.write(line)
             if '#@/db_type' in line:
@@ -105,7 +115,13 @@ def process_single_file(src: str, dst: str, aux_map: Dict[str, str]):
             cols = line.rstrip('\n').split('\t')
             word = cols[1] if userdb else cols[0]
             cols = refresh_aux(cols, word, aux_map, userdb)
-            
+
+            # 去重：(候选词, 处理后的编码) 已出现过则丢弃，忽略权重
+            key = (word, cols[0 if userdb else 1])
+            if key in seen:
+                continue
+            seen.add(key)
+
             # 用户词典特殊处理
             if userdb and not cols[0].endswith(' '):
                 cols[0] += ' '
@@ -134,6 +150,7 @@ processDict = {
     'jichu.pro.dict.yaml':            PROCESS,
     'lianxiang.pro.dict.yaml':        PROCESS,
     'shici.pro.dict.yaml':            PROCESS,
+
     'zi.pro.dict.yaml':               PROCESS,
     'cuoyin.dict.yaml':           PROCESS,
     'diming.dict.yaml':           PROCESS,
@@ -143,7 +160,19 @@ processDict = {
     'shici.dict.yaml':            PROCESS,
     'zi.dict.yaml':               PROCESS,
     'rime_wanxiang.userdb.txt':       PROCESS,
+    'zaran.userdb.txt':       PROCESS,
 }
+
+patternLsit={
+    'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a', 
+    'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o', 
+    'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e', 
+    'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i', 
+    'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u', 
+    'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v', 'ü': 'v',
+    'ń':'n','ň':'n','ǹ':'n','ḿ':'m','\u0300': ''
+    }
+pattern=re.compile('[āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜüńňǹḿ\u0300]')
 
 # 未在字典中的文件默认操作
 DEFAULT_ACTION = SKIP   # 默认跳过
@@ -188,6 +217,8 @@ def myDictProcess(input_path, aux_map,
 
 
 if __name__ == "__main__":
+    # TODO: 主流程 - 定位解压词库并执行批量处理
+    zip_path=None
     zipFileList=['base-dicts.zip',
                 'pro-zrm-fuzhu-dicts.zip'
                 ]
@@ -196,28 +227,33 @@ if __name__ == "__main__":
         if os.path.exists(path):
             zip_path=path
             break
-    # auxFilePath = 'moran.chars.dict.yaml'
+
+    # 获取魔然单字表的相对路径
     auxFilePath = os.path.join(os.path.dirname(os.path.dirname(__file__)),'moran.chars.dict.yaml')
-
-    zipName = os.path.splitext(os.path.basename(zip_path))[0]
-    # 使用临时目录，with块结束后自动删除
-    with tempfile.TemporaryDirectory() as tmpdir:
-        with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            for file in zip_ref.namelist():
-                # 跳过目录
-                if file.endswith('/'):
-                    continue
-                # 只处理目标文件夹下的文件（压缩包内通常有顶层文件夹）
-                if not file.startswith(zipName + '/'):
-                    continue
-
-                # 提取到临时目录，保持原有内部路径
-                zip_ref.extract(file, tmpdir)
-
-        # 实际需要处理的路径是临时目录下的顶层文件夹
-        input_path = os.path.join(tmpdir, zipName)
-
-        # 后续处理
+    if not zip_path:
+        input_path=r'dicts'   # 临时处理一下
         charsTable = getOnlyCharsTable(auxFilePath)  # 获取唯一辅助码
         myDictProcess(input_path, charsTable)        # 处理词库替换辅助码
-    # 退出with块，临时目录及其所有内容自动删除
+    else:
+        zipName = os.path.splitext(os.path.basename(zip_path))[0]
+        # 使用临时目录，with块结束后自动删除
+        with tempfile.TemporaryDirectory() as tmpdir:
+            with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+                for file in zip_ref.namelist():
+                    # 跳过目录
+                    if file.endswith('/'):
+                        continue
+                    # 只处理目标文件夹下的文件（压缩包内通常有顶层文件夹）
+                    if not file.startswith(zipName + '/'):
+                        continue
+
+                    # 提取到临时目录，保持原有内部路径
+                    zip_ref.extract(file, tmpdir)
+
+            # 实际需要处理的路径是临时目录下的顶层文件夹
+            input_path = os.path.join(tmpdir, zipName)
+
+            # 后续处理
+            charsTable = getOnlyCharsTable(auxFilePath)  # 获取唯一辅助码
+            myDictProcess(input_path, charsTable)        # 处理词库替换辅助码
+            # 退出with块，临时目录及其所有内容自动删除
