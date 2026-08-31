@@ -1,7 +1,7 @@
 -- 整合：light
 --简易计算器+‌四舍六入五取偶法‌
 --金额大写
---日期输入
+--日期输入（偏移计算）
 
 
 local function startsWith(str, start)
@@ -405,78 +405,120 @@ end
 
 function M.func(input, seg, env)
     if not startsWith(input, M.prefix) then return end
-    -- 提取算式
-    local express = truncateFromStart(input, M.prefix)    --移除前缀
+    local express = truncateFromStart(input, M.prefix)
     local current_time = os.time()
     local lunar = solarToLunar(os.date('%Y%m%d', current_time))
-    
-    -- 新增：只输入V时输出日期
+    -- 辅助：输出星期
+    local function yield_weekday(target_time)
+        local wday = tonumber(os.date("%w", target_time))
+        local weekdays = {"周日", "周一", "周二", "周三", "周四", "周五", "周六"}
+        yield_cand(seg, input, weekdays[wday+1], "")
+    end
+    -- 无任何内容：输出当前日期、时间戳、农历
     if express == "" then
         yield_cand(seg, input, os.date('%Y/%m/%d', current_time), "")
         yield_cand(seg, input, os.date('%Y%m%d', current_time), "")
         yield_cand(seg, input, string.format('%d', current_time), "")
-        yield_cand(seg, input, lunar:match("^.*%) (.*)$"), "")
+        yield_cand(seg, input, lunar:match("%) (.+)") or lunar, "")
         return
     end
-    
-    -- 新功能：公历转农历，格式 xxxx.xx.xx 或 xx.xx.xx
-    local y, m, d = express:match("^(%d%d%d?%d?)[%.%/](%d%d?)[%.%/](%d%d?)$")
-    if y and m and d then
-        -- 补全两位年份
+    -- 公历转农历：支持 yyyy.mm.dd 或 mm.dd/ 格式
+    local y, m, d, year_specified
+    local date_match = express:match("^(%d%d%d?%d?)[%.%/](%d%d?)[%.%/](%d%d?)/?$")
+    if date_match then
+        y, m, d = date_match:match("(%d+)%.?(%d+)%.?(%d+)")  -- 实际上 date_match 已经是三个捕获，直接使用
+        -- 重新：直接用 date_match 的分组
+    end
+    y, m, d = express:match("^(%d%d%d?%d?)/(%d%d?)/(%d%d?)/?$")
+    if not y then
+        -- 再尝试点分隔
+        y, m, d = express:match("^(%d%d%d?%d?)%.(%d%d?)%.(%d%d?)/?$")
+    end
+    if y then
         if #y == 2 then y = "20" .. y end
         if #m == 1 then m = "0" .. m end
         if #d == 1 then d = "0" .. d end
         local gregorian = y .. m .. d
-        local lunar = solarToLunar(gregorian)
-        if lunar and lunar ~= "年份超出范围" then
-            yield(Candidate(input, seg.start, seg._end, lunar, "〔农历〕"))
+        local lunar_res = solarToLunar(gregorian)
+        if lunar_res and lunar_res ~= "年份超出范围" then
+            yield(Candidate(input, seg.start, seg._end, lunar_res, "〔农历〕"))
         else
             yield(Candidate(input, seg.start, seg._end, "日期无效", "〔错误〕"))
         end
         return
     end
-    local m, d = express:match("^(%d%d?)[%.%/](%d%d?)%/$")
+    -- 处理仅月.日/ 格式
+    local m, d = express:match("^(%d%d?)[%.%/](%d%d?)/$")
     if m and d then
-        -- 补全两位年份
-        y = os.date('%Y', current_time)
+        local y = os.date('%Y', current_time)
         if #m == 1 then m = "0" .. m end
         if #d == 1 then d = "0" .. d end
         local gregorian = y .. m .. d
-        local lunar = solarToLunar(gregorian)
-        if lunar and lunar ~= "年份超出范围" then
-            yield(Candidate(input, seg.start, seg._end, lunar, "〔农历〕"))
-            return
+        local lunar_res = solarToLunar(gregorian)
+        if lunar_res and lunar_res ~= "年份超出范围" then
+            yield(Candidate(input, seg.start, seg._end, lunar_res, "〔农历〕"))
         else
             yield(Candidate(input, seg.start, seg._end, "日期无效", "〔错误〕"))
         end
-    end
-
-    -- 日期对应
-    if express == 'rq' then
-        -- local year,lunar = solarToLunar(os.date('%Y%m%d', current_time))
-        yield_cand(seg, input, os.date('%Y/%m/%d', current_time), "")
-        yield_cand(seg, input, os.date('%Y%m%d', current_time), "")
-        yield_cand(seg, input, os.date('%Y-%m-%d', current_time), "")
-        yield_cand(seg, input, lunar:match("^.*%) (.*)$"), "农历")
-        yield_cand(seg, input, lunar, "农历")
         return
     end
-    
-    -- 算式长度 < 2 直接终止(没有计算意义)
-    if (string.len(express) < 2) then return end
-
+    -- 处理 rq[+/-offset]
+    local rq_offset = nil
+    if express:match("^rq[+-]?%d*$") then
+        if express == 'rq' then
+            rq_offset = 0
+        else
+            local sign, num = express:match("^rq([+-])(%d+)$")
+            if sign and num then
+                rq_offset = tonumber(num)
+                if sign == '-' then rq_offset = -rq_offset end
+            end
+        end
+    end
+    if rq_offset then
+        local target_time = current_time + rq_offset * 86400
+        yield_cand(seg, input, os.date('%Y/%m/%d', target_time), "")
+        if rq_offset == 0 then
+            yield_cand(seg, input, os.date('%Y%m%d', target_time), "")
+            yield_cand(seg, input, os.date('%Y-%m-%d', target_time), "")
+        end
+        if rq_offset ~= 0 then
+            yield_weekday(target_time)
+        end
+        local lunar_full = solarToLunar(os.date('%Y%m%d', target_time))
+        local lunar_md = lunar_full:match("%) (.+)") or lunar_full
+        yield_cand(seg, input, lunar_md, "农历")
+        yield_cand(seg, input, lunar_full, "农历")
+        return
+    end
+    -- 时间格式
+    if express == 'sj' then
+        yield_cand(seg, input, os.date('%Y-%m-%d %H:%M:%S', current_time), "本地")
+        yield_cand(seg, input, os.date('!%Y-%m-%d %H:%M:%S', current_time), "UTC")
+        yield_cand(seg, input, os.date('%Y-%m-%dT%H:%M:%S+08:00', current_time), "ISO8601")
+        yield_cand(seg, input, os.date('%Y%m%d%H%M%S', current_time), "")
+        return
+    end
+    -- 星期
+    if express == 'week' or express == 'xq' then
+        yield_weekday(current_time)
+        local wday = tonumber(os.date("%w", current_time))
+        local weekdayTs = {"星期天", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"}
+        yield_cand(seg, input, weekdayTs[wday+1], "")
+        return
+    end
+    -- 长度不足2时不做计算
+    if #express < 2 then return end
+    -- 计算器部分
     local part_int, part_dot, part_dec = string.match(express, "^(%d*)(%.?)(%d*)$")
     if not part_int or not part_dot or not part_dec then
-        local code = replaceToFactorial(express)   --将阶乘符号换成lua的格式 
+        local code = replaceToFactorial(express)
         local success, result = pcall(load("return " .. code, "calculate", "t", calcPlugin))
         if success then
-            -- 确保 result 是数字类型
             if type(result) ~= "number" then
-                -- 不是数字（可能是函数），视为解析失败
-                yield(Candidate(input, seg.start, seg._end, express, "解析失败"))
+                yield(Candidate(input, seg.start, seg._end, express, "表達式"))
                 return
             end
-
             local result_str = tostring(result)
             yield(Candidate(input, seg.start, seg._end, result_str, ""))
             yield(Candidate(input, seg.start, seg._end, express .. "=" .. result_str, ""))
@@ -487,9 +529,9 @@ function M.func(input, seg, env)
             local conversions = translateNumStr(new_param)
             yield(Candidate(input, seg.start, seg._end, approx, "〔捨入〕"))
             yield(Candidate(input, seg.start, seg._end, conversions[1][2], conversions[1][1]))
-            yield(Candidate(input, seg.start, seg._end, conversions[3][2], conversions[3][1]))
+            -- yield(Candidate(input, seg.start, seg._end, conversions[3][2], conversions[3][1]))
         else
-            yield(Candidate(input, seg.start, seg._end, express, "解析失败"))
+            yield(Candidate(input, seg.start, seg._end, express, "表達式"))
         end
     else
         -- 纯数字输入，直接转换
