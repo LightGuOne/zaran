@@ -6,6 +6,251 @@ sort: by_weight
 
 
 
+
+# TODO python库名称
+DrissionPage	drissionPage	1000000000
+DrissionPage	DrissionPage	1000000000
+matplotlib	matplotlib
+pandas	pandas
+openpyxl	openpyxl
+pyechart	pyechart
+PySide6	pyside
+PySide6	pyside6
+subprocess	subprocess
+auto-py-to-exe	autopytoexe
+pytorch	pytorch
+opencv	opencv
+opencv-python	opencvpython
+fastapi	fastapi
+django	django
+# pillow	pillow
+beautifulsoup4	beautifulsoup
+beautifulsoup	beautifulsoup
+numpy	numpy
+pathlib	pathlib
+pyinstaller	pyinstaller
+load_workbook	loadworkbook
+pyplot	pyplot
+pyautogui	pyautogui
+astropy	astropy
+threading	threading
+python	python	10
+Python	python	5
+cpython	cpython
+# TODO qt库内关键词
+QApplication	QApplication
+QApplication	qApplication
+QApplication	qapplication
+QMainWindow	QMainWindow
+QMainWindow	qMainWindow
+QMainWindow	qmainwindow
+QPushButton	QPushButton
+QPushButton	qPushButton
+QPushButton	qpushbutton
+QPlainTextEdit	QPlainTextEdit
+QPlainTextEdit	qPlainTextEdit
+QPlainTextEdit	qplainTextedit
+QMessageBox	QMessageBox
+QMessageBox	qMessageBox
+QMessageBox	qmessagebox
+QLineEdit	QLineEdit
+QLineEdit	qLineEdit
+QLineEdit	qlineedit
+QTextBrowser	QTextBrowser
+QTextBrowser	qTextBrowser
+QTextBrowser	qtextbrowser
+QLabel	QLabel
+QLabel	qLabel
+QLabel	qlabel
+QComboBox	QComboBox
+QComboBox	qComboBox
+QComboBox	qcombocox
+QRadioButton	QRadioButton
+QRadioButton	qRadioButton
+QRadioButton	qradiorutton
+QButtonGroup	QButtonGroup
+QButtonGroup	qButtonGroup
+QButtonGroup	qbuttonbroup
+QtWidgets	QtWidgets
+QtWidgets	qtWidgets
+QtWidgets	qtwidgets
+# TODO pandas关键词
+groupby	groupby	20
+errors	errors
+sort_index	sortindex
+DataFarme	dataframe	10
+dataframe	dataframe	5
+Series	series	10
+# TODO 库内关键词
+xpath	xpath
+# TODO 编码格式
+unicode	unicode
+utf-8	utf-8
+UTF-8	utf-8
+utf-16	utf-16
+UTF-16	utf-16
+GBK	gbk
+bool	bool
+int	int
+str	str
+true	true	5
+false	false	5
+# TODO 文件格式
+html	html
+json	json
+yaml	yaml	50
+ipynb	ipynb
+parquet	parquet
+Markdown	markdown	10
+markdown	markdown	5
+apk	apk
+vscode	vscode	10
+VSCode	vscode	5
+# TODO PixInsight内部process名称
+DynamicBackgroundExtraction	DBE
+DynamicBackgroundExtraction	DynamicBackgroundExtraction
+StarAlignment	SA
+StarAlignment	StarAlignment
+PixelMath	PixelMath
+LocalNormalization	LN
+LocalNormalization	LocalNormalization
+HistogramTransformation	HT
+HistogramTransformation	HistogramTransformation
+GeneralizedHyperbolicstretch	GHS
+GeneralizedHyperbolicstretch	GeneralizedHyperbolicstretch
+resample	resample	10
+Resample	resample	5
+StarMask	starmark
+SubframeSelector	SS
+SubframeSelector	subframeselector
+StarXTerminator	SXT
+StarXTerminator	starxTerminator
+BlurXTerminator	BXT
+BlurXTerminator	blurxterminator
+NoiseXTerminator	NXT
+NoiseXTerminator	noisexterminator
+ImageIntegration	II
+ImageIntegration	imageintegration
+FITSHeader	fitsheader
+Blink	blink
+# TODO Excel
+vlookup	vlookup
+sumif	sumif
+countif	countif
+# sheet	sheet	50
+# TODO 软件或系统
+JavaScript	javascript
+Java	java
+jupyter	jupyter
+Excel	excel
+PPT	ppt
+Node.js	nodejs
+# word	word	500000000
+Ubuntu	ubuntu
+Linux	linux
+pixinsight	pixinsight	10
+PixInsight	pixinsight	5
+Photoshop	photoshop
+Lightroom	lightroom
+Audition	audition
+Adobe	adobe
+Premiere Pro	premiere
+PixPin	pixpin	1
+Rime	rime
+Docker	docker	10
+docker	docker	5
+romaji	romaji
+ASTAP	astap
+asiair	asiair
+bandzip	bandzip
+Pixiv	pixiv
+WeChat	wechat
+PalPay	palpay
+kimi	kimi
+Live2D	live2d
+# TODO 网页名称
+GitHub	github	10
+deepseek	deepseek
+Google	google	10
+google	google	5
+# TODO 其他
+tips	tips
+WiFi	wifi
+Sony	sony
+Canon	canon
+Nikon	nikon
+Fujifilm	fujifilm
+Dji	dji
+dict	dict
+CUDA	cuda
+CarPlay	carplay
+bias	bias
+demo	demo
+logo	logo	500000000
+rapper	rapper
+solitude	solitude
+sigma	sigma
+HDMI	hdmi
+# OK	ok
+goto	goto
+cosplay	cosplay
+preedit	preedit
+buff	buff
+debuff	debuff
+columns	columns
+harson	harson
+npc	npc
+schema	schema	10
+Gemma	gemma
+ChatGPT	chatgpt
+Claude	claude
+Copilot	copilot
+Llama	llama
+ollama	ollama
+meta	meta
+deepin	deepin
+macOS	macos
+Win10	win10
+Win7	win7
+Win11	win11
+Windows	windows
+Windows7	windows7
+Windows10	windows10
+Windows11	windows11
+App	app
+App Store	appstore
+sync	sync
+saber	saber
+whiter	whiter
+whiteroom	whiteroom
+FABE	fabe
+null	null
+Google Photos	GooglePhotos
+Apple Pay	ApplePay
+WeChat Pay	WeChatPay
+Apple Pencil	ApplePencil
+iPad Pro	iPadPro
+Google Play	GooglePlay
+AirPods Pro	AirPodsPro
+Qwen	Qwen
+grok	grok
+moran	moran		# 拼音
+wanxiang	wanxiang	# 拼音
+Conda	conda
+Anaconda	anaconda
+Miniconda	miniconda
+x86	x86
+amd64	amd64
+em31pro	em31pro
+OpenCC	opencc
+OpenAI	openai
+OpenWrt	openwrt
+Mi Sans	misans
+PyTorch	PyTorch
+desktop	desktop
+append	append
+GalGame	galgame
+AMD	amd
 #2026-03-02 14:08:33.488133
 webp	webp
 token	token
@@ -68,3 +313,73 @@ PaddleOCR	paddleocr
 PTSD	ptsd
 LMStudio	lmstudio
 ddddocr	ddddocr
+#2026-05-27 16:14:25.655776
+mixed	mixed
+info	info
+SATA	sata
+simp	simp
+fnOS	fnos
+OpenCode	opencode
+fixed	fixed
+llama.cpp	llama.cpp
+Reasoning	reasoning
+GOAT	goat
+safari	safari
+ngram	ngram
+approx	approx
+timing	timing
+joker	joker
+seacam	seacam
+looklook	looklook
+TrueNas	truenas
+peter	peter
+jieba	jieba
+folder	folder
+numba	numba
+wallpaper	wallpaper
+fallback	fallback
+solo	solo
+ninja	ninja
+mono	mono
+PCIE	pcie
+donk	donk
+PIME	pime
+ultra	ultra
+default	default
+whisky	whisky
+doro	doro
+#2026-06-01 10:45:13.590789
+Firefox	firefox
+PETG	petg
+MiniMax	minimax
+tkinter	tkinter
+Codex	codex
+#2026-08-13 17:57:33.386038
+exFAT	exfat
+APEX	apex
+hermes	hermes
+WebUI	webui
+Bandizip	bandizip
+ComfyUI	comfyui
+PowerShell	powershell
+PCTG	pctg
+Fusion	fusion
+edit	edit
+OpenClaw	openclaw
+FastGPT	fastgpt
+DHCP	dhcp
+discord	discord
+eSIM	esim
+siril	siril
+impart	impart
+Reranker	reranker
+NanaZip	nanazip
+Logseq	logseq
+subagent	subagent
+epub	epub
+skills	skills
+hallo	hallo
+vibe	vibe
+skillsmp	skillsmp
+wiki	wiki
+LaTeX	latex
