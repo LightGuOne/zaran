@@ -4253,7 +4253,7 @@ sort: by_weight
 絺	chī;sx	54
 柢	chí;md	39
 赿	chí;zu	36
-鶒	chì;nl	32
+鶒	chì;ni	32
 荎	chí;cv	27
 彲	chī;pl	19
 歭	chí;vs	16
@@ -17316,8 +17316,8 @@ sort: by_weight
 麖	jīng;lj	278
 䴖	jīng;nq	272
 經	jīng;sg	267
+靓	jìng;jq	266
 経	jīng;su	262
-靜	jìng;qv	256
 淨	jìng;dv	248
 驚	jīng;mj	246
 鏡	jìng;jj	226
@@ -17327,8 +17327,8 @@ sort: by_weight
 瀞	jìng;dj	185
 逕	jìng;zg	170
 浄	jìng;dv	169
-靓	jìng;jq	166
 徑	jìng;xj	160
+靜	jìng;qv	156
 頸	jǐng;yg	141
 凈	jìng;dv	132
 璄	jǐng;we	126
@@ -23955,6 +23955,7 @@ sort: by_weight
 釯	máng;jw	38
 哤	máng;kl	38
 蛖	máng;il	23
+𬲹	māng;um	3
 硥	mǎng;um	1
 浝	máng;dm	1
 𩷶	máng;ym	1
@@ -43003,6 +43004,8 @@ sort: by_weight
 咉	yāng;ky	33
 玚	yáng;wy	29
 详	yáng;yy	25
+䱀	yāng;yy	4
+𫚐	yāng;yy	3
 懩	yǎng;xy	1
 雵	yāng;yy	1
 慃	yǎng;xw	1
@@ -43050,7 +43053,6 @@ sort: by_weight
 䬺	yàng;uy	1
 䭐	yàng;uy	1
 䭥	yàng;uy	1
-䱀	yāng;yy	1
 䵮	yàng;hy	1
 𠍵	yàng;ry	1
 𠢴	yǎng;lh	1
@@ -43501,6 +43503,7 @@ sort: by_weight
 鎁	yé;jy	23
 瞸	yè;oy	23
 驜	yè;my	23
+𬲼	yè;uy	3
 曗	yè;oy	1
 漜	yě;dt	1
 枽	yè;mc	1
