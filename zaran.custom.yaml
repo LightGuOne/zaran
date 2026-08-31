@@ -27,8 +27,9 @@ patch:
   key_binder/bindings/+:
     - { when: has_menu, accept: Control+Shift+G, toggle: inflexible }               # 魔然固词开关
     - { when: composing, accept: "Control+g", toggle: extended_charset }            # 大小字符集
-    - { when: has_menu, accept: "Control+s", toggle: tone_display }                 # 拼音显示
+    - { when: has_menu, accept: "Control+u", toggle: tone_display }                 # 拼音显示
     - { when: has_menu, accept: "Control+b", toggle: chaifen_switch }               # 补全信息开关
+    - { when: has_menu, accept: "Control+q", toggle: emoji }                        # emoji开关
     # - { when: has_menu, accept: "Control+0", toggle: std_opencc }             # 切换用字标准 
     # - { when: has_menu, accept: "Control+Shift+parenright", toggle: std_opencc }    # 切换用字标准 
     # - { match: "^[a-z]{2,3}", accept: "Shift+Shift_L", send_sequence: 3 }           # 有候选时三选

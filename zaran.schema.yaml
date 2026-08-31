@@ -8,9 +8,9 @@ schema:
   version: "20251026"
   # icon: ico/chn.ico
   author:
-    - AMZ
     - ksqsf
     - kuroame
+    - AMZ
     - light
   description: |
     賦流形
@@ -32,23 +32,17 @@ switches:
     states: [ 半角🌗, 全角🌕 ]          # 2024-09-05
   - name: chaifen_switch                # 2025-03-30
     states: [拆字❌, 拆字✔] 
-  # - name: traditionalization
-  #   states: [ 简体, 繁體 ]               # 2024-09-05
   - name: extended_charset
     states: [ 通用, 增廣 ]
   - name: inflexible
     states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
-  # - options: [ std_opencc,  std_tw, std_hk]
-  #   reset: 0
-  #   # states: [ 通, 臺, 港]
-  #   states: [ 臺, 通, 港]
-  # - options: [ std_s, std_s2t, std_s2tw, std_s2hk, std_s2jp]
-  #   states: [ 简, 繁, 台, 港, 日]
   - options: [ std_s, std_s2tw, std_s2hk, std_s2jp]
     states: [ 简, 臺, 港, 日]
+  #   reset: 0
   # 快捷鍵 Ctrl-S 會在前兩個字集之間切換, 由 moran_processor.lua 實現.
   # 若經常切換簡繁且偏好特定繁體標準, 可自行修改字集列表順序, 例如
-
+  - name: emoji
+    states: [ 🈚, 🈶 ]
 
 
 # 输入引擎
@@ -68,6 +62,7 @@ engine:
   segmentors:
     - ascii_segmentor                     # 标识英文段落〔譬如在英文模式下〕字母直接上屛
     - matcher                             # 配合 recognizer 标识符合特定规则的段落，如网址、反查等，加上特定 tag
+    - matcher@recognizer_emoji
     - matcher@recognizer_secondary        # 英文正则
     - abc_segmentor                       # 标识常规的文字段落，加上 abc 这个 tag
     - punct_segmentor                     # 标识符号段落〔键入标点符号用〕加上 punct 这个 tag
@@ -87,9 +82,7 @@ engine:
     - lua_filter@*mylua.simple_comment    #  简易注释
     - lua_filter@*moran.moran_hint_filter                                     # 魔然简词提示
     - lua_filter@*mylua.add_words         # 英文造词
-    # - simplifier@traditionalize           # 简繁切换
-    # - simplifier@std_hk                   # 香港用字标准
-    # - simplifier@std_tw                   # 台湾用字标准
+    - simplifier@emoji
     - simplifier@std_s2tw                 # 台湾用字标准
     - simplifier@std_s2hk                 # 香港用字标准
     - simplifier@std_s2jp                 # 日本用字标准
@@ -169,34 +162,12 @@ custom_phrase:
   enable_sentence: false    # 禁止造句
 
 
-# # 简繁切换
-# traditionalize:
-#   option_name: traditionalization
-#   # opencc_config: s2t.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
-#   opencc_config: s2tw.json   # s2t.json | s2hk.json | s2tw.json | s2twp.json
-#   # opencc_config: zaran_s2t.json
-#   tips: char                # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
-#   tags: [ abc, number, gregorian_to_lunar, mixed_V ]  # 限制在对应 tag，不对其他如反查的内容做简繁转换
+emoji:
+  opencc_config: moran_emoji.json
+  option_name: emoji
+  tips: none
+  tags: [has_emoji]
 
-
-# std_hk:
-#   opencc_config: tw2kh.json
-#   option_name: std_hk
-#   tips: all
-#   tags: [abc]
-
-
-# std_tw:
-#   opencc_config: tw2t.json
-#   option_name: std_tw
-#   tips: all
-#   tags: [abc]
-
-
-# std_s2t:
-#   opencc_config: s2t.json
-#   option_name: std_s2t
-#   tags: [ abc, number, gregorian_to_lunar, mixed_V ]
 
 std_s2hk:
   opencc_config: s2hk.json
@@ -204,17 +175,20 @@ std_s2hk:
   #tips: char
   tags: [ abc, number, gregorian_to_lunar, mixed_V ]
 
+
 std_s2tw:
   opencc_config: s2tw.json
   option_name: std_s2tw
   tips: char
   tags: [ abc, number, gregorian_to_lunar, mixed_V ]
 
+
 std_s2jp:
   opencc_config: s2jp.json
   option_name: std_s2jp
   # tips: all
   tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+
 
 # 标点符号
 punctuator:
@@ -225,6 +199,13 @@ punctuator:
 recognizer:
   import_preset: default    # 从 default.yaml 继承通用的
   patterns:  # 再增加方案专有的：
+
+
+recognizer_emoji:
+  patterns:
+    # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
+    # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
+    has_emoji: '(^[a-np-z][a-z/]*$)|(^[a-z]$)|(^ou[a-z/]*$)'
 
 
 recognizer_secondary:
