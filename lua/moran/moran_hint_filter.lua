@@ -108,7 +108,7 @@ function Module.get_quickcode_hint(env, cand, gcand)
         return nil
     end
     
-    -- ========== 核心修改开始：以下是旧版 (0.2.0) 的最短简码逻辑 ==========
+    -- ========== 核心修改：最短简码逻辑 ==========
     local in_use = false
     -- local current_input = cand.preedit or ""
     local current_input = cand.preedit:gsub("%s", "") or ""
