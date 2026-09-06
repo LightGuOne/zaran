@@ -70401,7 +70401,8 @@
 𩃞	yh	雨户	auto
 𩃟	yx	雨昕	auto
 𩃠	yn	雲内	auto
-𩃡	yj	雨臼	auto
+𩃡	ya	雨丨	
+𩃡	yj	雨臼	
 𩃢	yg	雨戈	auto
 𩃣	yz	雨卒	auto
 𩃦	yv	雨治	auto
@@ -80109,7 +80110,7 @@
 𫝆	ra	人丆	auto
 𫝇	rd	人丶	auto
 𫝈	rj	亻军	auto
-𫝉	rk	人口	auto
+𫝉	rj	人君	
 𫝊	rc	亻寸	auto
 𫝋	rd	亻豆	auto
 𫝌	ab	丨八	auto
@@ -100314,7 +100315,7 @@
 𤳭	te	田⺋	
 𠀫	ap	一丿	
 𠀫	cp	艹丿	
-
+𫹱	xi	心巛	
 
 # 待考
 
