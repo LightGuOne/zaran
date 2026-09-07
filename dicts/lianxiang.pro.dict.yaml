@@ -8261,6 +8261,7 @@ sort: by_weight
 池边久美子	ii;dy bm;zl jq;pd mz;dy zi;aa	10
 翅柄岩报春	ii;yv by;mb yj;uu bk;fy ip;of	10
 池波正太郎	ii;dy bo;dp vg;av tl;dd lh;el	10
+吃不吃得完	ii;kq bu;ad ii;kq de;xc wj;by	10
 吃不上饭了	ii;kq bu;ad uh;aa fj;uf le;aa	10
 持不同政见	ii;fs bu;ad ts;kk vg;wv jm;ag	10
 吃不下去饭	ii;kq bu;ad xw;ab qu;ts fj;uf	10
@@ -9522,7 +9523,7 @@ sort: by_weight
 垂直斜面下	iv;pa vi;uq xx;dy mm;aa xw;ab	10
 垂直性斜视	iv;pa vi;uq xy;xu xx;dy ui;ju	10
 垂直于水面	iv;pa vi;uq yu;aa uv;ad mm;aa	10
-垂轴放大率	iv;pa vb;iy fh;wf da;ad uy;wu	12
+垂轴放大率	iv;pa vb;iy fh;wf da;ad lv;wu	12
 锤子和扳手	iv;ji zi;aa he;hk bj;ff ub;pa	10
 锤子和镰刀	iv;ji zi;aa he;hk lm;jl dk;gp	10
 锤子与扳手	iv;ji zi;aa yu;aa bj;ff ub;pa	10
@@ -16957,6 +16958,7 @@ sort: by_weight
 发展的机遇	fa;ay vj;uy de;bu ji;mj yu;zy	10
 发展的势头	fa;ay vj;uy de;bu ui;lv tb;dd	10
 发展的优势	fa;ay vj;uy de;bu yb;ry ui;lv	10
+发展改革局	fa;ay vj;uy gl;wj ge;ca ju;uk	10
 发展改革委	fa;ay vj;uy gl;wj ge;ca wz;hn	10
 发展规划处	fa;ay vj;uy gv;fj hw;dg iu;wb	10
 发展和安全	fa;ay vj;uy he;hk an;bn qr;rw	10
@@ -25254,6 +25256,7 @@ sort: by_weight
 国子监司业	go;ky zi;aa jm;mv si;gk ye;aa	10
 国子监学正	go;ky zi;aa jm;mv xt;zb vg;av	10
 国子监助教	go;ky zi;aa jm;mv vu;lq jc;wx	10
+国资金融局	go;ky zi;bc jn;ra rs;ig ju;uk	10
 郭子仪拜寿	go;ex zi;aa yi;ry bl;uf ub;cf	10
 国足的表现	go;ky zu;kv de;bu bc;fy xm;wj	10
 国足的实力	go;ky zu;kv de;bu ui;bt li;gp	10
@@ -27450,7 +27453,7 @@ sort: by_weight
 后备箱集市	hb;pk bz;wt xd;vx ji;vm ui;wj	10
 后备指挥部	hb;pk bz;wt vi;fv hv;fj bu;ek	10
 后鼻孔闭锁	hb;pk bi;zb ks;zg bi;mc so;jb	10
-后鼻孔填塞	hb;pk bi;zb ks;zg tm;tv sl;tb	10
+后鼻孔填塞	hb;pk bi;zb ks;zg tm;tv se;tb	10
 后鞭毛生物	hb;pk bm;gb mk;pg ug;na wu;nw	10
 后标准模型	hb;pk bc;mu vp;dv mo;mm xy;tx	10
 后场高远球	hb;pk ih;ty gk;wk yr;zy qq;wq	10
@@ -33683,6 +33686,7 @@ sort: by_weight
 焦裕禄精神	jc;hv yu;yg lu;ul jy;mq uf;uu	10
 焦裕禄同志	jc;hv yu;yg lu;ul ts;kk vi;xu	10
 教育署署长	jc;wx yu;os uu;sv uu;sv vh;pd	10
+教育体育局	jc;wx yu;os ti;rb yu;os ju;uk	10
 教育体制外	jc;wx yu;os ti;rb vi;dg wl;xb	10
 教育统筹科	jc;wx yu;os ts;si ib;vu ke;hd	10
 教育信息网	jc;wx yu;os xn;ry xi;xz wh;ki	10
@@ -44512,7 +44516,6 @@ sort: by_weight
 没有重量的	mz;du yb;ou vs;pa ld;ol de;bu	10
 没有阻扰的	mz;du yb;ou zu;eq rk;fy de;bu	10
 没有做的事	mz;du yb;ou zo;rg de;bu ui;aa	10
-没羽箭张清	mz;du yu;xx jm;vq vh;gi qy;dq	10
 美玉缀罗缨	mz;dy yu;wd vv;su lo;sx yy;sy	10
 美元的地位	mz;dy yr;aw de;bu di;ty wz;rl	10
 美元的强势	mz;dy yr;aw de;bu qd;gs ui;lv	10
@@ -45675,6 +45678,7 @@ sort: by_weight
 魔焰闪空斩	mo;gm yj;hj uj;mr ks;xg vj;ji	10
 摸也没摸过	mo;fm ye;gg mz;du mo;fm go;zc	10
 魔域发布网	mo;gm yu;th fa;ay bu;ju wh;ki	10
+没羽箭张清	mo;du yu;xx jm;vq vh;gi qy;dq	10
 魔域口袋版	mo;gm yu;th kb;aa dl;yd bj;pf	10
 摸着良心说	mo;fm ve;yo ld;dg xn;dd uo;yd	10
 魔侦探洛基	mo;gm vf;rv tj;fm lo;dg ji;tq	10
@@ -50392,7 +50396,7 @@ sort: by_weight
 铅笔画的美	qm;jk bi;vm hw;ak de;bu mz;dy	10
 前鼻化辅音	qm;qd bi;zb hw;rb fu;if yn;lo	10
 前臂挤压伤	qm;qd bi;ob ji;fq ya;id uh;rl	10
-前鼻孔填塞	qm;qd bi;zb ks;zg tm;tv sl;tb	10
+前鼻孔填塞	qm;qd bi;zb ks;zg tm;tv se;tb	10
 前臂内侧缘	qm;qd bi;ob nz;ad ce;rz yr;st	10
 倩碧三部曲	qm;rq bi;ub sj;aa bu;ek qu;aa	10
 前臂外侧缘	qm;qd bi;ob wl;xb ce;rz yr;st	10
@@ -57815,6 +57819,7 @@ sort: by_weight
 生态的破坏	ug;na tl;xt de;bu po;up hy;tb	10
 生态涵养区	ug;na tl;xt hj;dh yh;ya qu;ki	10
 生态和环境	ug;na tl;xt he;hk hr;wb jy;tj	10
+生态环境局	ug;na tl;xt hr;wb jy;tj ju;uk	10
 生态省建设	ug;na tl;xt ug;ou jm;zy ue;yu	10
 胜太西路站	ug;ou tl;dd xi;aa lu;zg vj;lv	10
 生态主义者	ug;na tl;xt vu;dw yi;id ve;ol	10
@@ -58165,6 +58170,7 @@ sort: by_weight
 市场化业务	ui;wj ih;ty hw;rb ye;aa wu;wl	10
 时常会发生	ui;oc ih;jk hv;ry fa;ay ug;na	10
 市场价值法	ui;wj ih;ty jw;rj vi;rv fa;dq	10
+市场监管局	ui;wj ih;ty jm;mv gr;vg ju;uk	10
 市场开办方	ui;wj ih;ty kl;ac bj;lb fh;wd	10
 市场开拓岗	ui;wj ih;ty kl;ac to;fu gh;ug	10
 市场为导向	ui;wj ih;ty wz;dd dk;cs xd;pk	10
@@ -68163,6 +68169,7 @@ sort: by_weight
 为生活奋斗	wz;dd ug;na ho;du ff;dt db;du	10
 卫生间干区	wz;ga ug;na jm;mo gj;aa qu;ki	10
 卫生间洁具	wz;ga ug;na jm;mo jx;dj ju;ba	10
+卫生健康局	wz;ga ug;na jm;rj kh;gl ju;uk	10
 卫生间渗水	wz;ga ug;na jm;mo uf;dc uv;ad	10
 卫生间异味	wz;ga ug;na jm;mo yi;cs wz;kw	10
 卫生间浴室	wz;ga ug;na jm;mo yu;dg ui;bv	10
@@ -80684,6 +80691,7 @@ sort: by_weight
 银河号事件	yn;jg he;dk hk;kk ui;aa jm;rn	10
 银河机攻队	yn;jg he;dk ji;mj gs;wg dv;er	10
 银河级星舰	yn;jg he;dk ji;sj xy;ou jm;vj	10
+银河奇异果	yn;jg he;dk qi;dk yi;cs go;tm	10
 银河射电支	yn;jg he;dk ue;cu dm;ag vi;uy	10
 银河式算法	yn;jg he;dk ui;gy sr;vc fa;dq	10
 银河守护者	yn;jg he;dk ub;bc hu;fh ve;ol	10
@@ -81099,6 +81107,7 @@ sort: by_weight
 应激代谢物	yy;ga ji;dj dl;ry xx;yu wu;nw	10
 应季的水果	yy;ga ji;hz de;bu uv;ad go;tm	10
 鹰记电视台	yy;gn ji;yj dm;ag ui;ju tl;sk	10
+应急管理局	yy;ga ji;xi gr;vg li;wl ju;uk	10
 硬脊膜外的	yy;ug ji;od mo;om wl;xb de;bu	10
 英吉沙县人	yy;cy ji;ku ua;du xm;sq rf;pd	10
 英吉沙小刀	yy;cy ji;ku ua;du xc;ad dk;gp	10
@@ -87401,6 +87410,7 @@ sort: by_weight
 指尖输入法	vi;fv jm;xd uu;iy ru;pd fa;dq	10
 只见新人笑	vi;kb jm;ag xn;jq rf;pd xc;vy	10
 只见照片中	vi;kb jm;ag vk;hv pm;pa vs;aa	10
+之江实验室	vi;dd jd;dg ui;bt yj;ma ui;bv	10
 芷江天后宫	vi;cv jd;dg tm;ad hb;pk gs;bl	10
 知交半零落	vi;ku jc;li bj;bf ly;yl lo;cl	10
 酯交换反应	vi;yv jc;li hr;fh fj;py yy;ga	10
@@ -91034,7 +91044,7 @@ sort: by_weight
 纵纹腹小鸮	zs;sc wf;sw fu;of xc;ad xc;nh	10
 总武缓行线	zs;xk wu;vy hr;sy xy;xi xm;sj	10
 总武线缓行	zs;xk wu;vy xm;sj hr;sy xy;xi	10
-纵向放大率	zs;sc xd;pk fh;wf da;ad uy;wu	10
+纵向放大率	zs;sc xd;pk fh;wf da;ad lv;wu	10
 纵向分辨率	zs;sc xd;pk ff;bd bm;dx lv;wu	10
 纵向磨木法	zs;sc xd;pk mo;um mu;ad fa;dq	10
 纵向配筋率	zs;sc xd;pk pz;yj jn;vl lv;wu	10
@@ -94131,7 +94141,7 @@ sort: by_weight
 鼻部肿物切除	bi;zb bu;ek vs;ov wu;nw qx;dq iu;ey	10
 鼻侧压测量法	bi;zb ce;rz ya;id ce;dz ld;ol fa;dq	10
 壁橱里的怪物	bi;tb iu;mi li;aa de;bu gy;xu wu;nw	10
-鼻出血鼻填塞	bi;zb iu;aa xx;pa bi;zb tm;tv sl;tb	10
+鼻出血鼻填塞	bi;zb iu;aa xx;pa bi;zb tm;tv se;tb	10
 臂创作性切断	bi;ob id;dc zo;rv xy;xu qx;dq dr;ja	10
 彼此间的感情	bi;xp ci;vb jm;mo de;bu gj;xx qy;xq	10
 彼此心照不宣	bi;xp ci;vb xn;dd vk;hv bu;ad xr;bg	10
@@ -100695,7 +100705,7 @@ sort: by_weight
 钓鱼岛护岛者	dc;ju yu;da dk;nu hu;fh dk;nu ve;ol	10
 钓鱼翁郊游径	dc;ju yu;da wg;yg jc;ej yb;dz jy;xg	10
 铫子电气铁道	dc;jv zi;aa dm;ag qi;py tx;ju dk;zu	10
-蝶鞍脂肪填塞	dx;im an;ga vi;ov fh;of tm;tv sl;tb	10
+蝶鞍脂肪填塞	dx;im an;ga vi;ov fh;of tm;tv se;tb	10
 跌打扭伤灵酊	dx;zu da;fd nq;fi uh;rl ly;hx dy;yd	10
 叠氮化亚硝醯	dx;qb dj;qy hw;rb ya;ay xc;ux xi;ym	10
 喋喋不休的人	dx;km dx;km bu;ad xq;rm de;bu rf;pd	10
@@ -108355,7 +108365,6 @@ sort: by_weight
 合成酶复合物	he;rk ig;gg mz;ym fu;wo he;rk wu;nw	10
 合成认购期权	he;rk ig;gg rf;yr gb;bg qi;oq qr;my	10
 合成洗涤剂厂	he;rk ig;gg xi;dx di;dt ji;dq ih;ap	10
-和城乡建设局	he;hk ig;ti xd;ap jm;zy ue;yu ju;uk	10
 何称有德之人	he;rk ig;he yb;ou de;xx vi;dd rf;pd	10
 合成鱼腥草素	he;rk ig;gg yu;da xy;ox ck;cz su;sf	10
 褐翅叉尾海燕	he;yh ii;yv ia;yd wz;um hl;dm yj;ch	10
@@ -120547,7 +120556,7 @@ sort: by_weight
 你能原谅我吗	ni;re ng;sb yr;ix ld;yj wo;pd ma;km	10
 你能做得更多	ni;re ng;sb zo;rg de;xc gg;ad do;xx	10
 你能做得更好	ni;re ng;sb zo;rg de;xc gg;ad hk;nz	10
-倪妮和井柏然	ni;re ni;nn he;hk jy;aa bl;mb rj;hq	10
+倪妮和井柏然	ni;re ni;nn he;hk jy;aa bo;mb rj;hq	10
 你努力的样子	ni;re nu;ln li;gp de;bu yh;my zi;aa	10
 拟聘人员公示	ni;fy pn;ek rf;pd yr;kb gs;sb ui;ex	10
 你抢到票了吗	ni;re qd;fc dk;dv pc;xu le;aa ma;km	10
@@ -123036,7 +123045,7 @@ sort: by_weight
 清朝野史大观	qy;dq ik;ou ye;ly ui;ki da;ad gr;jy	10
 清朝直隶总督	qy;dq ik;ou vi;uq li;ad zs;xk du;ou	10
 清朝宗室爵位	qy;dq ik;ou zs;bu ui;bv jt;vc wz;rl	10
-清齿龈塞擦音	qy;dq ii;vk yn;ig sl;tb ca;fi yn;lo	10
+清齿龈塞擦音	qy;dq ii;vk yn;ig se;tb ca;fi yn;lo	10
 清除害群之马	qy;dq iu;ey hl;bk qp;yj vi;dd ma;aa	10
 清除记忆基因	qy;dq iu;ey ji;yj yi;xy ji;tq yn;kd	10
 清除精神污染	qy;dq iu;ey jy;mq uf;uu wu;dk rj;mg	10
@@ -123380,7 +123389,7 @@ sort: by_weight
 庆僖亲王永璘	qy;gd xi;rx qn;lm wh;aa ys;dd ln;wl	10
 清香白莲素素	qy;dq xd;ho bl;pa lm;cl su;sf su;sf	10
 情相依避孕套	qy;xq xd;mo yi;ry bi;zb yp;zn tk;di	10
-清小舌塞擦音	qy;dq xc;ad ue;kq sl;tb ca;fi yn;lo	10
+清小舌塞擦音	qy;dq xc;ad ue;kq se;tb ca;fi yn;lo	10
 清孝庄文皇后	qy;dq xc;zl vd;gt wf;wi hd;bw hb;pk	10
 清泻肝胆实火	qy;dq xx;dx gj;og dj;od ui;bt ho;dd	10
 倾斜式成形器	qy;rq xx;dy ui;gy ig;gg xy;pk qi;kk	10
@@ -126995,6 +127004,7 @@ sort: by_weight
 胜者即是正义	ug;ou ve;ol ji;eg ui;op vg;av yi;id	10
 生者传记方针	ug;na ve;ol vr;rv ji;yj fh;wd vf;ju	10
 省政法委书记	ug;ou vg;wv fa;dq wz;hn uu;ad ji;yj	10
+省政府办公厅	ug;ou vg;wv fu;gf bj;lb gs;sb ty;id	10
 生殖保健中心	ug;na vi;dv bk;rd jm;rj vs;aa xn;dd	10
 省直湖前小区	ug;ou vi;uq hu;dh qm;qd xc;ad qu;ki	10
 生殖健康保健	ug;na vi;dv jm;rj kh;gl bk;rd jm;rj	10
@@ -135871,6 +135881,7 @@ sort: by_weight
 消防安全整治	xc;dx fh;ef an;bn qr;rw vg;vi vi;dt	10
 消防电梯前室	xc;dx fh;ef dm;ag ti;md qm;qd ui;bv	10
 消防给水系统	xc;dx fh;ef ji;sh uv;ad xi;ps ts;si	10
+消防救援大队	xc;dx fh;ef jq;wq yr;fy da;ad dv;er	10
 消防救援支队	xc;dx fh;ef jq;wq yr;fy vi;uy dv;er	10
 消防软管接头	xc;dx fh;ef rr;iq gr;vg jx;fq tb;dd	10
 消防设施工程	xc;dx fh;ef ue;yu ui;fy gs;aa ig;hi	10
@@ -136323,7 +136334,7 @@ sort: by_weight
 信报财经新闻	xn;ry bk;fy cl;bc jy;sg xn;jq wf;em	10
 信报财经月刊	xn;ry bk;fy cl;bc jy;sg yt;pa kj;dg	10
 忻保高速公路	xn;xj bk;rd gk;wk su;zu gs;sb lu;zg	10
-心包压塞填塞	xn;dd bk;gs ya;id sl;tb tm;tv sl;tb	10
+心包压塞填塞	xn;dd bk;gs ya;id sl;tb tm;tv se;tb	10
 新编诸子集成	xn;jq bm;sb vu;yv zi;aa ji;vm ig;gg	10
 新表现新问题	xn;jq bc;fy xm;wj xn;jq wf;km ti;uy	10
 新柏拉图学派	xn;jq bo;mb la;fl tu;kd xt;zb pl;dp	10
@@ -137270,6 +137281,7 @@ sort: by_weight
 须弥福寿之庙	xu;py mi;ge fu;uf ub;cf vi;dd mc;gy	10
 徐明高速公路	xu;xy my;oo gk;wk su;zu gs;sb lu;zg	10
 须磨离宫公园	xu;py mo;um li;ws gs;bl gs;sb yr;ky	10
+畜牧产业发展	xu;tx mu;nw ij;wi ye;aa fa;ay vj;uy	10
 畜牧和灌溉部	xu;tx mu;nw he;hk gr;dv gl;dj bu;ek	10
 畜牧兽医学校	xu;tx mu;nw ub;ka yi;ku xt;zb xc;mj	10
 畜牧兽医学院	xu;tx mu;nw ub;ka yi;ku xt;zb yr;ew	10
@@ -140038,7 +140050,7 @@ sort: by_weight
 阴道闭锁切开	yn;eo dk;zu bi;mc so;jb qx;dq kl;ac	10
 阴道部分切除	yn;eo dk;zu bu;ek ff;bd qx;dq iu;ey	10
 阴道残端出血	yn;eo dk;zu cj;dj dr;le iu;aa xx;pa	10
-阴道产科填塞	yn;eo dk;zu ij;wi ke;hd tm;tv sl;tb	10
+阴道产科填塞	yn;eo dk;zu ij;wi ke;hd tm;tv se;tb	10
 阴道超探头套	yn;eo dk;zu ik;zv tj;fm tb;dd tk;di	10
 阴道发育不全	yn;eo dk;zu fa;ay yu;os bu;ad qr;rw	10
 阴道发育异常	yn;eo dk;zu fa;ay yu;os yi;cs ih;jk	10
@@ -141771,7 +141783,6 @@ sort: by_weight
 源康毛绒玩具	yr;dy kh;gl mk;pg rs;sr wj;wy ju;ba	10
 原口动物超门	yr;ix kb;aa ds;ly wu;nw ik;zv mf;dg	10
 缘来非诚勿扰	yr;st ll;am fz;aa ig;yi wu;gp rk;fy	10
-原来如此高校	yr;ix ll;am ru;nk ci;vb gk;wk xc;mj	10
 原来入射方向	yr;ix ll;am ru;pd ue;cu fh;wd xd;pk	10
 元老级的人物	yr;aw lk;lb ji;sj de;bu rf;pd wu;nw	10
 缘丽步甲亚族	yr;st li;ad bu;vx jw;aa ya;ay zu;fu	10
@@ -153894,6 +153905,7 @@ sort: by_weight
 非梗阻性青光眼	fz;aa gg;mg zu;eq xy;xu qy;of gd;ea yj;og	10
 菲贡二氏三角束	fz;cf gs;bg er;aa ui;pg sj;aa jc;dy uu;ad	10
 非共价相互作用	fz;aa gs;cb jw;rj xd;mo hu;aa zo;rv ys;kf	10
+非公经济发展局	fz;aa gs;sb jy;sg ji;dq fa;ay vj;uy ju;uk	10
 肺功能康复评定	fz;of gs;lg ng;sb kh;gl fu;wo py;yp dy;bp	10
 腓骨钢板不锈钢	fz;of gu;go gh;jg bj;mf bu;ad xq;jx gh;jg	10
 腓骨钢板钛合金	fz;of gu;go gh;jg bj;mf tl;jt he;rk jn;ra	10
@@ -157279,6 +157291,8 @@ sort: by_weight
 经过一年的努力	jy;sg go;zc yi;aa nm;ra de;bu nu;ln li;gp	10
 颈后纵韧带钙化	jy;yg hb;pk zs;sc rf;wr dl;jb gl;jg hw;rb	10
 经济的供应理念	jy;sg ji;dq de;bu gs;rg yy;ga li;wl nm;xj	10
+经济合作外事局	jy;sg ji;dq he;rk zo;rv wl;xb ui;aa ju;uk	10
+经济商务科技局	jy;sg ji;dq uh;wk wu;wl ke;hd ji;fv ju;uk	10
 经济下行的压力	jy;sg ji;dq xw;ab xy;xi de;bu ya;id li;gp	10
 精浆锌检测试剂	jy;mq jd;ux xn;jx jm;ma ce;dz ui;yu ji;dq	10
 经口鼻蝶窦入路	jy;sg kb;aa bi;zb dx;im db;xm ru;pd lu;zg	10
@@ -159885,6 +159899,7 @@ sort: by_weight
 推广新能源汽车	tv;fv gd;dp xn;jq ng;sb yr;dy qi;dq ie;aa	10
 推荐型髋关节柄	tv;fv jm;cc xy;tx kr;gk gr;qd jx;ce by;mb	10
 推进数字化转型	tv;fv jn;zj uu;wl zi;bz hw;rb vr;iv xy;tx	10
+退役军人事务局	tv;zg yi;xu jp;bi rf;pd ui;aa wu;wl ju;uk	10
 推之百世而不悖	tv;fv vi;dd bl;ab ui;ca er;aa bu;ad bz;xb	10
 托槽粘着定位器	to;fq ck;mc nm;mv vo;yo dy;bp wz;rl qi;kk	10
 托得西拉斯条约	to;fq de;xc xi;aa la;fl si;jq tc;wm yt;su	10
@@ -161690,6 +161705,7 @@ sort: by_weight
 自然也不会错过	zi;pa rj;hq ye;gg bu;ad hv;ry co;jx go;zc	10
 自然也不会放过	zi;pa rj;hq ye;gg bu;ad hv;ry fh;wf go;zc	10
 自然与人文景观	zi;pa rj;hq yu;aa rf;pd wf;wi jy;oj gr;jy	10
+自然资源规划局	zi;pa rj;hq zi;bc yr;dy gv;fj hw;dg ju;uk	10
 自三峡七百里中	zi;pa sj;aa xw;uj qi;ag bl;ab li;aa vs;aa	10
 自杀企图个人史	zi;pa ua;mi qi;rv tu;kd ge;ra rf;pd ui;ki	10
 自上而下的加工	zi;pa uh;aa er;aa xw;ab de;bu jw;lk gs;aa	10
@@ -161761,6 +161777,7 @@ sort: by_weight
 自由与受保护的	zi;pa yb;aa yu;aa ub;vy bk;rd hu;fh de;bu	10
 自由政府间主义	zi;pa yb;aa vg;wv fu;gf jm;mo vu;dw yi;id	10
 自由支配的时间	zi;pa yb;aa vi;uy pz;yj de;bu ui;oc jm;mo	10
+子欲养而亲不待	zi;aa yu;qg yh;ya er;aa qn;lm bu;ad dl;xs	10
 子欲养而亲不在	zi;aa yu;qg yh;ya er;aa qn;lm bu;ad zl;ut	10
 资源枯竭型城市	zi;bc yr;dy ku;mg jx;lh xy;tx ig;ti ui;wj	10
 自竹经系统反射	zi;pa vu;gg jy;sg xi;ps ts;si fj;py ue;cu	10
@@ -161850,6 +161867,8 @@ sort: by_weight
 作专题工作报告	zo;rv vr;ad ti;uy gs;aa zo;rv bk;fy gk;kn	10
 做自己该做的事	zo;rg zi;pa ji;ag gl;yh zo;rg de;bu ui;aa	10
 做最真实的自己	zo;rg zv;oq vf;uj ui;bt de;bu zi;pa ji;ag	10
+阿瓜斯卡连特斯州	aa;ek gw;pd si;jq ka;ub lm;zi te;ns si;jq vb;id	10
+阿寒摩周国立公园	aa;ek hj;bd mo;um vb;kt go;ky li;da gs;sb yr;ky	10
 阿拉伯联合酋长国	aa;ek la;fl bo;rb lm;eg he;rk qq;qa vh;pd go;ky	10
 安全是最大的效益	an;bn qr;rw ui;op zv;oq da;ad de;bu xc;wj yi;mb	10
 澳大利亚国立大学	ao;da da;ad li;hd ya;ay go;ky li;da da;ad xt;zb	10
@@ -162387,6 +162406,7 @@ sort: by_weight
 重要的事情说三遍	vs;pa yk;xn de;bu ui;aa qy;xq uo;yd sj;aa bm;zb	10
 周口店鱼化石产地	vb;kt kb;aa dm;gv yu;da hw;rb ui;kp ij;wi di;ty	10
 主动脉瓣关闭不全	vu;dw ds;ly ml;oy bj;gx gr;qd bi;mc bu;ad qr;rw	10
+住房和城乡建设局	vu;rv fh;hf he;hk ig;ti xd;ap jm;zy ue;yu ju;uk	10
 住房与城乡建设部	vu;rv fh;hf yu;aa ig;ti xd;ap jm;zy ue;yu bu;ek	1
 壮士一去兮不复返	vd;up ui;aa yi;aa qu;ts xi;bk bu;ad fu;wo fj;zf	10
 自己一步一个脚印	zi;pa ji;ag yi;aa bu;vx yi;aa ge;ra jc;oq yn;ey	10
@@ -162454,6 +162474,7 @@ sort: by_weight
 欧拉流体动力学方程	ou;qq la;fl lq;di ti;rb ds;ly li;gp xt;zb fh;wd ig;hi	10
 跑得了和尚跑不了庙	pk;zb de;xc lc;aa he;hk uh;xk pk;zb bu;ad lc;aa mc;gy	10
 贫穷限制了我的想象	pn;bf qs;xl xm;eg vi;dg le;aa wo;pd de;bu xd;xx xd;du	10
+人力资源社会保障局	rf;pd li;gp zi;bc yr;dy ue;ut hv;ry bk;rd vh;ev ju;uk	10
 弱水三千只取一瓢饮	ro;gd uv;ad sj;aa qm;pa vi;kb qu;ey yi;aa pc;gp yn;uq	10
 三道壕西汉村落遗址	sj;aa dk;zu hk;th xi;aa hj;dy cp;mc lo;cl yi;zg vi;tv	10
 双分子亲核取代反应	ud;yy ff;bd zi;aa qn;lm he;mh qu;ey dl;ry fj;py yy;ga	10

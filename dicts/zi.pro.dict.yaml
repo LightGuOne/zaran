@@ -2796,7 +2796,7 @@ sort: by_weight
 𩀞	ch;vc	1
 𩕹	ch;yc	1
 𩝞	ch;uc	1
-𫝉	ch;rk	1
+𫝉	ch;rj	1
 操	ck;fz	11521
 草	ck;cz	11290
 槽	ck;mc	3224
@@ -26923,12 +26923,12 @@ sort: by_weight
 片	pm;pa	59826
 偏	pm;rb	15400
 篇	pm;vb	15092
-便	pm;rg	14594
 骗	pm;mb	8829
+骈	pm;mb	5390
+便	pm;rg	4594
+谝	pm;yb	1351
 翩	pm;yb	566
-骈	pm;mb	390
 騙	pm;mb	357
-谝	pm;yb	351
 胼	pm;ob	333
 蹁	pm;zb	276
 犏	pm;nb	230
@@ -27523,6 +27523,7 @@ sort: by_weight
 器	qi;kk	19132
 齐	qi;wa	11441
 起	qi;zj	10868
+骑	qi;mq	9749
 祁	qi;eu	1946
 期	qi;oq	933
 戚	qi;gx	926
@@ -27532,7 +27533,6 @@ sort: by_weight
 启	qi;hk	811
 弃	qi;cs	799
 旗	qi;fq	767
-骑	qi;mq	749
 棋	qi;mq	746
 欺	qi;qq	727
 歧	qi;vv	645
@@ -45954,7 +45954,7 @@ sort: by_weight
 𨋘	va;iv	1
 𨡗	va;yq	1
 𨢦	va;yz	1
-𩃡	va;yj	1
+𩃡	va;ya	1
 𩃹	va;yj	1
 𩥠	va;mh	1
 𩩥	va;gm	1

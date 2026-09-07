@@ -5610,6 +5610,7 @@ sort: by_weight
 单衣伫立	dj;ba yi;dd vu;ra li;da	10
 但有江花	dj;rd yb;ou jd;dg hw;ch	10
 但远山长	dj;rd yr;zy uj;aa ih;pd	44
+淡月胧明	dj;dy yt;pa ls;ol my;oo	10
 淡月纱窗	dj;dy yt;pa ua;su id;xx	10
 淡月微波	dj;dy yt;pa wz;xw bo;dp	10
 淡之至也	dj;dy vi;dd vi;tv ye;gg	10
@@ -7218,6 +7219,7 @@ sort: by_weight
 好乐无荒	hk;nz le;pd wu;ag hd;ci	44
 好貌好音	hk;nz mk;ve hk;nz yn;lo	10
 好梦惊回	hk;nz mg;mx jy;xj hv;kk	44
+好梦频惊	hk;nz mg;mx pn;yb jy;xj	10
 号菩萨僧	hk;kk pu;ck sa;ci sg;rc	10
 好洽昆弟	hk;nz qw;dh kp;ob di;bp	10
 皓然洁素	hk;bg rj;hq jx;dj su;sf	10
@@ -34624,7 +34626,7 @@ sort: by_weight
 城郭遥相望	ig;ti go;ex yk;zf xd;mo wh;wo	10
 城郭一时非	ig;ti go;ex yi;aa ui;oc fz;aa	10
 城郭亦在眼	ig;ti go;ex yi;wb zl;ut yj;og	10
-城郭犹疑是	ig;ti go;ex yb;qy ni;bp ui;op	10
+城郭犹疑是	ig;ti go;ex yb;qy yi;bp ui;op	10
 城郭终何事	ig;ti go;ex vs;sd he;rk ui;aa	10
 赪汗类尘红	ig;iv hj;dg lz;md if;tx hs;sg	10
 承汗领巾红	ig;ad hj;dg ly;yl jn;aa hs;sg	10
@@ -36289,9 +36291,6 @@ sort: by_weight
 宠极爱还歇	is;bl ji;mj ai;vy hl;zb xx;qh	10
 充饥忆楚萍	is;wy ji;uj yi;xy iu;mp py;cp	10
 宠极萸房遍	is;bl ji;mj yu;cy fh;hf bm;zb	10
-重价求山鸡	is;pa jw;rj qq;ad uj;aa ji;ny	10
-重价蕴琼瑶	is;pa jw;rj yp;cm qs;wj yk;wf	10
-重价折角巾	is;pa jw;rj ve;fj jc;dy jn;aa	10
 重见帝城春	is;pa jm;ag di;jb ig;ti ip;of	10
 宠饯纷郊道	is;bl jm;uj ff;sf jc;ej dk;zu	10
 宠饯集文人	is;bl jm;uj ji;vm wf;wi rf;pd	10
@@ -78138,7 +78137,7 @@ sort: by_weight
 怀禄尚迟留	hy;xb lu;ul uh;xk ii;zi lq;td	10
 怀禄未能已	hy;xb lu;ul wz;ex ng;sb yi;vg	10
 槐落宫中影	hy;mg lo;cl gs;bl vs;aa yy;pj	10
-槐落犹疑市	hy;mg lo;cl yb;qy ni;bp ui;wj	10
+槐落犹疑市	hy;mg lo;cl yb;qy yi;bp ui;wj	10
 怀律操剽轻	hy;xb lv;xy ck;fz pc;dp qy;ig	10
 怀迷邦之宝	hy;xb mi;zm bh;ef vi;dd bk;by	10
 怀民亦未寝	hy;xb mn;ag yi;wb wz;ex qn;by	10
@@ -153369,8 +153368,8 @@ sort: by_weight
 倏忽遗世间	uu;rq hu;xw yi;zg ui;ca jm;mo	10
 倏忽阴晴异	uu;rq hu;xw yn;eo qy;oq yi;cs	10
 倏忽又春华	uu;rq hu;xw yb;vd ip;of hw;uh	10
-倏忽犹疑及	uu;rq hu;xw yb;qy ni;bp ji;nd	10
 倏忽又青春	uu;rq hu;xw yb;vd qy;of ip;of	10
+倏忽犹疑及	uu;rq hu;xw yb;qy yi;bp ji;nd	10
 倏忽值云雷	uu;rq hu;xw vi;rv yp;es lz;yt	10
 殊化被江湘	uu;dv hw;rb bz;yp jd;dg xd;dx	10
 曙华分碣石	uu;ou hw;uh ff;bd jx;uh ui;kp	10
@@ -156944,8 +156943,8 @@ sort: by_weight
 水竹数家连	uv;ad vu;gg uu;wl jw;bu lm;zi	10
 水竹谁家宅	uv;ad vu;gg uv;yv jw;bu vl;bq	10
 水竹以为质	uv;ad vu;gg yi;rd wz;dd vi;bu	10
-水渚犹疑雪	uv;ad vu;dv yb;qy ni;bp xt;yx	10
 水竹幽闲地	uv;ad vu;gg yb;uy xm;mm di;ty	10
+水渚犹疑雪	uv;ad vu;dv yb;qy yi;bp xt;yx	10
 水状龙萦盘	uv;ad vd;qp ls;ad yy;cs pj;mv	10
 水浊不见月	uv;ad vo;di bu;ad jm;ag yt;pa	10
 水浊不可饮	uv;ad vo;di bu;ad ke;dk yn;uq	10
@@ -208348,20 +208347,8 @@ sort: by_weight
 犹能使我思	yb;qy ng;sb ui;rl wo;pd si;xt	10
 犹能远送人	yb;qy ng;sb yr;zy ss;zg rf;pd	10
 犹能整笔阵	yb;qy ng;sb vg;vi bi;vm vf;ei	10
-犹疑大漠秋	yb;qy ni;bp da;ad mo;dm qq;hh	10
-犹疑黛色中	yb;qy ni;bp dl;hd se;db vs;aa	10
-犹疑帝轩辕	yb;qy ni;bp di;jb xr;ig yr;iy	10
-犹疑林下逢	yb;qy ni;bp ln;mm xw;ab fg;zf	10
-犹疑上柏台	yb;qy ni;bp uh;aa bl;mb tl;sk	10
-犹疑水镜悬	yb;qy ni;bp uv;ad jy;jj xr;xx	10
-犹疑望可见	yb;qy ni;bp wh;wo ke;dk jm;ag	10
 犹拟为挥斤	yb;qy ni;fy wz;dd hv;fj jn;pa	10
-犹疑下濑师	yb;qy ni;bp xw;ab ll;dl ui;ab	10
-犹疑在波涛	yb;qy ni;bp zl;ut bo;dp tk;du	10
-犹疑在深处	yb;qy ni;bp zl;ut uf;dm iu;wb	10
-犹疑在吴都	yb;qy ni;bp zl;ut wu;kt du;ev	10
 又拟战临洮	yb;vd ni;fy vj;gv ln;ao tk;dv	10
-犹疑照颜色	yb;qy ni;bp vk;hv yj;yy se;db	10
 犹念长云中	yb;qy nm;xj ih;pd yp;es vs;aa	10
 犹念代劳功	yb;qy nm;xj dl;ry lk;lb gs;lg	10
 忧念两消释	yb;xy nm;xj ld;ad xc;dx ui;pf	10
@@ -209491,9 +209478,12 @@ sort: by_weight
 犹意采莲歌	yb;qy yi;xy cl;vm lm;cl ge;qg	10
 幽意长郁蒸	yb;uy yi;xy ih;pd yu;ey vg;hv	10
 尤宜春水满	yb;ad yi;bq ip;of uv;ad mj;dl	10
+犹疑大漠秋	yb;qy yi;bp da;ad mo;dm qq;hh	10
 有意待人归	yb;ou yi;xy dl;xs rf;pd gv;ax	10
+犹疑黛色中	yb;qy yi;bp dl;hd se;db vs;aa	10
 幽异当轩满	yb;uy yi;cs dh;xx xr;ig mj;dl	10
 有异登临赏	yb;ou yi;cs dg;dd ln;ao uh;bk	10
+犹疑帝轩辕	yb;qy yi;bp di;jb xr;ig yr;iy	10
 犹忆东溪里	yb;qy yi;xy ds;ad xi;dx li;aa	10
 有一而未形	yb;ou yi;aa er;aa wz;ex xy;pk	10
 幽抑方成疾	yb;uy yi;fe fh;wd ig;gg ji;bu	10
@@ -209516,6 +209506,7 @@ sort: by_weight
 有毅力者成	yb;ou yi;uu li;gp ve;ol ig;gg	10
 有意怜衰丑	yb;ou yi;xy lm;xl uy;yv ib;aa	10
 有意莲叶间	yb;ou yi;xy lm;cl ye;ku jm;mo	10
+犹疑林下逢	yb;qy yi;bp ln;mm xw;ab fg;zf	10
 犹忆灵台友	yb;qy yi;xy ly;hx tl;sk yb;yu	10
 有意留连我	yb;ou yi;xy lq;td lm;zi wo;pd	10
 幽意满前楹	yb;uy yi;xy mj;dl qm;qd yy;my	10
@@ -209528,10 +209519,12 @@ sort: by_weight
 有意求蝉蜕	yb;ou yi;xy qq;ad ij;id tv;id	10
 幽意日尘埃	yb;uy yi;xy ri;aa if;tx ai;tu	10
 有一日之长	yb;ou yi;aa ri;aa vi;dd ih;pd	10
+犹疑上柏台	yb;qy yi;bp uh;aa bl;mb tl;sk	10
 幽意赏难尽	yb;uy yi;xy uh;bk nj;vy jn;id	10
 尤异是龙脊	yb;ad yi;cs ui;op ls;ad ji;od	10
 又以诗入词	yb;vd yi;rd ui;ys ru;pd ci;ys	10
 犹依数株柳	yb;qy yi;ry uu;wl vu;mv lq;mm	10
+犹疑水镜悬	yb;qy yi;bp uv;ad jy;jj xr;xx	10
 又以思明哲	yb;vd yi;rd si;xt my;oo ve;kv	10
 幽宜松雨滴	yb;uy yi;bq ss;mg yu;ad di;dd	10
 幽意随登陟	yb;uy yi;xy sv;ey dg;dd vi;eb	10
@@ -209540,8 +209533,10 @@ sort: by_weight
 有一田舍翁	yb;ou yi;aa tm;aa ue;ru wg;yg	10
 尤宜听三乐	yb;ad yi;bq ty;kj sj;aa le;pd	10
 有以忘饥寒	yb;ou yi;rd wh;xw ji;uj hj;bd	10
+犹疑望可见	yb;qy yi;bp wh;wo ke;dk jm;ag	10
 有亦未易识	yb;ou yi;wb wz;ex yi;ow ui;yv	10
 幽意无断绝	yb;uy yi;xy wu;ag dr;ja jt;ss	10
+犹疑下濑师	yb;qy yi;bp xw;ab ll;dl ui;ab	10
 犹忆下帘时	yb;qy yi;xy xw;ab lm;xj ui;oc	10
 有意嫌兵部	yb;ou yi;xy xm;nj by;qb bu;ek	10
 有以相应也	yb;ou yi;rd xd;mo yy;ga ye;gg	10
@@ -209557,8 +209552,12 @@ sort: by_weight
 有意与春竞	yb;ou yi;xy yu;aa ip;of jy;lx	10
 有一于此事	yb;ou yi;aa yu;aa ci;vb ui;aa	10
 有一愚夫人	yb;ou yi;aa yu;xy fu;ad rf;pd	10
+犹疑在波涛	yb;qy yi;bp zl;ut bo;dp tk;du	10
 有意在独往	yb;ou yi;xy zl;ut du;qi wh;xv	10
 幽意在鸣琴	yb;uy yi;xy zl;ut my;kn qn;wj	10
+犹疑在深处	yb;qy yi;bp zl;ut uf;dm iu;wb	10
+犹疑在吴都	yb;qy yi;bp zl;ut wu;kt du;ev	10
+犹疑照颜色	yb;qy yi;bp vk;hv yj;yy se;db	10
 幽意正如此	yb;uy yi;xy vg;av ru;nk ci;vb	10
 有以知其然	yb;ou yi;rd vi;ku qi;ba rj;hq	10
 犹益之於夏	yb;qy yi;mb vi;dd yu;fd xw;wz	10
@@ -224024,6 +224023,9 @@ sort: by_weight
 终冀作良臣	vs;sd ji;bg zo;rv ld;dg if;aa	10
 衷甲避戈矛	vs;wy jw;aa bi;zb ge;ad mk;sp	10
 终贾年方妙	vs;sd jw;bx nm;ra fh;wd mc;nu	10
+重价求山鸡	vs;pa jw;rj qq;ad uj;aa ji;ny	10
+重价蕴琼瑶	vs;pa jw;rj yp;cm qs;wj yk;wf	10
+重价折角巾	vs;pa jw;rj ve;fj jc;dy jn;aa	10
 中间不得意	vs;aa jm;mo bu;ad de;xc yi;xy	10
 中坚分暗阵	vs;aa jm;ty ff;bd an;oy vf;ei	10
 中间复何有	vs;aa jm;mo fu;wo he;rk yb;ou	10
@@ -235112,7 +235114,7 @@ sort: by_weight
 慕宗悫之长风	mu;xm zs;bu qt;xk vi;dd ih;pd fg;ji	10
 木钻漫钻磐石	mu;ad zr;jv mj;dm zr;jv pj;ub ui;kp	10
 哪个虫儿敢作	na;kn ge;ra is;ad er;pg gj;we zo;rv	10
-那更乱蛩悲咽	na;el gg;ad lr;ug qs;ig bz;xf yj;ky	10
+那更乱蛩悲咽	na;el gg;ad lr;ug qs;ig bz;xf ye;ky	10
 那堪更被明月	na;el kj;tu gg;ad bz;yp my;oo yt;pa	10
 那堪更寄书说	na;el kj;tu gg;ad ji;bq uu;ad uo;yd	10
 那识当时神禹	na;el ui;yv dh;xx ui;oc uf;uu yu;pd	10
@@ -243126,7 +243128,7 @@ sort: by_weight
 步步相携不觉难	bu;vx bu;vx xd;mo xx;fj bu;ad jt;jb nj;vy	10
 步步行寻陶令家	bu;vx bu;vx xy;xi xp;cx tk;et ly;rs jw;bu	10
 步步寻花到杏坛	bu;vx bu;vx xp;cx hw;ch dk;dv xy;mk tj;ty	10
-步步犹疑是梦中	bu;vx bu;vx yb;qy ni;bp ui;op mg;mx vs;aa	10
+步步犹疑是梦中	bu;vx bu;vx yb;qy yi;bp ui;op mg;mx vs;aa	10
 不才何以助精禋	bu;ad cl;ap he;rk yi;rd vu;lq jy;mq yn;ut	10
 不才羞作等闲来	bu;ad cl;ap xq;yi zo;rv dg;vs xm;mm ll;am	10
 不惭弄玉骑丹凤	bu;ad cj;xv ns;cw yu;wd qi;mq dj;pd fg;jy	10
@@ -248248,7 +248250,7 @@ sort: by_weight
 初平群羊置莫问	iu;yd py;aa qp;yj yh;da vi;sv mo;cd wf;km	10
 樗蒱百金每一掷	iu;mk pu;cb bl;ab jn;ra mz;rm yi;aa vi;fv	10
 樗蒲黄昏唤烧烛	iu;mk pu;cp hd;cb hp;ou hr;kh uk;hy vu;hi	10
-初起犹疑在床上	iu;yd qi;zj yb;qy ni;bp zl;ut id;gm uh;aa	10
+初起犹疑在床上	iu;yd qi;zj yb;qy yi;bp zl;ut id;gm uh;aa	10
 初遣越巫沉白马	iu;yd qm;zg yt;zy wu;gc if;dj bl;pa ma;aa	10
 初晴草蔓缘新笋	iu;yd qy;oq ck;cz mj;cm yr;st xn;jq sp;vy	10
 初晴一半隔云看	iu;yd qy;oq yi;aa bj;bf ge;eg yp;es kj;ou	10
@@ -250927,7 +250929,7 @@ sort: by_weight
 大隐本来无境界	da;ad yn;ej bf;aa ll;am wu;ag jy;tj jx;tj	10
 大隐何曾弃簪组	da;ad yn;ej he;rk cg;ob qi;cs zj;vo zu;sq	10
 大隐金门是谪仙	da;ad yn;ej jn;ra mf;dg ui;op ve;yd xm;ru	10
-大隐犹疑恋朝市	da;ad yn;ej yb;qy ni;bp lm;xy ik;ou ui;wj	10
+大隐犹疑恋朝市	da;ad yn;ej yb;qy yi;bp lm;xy ik;ou ui;wj	10
 大有高门锁宽宅	da;ad yb;ou gk;wk mf;dg so;jb kr;bj vl;bq	10
 答友人赠乌纱帽	da;vh yb;yu rf;pd zg;bc wu;pa ua;su mk;jm	10
 大鱼惊窜如奔狐	da;ad yu;da jy;xj cr;xi ru;nk bf;dc hu;qg	10
@@ -262638,6 +262640,7 @@ sort: by_weight
 何处风光不眼前	he;rk iu;wb fg;ji gd;ea bu;ad yj;og qm;qd	10
 何处风光最可怜	he;rk iu;wb fg;ji gd;ea zv;oq ke;dk lm;xl	10
 何处拂胸资蝶粉	he;rk iu;wb fu;ff xs;ox zi;bc dx;im ff;mf	10
+何处高楼雁一声	he;rk iu;wb gk;wk lb;ml yj;iv yi;aa ug;um	10
 何处更能分道路	he;rk iu;wb gg;ad ng;sb ff;bd dk;zu lu;zg	10
 何处更求回日驭	he;rk iu;wb gg;ad qq;ad hv;kk ri;aa yu;my	10
 何处共伤离别心	he;rk iu;wb gs;cb uh;rl li;ws bx;dl xn;dd	10
@@ -267484,7 +267487,7 @@ sort: by_weight
 积雪未放游尘兴	ji;hv xt;yx wz;ex fh;wf yb;dz if;tx xy;ba	10
 急雪乍翻香阁絮	ji;xi xt;yx va;pa fj;yf xd;ho ge;mg xu;sr	10
 记巡传把一枝花	ji;yj xp;zi ir;rv ba;fb yi;aa vi;mv hw;ch	10
-即寻湓水去犹疑	ji;eg xp;cx pf;dp uv;ad qu;ts yb;qy ni;bp	10
+即寻湓水去犹疑	ji;eg xp;cx pf;dp uv;ad qu;ts yb;qy yi;bp	10
 鸡鸭成群晚不收	ji;ny ya;nj ig;gg qp;yj wj;om bu;ad ub;wj	10
 寄言痴小人家女	ji;bq yj;wk ii;bv xc;ad rf;pd jw;bu nv;aa	10
 羁雁出塞绕黄云	ji;sm yj;iv iu;aa sl;tb rk;sy hd;cb yp;es	10
@@ -275840,6 +275843,7 @@ sort: by_weight
 泪弹不尽临窗滴	lz;do dj;gd bu;ad jn;id ln;ao id;xx di;dd	10
 羸得子长天下游	lz;dd de;xc zi;aa ih;pd tm;ad xw;ab yb;dz	10
 泪滴白苹君不见	lz;do di;dd bl;pa py;cp jp;ky bu;ad jm;ag	10
+泪滴春衫酒易醒	lz;do di;dd ip;of uj;yp jq;dy yi;ow xy;yx	10
 泪滴秋山入寿宫	lz;do di;dd qq;hh uj;aa ru;pd ub;cf gs;bl	10
 泪滴先皇阶下土	lz;do di;dd xm;ne hd;bw jx;ej xw;ab tu;aa	10
 泪滴闲阶长绿苔	lz;do di;dd xm;mm jx;ej ih;pd lv;sl tl;ct	10
@@ -295089,7 +295093,7 @@ sort: by_weight
 深宫高楼入紫清	uf;dm gs;bl gk;wk lb;ml ru;pd zi;sc qy;dq	10
 深宫寂历厌层城	uf;dm gs;bl ji;bu li;il yj;qi cg;uy ig;ti	10
 神工妙技帝所收	uf;uu gs;aa mc;nu ji;fv di;jb so;hj ub;wj	10
-深宫锁闭犹疑惑	uf;dm gs;bl so;jb bi;mc yb;qy ni;bp ho;xh	10
+深宫锁闭犹疑惑	uf;dm gs;bl so;jb bi;mc yb;qy yi;bp ho;xh	10
 深宫桃李花成雪	uf;dm gs;bl tk;mv li;mz hw;ch ig;gg xt;yx	10
 深宫无人春日长	uf;dm gs;bl wu;ag rf;pd ip;of ri;aa ih;pd	10
 深宫坐愁百年身	uf;dm gs;bl zo;tc ib;xq bl;ab nm;ra uf;pp	10
@@ -296190,6 +296194,7 @@ sort: by_weight
 石关犹驻五云车	ui;kp gr;qd yb;qy vu;mv wu;aa yp;es ie;aa	10
 时光人事随年改	ui;oc gd;ea rf;pd ui;aa sv;ey nm;ra gl;wj	10
 时光早晚到天涯	ui;oc gd;ea zk;ou wj;om dk;dv tm;ad ya;dy	10
+时光只解催人老	ui;oc gd;ea vi;kb jx;jn cv;rc rf;pd lk;lb	10
 时过宝地寻香径	ui;oc go;zc bk;by di;ty xp;cx xd;ho jy;xg	10
 试裹春芽来就煎	ui;yu go;wy ip;of ya;cy ll;am jq;yj jm;hq	10
 石过桥下书曾受	ui;kp go;zc qc;mq xw;ab uu;ad cg;ob ub;vy	10
@@ -308466,6 +308471,7 @@ sort: by_weight
 梧桐叶下黄金井	wu;mw ts;mt ye;ku xw;ab hd;cb jn;ra jy;aa	10
 梧桐应恨夜来霜	wu;mw ts;mt yy;ga hf;xg ye;wd ll;am ud;yx	10
 梧桐坠叶捣衣催	wu;mw ts;mt vv;td ye;ku dk;fd yi;dd cv;rc	10
+梧桐昨夜西风急	wu;mw ts;mt zo;ov ye;wd xi;aa fg;ji ji;xi	10
 舞头当拍第三声	wu;rf tb;dd dh;xx pl;fb di;vp sj;aa ug;um	10
 乌头虽黑有白时	wu;pa tb;dd sv;ki hz;ha yb;ou bl;pa ui;oc	10
 乌头未变我何如	wu;pa tb;dd wz;ex bm;wy wo;pd he;rk ru;nk	10
@@ -311651,7 +311657,7 @@ sort: by_weight
 小洞庭兮牵方舟	xc;ad ds;dt ty;gt xi;bk qm;nb fh;wd vb;pd	10
 小队戎衣自出城	xc;ad dv;er rs;gu yi;dd zi;pa iu;aa ig;ti	10
 笑而不答心自闲	xc;vy er;aa bu;ad da;vh xn;dd zi;pa xm;mm	10
-小儿不信犹疑错	xc;ad er;pg bu;ad xn;ry yb;qy ni;bp co;jx	10
+小儿不信犹疑错	xc;ad er;pg bu;ad xn;ry yb;qy yi;bp co;jx	10
 小儿得褌不索襦	xc;ad er;pg de;xc kp;yj bu;ad so;sb ru;yx	10
 小儿骨相能文字	xc;ad er;pg gu;go xd;mo ng;sb wf;wi zi;bz	10
 小儿归去须读之	xc;ad er;pg gv;ax qu;ts xu;py du;ym vi;dd	10
@@ -316814,7 +316820,7 @@ sort: by_weight
 一半生男为汉语	yi;aa bj;bf ug;na nj;tl wz;dd hj;dy yu;yw	10
 一斑我亦愧真长	yi;aa bj;ww wo;pd yi;wb kv;xg vf;uj ih;pd	10
 一半已入姜盐煎	yi;aa bj;bf yi;vg ru;pd jd;ny yj;mb jm;hq	10
-一半犹疑梦里行	yi;aa bj;bf yb;qy ni;bp mg;mx li;aa xy;xi	10
+一半犹疑梦里行	yi;aa bj;bf yb;qy yi;bp mg;mx li;aa xy;xi	10
 一半云霄一半沉	yi;aa bj;bf yp;es xc;yx yi;aa bj;bf if;dj	10
 一半征帆浪花湿	yi;aa bj;bf vg;xv fj;jf lh;dl hw;ch ui;dx	10
 一半珠帘挂玉钩	yi;aa bj;bf vu;wv lm;xj gw;fg yu;wd gb;jg	10
@@ -320909,13 +320915,6 @@ sort: by_weight
 有能行者知纪纲	yb;ou ng;sb xy;xi ve;ol vi;ku ji;sj gh;sg	10
 犹能夜夜气冲天	yb;qy ng;sb ye;wd ye;wd qi;py is;dv tm;ad	10
 有能蓺事便白首	yb;ou ng;sb yi;cw ui;aa bm;rg bl;pa ub;qz	10
-犹疑甫里英灵在	yb;qy ni;bp fu;ad li;aa yy;cy ly;hx zl;ut	10
-犹疑琴曲洞房间	yb;qy ni;bp qn;wj qu;aa ds;dt fh;hf jm;mo	10
-犹疑琴曲韵南薰	yb;qy ni;bp qn;wj qu;aa yp;yy nj;ua xp;cx	10
-犹疑蜀魄千年恨	yb;qy ni;bp uu;si po;gb qm;pa nm;ra hf;xg	10
-犹疑王母不相许	yb;qy ni;bp wh;aa mu;vd bu;ad xd;mo xu;yw	10
-犹疑一半作神仙	yb;qy ni;bp yi;aa bj;bf zo;rv uf;uu xm;ru	10
-犹疑只在屋东西	yb;qy ni;bp vi;kb zl;ut wu;uv ds;ad xi;aa	10
 犹念悲秋更分赐	yb;qy nm;xj bz;xf qq;hh gg;ad ff;bd ci;by	10
 忧念公家眉不开	yb;xy nm;xj gs;sb jw;bu mz;om bu;ad kl;ac	10
 犹念天涯未归客	yb;qy nm;xj tm;ad ya;dy wz;ex gv;ax ke;bg	10
@@ -321343,21 +321342,28 @@ sort: by_weight
 又疑丹穴九雏惊	yb;vd yi;bp dj;pd xt;bb jq;py iu;iv jy;xj	10
 又疑钓脱任公钩	yb;vd yi;bp dc;ju to;od rf;rr gs;sb gb;jg	10
 游依二室成三友	yb;dz yi;ry er;aa ui;bv ig;gg sj;aa yb;yu	10
+犹疑甫里英灵在	yb;qy yi;bp fu;ad li;aa yy;cy ly;hx zl;ut	10
 有意盖覆天下穷	yb;ou yi;xy gl;my fu;xf tm;ad xw;ab qs;xl	10
 有意江鸥傍草堂	yb;ou yi;xy jd;dg ou;nq bh;rp ck;cz th;tk	10
 犹忆洛阳千树花	yb;qy yi;xy lo;dg yh;eo qm;pa uu;md hw;ch	10
 有一迁客登高楼	yb;ou yi;aa qm;zq ke;bg dg;dd gk;wk lb;ml	10
+犹疑琴曲洞房间	yb;qy yi;bp qn;wj qu;aa ds;dt fh;hf jm;mo	10
+犹疑琴曲韵南薰	yb;qy yi;bp qn;wj qu;aa yp;yy nj;ua xp;cx	10
 又疑曲渚前年雪	yb;vd yi;bp qu;aa vu;dv qm;qd nm;ra xt;yx	10
 有翼劝尔升九天	yb;ou yi;yg qr;ly er;dx ug;pc jq;py tm;ad	10
 有一人兮神之侧	yb;ou yi;aa rf;pd xi;bk uf;uu vi;dd ce;rz	10
 有一人兮升紫霞	yb;ou yi;aa rf;pd xi;bk ug;pc zi;sc xw;yj	10
 犹忆笙歌昨夜欢	yb;qy yi;xy ug;vu ge;qg zo;ov ye;wd hr;qy	10
+犹疑蜀魄千年恨	yb;qy yi;bp uu;si po;gb qm;pa nm;ra hf;xg	10
 犹以岁寒心相待	yb;qy yi;rd sv;ux hj;bd xn;dd xd;mo dl;xs	10
+犹疑王母不相许	yb;qy yi;bp wh;aa mu;vd bu;ad xd;mo xu;yw	10
 犹倚危亭欲下迟	yb;qy yi;rq wz;de ty;wd yu;qg xw;ab ii;zi	10
 有意西寻白下亭	yb;ou yi;xy xi;aa xp;cx bl;pa xw;ab ty;wd	10
 又一夜西风吹折	yb;vd yi;aa ye;wd xi;aa fg;ji iv;kq ve;fj	10
+犹疑一半作神仙	yb;qy yi;bp yi;aa bj;bf zo;rv uf;uu xm;ru	10
 犹倚营门数雁行	yb;qy yi;rq yy;cl mf;dg uu;wl yj;iv hh;xi	10
 有一征夫年七十	yb;ou yi;aa vg;xv fu;ad nm;ra qi;ag ui;aa	10
+犹疑只在屋东西	yb;qy yi;bp vi;kb zl;ut wu;uv ds;ad xi;aa	10
 有一众生发大心	yb;ou yi;aa vs;rc ug;na fa;ay da;ad xn;dd	10
 有一众生起圆觉	yb;ou yi;aa vs;rc ug;na qi;zj yr;ky jt;jb	10
 有一众生圆正觉	yb;ou yi;aa vs;rc ug;na yr;ky vg;av jt;jb	10
@@ -323689,7 +323695,7 @@ sort: by_weight
 猿猱闻鼓不须呼	yr;qy nk;qr wf;em gu;vd bu;ad xu;py hu;kh	10
 猿猱欲度愁攀援	yr;qy nk;qr yu;qg du;gy ib;xq pj;ud yr;fy	10
 猿鸟无声郡宇宽	yr;qy nc;pa wu;ag ug;um jp;ej yu;by kr;bj	10
-猿鸟犹疑畏简书	yr;qy nc;pa yb;qy ni;bp wz;ty jm;vj uu;ad	10
+猿鸟犹疑畏简书	yr;qy nc;pa yb;qy yi;bp wz;ty jm;vj uu;ad	10
 怨女三千放出宫	yr;xe nv;aa sj;aa qm;pa fh;wf iu;aa gs;bl	10
 猿攀树立啼何苦	yr;qy pj;ud uu;md li;da ti;kd he;rk ku;cg	10
 愿陪阊阖侍天文	yr;xy pz;ek ih;mi he;mh ui;rs tm;ad wf;wi	10
@@ -330861,7 +330867,7 @@ sort: by_weight
 醉后无心怯路歧	zv;yz hb;pk wu;ag xn;dd qx;xq lu;zg qi;vv	10
 醉后焉知世上情	zv;yz hb;pk yj;vh vi;ku ui;ca uh;aa qy;xq	10
 最后一匹马中龙	zv;oq hb;pk yi;aa pi;ke ma;aa vs;aa ls;ad	10
-醉后犹疑边草白	zv;yz hb;pk yb;qy ni;bp bm;zl ck;cz bl;pa	10
+醉后犹疑边草白	zv;yz hb;pk yb;qy yi;bp bm;zl ck;cz bl;pa	10
 醉后赠从甥高镇	zv;yz hb;pk zg;bc cs;rr ug;un gk;wk vf;jv	10
 醉呼红烛更传杯	zv;yz hu;kh hs;sg vu;hi gg;ad ir;rv bz;mb	10
 醉呼妙舞留连夜	zv;yz hu;kh mc;nu wu;rf lq;td lm;zi ye;wd	10
