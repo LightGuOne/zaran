@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023-2026 ksqsf
 --
--- Ver: 0.4.0
+-- Ver: 0.4.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.4.1: 修復 aux_table 格式未適配問題。
 --
 -- 0.4.0: 適配多字詞重排。
 --
@@ -13,6 +15,9 @@
 -- 0.2.0: 若開啓 inject_fixed_words ，則提示長詞
 --
 -- 0.1.0: 合併原 moran_aux_hint 和 moran_quick_code_hint
+--
+-- 以下是zaran修改内容
+-- 1. 简码只取最短路径
 --
 local moran = require("moran")
 local Module = {}
@@ -75,7 +80,7 @@ function Module.get_auxcode_hint(env, cand, gcand)
         for i, cp in moran.codepoints(gcand.text) do
             local cpaux = env.aux_table[cp]
             if cpaux and #cpaux > 0 then
-                cpaux = cpaux:match("^[a-z]+")  -- 取第一个
+                cpaux = cpaux:match("[a-z]+")  -- 取第一个
                 if result == "" then
                     result = cpaux
                 else
@@ -107,22 +112,18 @@ function Module.get_quickcode_hint(env, cand, gcand)
     if not all_codes then
         return nil
     end
-    
-    -- ========== 核心修改：最短简码逻辑 ==========
+    -- ========== zaran 修改 1：最短简码逻辑 ==========
     local in_use = false
-    -- local current_input = cand.preedit or ""
-    local current_input = cand.preedit:gsub("%s", "") or ""
+    local current_input = (cand.preedit or ""):gsub("%s", "")
     local current_len = #current_input
-    -- 初始化最短码变量
     local shortest_code = nil
     local shortest_length = 99
-    
     for code in all_codes:gmatch("%S+") do
         if #code < 4 or (env.inject_fixed_words and len >= 3) then
             if code == current_input then
                 in_use = true
             elseif #code < current_len then
-                -- 寻找最短的简码
+                -- 寻找比当前输入短的最短简码
                 if #code < shortest_length then
                     shortest_length = #code
                     shortest_code = code
@@ -130,13 +131,10 @@ function Module.get_quickcode_hint(env, cand, gcand)
             end
         end
     end
-    
     if shortest_code then
-        return shortest_code  -- 只返回最短的一个
+        return shortest_code
     end
-    -- ========== 核心修改结束 ==========
-    
-    -- 如果没有找到符合条件的简码，则返回 nil
+    -- ========== zaran 修改 1 结束 ==========
     return nil
 end
 
@@ -148,7 +146,7 @@ function Module.func(translation, env)
         return
     end
 
-    local major_sep = "¦"
+    local major_sep = " "
     local minor_sep = env.quick_code_hint_indicator
     if #minor_sep == 0 then
         minor_sep = major_sep
@@ -187,8 +185,7 @@ function Module.func(translation, env)
                 -- 已有 sep ，不再加
                 gcand.comment = gcand.comment .. qchint
             else
-                gcand.comment = gcand.comment .. env.quick_code_hint_indicator .. qchint
-                -- gcand.comment = gcand.comment .. major_sep .. env.quick_code_hint_indicator .. qchint
+                gcand.comment = gcand.comment .. major_sep .. env.quick_code_hint_indicator .. qchint
             end
         end
         yield(cand)
