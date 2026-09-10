@@ -27,7 +27,7 @@ patch:
   key_binder/bindings/+:
     - { when: has_menu, accept: Control+Shift+G, toggle: inflexible }               # 魔然固词开关
     - { when: composing, accept: "Control+g", toggle: extended_charset }            # 大小字符集
-    - { when: has_menu, accept: "Control+u", toggle: tone_display }                 # 拼音显示
+    - { when: has_menu, accept: "Control+u", toggle: tone_display }                 # 声调显示
     - { when: has_menu, accept: "Control+b", toggle: chaifen_switch }               # 补全信息开关
     - { when: has_menu, accept: "Control+q", toggle: emoji }                        # emoji开关
     # - { when: has_menu, accept: "Control+0", toggle: std_opencc }             # 切换用字标准 
@@ -73,25 +73,8 @@ patch:
       delimiter: ";"
 
 
-  simple_comment:
-    candidate_length: 1               # 候选词辅助码提醒的生效长度，0为关闭  但同时清空其它，应当使用上面开关来处理
-    corrector_type: "comment"         # 换一种显示类型，比如"({comment})" 
 
 
-  paired_punct:
-    pattern: '^([aswdf])`'
-    defer:
-      - "，"
-      - "、"
-      - "|"
-    dict:
-      a: ['《','》']
-      w: ['（','）']
-      s: ['「','」']
-      d: ['『','』']
-      f: ['"','"']
-
-  moran/quick_code_indicator: "<"
   # 测试用
   # engine/filters/@before 7: lua_filter@*mylua/info_comment          # 候选类型查看
   # engine/filters/@before 7: lua_filter@*mylua/debuger
