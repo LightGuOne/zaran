@@ -11,7 +11,6 @@
 - `pseudo_moran.lua` : 负责输出字词表和智能整句词库
 - `moran_pin.lua` : 固定常用词和自定义用户词
 - `moran_reorder_filter.lua` : 使字词表和pin词使用的词频正常映射到智能词库内的词频上  
-可以移除`zaran.custom.yaml`抛弃辅助功能，纯打字
 
 以魔然方案的挂接打法为主，为引用较高整句准确率的万象词库，需要基于不含自造词的纯净词库与模型。所以分别用两个翻译器：一个是无自造词的“固词翻译器”，另一个是支持词频动态调整的“frequency翻译器”。以上与原有的字词翻译器“fixed”一同由 `pseudo_moran.lua` 处理，以提升候选词首次命中的概率。
 
@@ -71,6 +70,7 @@
 ./kagiroi_kanji.dict.yaml  
 ./kagiroi_kanji.schema.yaml  
 ./kagiroi_romaji.dict.yaml  
+./lua/kagiroi_matrix_temp.bin
 
 # default.yaml下移除
 schema_list:
@@ -82,6 +82,7 @@ engine/segmentors/@before 3: affix_segmentor@kagiroi
 engine/translators/+:
 - lua_translator@*kagiroi/kagiroi_translator
 engine/filters/@before 1: lua_filter@*kagiroi/kagiroi_aux_filter@reverse
+kagiroi: all
 ```
 ## 平台支持：
 
