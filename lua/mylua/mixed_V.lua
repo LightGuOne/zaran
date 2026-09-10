@@ -92,6 +92,7 @@ local dot              = "点"
 local digitRegular     = { [0] = "零", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
 local digitLower       = { [0] = "〇", "一", "二", "三", "四", "五", "六", "七", "八", "九" }
 local digitUpper       = { [0] = "零", "壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖" }
+local digitHalfWidth   = { [0] = "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }
 local unitLower        = { "", "十", "百", "千" }
 local unitUpper        = { "", "拾", "佰", "仟" }
 local bigUnit          = { "万", "亿" }
@@ -213,6 +214,11 @@ local function translateLower(input)
         .. (input.dot ~= "" and (dot .. mapDigits(input.frac, digitLower)) or "")
 end
 
+local function translateHalfWidth(input)
+    return mapDigits(input.int, digitHalfWidth)
+        .. (input.dot ~= "" and ("." .. mapDigits(input.frac, digitHalfWidth)) or "")
+end
+
 -- 金額轉換
 local function translateCurrency(input, digit, unit, bigUnit)
     local intPart = translateInt(input.int, digit, unit, bigUnit)
@@ -228,6 +234,7 @@ local function translateNumStr(str)
         { "〔大寫〕", translateUpper(input) },
         { "〔金額大寫〕", translateCurrency(input, digitUpper, unitUpper, bigUnit) },
         { "〔金額小寫〕", translateCurrency(input, digitLower, unitLower, bigUnit) },
+        { "〔半角〕", translateHalfWidth(input), },
     }
     return result
 end
@@ -508,7 +515,7 @@ function M.func(input, seg, env)
         return
     end
     -- 长度不足2时不做计算
-    if #express < 2 then return end
+    -- if #express < 2 then return end
     -- 计算器部分
     local part_int, part_dot, part_dec = string.match(express, "^(%d*)(%.?)(%d*)$")
     if not part_int or not part_dot or not part_dec then
