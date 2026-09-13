@@ -34139,9 +34139,10 @@
 𠕄	aa	丨乛	
 𠕅	ae	一二	auto
 𠕅	ke	冂二	auto
-𠕆	ka	冂一	auto
-𠕆	pa	丿一	auto
-𠕇	kd	冂丶	auto
+𠕆	ua	𠂇一	
+𠕆	ka	冂一	
+𠕇	ud	𠂇丶	
+𠕇	kd	冂丶	
 𠕈	kr	冂人	auto
 𠕉	de	丶儿	auto
 𠕉	ke	冂儿	auto
