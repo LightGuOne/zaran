@@ -3447,6 +3447,7 @@ sort: by_weight
 大埔镇	da;ad bu;tf vf;jv	91
 大布镇	da;ad bu;ju vf;jv	79
 大才乡	da;ad cl;ap xd;ap	23
+大仓镇	da;ad ch;re vf;jv	84
 大槽乡	da;ad ck;mc xd;ap	178
 大草站	da;ad ck;cz vj;lv	202
 大曹镇	da;ad ck;oc vf;jv	96
@@ -19159,7 +19160,6 @@ sort: by_weight
 太仓市	tl;dd ch;re ui;wj	10
 太仓县	tl;dd ch;re xm;sq	100
 太仓站	tl;dd ch;re vj;lv	346
-大仓镇	tl;ad ch;re vf;jv	84
 太昌镇	tl;dd ih;oo vf;jv	10
 台陈镇	tl;sk if;ed vf;jv	10
 台城乡	tl;sk ig;ti xd;ap	10
@@ -31873,6 +31873,7 @@ sort: by_weight
 大堡子村	da;ad bu;tb zi;aa cp;mc	10
 大堡子镇	da;ad bu;tb zi;aa vf;jv	10
 大菜园村	da;ad cl;cc yr;ky cp;mc	10
+大仓盖镇	da;ad ch;re gl;my vf;jv	10
 大草房村	da;ad ck;cz fh;hf cp;mc	10
 大操鲁村	da;ad ck;fz lu;yo cp;mc	10
 大草坡村	da;ad ck;cz po;tp cp;mc	10
@@ -56133,6 +56134,7 @@ sort: by_weight
 时村社区	ui;oc cp;mc ue;ut qu;ki	4
 时村营乡	ui;oc cp;mc yy;cl xd;ap	10
 施厝坪庄	ui;fy co;ix py;tp vd;gt	10
+石大仓乡	ui;kp da;ad ch;re xd;ap	10
 石大关乡	ui;kp da;ad gr;qd xd;ap	10
 石大关站	ui;kp da;ad gr;qd vj;lv	45
 师大社区	ui;ab da;ad ue;ut qu;ki	189
@@ -56792,7 +56794,6 @@ sort: by_weight
 史塔罕堡	ui;ki ta;td hj;bg bk;tb	10
 石塔河村	ui;kp ta;td he;dk cp;mc	10
 石塔庄村	ui;kp ta;td vd;gt cp;mc	10
-石大仓乡	ui;kp tl;ad ch;re xd;ap	10
 石台沟村	ui;kp tl;sk gb;dg cp;mc	10
 石太山村	ui;kp tl;dd uj;aa cp;mc	10
 石台寺村	ui;kp tl;sk si;ct cp;mc	10
@@ -58546,7 +58547,6 @@ sort: by_weight
 台北中山	tl;sk bz;ag vs;aa uj;aa	10
 台北中正	tl;sk bz;ag vs;aa vg;av	10
 太本站镇	tl;dd bf;aa vj;lv vf;jv	10
-大仓盖镇	tl;ad ch;re gl;my vf;jv	10
 台城街道	tl;sk ig;ti jx;xg dk;zu	10
 太春沟村	tl;dd ip;of gb;dg cp;mc	10
 台东街道	tl;sk ds;ad jx;xg dk;zu	10

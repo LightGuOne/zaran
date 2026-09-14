@@ -139,7 +139,6 @@ sort: by_weight
 崔郊	cv;uv jc;ej	55
 崔珏	cv;uv jt;wy	55
 崔橹	cv;uv lu;ml	55
-崔沔	cv;uv mm;dg	288
 崔木	cv;uv mu;ad	55
 崔璞	cv;uv pu;wp	55
 崔翘	cv;uv qc;yy	55
@@ -1126,20 +1125,6 @@ sort: by_weight
 玄宝	xr;wy bk;by	55
 宣情	xr;bg qy;xq	55
 玄幽	xr;wy yb;uy	55
-薛逢	xt;cx fg;zf	55
-薛据	xt;cx ju;fj	55
-薛蒙	xt;cx mg;cm	55
-薛能	xt;cx ng;sb	55
-薛琼	xt;cx qs;wj	55
-薛戎	xt;cx rs;gu	55
-薛式	xt;cx ui;gy	55
-薛涛	xt;cx tk;du	55
-薛曜	xt;cx yk;od	55
-薛瑶	xt;cx yk;wf	55
-薛业	xt;cx ye;aa	55
-薛莹	xt;cx yy;cy	55
-薛泳	xt;cx ys;dy	55
-薛准	xt;cx vp;dv	55
 寻梅	xp;cx mz;mm	55
 颜粲	yj;yy cj;my	55
 阎宽	yj;mj kr;bj	55
@@ -1154,27 +1139,6 @@ sort: by_weight
 杨乘	yh;my ig;pb	55
 杨持	yh;my ii;fs	55
 阳春	yh;eo ip;of	55
-杨玢	yh;my ff;wf	55
-杨衡	yh;my hg;xd	55
-杨厚	yh;my hb;iz	55
-杨绘	yh;my hv;sh	55
-杨谏	yh;my jm;yj	55
-杨景	yh;my jy;oj	55
-杨均	yh;my jp;ty	55
-杨浚	yh;my jp;dj	55
-杨夔	yh;my kv;qw	55
-杨鸾	yh;my lr;ny	55
-杨朴	yh;my pu;mb	55
-杨适	yh;my ui;zu	55
-杨收	yh;my ub;wj	55
-杨素	yh;my su;sf	55
-杨损	yh;my sp;fy	55
-杨系	yh;my xi;ps	55
-杨续	yh;my xu;sm	55
-杨颜	yh;my yj;yy	55
-姚发	yk;nv fa;ay	55
-姚合	yk;nv he;rk	55
-姚鹄	yk;nv hu;ng	55
 瑶花	yk;wf hw;ch	55
 姚揆	yk;nv kv;fg	55
 姚伦	yk;nv lp;rl	55
@@ -205924,8 +205888,8 @@ sort: by_weight
 应怜脂粉气	yy;ga lm;xl vi;ov ff;mf qi;py	10
 应怜浊水澜	yy;ga lm;xl vo;di uv;ad lj;dl	10
 赢粮从事役	yy;bk ld;ml cs;rr ui;aa yi;xu	10
-赢粮而景从	yy;bk ld;ml er;aa jy;oj cs;rr	10
 赢粮而趣之	yy;bk ld;ml er;aa qu;zq vi;dd	10
+赢粮而景从	yy;bk ld;ml er;aa yy;oj cs;rr	10
 赢粮果后时	yy;bk ld;ml go;tm hb;pk ui;oc	10
 赢粮匝邛道	yy;bk ld;ml za;jk qs;eg dk;zu	10
 英僚满四座	yy;cy lc;rl mj;dl si;aa zo;gz	10
