@@ -1,7 +1,7 @@
 # Rime dictionary
 # encoding: utf-8
 #https://github.com/amzxyz/RIME-LMDG
-#------行政区划、地理、地标、景区、实体------
+#------行政区划
 ---
 name: diming
 version: "LTS"
@@ -75,6 +75,8 @@ sort: by_weight
 道镇	dk;zu vf;jv	130
 道真	dk;zu vf;uj	100
 德宏	de;xx hs;bh	10
+地标	di;ty bc;mu
+地理	di;ty li;wl
 迪庆	di;zy qy;gd	10
 翟镇	di;yv vf;jv	345
 店镇	dm;gv vf;jv	153
@@ -272,6 +274,7 @@ sort: by_weight
 江渚	jd;dg vu;dv	374
 蒋庄	jd;cj vd;gt	441
 江孜	jd;dg zi;wz	92
+景区	jy;oj qu;ki
 泾县	jy;dg xm;sq	128
 景县	jy;oj xm;sq	125
 鸠江	jq;nj jd;dg	279
@@ -2209,6 +2212,7 @@ sort: by_weight
 曹安店	ck;oc an;bn dm;gv	243
 曹安路	ck;oc an;bn lu;zg	3
 曹庵镇	ck;oc an;gd vf;jv	10
+曹岙村	ck;oc ao;uy cp;mc	10
 草坝镇	ck;cz ba;tb vf;jv	10
 曹碑镇	ck;oc bz;ub vf;jv	120
 草碧镇	ck;cz bi;ub vf;jv	10
@@ -2932,6 +2936,7 @@ sort: by_weight
 陈新村	if;ed xn;jq cp;mc	94
 陈杏村	if;ed xy;mk cp;mc	213
 陈杨村	if;ed yh;my cp;mc	69
+陈洋村	if;ed yh;dy cp;mc	10
 辰阳镇	if;iy yh;eo vf;jv	10
 陈窑村	if;ed yk;xf cp;mc	237
 陈营村	if;ed yy;cl cp;mc	210
@@ -4391,6 +4396,7 @@ sort: by_weight
 店头镇	dm;gv tb;dd vf;jv	10
 店湾镇	dm;gv wj;dw vf;jv	10
 甸尾乡	dm;gt wz;um xd;ap	10
+殿下村	dm;ug xw;ab cp;mc	10
 店下镇	dm;gv xw;ab vf;jv	10
 店垭镇	dm;gv ya;ty vf;jv	10
 甸阳镇	dm;gt yh;eo vf;jv	10
@@ -4534,6 +4540,7 @@ sort: by_weight
 丁字桥	dy;aa zi;bz qc;mq	80
 丁字镇	dy;aa zi;bz vf;jv	228
 东安村	ds;ad an;bn cp;mc	100
+东岸村	ds;ad an;ug cp;mc	10
 东安区	ds;ad an;bn qu;ki	112
 东安县	ds;ad an;bn xm;sq	176
 东案乡	ds;ad an;ma xd;ap	10
@@ -5331,6 +5338,7 @@ sort: by_weight
 房木镇	fh;hf mu;ad vf;jv	10
 方前镇	fh;wd qm;qd vf;jv	10
 坊前镇	fh;tf qm;qd vf;jv	10
+方山村	fh;wd uj;aa cp;mc	10
 房山区	fh;hf uj;aa qu;ki	250
 方山县	fh;wd uj;aa xm;sq	664
 房山县	fh;hf uj;aa xm;sq	634
@@ -5632,6 +5640,7 @@ sort: by_weight
 丰庄镇	fg;aa vd;gt vf;jv	10
 冯庄镇	fg;dm vd;gt vf;jv	10
 佛冈县	fo;rf gh;ki xm;sq	172
+佛陇村	fo;rf ls;el cp;mc	10
 佛楼镇	fo;rf lb;ml vf;jv	10
 佛罗镇	fo;rf lo;sx vf;jv	10
 佛门乡	fo;rf mf;dg xd;ap	10
@@ -6028,6 +6037,7 @@ sort: by_weight
 岗色乡	gh;ug se;db xd;ap	10
 冈山区	gh;ki uj;aa qu;ki	655
 冈山县	gh;ki uj;aa xm;sq	252
+岗上村	gh;ug uh;aa cp;mc	10
 岗上镇	gh;ug uh;aa vf;jv	10
 港上镇	gh;dx uh;aa vf;jv	10
 冈上镇	gh;ki uh;aa vf;jv	10
@@ -7654,6 +7664,7 @@ sort: by_weight
 横岗站	hg;mh gh;ug vj;lv	297
 横港镇	hg;mh gh;dx vf;jv	10
 横河镇	hg;mh he;dk vf;jv	10
+横后村	hg;mh hb;pk cp;mc	10
 恒济镇	hg;xg ji;dq vf;jv	10
 横涧乡	hg;mh jm;dj xd;ap	10
 横江镇	hg;mh jd;dg vf;jv	10
@@ -10184,6 +10195,7 @@ sort: by_weight
 金星乡	jn;ra xy;ou xd;ap	282
 金星镇	jn;ra xy;ou vf;jv	139
 锦星镇	jn;jb xy;ou vf;jv	10
+锦绣村	jn;jb xq;sx cp;mc	10
 金秀县	jn;ra xq;hn xm;sq	146
 金秀镇	jn;ra xq;hn vf;jv	367
 金鸭村	jn;ra ya;nj cp;mc	31
@@ -10638,6 +10650,7 @@ sort: by_weight
 堪嘉镇	kj;tu jw;uj vf;jv	10
 坎市镇	kj;tq ui;wj vf;jv	10
 坎苏镇	kj;tq su;cb vf;jv	10
+坎头村	kj;tq tb;dd cp;mc	10
 堪圩乡	kj;tu wz;ty xd;ap	10
 看庄镇	kj;ou vd;gt vf;jv	10
 康保县	kh;gl bk;rd xm;sq	155
@@ -11274,6 +11287,7 @@ sort: by_weight
 黎安镇	li;hu an;bn vf;jv	10
 礼安镇	li;ug an;bn vf;jv	10
 李岙村	li;mz ao;uy cp;mc	185
+利岙村	li;hd ao;uy cp;mc	10
 李坝村	li;mz ba;tb cp;mc	133
 篱笆镇	li;vl ba;vb vf;jv	10
 里坝镇	li;aa ba;tb vf;jv	10
@@ -11709,6 +11723,7 @@ sort: by_weight
 连五乡	lm;zi wu;aa xd;ap	10
 濂溪区	lm;dl xi;dx qu;ki	3380
 莲下镇	lm;cl xw;ab vf;jv	10
+联鑫村	lm;eg xn;jj cp;mc	10
 联兴乡	lm;eg xy;ba xd;ap	10
 联兴镇	lm;eg xy;ba vf;jv	10
 涟源市	lm;dl yr;dy ui;wj	588
@@ -11812,6 +11827,7 @@ sort: by_weight
 凉泉镇	ld;dj qr;ub vf;jv	10
 凉伞镇	ld;dj sj;ru vf;jv	10
 梁山村	ld;md uj;aa cp;mc	163
+良山村	ld;dg uj;aa cp;mc	10
 梁山县	ld;md uj;aa xm;sq	190
 粱山县	ld;md uj;aa xm;sq	98
 两山乡	ld;ad uj;aa xd;ap	10
@@ -12350,6 +12366,7 @@ sort: by_weight
 刘绮庄	lq;dw qi;sq vd;gt	8
 刘桥镇	lq;dw qc;mq vf;jv	10
 柳桥镇	lq;mm qc;mq vf;jv	10
+流庆村	lq;di qy;gd cp;mc	10
 琉球乡	lq;wi qq;wq xd;ap	10
 流曲镇	lq;di qu;aa vf;jv	10
 六泉乡	lq;wb qr;ub xd;ap	10
@@ -14069,11 +14086,13 @@ sort: by_weight
 毛石镇	mk;pg ui;kp vf;jv	-1
 茅塔乡	mk;cm ta;td xd;ap	10
 茅台镇	mk;cm tl;sk vf;jv	442
+毛坦村	mk;pg tj;td cp;mc	10
 毛堂乡	mk;pg th;tk xd;ap	10
 茅塘镇	mk;cm th;tt vf;jv	10
 茅田乡	mk;cm tm;aa xd;ap	10
 毛田镇	mk;pg tm;aa vf;jv	10
 茅天镇	mk;cm tm;ad vf;jv	10
+毛头村	mk;pg tb;dd cp;mc	10
 茅溪镇	mk;cm xi;dx vf;jv	187
 茂兴镇	mk;cw xy;ba vf;jv	10
 茅垭镇	mk;cm ya;ty vf;jv	10
@@ -15333,6 +15352,7 @@ sort: by_weight
 潘安乡	pj;df an;bn xd;ap	10
 磐安镇	pj;ub an;bn vf;jv	10
 盘安镇	pj;mv an;bn vf;jv	10
+潘岙村	pj;df ao;uy cp;mc	10
 潘村镇	pj;df cp;mc vf;jv	10
 潘店镇	pj;df dm;gv vf;jv	10
 潘渡镇	pj;df du;dd vf;jv	10
@@ -15353,12 +15373,14 @@ sort: by_weight
 泮境乡	pj;db jy;tj xd;ap	10
 盘克镇	pj;mv ke;eg vf;jv	10
 潘口乡	pj;df kb;aa xd;ap	10
+潘郎村	pj;df lh;el cp;mc	10
 攀莲镇	pj;ud lm;cl vf;jv	10
 盘龙城	pj;mv ls;ad ig;ti	117
 盘龙区	pj;mv ls;ad qu;ki	238
 蟠龙镇	pj;if ls;ad vf;jv	283
 盘龙镇	pj;mv ls;ad vf;jv	236
 蟠猫乡	pj;if mk;qm xd;ap	10
+盘山村	pj;mv uj;aa cp;mc	10
 盘山县	pj;mv uj;aa xm;sq	165
 磐石市	pj;ub ui;kp ui;wj	506
 磐石县	pj;ub ui;kp xm;sq	125
@@ -16228,6 +16250,7 @@ sort: by_weight
 乔口镇	qc;ya kb;aa vf;jv	10
 乔拉克	qc;ya la;fl ke;eg	356
 乔乐乡	qc;ya le;pd xd;ap	10
+桥里村	qc;mq li;aa cp;mc	10
 乔利乡	qc;ya li;hd xd;ap	10
 乔李镇	qc;ya li;mz vf;jv	10
 乔连河	qc;ya lm;zi he;dk	130
@@ -16261,6 +16284,7 @@ sort: by_weight
 桥头镇	qc;mq tb;dd vf;jv	385
 乔屯乡	qc;ya tp;ag xd;ap	10
 乔瓦镇	qc;ya wa;ad vf;jv	10
+桥外村	qc;mq wl;xb cp;mc	10
 桥湾站	qc;mq wj;dw vj;lv	234
 桥湾镇	qc;mq wj;dw vf;jv	10
 桥圩镇	qc;mq wz;ty vf;jv	10
@@ -17440,6 +17464,7 @@ sort: by_weight
 杉山镇	uj;mp uj;aa vf;jv	10
 鄯善镇	uj;eu uj;kq vf;jv	10
 山上区	uj;aa uh;aa qu;ki	480
+山市村	uj;aa ui;wj cp;mc	10
 闪石乡	uj;mr ui;kp xd;ap	10
 山市站	uj;aa ui;wj vj;lv	518
 山市镇	uj;aa ui;wj vf;jv	10
@@ -17594,6 +17619,7 @@ sort: by_weight
 上饶站	uh;aa rk;uy vj;lv	400
 上饶镇	uh;aa rk;uy vf;jv	10
 上砂镇	uh;aa ua;uu vf;jv	10
+上山村	uh;aa uj;aa cp;mc	10
 上衫乡	uh;aa uj;yp xd;ap	10
 商山镇	uh;wk uj;aa vf;jv	10
 上社镇	uh;aa ue;ut vf;jv	10
@@ -17764,6 +17790,7 @@ sort: by_weight
 射阳县	ue;cu yh;eo xm;sq	182
 社阳乡	ue;ut yh;eo xd;ap	10
 社渚镇	ue;ut vu;dv vf;jv	10
+沈岙村	uf;dg ao;uy cp;mc	10
 深澳镇	uf;dm ao;da vf;jv	10
 神坝镇	uf;uu ba;tb vf;jv	10
 沈坝镇	uf;dg ba;tb vf;jv	10
@@ -18436,6 +18463,7 @@ sort: by_weight
 双辽县	ud;yy lc;zl xm;sq	96
 双林站	ud;yy ln;mm vj;lv	297
 双林镇	ud;yy ln;mm vf;jv	296
+双凌村	ud;yy ly;dl cp;mc	10
 双流区	ud;yy lq;di qu;ki	208
 双流县	ud;yy lq;di xm;sq	202
 双流镇	ud;yy lq;di vf;jv	10
@@ -18446,6 +18474,7 @@ sort: by_weight
 双录乡	ud;yy lu;au xd;ap	10
 双路镇	ud;yy lu;zg vf;jv	10
 双滦区	ud;yy lr;dl qu;ki	140
+双吕村	ud;yy lv;kk cp;mc	10
 双庙乡	ud;yy mc;gy xd;ap	10
 双庙镇	ud;yy mc;gy vf;jv	10
 双明镇	ud;yy my;oo vf;jv	10
@@ -18475,6 +18504,7 @@ sort: by_weight
 双塔镇	ud;yy ta;td vf;jv	10
 双台乡	ud;yy tl;sk xd;ap	10
 双台镇	ud;yy tl;sk vf;jv	10
+双塘村	ud;yy th;tt cp;mc	10
 双堂乡	ud;yy th;tk xd;ap	10
 双塘镇	ud;yy th;tt vf;jv	10
 双田镇	ud;yy tm;aa vf;jv	10
@@ -18482,6 +18512,7 @@ sort: by_weight
 双湾镇	ud;yy wj;dw vf;jv	10
 双望镇	ud;yy wh;wo vf;jv	10
 双旺镇	ud;yy wh;ow vf;jv	10
+双溪村	ud;yy xi;dx cp;mc	10
 双溪区	ud;yy xi;dx qu;ki	10
 双溪乡	ud;yy xi;dx xd;ap	10
 双溪镇	ud;yy xi;dx vf;jv	10
@@ -18572,6 +18603,7 @@ sort: by_weight
 水寨乡	uv;ad vl;mb xd;ap	10
 水寨镇	uv;ad vl;mb vf;jv	43
 税镇镇	uv;hd vf;jv vf;jv	10
+水渚村	uv;ad vu;dv cp;mc	10
 水竹乡	uv;ad vu;gg xd;ap	10
 水字镇	uv;ad zi;bz vf;jv	10
 顺安镇	up;yi an;bn vf;jv	10
@@ -19100,6 +19132,7 @@ sort: by_weight
 索珠乡	so;sb vu;wv xd;ap	10
 所字镇	so;hj zi;bz vf;jv	10
 锁作乡	so;jb zo;rv xd;ap	10
+塔岙村	ta;td ao;uy cp;mc	10
 塔城市	ta;td ig;ti ui;wj	496
 塔城县	ta;td ig;ti xm;sq	480
 塔城乡	ta;td ig;ti xd;ap	10
@@ -19401,6 +19434,7 @@ sort: by_weight
 塘口镇	th;tt kb;aa vf;jv	10
 汤郎乡	th;dy lh;el xd;ap	10
 唐林镇	th;gk ln;mm vf;jv	10
+塘岭村	th;tt ly;ul cp;mc	10
 唐马镇	th;gk ma;aa vf;jv	10
 唐庙镇	th;gk mc;gy vf;jv	10
 塘南镇	th;tt nj;ua vf;jv	10
@@ -19543,6 +19577,7 @@ sort: by_weight
 桃溪乡	tk;mv xi;dx xd;ap	10
 桃溪镇	tk;mv xi;dx vf;jv	10
 滔溪镇	tk;dj xi;dx vf;jv	10
+桃夏村	tk;mv xw;wz cp;mc	10
 陶辛镇	tk;et xn;lu vf;jv	127
 桃墟镇	tk;mv xu;tx vf;jv	10
 陶堰镇	tk;et yj;tn vf;jv	199
@@ -20954,6 +20989,7 @@ sort: by_weight
 温州市	wf;dm vb;id ui;wj	66
 文竹镇	wf;wi vu;gg vf;jv	10
 瓮安县	wg;wg an;bn xm;sq	168
+翁岙村	wg;yg ao;uy cp;mc	10
 翁城镇	wg;yg ig;ti vf;jv	10
 翁达镇	wg;yg da;zd vf;jv	10
 瓮洞镇	wg;wg ds;dt vf;jv	10
@@ -21701,10 +21737,12 @@ sort: by_weight
 下仓镇	xw;ab ch;re vf;jv	100
 下长镇	xw;ab ih;pd vf;jv	10
 下车镇	xw;ab ie;aa vf;jv	10
+下陈村	xw;ab if;ed cp;mc	10
 峡城乡	xw;uj ig;ti xd;ap	10
 下初镇	xw;ab iu;yd vf;jv	10
 峡川镇	xw;uj ir;pa vf;jv	10
 夏祠村	xw;wz ci;us cp;mc	103
+下村村	xw;ab cp;mc cp;mc	10
 下村乡	xw;ab cp;mc xd;ap	10
 夏村镇	xw;wz cp;mc vf;jv	145
 下村镇	xw;ab cp;mc vf;jv	100
@@ -22615,6 +22653,7 @@ sort: by_weight
 新荣区	xn;jq rs;cm qu;ki	146
 新荣乡	xn;jq rs;cm xd;ap	10
 新荣镇	xn;jq rs;cm vf;jv	10
+鑫山村	xn;jj uj;aa cp;mc	10
 欣山镇	xn;qj uj;aa vf;jv	10
 新邵县	xn;jq uk;ev xm;sq	183
 新韶镇	xn;jq uk;yv vf;jv	10
@@ -22642,6 +22681,7 @@ sort: by_weight
 新塘站	xn;jq th;tt vj;lv	477
 新塘镇	xn;jq th;tt vf;jv	10
 新棠镇	xn;jq th;mk vf;jv	10
+新陶村	xn;jq tk;et cp;mc	10
 新田村	xn;jq tm;aa cp;mc	286
 新田县	xn;jq tm;aa xm;sq	167
 新田乡	xn;jq tm;aa xd;ap	10
@@ -22861,6 +22901,7 @@ sort: by_weight
 兴义站	xy;ba yi;id vj;lv	207
 邢邑镇	xy;ek yi;kb vf;jv	10
 兴义镇	xy;ba yi;id vf;jv	10
+兴宇村	xy;ba yu;by cp;mc	10
 兴原乡	xy;ba yr;ix xd;ap	10
 杏园乡	xy;mk yr;ky xd;ap	10
 兴源镇	xy;ba yr;dy vf;jv	10
@@ -23503,6 +23544,7 @@ sort: by_weight
 杨安乡	yh;my an;bn xd;ap	10
 阳安乡	yh;eo an;bn xd;ap	10
 杨安镇	yh;my an;bn vf;jv	185
+洋澳村	yh;dy ao;da cp;mc	10
 杨坝村	yh;my ba;tb cp;mc	52
 杨坝镇	yh;my ba;tb vf;jv	242
 秧坝镇	yh;hy ba;tb vf;jv	10
@@ -24309,6 +24351,7 @@ sort: by_weight
 英落镇	yy;cy lo;cl vf;jv	10
 营盘乡	yy;cl pj;mv xd;ap	10
 营盘镇	yy;cl pj;mv vf;jv	10
+应钱村	yy;ga qm;jj cp;mc	10
 营前镇	yy;cl qm;qd vf;jv	10
 英桥镇	yy;cy qc;mq vf;jv	10
 樱丘站	yy;my qq;pa vj;lv	346
@@ -24543,6 +24586,7 @@ sort: by_weight
 友谊乡	yb;yu yi;yy xd;ap	109
 友谊站	yb;yu yi;yy vj;lv	324
 友谊镇	yb;yu yi;yy vf;jv	582
+油屿村	yb;dy yu;uy cp;mc	10
 右玉县	yb;ku yu;wd xm;sq	177
 优云乡	yb;ry yp;es xd;ap	10
 友宰镇	yb;yu zl;bx vf;jv	10
@@ -25068,6 +25112,7 @@ sort: by_weight
 云潭镇	yp;es tj;dt vf;jv	10
 云田镇	yp;es tm;aa vf;jv	10
 云雾镇	yp;es wu;yw vf;jv	10
+云溪村	yp;es xi;dx cp;mc	10
 云溪区	yp;es xi;dx qu;ki	151
 郧西县	yp;ey xi;aa xm;sq	172
 云溪乡	yp;es xi;dx xd;ap	10
@@ -25766,6 +25811,7 @@ sort: by_weight
 赵行村	vk;zi xy;xi cp;mc	175
 肇兴镇	vk;yw xy;ba vf;jv	10
 兆雅镇	vk;ed ya;vy vf;jv	10
+照洋村	vk;hv yh;dy cp;mc	10
 昭阳区	vk;ov yh;eo qu;ki	172
 赵窑村	vk;zi yk;xf cp;mc	52
 赵营村	vk;zi yy;cl cp;mc	103
@@ -25876,6 +25922,7 @@ sort: by_weight
 祯旺乡	vf;uv wh;ow xd;ap	10
 振文镇	vf;fi wf;wi vf;jv	10
 真武镇	vf;uj wu;vy vf;jv	10
+镇西村	vf;jv xi;aa cp;mc	10
 珍溪镇	vf;wp xi;dx vf;jv	10
 镇西镇	vf;jv xi;aa vf;jv	10
 轸溪镇	vf;ip xi;dx vf;jv	10
@@ -26250,6 +26297,7 @@ sort: by_weight
 中旺镇	vs;aa wh;ow vf;jv	10
 中卫县	vs;aa wz;ga xm;sq	108
 中卫乡	vs;aa wz;ga xd;ap	10
+中溪村	vs;aa xi;dx cp;mc	10
 中西区	vs;aa xi;aa qu;ki	51
 中溪镇	vs;aa xi;dx vf;jv	10
 中仙镇	vs;aa xm;ru vf;jv	10
@@ -27863,8 +27911,10 @@ sort: by_weight
 白山抚松	bl;pa uj;aa fu;fw ss;mg	10
 白山浑江	bl;pa uj;aa hp;dj jd;dg	10
 白山江源	bl;pa uj;aa jd;dg yr;dy	10
+白山街村	bl;pa uj;aa jx;xg cp;mc	10
 百善街道	bl;ab uj;kq jx;xg dk;zu	10
 白山靖宇	bl;pa uj;aa jy;lq yu;by	10
+白山里村	bl;pa uj;aa li;aa cp;mc	10
 白山临江	bl;pa uj;aa ln;ao jd;dg	10
 柏山寺村	bl;mb uj;aa si;ct cp;mc	10
 柏山寺乡	bl;mb uj;aa si;ct xd;ap	10
@@ -40538,6 +40588,7 @@ sort: by_weight
 后头湾村	hb;pk tb;dd wj;dw cp;mc	10
 后屠桥村	hb;pk tu;uv qc;mq cp;mc	10
 后土桥村	hb;pk tu;aa qc;mq cp;mc	10
+后瓦屿村	hb;pk wa;ad yu;uy cp;mc	10
 后洼子村	hb;pk wa;dg zi;aa cp;mc	10
 后王家村	hb;pk wh;aa jw;bu cp;mc	10
 后王家庄	hb;pk wh;aa jw;bu vd;gt	10
@@ -50820,6 +50871,7 @@ sort: by_weight
 南司竹村	nj;ua si;gk vu;gg cp;mc	10
 南寺庄村	nj;ua si;ct vd;gt cp;mc	10
 南松山村	nj;ua ss;mg uj;aa cp;mc	10
+南嵩岩村	nj;ua ss;ug yj;uu cp;mc	10
 南宋庄村	nj;ua ss;bm vd;gt cp;mc	10
 南酥酪村	nj;ua su;yh lk;yg cp;mc	10
 南苏阳村	nj;ua su;cb yh;eo cp;mc	10
@@ -55535,6 +55587,7 @@ sort: by_weight
 上新城乡	uh;aa xn;jq ig;ti xd;ap	10
 上新河镇	uh;aa xn;jq he;dk vf;jv	10
 上新集镇	uh;aa xn;jq ji;vm vf;jv	10
+上新建村	uh;aa xn;jq jm;zy cp;mc	10
 上辛口村	uh;aa xn;lu kb;aa cp;mc	10
 上新农村	uh;aa xn;jq ns;by cp;mc	10
 上新营村	uh;aa xn;jq yy;cl cp;mc	10
@@ -58582,6 +58635,7 @@ sort: by_weight
 太湖街道	tl;dd hu;dh jx;xg dk;zu	10
 泰湖山庄	tl;uf hu;dh uj;aa vd;gt	10
 太湖山庄	tl;dd hu;dh uj;aa vd;gt	10
+太湖新村	tl;dd hu;dh xn;jq cp;mc	10
 太湖源镇	tl;dd hu;dh yr;dy vf;jv	10
 太华山庄	tl;dd hw;uh uj;aa vd;gt	10
 太华社区	tl;dd hw;uh ue;ut qu;ki	50
@@ -64253,6 +64307,7 @@ sort: by_weight
 下沙头村	xw;ab ua;du tb;dd cp;mc	10
 峡山槽村	xw;uj uj;aa ck;mc cp;mc	10
 霞山分站	xw;yj uj;aa ff;bd vj;lv	50
+下山后村	xw;ab uj;aa hb;pk cp;mc	10
 峡山街道	xw;uj uj;aa jx;xg dk;zu	10
 峡山林场	xw;uj uj;aa ln;mm ih;ty	10
 下山头村	xw;ab uj;aa tb;dd cp;mc	10
@@ -64309,6 +64364,7 @@ sort: by_weight
 夏辛店村	xw;wz xn;lu dm;gv cp;mc	10
 下辛店镇	xw;ab xn;lu dm;gv vf;jv	10
 下新沟村	xw;ab xn;jq gb;dg cp;mc	10
+下新建村	xw;ab xn;jq jm;zy cp;mc	10
 下新农村	xw;ab xn;jq ns;by cp;mc	10
 下新屋村	xw;ab xn;jq wu;uv cp;mc	10
 下辛庄村	xw;ab xn;lu vd;gt cp;mc	10
@@ -64320,6 +64376,7 @@ sort: by_weight
 下崖社区	xw;ab ya;uy ue;ut qu;ki	180
 下岩贝村	xw;ab yj;uu bz;ad cp;mc	10
 夏阳街道	xw;wz yh;eo jx;xg dk;zu	10
+下洋张村	xw;ab yh;dy vh;gi cp;mc	10
 下窑沟村	xw;ab yk;xf gb;dg cp;mc	10
 下应街道	xw;ab yy;ga jx;xg dk;zu	10
 下英水村	xw;ab yy;cy uv;ad cp;mc	10
@@ -81260,6 +81317,7 @@ sort: by_weight
 文昌市铺前镇	wf;wi ih;oo ui;wj pu;jf qm;qd vf;jv	30
 文昌市文城镇	wf;wi ih;oo ui;wj wf;wi ig;ti vf;jv	71
 温都尔勒图镇	wf;dm db;ev er;dx le;lg tu;kd vf;jv	10
+温岭市大溪镇	wf;dm ly;ul ui;wj da;ad xi;dx vf;jv	10
 文明大道街道	wf;wi my;oo da;ad dk;zu jx;xg dk;zu	10
 温图高勒苏木	wf;dm tu;kd gk;wk le;lg su;cb mu;ad	10
 温州市苍南县	wf;dm vb;id ui;wj ch;cc nj;ua xm;sq	10
@@ -83521,6 +83579,7 @@ sort: by_weight
 市经济技术开发区	ui;wj jy;sg ji;dq ji;fv uu;md kl;ac fa;ay qu;ki	10
 市坪苗族仡佬族乡	ui;wj py;tp mc;ct zu;fu ge;rq lk;rl zu;fu xd;ap	10
 石桥苗族土家族乡	ui;kp qc;mq mc;ct zu;fu tu;aa jw;bu zu;fu xd;ap	10
+实体------	ui;bt ti;rb
 石柱土家族自治县	ui;kp vu;mv tu;aa jw;bu zu;fu zi;pa vi;dt xm;sq	10
 石嘴山市大武口区	ui;kp zv;kj uj;aa ui;wj da;ad wu;vy kb;aa qu;ki	10
 蜀麓社区服务中心	uu;si lu;ll ue;ut qu;ki fu;oy wu;wl vs;aa xn;dd	10

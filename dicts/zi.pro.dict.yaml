@@ -9350,16 +9350,16 @@ sort: by_weight
 富	fu;bf	2828
 福	fu;uf	2545
 负	fu;db	2417
+付	fu;rc	1831
 副	fu;df	1391
 幅	fu;jf	1233
 符	fu;vf	1216
+辅	fu;if	929
 夫	fu;ad	811
 父	fu;pd	770
 肤	fu;of	759
 妇	fu;nx	754
 腐	fu;gr	735
-付	fu;rc	731
-辅	fu;if	729
 佛	fu;rf	718
 腹	fu;of	712
 覆	fu;xf	710
@@ -12123,6 +12123,7 @@ sort: by_weight
 豪	hk;ub	2631
 毫	hk;mb	2368
 耗	hk;lm	1534
+薅	hk;cr	1424
 浩	hk;dg	690
 皓	hk;bg	586
 蒿	hk;cg	570
@@ -12134,7 +12135,6 @@ sort: by_weight
 灏	hk;dy	494
 昊	hk;ot	453
 郝	hk;ei	440
-薅	hk;cr	424
 颢	hk;yj	400
 貉	hk;vg	393
 嗥	hk;kg	372
@@ -25228,6 +25228,7 @@ sort: by_weight
 鿭	ni;je	23
 觬	ni;je	23
 淣	ni;de	23
+祢	ni;ue	2
 秜	ni;hn	1
 誽	ni;ye	1
 愵	ni;xr	1
@@ -40908,7 +40909,7 @@ sort: by_weight
 䯉	ya;gq	1
 䰲	ya;yg	1
 䵝	ya;hg	1
-𠃉	ya;	1
+𠃉	ya;py	1
 𠄮	ya;aa	1
 𠋗	ya;ry	1
 𠜲	ya;dy	1

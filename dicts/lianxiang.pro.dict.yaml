@@ -1158,6 +1158,7 @@ sort: by_weight
 八一三事变	ba;pd yi;aa sj;aa ui;aa bm;wy	10
 八一四空战	ba;pd yi;aa si;aa ks;xg vj;gv	10
 八一五光复	ba;pd yi;aa wu;aa gd;ea fu;wo	10
+巴音浩日娲	ba;ag yn;lo hk;dg ri;aa wa;ng	10
 把银禧带来	ba;fb yn;jg xi;ux dl;jb ll;am	10
 把油箱加满	ba;fb yb;dy xd;vx jw;lk mj;dl	10
 八俣远吕智	ba;pd yu;rw yr;zy lv;kk vi;ov	10
@@ -5093,7 +5094,6 @@ sort: by_weight
 不可达基数	bu;ad ke;dk da;zd ji;tq uu;wl	10
 不可达序数	bu;ad ke;dk da;zd xu;gy uu;wl	10
 不可抵赖性	bu;ad ke;dk di;fd ll;uf xy;xu	10
-不可调节的	bu;ad ke;dk dc;yv jx;ce de;bu	10
 不可定误差	bu;ad ke;dk dy;bp wu;yw ia;yg	10
 不可定义数	bu;ad ke;dk dy;bp yi;id uu;wl	10
 不可度量的	bu;ad ke;dk du;gy ld;ol de;bu	10
@@ -5140,6 +5140,7 @@ sort: by_weight
 不可思议地	bu;ad ke;dk si;xt yi;yy de;ty	10
 不可思议经	bu;ad ke;dk si;xt yi;yy jy;sg	10
 不可思议呀	bu;ad ke;dk si;xt yi;yy ya;ky	10
+不可调节的	bu;ad ke;dk tc;yv jx;ce de;bu	10
 不可通约量	bu;ad ke;dk ts;zy yt;su ld;ol	10
 不可微规划	bu;ad ke;dk wz;xw gv;fj hw;dg	10
 不可先传也	bu;ad ke;dk xm;ne ir;rv ye;gg	10
@@ -24537,8 +24538,8 @@ sort: by_weight
 归麦榆草汤	gv;ax ml;fw yu;my ck;cz th;dy	10
 鬼魅的传说	gv;pd mz;gw de;bu ir;rv uo;yd	10
 鬼门十三针	gv;pd mf;dg ui;aa sj;aa vf;ju	10
+鬼迷刹玛莉	gv;pd mi;zm ia;du ma;wm li;cl	10
 鬼迷了心窍	gv;pd mi;zm le;aa xn;dd qc;xq	10
-鬼迷刹玛莉	gv;pd mi;zm ua;du ma;wm li;cl	10
 规模的大小	gv;fj mo;mm de;bu da;ad xc;ad	10
 规模的扩大	gv;fj mo;mm de;bu ko;fg da;ad	10
 规模和范围	gv;fj mo;mm he;hk fj;ce wz;kw	10
@@ -35918,7 +35919,7 @@ sort: by_weight
 酒店及旅游	jq;dy dm;gv ji;nd lv;fp yb;dz	10
 酒店用品展	jq;dy dm;gv ys;kf pn;kk vj;uy	10
 就顶不住了	jq;yj dy;yd bu;ad vu;rv le;aa	10
-九顶铁刹山	jq;py dy;yd tx;ju ua;du uj;aa	10
+九顶铁刹山	jq;py dy;yd tx;ju ia;du uj;aa	10
 救度速勇母	jq;wq du;gy su;zu ys;ly mu;vd	10
 九段沙湿地	jq;py dr;ud ua;du ui;dx di;ty	10
 久夛良木健	jq;pd do;ax ld;dg mu;ad jm;rj	10
@@ -156568,7 +156569,7 @@ sort: by_weight
 亨哈二氏吸入器	hg;wl ha;kh er;aa ui;pg xi;kj ru;pd qi;kk	10
 恒基落禾沙项目	hg;xg ji;tq lo;cl he;pd ua;du xd;gy mu;aa	10
 横连器固定长度	hg;mh lm;zi qi;kk gu;kg dy;bp ih;pd du;gy	10
-横连器可调长度	hg;mh lm;zi qi;kk ke;dk dc;yv ih;pd du;gy	10
+横连器可调长度	hg;mh lm;zi qi;kk ke;dk tc;yv ih;pd du;gy	10
 亨奇奥二氏试验	hg;wl qi;dk ao;dm er;aa ui;pg ui;yu yj;ma	10
 亨斯二氏植皮刀	hg;wl si;jq er;aa ui;pg vi;mv pi;ad dk;gp	10
 亨特吉二氏试验	hg;wl te;ns ji;ku er;aa ui;pg ui;yu yj;ma	10
@@ -157535,8 +157536,6 @@ sort: by_weight
 可操纵导引钢丝	ke;dk ck;fz zs;sc dk;cs yn;ga gh;jg si;aa	10
 髁侧方指标刻度	ke;gg ce;rz fh;wd vi;fv bc;mu ke;dh du;gy	10
 可拆卸膝胫装置	ke;dk il;fi xx;ev xi;oq jy;og vd;yv vi;sv	10
-可调负压吸痰管	ke;dk dc;yv fu;db ya;id xi;kj tj;by gr;vg	10
-可调颈生物型柄	ke;dk dc;yv jy;yg ug;na wu;nw xy;tx by;mb	10
 可动牙科治疗台	ke;dk ds;ly ya;ap ke;hd vi;dt lc;bl tl;sk	10
 科尔马上诉法院	ke;hd er;dx ma;aa uh;aa su;yi fa;dq yr;ew	10
 氪放射性同位素	ke;qk fh;wf ue;cu xy;xu ts;kk wz;rl su;sf	10
@@ -157599,6 +157598,8 @@ sort: by_weight
 科斯二氏血型系	ke;hd si;jq er;aa ui;pg xt;pa xy;tx xi;ps	10
 咳嗽变异性哮喘	ke;kh sb;kq bm;wy yi;cs xy;xu xc;kx ir;ke	10
 柯替氏器螺旋器	ke;mk ti;of ui;pg qi;kk lo;il xr;fp qi;kk	10
+可调负压吸痰管	ke;dk tc;yv fu;db ya;id xi;kj tj;by gr;vg	10
+可调颈生物型柄	ke;dk tc;yv jy;yg ug;na wu;nw xy;tx by;mb	10
 可调整式翻修柄	ke;dk tc;yv vg;vi ui;gy fj;yf xq;rp by;mb	10
 科托布血红蛋白	ke;hd to;fq bu;ju xt;pa hs;sg dj;ip bl;pa	10
 科瓦二氏加速器	ke;hd wa;ad er;aa ui;pg jw;lk su;zu qi;kk	10
@@ -157953,7 +157954,6 @@ sort: by_weight
 六味地黄益肾肝	lq;wb wz;kw di;ty hd;cb yi;mb uf;oy gj;og	10
 六味防脱生发酊	lq;wb wz;kw fh;ef to;od ug;na fa;ay dy;yd	10
 流行性斑疹伤寒	lq;di xy;xi xy;xu bj;ww vf;bp uh;rl hj;bd	10
-流行性感冒疫苗	lq;di xy;xi xy;xu gj;xx mk;oo yi;bu mc;ct	10
 流行性关节红斑	lq;di xy;xi xy;xu gr;qd jx;ce hs;sg bj;ww	10
 六一国际儿童节	lq;wb yi;aa go;ky ji;eu er;pg ts;ll jx;ce	10
 龙宝牌精品燕窝	ls;ad bk;by pl;pb jy;mq pn;kk yj;ch wo;xn	10
@@ -159332,6 +159332,7 @@ sort: by_weight
 沙美特罗替卡松	ua;du mz;dy te;ns lo;sx ti;of ka;ub ss;mg	10
 沙门不敬王者论	ua;du mf;dg bu;ad jy;wg wh;aa ve;ol lp;yl	10
 莎普尿塞通片剂	ua;cu pu;ob nc;uu sl;tb ts;zy pm;pa ji;dq	10
+杀人不过头点地	ua;mi rf;pd bu;ad go;zc tb;dd dm;hv di;ty	10
 沙参麦冬饮豆桑	ua;du uf;sp ml;fw ds;wd yn;uq db;aa sh;mr	10
 沙参杞子麦冬襄	ua;du uf;sp qi;mj zi;aa ml;fw ds;wd xd;wy	10
 沙参玉竹老鸭汤	ua;du uf;sp yu;wd vu;gg lk;lb ya;nj th;dy	10
@@ -159799,7 +159800,7 @@ sort: by_weight
 弹簧的劲度系数	tj;gd hd;vh de;bu jn;lg du;gy xi;ps uu;wl	10
 弹簧圈外周介入	tj;gd hd;vh qr;kj wl;xb vb;kt jx;ra ru;pd	10
 弹簧圈心脏介入	tj;gd hd;vh qr;kj xn;dd zh;ov jx;ra ru;pd	10
-弹力可调胸腹裤	tj;gd li;gp ke;dk dc;yv xs;ox fu;of ku;yk	10
+弹力可调胸腹裤	tj;gd li;gp ke;dk tc;yv xs;ox fu;of ku;yk	10
 痰迷舌强服之醒	tj;by mi;zm ue;kq qd;gs fu;oy vi;dd xy;yx	10
 痰凝气滞皆能除	tj;by ny;dy qi;py vi;dd jx;bb ng;sb iu;ey	10
 碳收益分享模式	tj;ut ub;wj yi;mb ff;bd xd;wz mo;mm ui;gy	10
