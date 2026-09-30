@@ -15,18 +15,19 @@ import_tables:
   - dicts/lianxiang.pro   # 联想词库，5字以上词汇，多用于输入前半段第二候选可以出来整段
   - dicts/diming.pro      # 二级行政区划
   - dicts/shici.pro       # 诗词
+  - dicts/mingren.pro     # 历史人物
   # - other_dicts/moran_radical_fill  # 偏旁反查
 
 ...
 # 额外拓展
-# 拎	līng;fl	526
-# 歺	cān;bx	256
-冇	móu;uk	465
-鸭	yā;jn	666
+# 拎	ly;fl	526
+# 歺	cj;bx	256
+冇	mb;uk	465
+鸭	ya;jn	666
 の	no;aa	0
 几	jo;py	852
 未	we;ex	833
-见	jiàn;ke	887
+见	jm;ke	887
 
 # 偏旁部首
 丆	pp;ap	0

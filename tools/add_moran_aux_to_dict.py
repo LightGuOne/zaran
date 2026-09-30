@@ -145,20 +145,23 @@ processDict = {
     'renming.pro.dict.yaml':          SKIP,
 
     'cuoyin.pro.dict.yaml':           PROCESS,
-    'diming.pro.dict.yaml':           PROCESS,
+    'diming.pro.dict.yaml':           SKIP,     # 加了奇怪的长词，故放弃追新
     'duoyin.pro.dict.yaml':           PROCESS,
     'jichu.pro.dict.yaml':            PROCESS,
     'lianxiang.pro.dict.yaml':        PROCESS,
     'shici.pro.dict.yaml':            PROCESS,
-
+    'mingren.pro.dict.yaml':           PROCESS,
     'zi.pro.dict.yaml':               PROCESS,
+
     'cuoyin.dict.yaml':           PROCESS,
-    'diming.dict.yaml':           PROCESS,
+    'diming.dict.yaml':           SKIP,         # 加了奇怪的长词，故放弃追新
     'duoyin.dict.yaml':           PROCESS,
     'jichu.dict.yaml':            PROCESS,
     'lianxiang.dict.yaml':        PROCESS,
     'shici.dict.yaml':            PROCESS,
+    'mingren.dict.yaml':               PROCESS,
     'zi.dict.yaml':               PROCESS,
+
     'rime_wanxiang.userdb.txt':       PROCESS,
     'zaran.userdb.txt':       PROCESS,
 }
