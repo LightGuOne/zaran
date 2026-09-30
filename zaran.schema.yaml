@@ -112,7 +112,7 @@ frequency:
   spelling_hints: 20        # 将注释以词典字符串形式完全暴露
   contextual_suggestions: false  # 语言模型预测词组权重
   core_word_length: 4       # >0 启用，按段学词 + 相邻段拼接
-  max_word_length: 7        # >0 启用，过长短语不记整词，只加元素权重
+  max_word_length: 8        # >0 启用，过长短语不记整词，只加元素权重
   enable_completion: true   # 补全提示
   max_homographs: 5         # 最大同形簇长度
   max_homophones: 10        # 最大同音簇长度
@@ -173,21 +173,21 @@ std_s2hk:
   opencc_config: s2hk.json
   option_name: std_s2hk
   #tips: char
-  tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+  tags: [ abc, number, gregorian_to_lunar, mixed_V, date_offset ]
 
 
 std_s2tw:
   opencc_config: s2tw.json
   option_name: std_s2tw
   tips: char
-  tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+  tags: [ abc, number, gregorian_to_lunar, mixed_V, date_offset ]
 
 
 std_s2jp:
   opencc_config: s2jp.json
   option_name: std_s2jp
   # tips: all
-  tags: [ abc, number, gregorian_to_lunar, mixed_V ]
+  tags: [ abc, number, gregorian_to_lunar, mixed_V, date_offset ]
 
 
 # 标点符号

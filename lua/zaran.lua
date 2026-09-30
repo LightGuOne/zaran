@@ -29,7 +29,7 @@ Module.zrm_map = {
     ["sv"] = "sui", ["ta"] = "ta", ["tb"] = "tou", ["tc"] = "tiao", ["te"] = "te", ["tg"] = "teng", ["th"] = "tang", ["ti"] = "ti", ["tj"] = "tan", ["tk"] = "tao", ["tl"] = "tai", ["tm"] = "tian",
     ["to"] = "tuo", ["tp"] = "tun", ["tr"] = "tuan", ["ts"] = "tong", ["tu"] = "tu", ["tv"] = "tui", ["tx"] = "tie", ["ty"] = "ting", ["ua"] = "sha", ["ub"] = "shou", ["ud"] = "shuang", ["ue"] = "she",
     ["uf"] = "shen", ["ug"] = "sheng", ["uh"] = "shang", ["ui"] = "shi", ["uj"] = "shan", ["uk"] = "shao", ["ul"] = "shai", ["uo"] = "shuo", ["up"] = "shun", ["ur"] = "shuan", ["uu"] = "shu", ["uv"] = "shui",
-    ["uw"] = "shua", ["uy"] = "shuai", ["va"] = "zha", ["vb"] = "zhou", ["vd"] = "zhuang", ["üe"] = "zhe", ["vf"] = "zhen", ["vg"] = "zheng", ["vh"] = "zhang", ["vi"] = "zhi", ["vj"] = "zhan", ["vk"] = "zhao",
+    ["uw"] = "shua", ["uy"] = "shuai", ["va"] = "zha", ["vb"] = "zhou", ["vd"] = "zhuang", ["ve"] = "zhe", ["vf"] = "zhen", ["vg"] = "zheng", ["vh"] = "zhang", ["vi"] = "zhi", ["vj"] = "zhan", ["vk"] = "zhao",
     ["vl"] = "zhai", ["vo"] = "zhuo", ["vp"] = "zhun", ["vr"] = "zhuan", ["vs"] = "zhong", ["vu"] = "zhu", ["vv"] = "zhui", ["vw"] = "zhua", ["vy"] = "zhuai", ["wa"] = "wa", ["wf"] = "wen", ["wg"] = "weng",
     ["wh"] = "wang", ["wj"] = "wan", ["wl"] = "wai", ["wo"] = "wo", ["wu"] = "wu", ["wz"] = "wei", ["xc"] = "xiao", ["xd"] = "xiang", ["xi"] = "xi", ["xm"] = "xian", ["xn"] = "xin", ["xp"] = "xun",
     ["xq"] = "xiu", ["xr"] = "xuan", ["xs"] = "xiong", ["xt"] = "xue", ["xu"] = "xu", ["xw"] = "xia", ["xx"] = "xie", ["xy"] = "xing", ["ya"] = "ya", ["yb"] = "you", ["ye"] = "ye", ["yh"] = "yang",
@@ -120,6 +120,7 @@ function Module.is_function_mode_active(context)
         or seg:has_tag("Ndate")
         or seg:has_tag("kagiroi")
         or seg:has_tag("mixed_V")
+        or seg:has_tag("date_offset")
 end
 
 function Module.segment_is_reverse_lookup(seg)

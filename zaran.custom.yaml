@@ -42,6 +42,7 @@ patch:
   recognizer/patterns/+:
     reverse_wanxiang: "^olf[A-Za-z]*$"  # 反查入口
     mixed_V: "^V.*$"                    # 混合V
+    date_offset: "^rq[+-][0-9]*$"       # 日期偏移
     unicode: "^U[a-f0-9]+"              # Unicode
     kagiroi: '^(?:ok|\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC)(?:\xE3\x81[\x81-\xBF]|\xE3\x82[\x80-\x9F]|\xE3\x83\xBC|[a-z\-;`])*$'
 

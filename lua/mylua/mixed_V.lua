@@ -1,7 +1,46 @@
+-- mixed_V.lua 混合 V：简易计算器 + 四舍六入五取偶 + 金额大写 + 日期/农历
+--
 -- 整合：light
---简易计算器+‌四舍六入五取偶法‌
---金额大写
---日期输入（偏移计算）
+-- 模块来源（版权归各自原作者）：
+--   简易计算器   ChaosAlphard   rime-shuangpin-fuzhuma/pull/41
+--   金额大写     moran_number   ksqsf       v0.1.1
+--   公历转农历   moran_shijian  98wubi Group, Project Moran
+-- Version: 0.2.3
+
+-- 主要功能：
+-- 1. V 前缀：金额大写、简易计算器、公历转农历（yyyy.mm.dd / mm.dd/）、当天信息
+-- 2. rq 前缀：日期偏移（rq+3 / rq-1 ）
+-- 3. Vrq：当天的日期
+-- 4. Vsj: 当前时间
+
+-- ChangeLog:
+--
+-- 0.2.3: 农历换算改为整数日序 + 结构化年表（惰性解析并缓存）；删除 Dec2bin / system /
+--        Analyze / IsLeap / leaveDate / diffDate，消除字符串位图解析的越界隐患。
+--        修复 1970 年之前日期的整轮查询失败：Windows 的 mktime 不支持该范围，
+--        os.time 会直接抛错并作废整轮候选；现改为只对 1971 年及以后计算星期。
+--
+-- 0.2.2: Analyze 补零由「补一位」改为循环补足 12 位，修复 1926/1935/1945/2007 四年
+--        农历落在第 12、13 个月时查询报错的问题。
+--        修正 9 项农历数据（1915、1916、1920、1955、1989、2025、2057、2089、2097）
+--
+-- 0.2.1: 数字转中文增加 13 位上限；translateInt 中原先恒为假的判断改为按位数限制，
+--        避免大数生成错误的中文读法。
+--        计算结果的「捨入」与中文候选限制在 |result| < 1e13，不再输出超长定点串。
+--
+-- 0.2.0: 新增 rq 入口用于日期偏移；Vrq 保留为当天，Vrq+n 不再生效。
+--        计算器支持 k/m/b/t 数量级后缀。
+--
+-- 0.1.1: 修复 V.5 / V. 触发 Lua 错误。
+--        修复 IsLeap 世纪年误判（1900、2100）。
+--        计算结果不再显示 .0 后缀。
+--        日期转换增加合法性校验，非法日期输出「日期无效」。
+--        农历相关候选标签统一为繁体〔農曆〕〔錯誤〕。
+--        清理失效的日期正则分支等死代码。
+--        日期转换与 rq 共用 yield_date_group。
+--
+-- 0.1.0: 整合：简易计算器、四舍六入五取偶舍入、数字转中文大写金额、
+--        公历转农历、日期偏移、V 空输入输出当天信息。
 
 
 local function startsWith(str, start)
@@ -40,9 +79,26 @@ local function yield_cand(seg, input, text, comment)
     yield(cand)
 end
 
+-- 星期名（文件级，日期组与 rq 共用）
+local WEEKDAY_NAMES = { "周日", "周一", "周二", "周三", "周四", "周五", "周六" }
+
+local function yield_weekday(seg, input, target_time)
+    local weekday_text = os.date("%w", target_time)
+    if not weekday_text then return end
+    local wday = tonumber(weekday_text)
+    if not wday then return end
+    yield_cand(seg, input, WEEKDAY_NAMES[wday + 1], "")
+end
+
 local function format_number_without_trailing_zeros(num)
     local s = string.format("%.2f", num):gsub("0+$", ""):gsub("%.$", "")
     return s == "" and "0" or s
+end
+
+-- 整数值不再显示后缀'.0'
+local function num_to_str(n)
+    local i = math.tointeger(n)
+    return i and tostring(i) or tostring(n)
 end
 
 -------------------------------------------------------------
@@ -57,6 +113,11 @@ local calcPlugin = {
     e = math.exp(1),
     -- π
     pi = math.pi,
+    -- 国际单位数量级
+    k = 10 ^ 3,    -- 千
+    m = 10 ^ 6,    -- 百万
+    b = 10 ^ 9,    -- 十亿
+    t = 10 ^ 12,   -- 万亿
     -- 随机数
     rdm = function(...) return math.random(...) end,
     -- 三角函数
@@ -103,6 +164,8 @@ local currencyFracUnit = { "角", "分", "厘", "毫" }
 local function parseNumStr(str)
     local result = {}
     result.int, result.dot, result.frac = str:match("^(%d*)(%.?)(%d*)")
+    if result.int == "" then result.int = "0" end
+    -- if result.dot ~= "" and result.frac == "" then result.dot = "" end
     return result
 end
 
@@ -156,7 +219,8 @@ end
 -- 轉換整數部分
 local function translateInt(str, digit, unit, bigUnit)
     local int = tonumber(str)
-    if math.floor(int) ~= int then
+    -- 原判断恒为假（传入的一定是整数串）；改为按位数限制，13 位以上不再转换
+    if not int or math.floor(int) ~= int or #str > 13 then
         return "數值超限！"
     end
     if int == 0 then
@@ -259,91 +323,83 @@ local cDayName  = {
 -- 农历数据 (1900-2100)
 local LunarData = {
     "AB500D2","4BD0883","4AE00DB","A5700D0","54D0581","D2600D8","D9500CC","655147D","56A00D5","9AD00CA",
-    "55D027A","4AE00D2","A5B0682","A4D00DA","D2500CE","D25157E","B5500D6","56A00CC","ADA027B","95B00D3",
-    "49717C9","49B00DC","A4B00D0","B4B0580","6A500D8","6D400CD","AB5147C","2B600D5","95700CA","52F027B",
+    "55D027A","4AE00D2","A5B0682","A4D00DA","D2500CE","D25157E","B5400D6","D6A00CB","ADA027B","95B00D3",
+    "49717C9","49700DC","A4B00D0","B4B0580","6A500D8","6D400CD","AB5147C","2B600D5","95700CA","52F027B",
     "49700D2","6560682","D4A00D9","EA500CE","6A9157E","5AD00D6","2B600CC","86E137C","92E00D3","C8D1783",
     "C9500DB","D4A00D0","D8A167F","B5500D7","56A00CD","A5B147D","25D00D5","92D00CA","D2B027A","A9500D2",
-    "B550781","6CA00D9","B5500CE","535157F","4DA00D6","A5B00CB","457037C","52B00D4","A9A0883","E9500DA",
+    "B550781","6CA00D9","B5500CE","535157F","4DA00D6","A5B00CB","457137C","52B00D4","A9A0883","E9500DA",
     "6AA00D0","AEA0680","AB500D7","4B600CD","AAE047D","A5700D5","52600CA","F260379","D9500D1","5B50782",
     "56A00D9","96D00CE","4DD057F","4AD00D7","A4D00CB","D4D047B","D2500D3","D550883","B5400DA","B6A00CF",
     "95A1680","95B00D8","49B00CD","A97047D","A4B00D5","B270ACA","6A500DC","6D400D1","AF40681","AB600D9",
-    "93700CE","4AF057F","49700D7","64B00CC","74A037B","EA500D2","6B50883","5AC00DB","AB600CF","96D0580",
+    "95700CE","4AF057F","49700D7","64B00CC","74A037B","EA500D2","6B50883","5AC00DB","AB600CF","96D0580",
     "92E00D8","C9600CD","D95047C","D4A00D4","DA500C9","755027A","56A00D1","ABB0781","25D00DA","92D00CF",
     "CAB057E","A9500D6","B4A00CB","BAA047B","AD500D2","55D0983","4BA00DB","A5B00D0","5171680","52B00D8",
-    "A9300CD","795047D","6AA00D4","AD500C9","5B5027A","4B600D2","96E0681","A4E00D9","D2600CE","EA6057E",
+    "A9300CD","795047D","6AA00D4","AD500C9","5B5027A","4B600D2","A6E0681","A4E00D9","D2600CE","EA6057E",
     "D5300D5","5AA00CB","76A037B","96D00D3","4AF0B83","4AD00DB","A4D00D0","D0B1680","D2500D7","D5200CC",
     "DD4057C","B5A00D4","56D00C9","55B027A","49B00D2","A570782","A4B00D9","AA500CE","B25157E","6D200D6",
-    "ADA00CA","4B6137B","93700D3","49F08C9","49700DB","64B00D0","68A1680","EA500D7","6B200CC","A6C147C",
+    "ADA00CA","4B6137B","93700D3","49F08C9","49700DB","64B00D0","68A1680","EA500D7","6AA00CC","A6C147C",
     "AAE00D4","92E00CA","D2E0379","C9600D1","D550781","D4A00D9","DA500CD","5D5057E","56A00D6","A6D00CB",
     "55D047B","52D00D3","A9B0883","A9500DB","B4A00CF","B6A067F","AD500D7","55A00CD","ABA047C","A5B00D4",
     "52B00CA","B27037A","69300D1","7330781","6AA00D9","AD500CE","4B5157E","4B600D6","A5700CB","54E047C",
-    "D2600D2","E960882","D5200DA","DAA00CF","6AA167F","56D00D7","4AE00CD","A9D047D","A4D00D4","D1500C9",
+    "D1600D2","E960882","D5200DA","DAA00CF","6AA167F","56D00D7","4AE00CD","A9D047D","A2D00D4","D1500C9",
     "F250279","D5200D1"
 }
 
--- 辅助函数
-local function Dec2bin(n)
-    local t = {}
-    while math.floor(n / 2) >= 1 do
-        table.insert(t, 1, n % 2)
-        n = math.floor(n / 2)
-        if n == 1 then table.insert(t, 1, 1) end
+-- 公历闰年天数
+local function year_days(year)
+    year = tonumber(year)
+    return (year % 400 == 0 or (year % 4 == 0 and year % 100 ~= 0)) and 366 or 365
+end
+
+-- 公历某月天数
+local function month_days(year, month)
+    if month == 2 then return year_days(year) == 366 and 29 or 28 end
+    return ({ 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 })[month]
+end
+
+-- 公历整数日序（从公元 1 年 1 月 1 日起算，不含时区影响；闰年规则内建）
+local function gregorian_day_number(year, month, day)
+    local previous_year = year - 1
+    local day_number = 365 * previous_year + math.floor(previous_year / 4)
+        - math.floor(previous_year / 100) + math.floor(previous_year / 400) + day
+    for previous_month = 1, month - 1 do
+        day_number = day_number + month_days(year, previous_month)
     end
-    return table.concat(t):gsub("^0+", "")
+    return day_number
 end
 
-local function system(x, inType, outType)
-    x = tostring(x)
-    if inType == 2 then
-        if outType == 10 then return tonumber(x, 2)
-        elseif outType == 16 then return string.format("%X", tonumber(x, 2)) end
-    elseif inType == 10 then
-        if outType == 2 then return Dec2bin(tonumber(x))
-        elseif outType == 16 then return string.format("%X", x) end
-    elseif inType == 16 then
-        if outType == 2 then return Dec2bin(tonumber(x, 16))
-        elseif outType == 10 then return tonumber(x, 16) end
+-- 农历年表：惰性解析 + 缓存，只在首次查询时构建一次
+local lunar_years_cache = nil
+local function lunar_years()
+    if lunar_years_cache then return lunar_years_cache end
+    local years = {}
+    for year_index, encoded_year in ipairs(LunarData) do
+        local year = year_index + 1898
+        local month_size_bits = tonumber(encoded_year:sub(1, 3), 16)
+        local leap_month = tonumber(encoded_year:sub(5, 5), 16)
+        local new_year_mmdd = tonumber(encoded_year:sub(6, 7), 16)
+        local months = {}
+        for month = 1, 12 do
+            months[#months + 1] = {
+                month = month,
+                leap = 0,
+                days = 29 + math.floor(month_size_bits / 2 ^ (12 - month)) % 2,
+            }
+            if month == leap_month then
+                months[#months + 1] = {
+                    month = month,
+                    leap = 1,
+                    days = 29 + tonumber(encoded_year:sub(4, 4)),
+                }
+            end
+        end
+        years[year] = {
+            new_year = gregorian_day_number(year, math.floor(new_year_mmdd / 100), new_year_mmdd % 100),
+            months = months,
+        }
     end
-end
-
-local function Analyze(Data)
-    local rtn1 = system(Data:sub(1,3), 16, 2)
-    if #rtn1 < 12 then rtn1 = "0" .. rtn1 end
-    local rtn2 = Data:sub(4,4)
-    local rtn3 = system(Data:sub(5,5), 16, 10)
-    local rtn4 = system(Data:sub(-2,-1), 16, 10)
-    if #tostring(rtn4) == 3 then rtn4 = "0" .. rtn4 end
-    return {rtn1, rtn2, rtn3, rtn4}
-end
-
-local function IsLeap(y)
-    y = tonumber(y)
-    return (y % 400 ~= 0 and y % 4 == 0) or (y % 400 == 0)
-end
-
-local function leaveDate(yyyymmdd)
-    local y = tonumber(yyyymmdd:sub(1,4))
-    local m = tonumber(yyyymmdd:sub(5,6))
-    local d = tonumber(yyyymmdd:sub(7,8))
-    local days = IsLeap(y) and {31,29,31,30,31,30,31,31,30,31,30,31}
-                            or {31,28,31,30,31,30,31,31,30,31,30,31}
-    local total = 0
-    for i = 1, m-1 do total = total + days[i] end
-    return total + d
-end
-
-local function diffDate(date1, date2)
-    if date2 < date1 then return -1 end
-    local y1, y2 = date1:sub(1,4), date2:sub(1,4)
-    if y1 == y2 then
-        return leaveDate(date2) - leaveDate(date1)
-    end
-    local total = IsLeap(y1) and 366 or 365
-    total = total - leaveDate(date1) + leaveDate(date2)
-    for y = tonumber(y1)+1, tonumber(y2)-1 do
-        total = total + (IsLeap(y) and 366 or 365)
-    end
-    return total
+    lunar_years_cache = years
+    return years
 end
 
 -- 公历 → 农历
@@ -353,43 +409,27 @@ local function solarToLunar(gregorian)
     local month = tonumber(gregorian:sub(5,6))
     local day = tonumber(gregorian:sub(7,8))
     if year < 1900 or year > 2100 then return "年份超出范围" end
-
-    local pos = year - 1900 + 2
-    local Data1 = LunarData[pos]
-    local tb1 = Analyze(Data1)
-    local monthInfo, leapInfo, leap, newyear = tb1[1], tb1[2], tb1[3], tb1[4]
-    local date1 = year .. newyear
-    local date3 = diffDate(date1, gregorian)
-    if date3 < 0 then
-        year = year - 1
-        local Data0 = LunarData[pos-1]
-        tb1 = Analyze(Data0)
-        monthInfo, leapInfo, leap, newyear = tb1[1], tb1[2], tb1[3], tb1[4]
-        date1 = year .. newyear
-        date3 = diffDate(date1, gregorian)
+    if not month or not day or month < 1 or month > 12 or day < 1 or day > month_days(year, month) then
+        return "日期无效"
     end
-    date3 = date3 + 1
+
+    local years = lunar_years()
+    local day_number = gregorian_day_number(year, month, day)
     local lunarYear = year
-    local thisMonthInfo = leap > 0 and (monthInfo:sub(1,leap) .. leapInfo .. monthInfo:sub(leap+1)) or monthInfo
+    if day_number < years[lunarYear].new_year then lunarYear = lunarYear - 1 end
+    local remaining_days = day_number - years[lunarYear].new_year
+
     local lunarMonth, isLeap, lunarDay
-    for i = 1, 13 do
-        local days = 29 + thisMonthInfo:sub(i,i)
-        if date3 > days then
-            date3 = date3 - days
-        else
-            if leap > 0 then
-                if leap >= i then
-                    lunarMonth, isLeap = i, false
-                else
-                    lunarMonth, isLeap = i - 1, (i - leap == 1)
-                end
-            else
-                lunarMonth, isLeap = i, false
-            end
-            lunarDay = math.floor(date3)
+    for _, month_info in ipairs(years[lunarYear].months) do
+        if remaining_days < month_info.days then
+            lunarMonth = month_info.month
+            isLeap = month_info.leap == 1
+            lunarDay = remaining_days + 1
             break
         end
+        remaining_days = remaining_days - month_info.days
     end
+    if not lunarDay then return "年份超出范围" end
 
     local gan = (lunarYear - 4) % 10 + 1
     local zhi = (lunarYear - 4) % 12 + 1
@@ -399,30 +439,66 @@ local function solarToLunar(gregorian)
         cTianGan[gan], cDiZhi[zhi], cShuXiang[sx], monthStr, cDayName[lunarDay])
 end
 
+-- 公历日期合法性校验
+local function is_valid_date(y, m, d)
+    y, m, d = tonumber(y), tonumber(m), tonumber(d)
+    if not y or not m or not d then return false end
+    if m < 1 or m > 12 or d < 1 then return false end
+    return d <= month_days(y, m)
+end
+
+-- 输出一个公历日期的标准五项（不含时间戳）
+local function yield_date_group(seg, input, y, m, d)
+    if #y == 2 then y = "20" .. y end
+    if #m == 1 then m = "0" .. m end
+    if #d == 1 then d = "0" .. d end
+    if not is_valid_date(y, m, d) then
+        yield_cand(seg, input, "日期无效", "〔錯誤〕")
+        return
+    end
+    local lunar_res = solarToLunar(y .. m .. d)
+    if not lunar_res or lunar_res == "年份超出范围" then
+        yield_cand(seg, input, "日期无效", "〔錯誤〕")
+        return
+    end
+    yield_cand(seg, input, y .. "/" .. m .. "/" .. d, "")
+    yield_cand(seg, input, y .. m .. d, "")
+    -- Windows 的 mktime 不支持 1970 年之前的日期，os.time 会直接抛错并作废整轮候选；
+    -- 故只对 1971 年及以后计算星期，1970 及以前跳过星期候选（留一年余量以避开时区边界）。
+    local year_number = tonumber(y)
+    if year_number and year_number >= 1971 then
+        local ts = os.time{ year = year_number, month = tonumber(m), day = tonumber(d), hour = 12 }
+        if ts then yield_weekday(seg, input, ts) end
+    end
+    yield_cand(seg, input, lunar_res:match("%) (.+)") or lunar_res, "〔農曆〕")
+    yield_cand(seg, input, lunar_res, "〔農曆〕")
+end
+
 -------------------------------------------------------------
 -- 引导部分
 -------------------------------------------------------------
 local M = {}
 
 function M.init(env)
-    local config = env.engine.schema.config
     env.name_space = env.name_space:gsub('^*', '')
     M.prefix = 'V'
 end
 
 function M.func(input, seg, env)
-    if not startsWith(input, M.prefix) then return end
-    local express = truncateFromStart(input, M.prefix)
-    local current_time = os.time()
-    local lunar = solarToLunar(os.date('%Y%m%d', current_time))
-    -- 辅助：输出星期
-    local function yield_weekday(target_time)
-        local wday = tonumber(os.date("%w", target_time))
-        local weekdays = {"周日", "周一", "周二", "周三", "周四", "周五", "周六"}
-        yield_cand(seg, input, weekdays[wday+1], "")
+    local express, is_rq
+    if startsWith(input, M.prefix) then
+        express = truncateFromStart(input, M.prefix)
+        is_rq = false
+    elseif input:match("^rq[+-]") then
+        express = input
+        is_rq = true
+    else
+        return
     end
+    local current_time = os.time()
     -- 无任何内容：输出当前日期、时间戳、农历
     if express == "" then
+        local lunar = solarToLunar(os.date('%Y%m%d', current_time))
         yield_cand(seg, input, os.date('%Y/%m/%d', current_time), "")
         yield_cand(seg, input, os.date('%Y%m%d', current_time), "")
         yield_cand(seg, input, string.format('%d', current_time), "")
@@ -430,72 +506,42 @@ function M.func(input, seg, env)
         return
     end
     -- 公历转农历：支持 yyyy.mm.dd 或 mm.dd/ 格式
-    local y, m, d, year_specified
-    local date_match = express:match("^(%d%d%d?%d?)[%.%/](%d%d?)[%.%/](%d%d?)/?$")
-    if date_match then
-        y, m, d = date_match:match("(%d+)%.?(%d+)%.?(%d+)")  -- 实际上 date_match 已经是三个捕获，直接使用
-        -- 重新：直接用 date_match 的分组
-    end
+    local y, m, d
     y, m, d = express:match("^(%d%d%d?%d?)/(%d%d?)/(%d%d?)/?$")
     if not y then
         -- 再尝试点分隔
         y, m, d = express:match("^(%d%d%d?%d?)%.(%d%d?)%.(%d%d?)/?$")
     end
     if y then
-        if #y == 2 then y = "20" .. y end
-        if #m == 1 then m = "0" .. m end
-        if #d == 1 then d = "0" .. d end
-        local gregorian = y .. m .. d
-        local lunar_res = solarToLunar(gregorian)
-        if lunar_res and lunar_res ~= "年份超出范围" then
-            yield(Candidate(input, seg.start, seg._end, lunar_res, "〔农历〕"))
-        else
-            yield(Candidate(input, seg.start, seg._end, "日期无效", "〔错误〕"))
-        end
+        yield_date_group(seg, input, y, m, d)
         return
     end
     -- 处理仅月.日/ 格式
-    local m, d = express:match("^(%d%d?)[%.%/](%d%d?)/$")
-    if m and d then
-        local y = os.date('%Y', current_time)
-        if #m == 1 then m = "0" .. m end
-        if #d == 1 then d = "0" .. d end
-        local gregorian = y .. m .. d
-        local lunar_res = solarToLunar(gregorian)
-        if lunar_res and lunar_res ~= "年份超出范围" then
-            yield(Candidate(input, seg.start, seg._end, lunar_res, "〔农历〕"))
-        else
-            yield(Candidate(input, seg.start, seg._end, "日期无效", "〔错误〕"))
-        end
+    local mm, dd = express:match("^(%d%d?)[%.%/](%d%d?)/$")
+    if mm and dd then
+        yield_date_group(seg, input, os.date('%Y', current_time), mm, dd)
         return
     end
-    -- 处理 rq[+/-offset]
+    -- 日期偏移：rq 入口管偏移，Vrq 继续管“今天”
     local rq_offset = nil
-    if express:match("^rq[+-]?%d*$") then
-        if express == 'rq' then
-            rq_offset = 0
-        else
-            local sign, num = express:match("^rq([+-])(%d+)$")
-            if sign and num then
-                rq_offset = tonumber(num)
-                if sign == '-' then rq_offset = -rq_offset end
-            end
+    if is_rq then
+        local sign, num = express:match("^rq([+-])(%d*)$")
+        if sign then
+            rq_offset = tonumber(num) or 0
+            if sign == '-' then rq_offset = -rq_offset end
         end
+    elseif express == 'rq' then
+        rq_offset = 0
     end
     if rq_offset then
         local target_time = current_time + rq_offset * 86400
         yield_cand(seg, input, os.date('%Y/%m/%d', target_time), "")
-        if rq_offset == 0 then
-            yield_cand(seg, input, os.date('%Y%m%d', target_time), "")
-            yield_cand(seg, input, os.date('%Y-%m-%d', target_time), "")
-        end
-        if rq_offset ~= 0 then
-            yield_weekday(target_time)
-        end
+        yield_cand(seg, input, os.date('%Y%m%d', target_time), "")
+        yield_weekday(seg, input, target_time)
         local lunar_full = solarToLunar(os.date('%Y%m%d', target_time))
         local lunar_md = lunar_full:match("%) (.+)") or lunar_full
-        yield_cand(seg, input, lunar_md, "农历")
-        yield_cand(seg, input, lunar_full, "农历")
+        yield_cand(seg, input, lunar_md, "〔農曆〕")
+        yield_cand(seg, input, lunar_full, "〔農曆〕")
         return
     end
     -- 时间格式
@@ -508,7 +554,7 @@ function M.func(input, seg, env)
     end
     -- 星期
     if express == 'week' or express == 'xq' then
-        yield_weekday(current_time)
+        yield_weekday(seg, input, current_time)
         local wday = tonumber(os.date("%w", current_time))
         local weekdayTs = {"星期天", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"}
         yield_cand(seg, input, weekdayTs[wday+1], "")
@@ -519,24 +565,26 @@ function M.func(input, seg, env)
     -- 计算器部分
     local part_int, part_dot, part_dec = string.match(express, "^(%d*)(%.?)(%d*)$")
     if not part_int or not part_dot or not part_dec then
-        local code = replaceToFactorial(express)
+        local code = replaceToFactorial(express:gsub("(%d)([kmbt])", "%1*%2"))
         local success, result = pcall(load("return " .. code, "calculate", "t", calcPlugin))
         if success then
             if type(result) ~= "number" then
                 yield(Candidate(input, seg.start, seg._end, express, "表達式"))
                 return
             end
-            local result_str = tostring(result)
+            local result_str = num_to_str(result)
             yield(Candidate(input, seg.start, seg._end, result_str, ""))
             yield(Candidate(input, seg.start, seg._end, express .. "=" .. result_str, ""))
 
-            -- 使用新的数字转换函数
-            local approx = string.format("%.2f", round2(result, 0.01))
-            local new_param = format_number_without_trailing_zeros(approx)
-            local conversions = translateNumStr(new_param)
-            yield(Candidate(input, seg.start, seg._end, approx, "〔捨入〕"))
-            yield(Candidate(input, seg.start, seg._end, conversions[1][2], conversions[1][1]))
-            -- yield(Candidate(input, seg.start, seg._end, conversions[3][2], conversions[3][1]))
+            -- 使用新的数字转换函数：|result| >= 1e13 时 0.01 精度已无意义，跳过
+            if math.abs(result) < 1e13 then
+                local approx = string.format("%.2f", round2(result, 0.01))
+                local new_param = format_number_without_trailing_zeros(approx)
+                local conversions = translateNumStr(new_param)
+                yield(Candidate(input, seg.start, seg._end, approx, "〔捨入〕"))
+                yield(Candidate(input, seg.start, seg._end, conversions[1][2], conversions[1][1]))
+                -- yield(Candidate(input, seg.start, seg._end, conversions[3][2], conversions[3][1]))
+            end
         else
             yield(Candidate(input, seg.start, seg._end, express, "表達式"))
         end

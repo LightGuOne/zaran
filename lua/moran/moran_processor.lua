@@ -42,7 +42,10 @@ local function select_third_candidate_processor(key_event, env)
     local context = env.engine.context
     -- 2. 输入长度限制：严格匹配 2~3 个小写字母（不可含分隔符等）
     local input = context.input
-    if not (input:match("^[a-z][a-z][a-z]?$") or input == "V") then
+    if context.input:find('^rq') then
+        return kNoop
+    end
+    if not (input:match("^[a-z][a-z][a-z]?$") or input == "V" ) then
         return kNoop
     end
     local composition = context.composition
