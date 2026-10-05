@@ -20,8 +20,11 @@ sort: by_weight
 乐山乐水	yk;pd uj;aa yk;pd uv;ad	12
 于思于思	yu;aa sl;xt yu;aa sl;xt	144
 伤着了	uh;rl ve;yo le;aa	130
+可能得	ke;dk ng;sb dz;xc	67
 不落下	bu;ad la;cl xw;ab	100
 横行	hg;mh hh;xi	554
+转转	vr;iv vr;iv	100
+转一转	vr;iv yi;aa vr;iv	39
 倒数	dk;rd uu;wl	1010
 省得	xy;ou de;xc	100
 不省得	bu;ad xy;ou de;xc	100
@@ -4400,9 +4403,6 @@ sort: by_weight
 谁与共饮	uz;yv yu;aa gs;cb yn;uq	11
 谁与温存	uz;yv yu;aa wf;dm cp;uz	1
 谁与争锋	uz;yv yu;aa vg;dy fg;jf	52
-谁与争疯	uz;yv yu;aa vg;dy fg;bf	17
-谁与争风	uz;yv yu;aa vg;dy fg;ji	13
-谁于争锋	uz;yv yu;aa vg;dy fg;jf	1
 谁与争功	uz;yv yu;aa vg;dy gs;lg	6
 谁愿为首	uz;yv yr;xy wz;dd ub;qz	8
 谁在背后	uz;yv zl;ut bz;ob hb;pk	32
@@ -4696,7 +4696,6 @@ sort: by_weight
 两个余	ld;ad ge;ra yu;rb	571
 两个予	ld;ad ge;ra yu;sa	541
 两个禺	ld;ad ge;ra yu;ad	511
-两个月	ld;ad ge;ra yt;pa	18847
 两个曰	ld;ad ge;ra yt;aa	18817
 两个真	ld;ad ge;ra vf;uj	808
 两个止	ld;ad ge;ra vi;aa	709

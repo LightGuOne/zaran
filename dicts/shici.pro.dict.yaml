@@ -16368,7 +16368,7 @@ sort: by_weight
 又一惑也	yb;vd yi;aa ho;xh ye;gg	10
 由仪今佚	yb;aa yi;ry jn;ra yi;ru	10
 有遗类矣	yb;ou yi;zg lz;md yi;su	10
-侑以清乐	yb;ry yi;rd qy;dq le;pd	10
+侑以清乐	yb;ry yi;rd qy;dq yt;pd	10
 忧以天下	yb;xy yi;rd tm;ad xw;ab	44
 有以异乎	yb;ou yi;rd yi;cs hu;pa	44
 有翼自薄	yb;ou yi;yg zi;pa bk;cc	44
@@ -58077,7 +58077,7 @@ sort: by_weight
 风中兰靡靡	fg;ji vs;aa lj;qe mi;fm mi;fm	10
 风中聆素琴	fg;ji vs;aa ly;el su;sf qn;wj	10
 风中闻草木	fg;ji vs;aa wf;em ck;cz mu;ad	10
-风中闻清乐	fg;ji vs;aa wf;em qy;dq le;pd	10
+风中闻清乐	fg;ji vs;aa wf;em qy;dq yt;pd	10
 风中意泠然	fg;ji vs;aa yi;xy ly;dl rj;hq	10
 逢舟或借风	fg;zf vb;pd ho;gk jx;rx fg;ji	10
 枫竹暗停神	fg;mf vu;gg an;oy ty;rt uf;uu	10
@@ -98565,7 +98565,7 @@ sort: by_weight
 肯作池上鹜	kf;ov zo;rv ii;dy uh;aa wu;nm	10
 肯作家鸡伴	kf;ov zo;rv jw;bu ji;ny bj;rb	10
 肯作置书邮	kf;ov zo;rv vi;sv uu;ad yb;ey	10
-铿尔荐清乐	kg;jj er;dx jm;cc qy;dq le;pd	10
+铿尔荐清乐	kg;jj er;dx jm;cc qy;dq yt;pd	10
 铿轰钟隐雷	kg;jj hs;iu vs;jv yn;ej lz;yt	10
 铿戛金石声	kg;jj jw;go jn;ra ui;kp ug;um	10
 坑降塞邑愁	kg;tk jd;ef sl;tb yi;kb ib;xq	10
@@ -131356,9 +131356,6 @@ sort: by_weight
 清朗悟心术	qy;dq lh;ol wu;xw xn;dd uu;md	10
 清浪浴潭鱼	qy;dq lh;dl yu;dg tj;dt yu;da	10
 轻浪甃鱼鳞	qy;ig lh;dl vb;wq yu;da ln;yl	10
-清乐动千门	qy;dq le;pd ds;ly qm;pa mf;dg	10
-清乐动诸天	qy;dq le;pd ds;ly vu;yv tm;ad	10
-清乐九天闻	qy;dq le;pd jq;py tm;ad wf;em	10
 清泪长啼血	qy;dq lz;do ih;pd ti;kd xt;pa	10
 清羸还对月	qy;dq lz;dd hl;zb dv;cy yt;pa	10
 清羸驾彩鸾	qy;dq lz;dd jw;mj cl;pc lr;ny	10
@@ -132790,9 +132787,12 @@ sort: by_weight
 清猿助客愁	qy;dq yr;qy vu;lq ke;bg ib;xq	10
 清猿坐见伤	qy;dq yr;qy zo;tc jm;ag uh;rl	10
 清月半西楼	qy;dq yt;pa bj;bf xi;aa lb;ml	10
+清乐动千门	qy;dq yt;pd ds;ly qm;pa mf;dg	10
+清乐动诸天	qy;dq yt;pd ds;ly vu;yv tm;ad	10
 青岳好登高	qy;of yt;uq hk;nz dg;dd gk;wk	10
 清月皓方闲	qy;dq yt;pa hk;bg fh;wd xm;mm	10
 晴月九重开	qy;oq yt;pa jq;py is;pa kl;ac	10
+清乐九天闻	qy;dq yt;pd jq;py tm;ad wf;em	10
 清越扣琼瑰	qy;dq yt;zy kb;fk qs;wj gv;wg	10
 卿月丽层穹	qy;mg yt;pa li;ad cg;uy qs;xg	10
 清越岂同年	qy;dq yt;zy qi;uj ts;kk nm;ra	10
@@ -233749,6 +233749,7 @@ sort: by_weight
 黄昏只对梨花	hd;cb hp;ou vi;kb dv;cy li;ml hw;ch	10
 怳惊起而长嗟	hd;xx jy;xj qi;zj er;aa ih;pd jx;ki	10
 恍惊起而长嗟	hd;xg jy;xj qi;zj er;aa ih;pd jx;ki	10
+荒了邵平瓜圃	hd;ci le;aa uk;ev py;aa gw;pd pu;kf	10
 黄鹂又啼数声	hd;cb li;nl yb;vd ti;kd uu;wl ug;um	10
 皇烈烈专天机	hd;bw lx;hl lx;hl vr;ad tm;ad ji;mj	10
 黄门飞鞚动尘	hd;cb mf;dg fz;yd ks;gk ds;ly if;tx	10
@@ -234503,12 +234504,12 @@ sort: by_weight
 君子敬而无失	jp;ky zi;aa jy;wg er;aa wu;ag ui;pf	10
 君子居则贵左	jp;ky zi;aa ju;ug ze;bd gv;ba zo;ug	10
 君子乐而忘归	jp;ky zi;aa le;pd er;aa wh;xw gv;ax	10
-君子生非异也	jp;ky zi;aa ug;na fz;aa yi;cs ye;gg	10
 君子食无求饱	jp;ky zi;aa ui;rl wu;ag qq;ad bk;ub	10
 君子是则是效	jp;ky zi;aa ui;op ze;bd ui;op xc;wj	10
 君子所以骇国	jp;ky zi;aa so;hj yi;rd hl;mh go;ky	10
 君子泰而不骄	jp;ky zi;aa tl;uf er;aa bu;ad jc;mq	10
 君子无易由言	jp;ky zi;aa wu;ag yi;ow yb;aa yj;wk	10
+君子生非异也	jp;ky zi;aa xy;na fz;aa yi;cs ye;gg	10
 君子以仁存心	jp;ky zi;aa yi;rd rf;re cp;uz xn;dd	10
 君子以文会友	jp;ky zi;aa yi;rd wf;wi hv;ry yb;yu	10
 君子义以为上	jp;ky zi;aa yi;id yi;rd wz;dd uh;aa	10
@@ -235805,6 +235806,7 @@ sort: by_weight
 汝初闻言而怒	ru;dn iu;yd wf;em yj;wk er;aa nu;xn	10
 汝得全而形躯	ru;dn de;xc qr;rw er;aa xy;pk qu;uq	10
 汝得人焉尔乎	ru;dn de;xc rf;pd yj;vh er;dx hu;pa	10
+儒冠曾把身误	ru;rx gr;bc cg;ob ba;fb uf;pp wu;yw	10
 如果细心的话	ru;nk go;tm xi;st xn;dd de;bu hw;yu	10
 汝何得有夫道	ru;dn he;rk de;xc yb;ou fu;ad dk;zu	10
 如何梦也都无	ru;nk he;rk mg;mx ye;gg db;ev wu;ag	10
@@ -239815,6 +239817,7 @@ sort: by_weight
 灞岸青门有弊庐	ba;db an;ug qy;of mf;dg yb;ou bi;cb lu;gh	10
 灞岸已攀行客手	ba;db an;ug yi;vg pj;ud xy;xi ke;bg ub;pa	10
 八百老彭嗟杖晚	ba;pd bl;ab lk;lb pg;pd jx;ki vh;mv wj;om	10
+八百里分麾下炙	ba;pd bl;ab li;aa ff;bd hv;mm xw;ab vi;oh	10
 把臂道人今在否	ba;fb bi;ob dk;zu rf;pd jn;ra zl;ut fb;kb	10
 把臂开尊饮我酒	ba;fb bi;ob kl;ac zp;cq yn;uq wo;pd jq;dy	10
 八表无事悦圣情	ba;pd bc;fy wu;ag ui;aa yt;xd ug;ty qy;xq	10
@@ -258819,6 +258822,7 @@ sort: by_weight
 公到江南应削瓜	gs;sb dk;dv jd;dg nj;ua yy;ga xt;dx gw;pd	10
 共道进贤蒙上赏	gs;cb dk;zu jn;zj xm;by mg;cm uh;aa uh;bk	10
 弓刀陌上望行色	gs;vg dk;gp mo;eb uh;aa wh;wo xy;xi se;db	10
+弓刀千骑成何事	gs;vg dk;gp qm;pa ji;mq ig;gg he;rk ui;aa	10
 共道人间惆怅事	gs;cb dk;zu rf;pd jm;mo ib;xv ih;xi ui;aa	10
 共道使臣非俗吏	gs;cb dk;zu ui;rl if;aa fz;aa su;rg li;ad	10
 共道用兵如断蔗	gs;cb dk;zu ys;kf by;qb ru;nk dr;ja ve;cu	10
@@ -288705,7 +288709,6 @@ sort: by_weight
 情来一倍苦相思	qy;xq ll;am yi;aa bz;rk ku;cg xd;mo si;xt	10
 清澜一洗啼痕空	qy;dq lj;dl yi;aa xi;dx ti;kd hf;bg ks;xg	10
 轻浪参差鱼动镜	qy;ig lh;dl cf;sp ci;yg yu;da ds;ly jy;jj	10
-清乐灵香几处闻	qy;dq le;pd ly;hx xd;ho ji;py iu;wb wf;em	10
 清泪难忘父母邦	qy;dq lz;do nj;vy wh;xw fu;pd mu;vd bh;ef	10
 清羸已近百年身	qy;dq lz;dd yi;vg jn;zj bl;ab nm;ra uf;pp	10
 清羸已觉助禅心	qy;dq lz;dd yi;vg jt;jb vu;lq ij;ud xn;dd	10
@@ -289305,6 +289308,7 @@ sort: by_weight
 青原万丈光赫赫	qy;of yr;ix wj;ag vh;ad gd;ea he;ii he;ii	10
 清源寻尽花绵绵	qy;dq yr;dy xp;cx jn;id hw;ch mm;sb mm;sb	10
 清月出岭光入扉	qy;dq yt;pa iu;aa ly;ul gd;ea ru;pd fz;hf	10
+清乐灵香几处闻	qy;dq yt;pd ly;hx xd;ho ji;py iu;wb wf;em	10
 清月依微香露轻	qy;dq yt;pa yi;ry wz;xw xd;ho lu;yl qy;ig	10
 青云北望紫微遥	qy;of yp;es bz;ag wh;wo zi;sc wz;xw yk;zf	10
 青云表柱白云崖	qy;of yp;es bc;fy vu;mv bl;pa yp;es ya;uy	10
@@ -316965,6 +316969,7 @@ sort: by_weight
 一船西去此登临	yi;aa ir;vk xi;aa qu;ts ci;vb dg;dd ln;ao	10
 移船相近邀相见	yi;hd ir;vk xd;mo jn;zj yk;zj xd;mo jm;ag	10
 一川秀色明花柳	yi;aa ir;pa xq;hn se;db my;oo hw;ch lq;mm	10
+一川夜月光流渚	yi;aa ir;pa ye;wd yt;pa gd;ea lq;di vu;dv	10
 伊川佚老鬓如霜	yi;ry ir;pa yi;ru lk;lb bn;ib ru;nk ud;yx	10
 一川浊水浮文鷁	yi;aa ir;pa vo;di uv;ad fu;df wf;wi yi;ny	10
 臆穿足裂忍痛何	yi;oy ir;xy zu;kv lx;yl rf;xr ts;by he;rk	10
@@ -318599,7 +318604,7 @@ sort: by_weight
 一闻君语识君心	yi;aa wf;em jp;ky yu;yw ui;yv jp;ky xn;dd	10
 一闻陌上苦寒奏	yi;aa wf;em mo;eb uh;aa ku;cg hj;bd zb;tf	10
 已闻佩响知腰细	yi;vg wf;em pz;rb xd;kx vi;ku yk;oy xi;st	10
-已闻清乐动云韶	yi;vg wf;em qy;dq le;pd ds;ly yp;es uk;yv	10
+已闻清乐动云韶	yi;vg wf;em qy;dq yt;pd ds;ly yp;es uk;yv	10
 一闻说尽急难材	yi;aa wf;em uo;yd jn;id ji;xi nj;vy cl;mc	10
 亦闻私地学求仙	yi;wb wf;em si;hs di;ty xt;zb qq;ad xm;ru	10
 已闻乡里催织作	yi;vg wf;em xd;ap li;aa cv;rc vi;sv zo;rv	10
