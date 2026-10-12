@@ -88,7 +88,6 @@ sort: by_weight
 蔡邕	cl;cj ys;ib	664
 蔡泽	cl;cj ze;df	558
 残雪	cj;dj xt;yx	2123
-仓颉	ch;re jx;yj	1872
 曹昂	ck;oc ah;oe	706
 曹彬	ck;oc bn;pl	345
 曹豳	ck;oc bn;uu	202
@@ -2027,6 +2026,7 @@ sort: by_weight
 胤禛	yn;pg vf;uv	395
 英布	yy;cy bu;ju	1107
 颖超	yy;yh ik;zv	701
+嬴荡	yy;nk dh;ct	10
 英格	yy;cy ge;mg	137
 嬴稷	yy;nk ji;hw	38
 英台	yy;cy tl;sk	47
@@ -2093,6 +2093,8 @@ sort: by_weight
 元稹	yr;aw vf;hv	859
 约伯	yt;su bo;rb	38
 乐儿	yt;pd er;pg	53
+岳飞	yt;uq fz;yd	540
+岳甫	yt;uq fu;ad	66
 乐和	yt;pd he;hk	298
 约拿	yt;su na;uh	669
 月如	yt;pa ru;nk	345
@@ -2442,7 +2444,6 @@ sort: by_weight
 白河愁	bl;pa he;dk ib;xq	13
 百合子	bl;ab he;rk zi;aa	376
 白居易	bl;pa ju;ug yi;ow	6227
-柏拉图	bl;mb la;fl tu;kd	8453
 白朗宁	bl;pa lh;ol ny;bd	22
 百里奚	bl;ab li;aa xi;vd	85
 白龙王	bl;pa ls;ad wh;aa	9
@@ -2591,6 +2592,7 @@ sort: by_weight
 薄伽丘	bo;cc jw;rj qq;pa	85
 博卡萨	bo;uc ka;ub sa;ci	9
 波拉克	bo;dp la;fl ke;eg	69
+柏拉图	bo;mb la;fl tu;kd	8453
 勃兰特	bo;lb lj;qe te;ns	104
 勃朗宁	bo;lb lh;ol ny;bd	122
 勃朗特	bo;lb lh;ol te;ns	418
@@ -12364,6 +12366,7 @@ sort: by_weight
 袁宗道	yr;ty zs;bu dk;zu	3
 袁宗第	yr;ty zs;bu di;vp	16
 袁祖铭	yr;ty zu;uq my;jm	468
+岳不群	yt;uq bu;ad qp;yj	1903
 岳海岩	yt;uq hl;dm yj;uu	230
 约翰斯	yt;su hj;yu si;jq	97
 约翰王	yt;su hj;yu wh;aa	536
@@ -13587,9 +13590,6 @@ sort: by_weight
 柏佳俊因	bl;mb jw;rg jp;rj yn;kd	76
 百剑堂主	bl;ab jm;da th;tk vu;dw	320
 白蜡明经	bl;pa la;ix my;oo jy;sg	4
-柏拉图的	bl;mb la;fl tu;kd de;bu	909
-柏拉图说	bl;mb la;fl tu;kd uo;yd	126
-柏郎嘉宾	bl;mb lh;el jw;uj bn;bb	310
 柏勒洛丰	bl;mb le;lg lo;dg fg;aa	351
 百里弘毅	bl;ab li;aa hs;gs yi;uu	4
 百里毅行	bl;ab li;aa yi;uu xy;xi	243
@@ -15012,6 +15012,7 @@ sort: by_weight
 黄檗希运	hd;cb bo;mb xi;ib yp;zy	252
 黄帝轩辕	hd;cb di;jb xr;ig yr;iy	441
 皇甫德参	hd;bw fu;ad de;xx uf;sp	144
+皇夫菲腊	hd;bw fu;ad fz;cf la;ox	248
 皇甫惟明	hd;bw fu;ad wz;xv my;oo	44
 黄盖公覆	hd;cb gl;my gs;sb fu;xf	130
 皇后婉容	hd;bw hb;pk wj;nw rs;bg	482

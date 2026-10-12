@@ -9,7 +9,6 @@ name: lianxiang
 version: "LTS"
 sort: by_weight
 ...
-阿巴科群岛	aa;ek ba;ag ke;hd qp;yj dk;nu	10
 阿贝比长仪	aa;ek bz;ad bi;bb ih;pd yi;ry	10
 阿贝不变量	aa;ek bz;ad bu;ad bm;wy ld;ol	10
 阿贝尔代数	aa;ek bz;ad er;dx dl;ry uu;wl	10
@@ -885,7 +884,6 @@ sort: by_weight
 爸不得爱你	ba;fb bu;ad de;xc ai;vy ni;re	10
 八部佛名经	ba;pd bu;ek fo;rf my;xk jy;sg	10
 巴布科模型	ba;ag bu;ju ke;hd mo;mm xy;tx	10
-巴布延群岛	ba;ag bu;ju yj;zv qp;yj dk;nu	10
 八彩林亚珍	ba;pd cl;pc ln;mm ya;ay vf;wp	10
 耙齿沥水库	ba;lb ii;vk li;dl uv;ad ku;gi	10
 八尺琼勾玉	ba;pd ii;ad qs;wj gb;gs yu;wd	10
@@ -978,7 +976,6 @@ sort: by_weight
 把牢底坐穿	ba;fb lk;bn di;gd zo;tc ir;xy	10
 把乐带回家	ba;fb le;pd dl;jb hv;kk jw;bu	10
 扒了个精光	ba;fb le;aa ge;ra jy;mq gd;ea	10
-巴勒尼群岛	ba;ag le;lg ni;ub qp;yj dk;nu	10
 巴雷特公司	ba;ag lz;yt te;ns gs;sb si;gk	10
 巴雷特溃疡	ba;ag lz;yt te;ns kv;dg yh;by	10
 巴雷特食管	ba;ag lz;yt te;ns ui;rl gr;vg	10
@@ -1322,15 +1319,12 @@ sort: by_weight
 白河大仙寺	bl;pa he;dk da;ad xm;ru si;ct	10
 百合的春天	bl;ab he;rk de;bu ip;of tm;ad	10
 百合更年安	bl;ab he;rk gg;ad nm;ra an;bn	10
-百合固金汤	bl;ab he;rk gu;kg jn;ra th;dy	10
 百合海鸥号	bl;ab he;rk hl;dm ou;nq hk;kk	10
-百合鸡子汤	bl;ab he;rk ji;ny zi;aa th;dy	10
 白鹤梁题刻	bl;pa he;nv ld;md ti;uy ke;dh	10
 白鹤美术馆	bl;pa he;nv mz;dy uu;md gr;ug	10
 白鹤南翔寺	bl;pa he;nv nj;ua xd;yy si;ct	10
 拜合提亚尔	bl;uf he;rk ti;fu ya;ay er;dx	10
 百合熊风暴	bl;ab he;rk xs;hn fg;ji bk;ou	10
-百合知母汤	bl;ab he;rk vi;ku mu;vd th;dy	10
 百合植物纲	bl;ab he;rk vi;mv wu;nw gh;sg	10
 白厚干苔舌	bl;pa hb;iz gj;aa tl;ct ue;kq	10
 白厚滑苔舌	bl;pa hb;iz hw;dg tl;ct ue;kq	10
@@ -1338,7 +1332,6 @@ sort: by_weight
 白喉三不可	bl;pa hb;kh sj;aa bu;ad ke;dk	10
 柏后神农庙	bl;mb hb;pk uf;uu ns;by mc;gy	10
 白虎观会议	bl;pa hu;hj gr;jy hv;ry yi;yy	10
-白虎化癍汤	bl;pa hu;hj hw;rb bj;bb th;dy	10
 白虎通德论	bl;pa hu;hj ts;zy de;xx lp;yl	10
 白虎证似痫	bl;pa hu;hj vg;yv si;ry xm;bx	10
 白花矮陀陀	bl;pa hw;ch ai;uw to;et to;et	10
@@ -1423,7 +1416,6 @@ sort: by_weight
 白里透着红	bl;pa li;aa tb;zx ve;yo hs;sg	10
 百利无一害	bl;ab li;hd wu;ag yi;aa hl;bk	10
 白莲教起义	bl;pa lm;cl jc;wx qi;zj yi;id	10
-白蔹薏苡汤	bl;pa lm;cl yi;cy yi;cy th;dy	10
 百联又一城	bl;ab lm;eg yb;vd yi;aa ig;ti	10
 百林吉丁岸	bl;ab ln;mm ji;ku dy;aa an;ug	10
 白领的企鹅	bl;pa ly;yl de;bu qi;rv ee;nw	10
@@ -1694,8 +1686,6 @@ sort: by_weight
 白质后连合	bl;pa vi;bu hb;pk lm;zi he;rk	10
 白汁鸡皇饭	bl;pa vi;du ji;ny hd;bw fj;uf	10
 白质前连合	bl;pa vi;bu qm;qd lm;zi he;rk	10
-白芷升麻汤	bl;pa vi;cv ug;pc ma;gl th;dy	10
-白芷石膏汤	bl;pa vi;cv ui;kp gk;og th;dy	10
 白枝羊蹄甲	bl;pa vi;mv yh;da ti;zd jw;aa	10
 白雉鱼形介	bl;pa vi;vu yu;da xy;pk jx;ra	10
 白中子衍射	bl;pa vs;aa zi;aa yj;xd ue;cu	10
@@ -1703,19 +1693,14 @@ sort: by_weight
 白昼与黑夜	bl;pa vb;id yu;aa hz;ha ye;wd	10
 白州蒸溜所	bl;pa vb;id vg;hv lq;dl so;hj	10
 白州蒸馏所	bl;pa vb;id vg;hv lq;ul so;hj	10
-白术附子汤	bl;pa vu;md fu;ef zi;aa th;dy	10
 白术各等分	bl;pa vu;md ge;wk dg;vs ff;bd	10
 白术各三两	bl;pa vu;md ge;wk sj;aa ld;ad	10
-白术和中汤	bl;pa vu;md he;hk vs;aa th;dy	10
 白竹湖农场	bl;pa vu;gg hu;dh ns;by ih;ty	10
-白术黄芩汤	bl;pa vu;md hd;cb qn;cj th;dy	10
 白术麦门冬	bl;pa vu;md ml;fw mf;dg ds;wd	10
-白术苡仁汤	bl;pa vu;md yi;cy rf;re th;dy	10
 稗子的比喻	bl;hb zi;aa de;bu bi;bb yu;ky	10
 柏孜克里克	bl;mb zi;wz ke;eg li;aa ke;eg	10
 百子湾桥东	bl;ab zi;aa wj;dw qc;mq ds;ad	10
 柏兹西兹尼	bl;mb zi;qy xi;aa zi;qy ni;ub	10
-柏子养心汤	bl;mb zi;aa yh;ya xn;dd th;dy	10
 斑白的头发	bj;ww bl;pa de;bu tb;dd fa;ay	10
 班班有歌声	bj;dw bj;dw yb;ou ge;qg ug;um	10
 半保留复制	bj;bf bk;rd lq;td fu;wo vi;dg	10
@@ -1971,12 +1956,6 @@ sort: by_weight
 半无限平面	bj;bf wu;ag xm;eg py;aa mm;aa	10
 坂西利八郎	bj;tf xi;aa li;hd ba;pd lh;el	10
 半夏各半升	bj;bf xw;wz ge;wk bj;bf ug;pc	10
-半夏厚朴汤	bj;bf xw;wz hb;iz po;mb th;dy	10
-半夏藿香汤	bj;bf xw;wz ho;ch xd;ho th;dy	10
-半夏散及汤	bj;bf xw;wz sj;wo ji;nd th;dy	10
-半夏秫米汤	bj;bf xw;wz uu;hu mi;dd th;dy	10
-半夏温肺汤	bj;bf xw;wz wf;dm fz;of th;dy	10
-半夏左经汤	bj;bf xw;wz zo;ug jy;sg th;dy	10
 半纤维素酶	bj;bf xm;sq wz;sv su;sf mz;ym	10
 半线性变换	bj;bf xm;sj xy;xu bm;wy hr;fh	10
 半线性代换	bj;bf xm;sj xy;xu dl;ry hr;fh	10
@@ -2655,7 +2634,6 @@ sort: by_weight
 北鄂霍次克	bz;ag ee;ee ho;yv ci;dq ke;eg	10
 北恩菲尔德	bz;ag en;xy fz;cf er;dx de;xx	10
 贝尔不等式	bz;ad er;dx bu;ad dg;vs ui;gy	10
-贝尔彻群岛	bz;ad er;dx ie;xq qp;yj dk;nu	10
 贝尔法斯特	bz;ad er;dx fa;dq si;jq te;ns	10
 贝尔纲定理	bz;ad er;dx gh;sg dy;bp li;wl	10
 贝尔格莱德	bz;ad er;dx ge;mg ll;cl de;xx	10
@@ -3390,7 +3368,6 @@ sort: by_weight
 本能的反应	bf;aa ng;sb de;bu fj;py yy;ga	10
 本能的抗拒	bf;aa ng;sb de;bu kh;fk ju;fj	10
 本能的欲望	bf;aa ng;sb de;bu yu;qg wh;wo	10
-本能寺旧址	bf;aa ng;sb si;ct jq;ao vi;tv	10
 本能寺之变	bf;aa ng;sb si;ct vi;dd bm;wy	10
 笨鸟不想飞	bf;vb nc;pa bu;ad xd;xx fz;yd	10
 笨鸟儿先飞	bf;vb nc;pa er;pg xm;ne fz;yd	10
@@ -3699,7 +3676,6 @@ sort: by_weight
 避税及逃税	bi;zb uv;hd ji;nd tk;zv uv;hd	10
 必死的决心	bi;dd si;db de;bu jt;dd xn;dd	10
 鼻饲管置管	bi;zb si;us gr;vg vi;sv gr;vg	10
-比斯科群岛	bi;bb si;jq ke;hd qp;yj dk;nu	10
 闭锁性阑尾	bi;mc so;jb xy;xu lj;mj wz;um	10
 闭锁症候群	bi;mc so;jb vg;bv hb;ru qp;yj	10
 比他更凶残	bi;bb ta;ry gg;ad xs;ik cj;dj	10
@@ -3726,7 +3702,6 @@ sort: by_weight
 比想象中还	bi;bb xd;xx xd;du vs;aa hl;zb	10
 比想象中好	bi;bb xd;xx xd;du vs;aa hk;nz	10
 必小便不利	bi;dd xc;ad bm;rg bu;ad li;hd	10
-必小柴胡汤	bi;dd xc;ad il;mc hu;og th;dy	10
 鼻小柱延长	bi;zb xc;ad vu;mv yj;zv ih;pd	10
 鼻小柱异常	bi;zb xc;ad vu;mv yi;cs ih;jk	10
 辟邪保平安	bi;xk xx;ey bk;rd py;aa an;bn	10
@@ -3861,7 +3836,6 @@ sort: by_weight
 辩护与代理	bm;yx hu;fh yu;aa dl;ry li;wl	10
 变化的电场	bm;wy hw;rb de;bu dm;ag ih;ty	10
 变化和成长	bm;wy hw;rb he;hk ig;gg vh;pd	10
-编辑部旧址	bm;sb ji;ie bu;ek jq;ao vi;tv	10
 边际成本法	bm;zl ji;eu ig;gg bf;aa fa;dq	10
 边际分析法	bm;zl ji;eu ff;bd xi;mj fa;dq	10
 边际利润率	bm;zl ji;eu li;hd rp;dr lv;wu	10
@@ -4762,90 +4736,59 @@ sort: by_weight
 不都一样吗	bu;ad db;ev yi;aa yh;my ma;km	10
 不都一样嘛	bu;ad db;ev yi;aa yh;my ma;km	10
 不独子其子	bu;ad du;qi zi;aa qi;ba zi;aa	10
-不断的变化	bu;ad dr;ja de;bu bm;wy hw;rb	10
-不断的尝试	bu;ad dr;ja de;bu ih;xy ui;yu	10
+不断地变化	bu;ad dr;ja de;ty bm;wy hw;rb	10
 不断地尝试	bu;ad dr;ja de;ty ih;xy ui;yu	10
-不断的超越	bu;ad dr;ja de;bu ik;zv yt;zy	10
 不断地超越	bu;ad dr;ja de;ty ik;zv yt;zy	10
-不断的成长	bu;ad dr;ja de;bu ig;gg vh;pd	10
 不断地成长	bu;ad dr;ja de;ty ig;gg vh;pd	10
-不断的重复	bu;ad dr;ja de;bu is;pa fu;wo	10
 不断地重复	bu;ad dr;ja de;ty is;pa fu;wo	10
-不断的出现	bu;ad dr;ja de;bu iu;aa xm;wj	10
 不断地出现	bu;ad dr;ja de;ty iu;aa xm;wj	10
-不断的创新	bu;ad dr;ja de;bu id;dc xn;jq	10
 不断地创新	bu;ad dr;ja de;ty id;dc xn;jq	10
-不断的创造	bu;ad dr;ja de;bu id;dc zk;zg	10
-不断的刺激	bu;ad dr;ja de;bu ci;dc ji;dj	10
-不断的打磨	bu;ad dr;ja de;bu da;fd mo;um	10
-不断的发展	bu;ad dr;ja de;bu fa;ay vj;uy	10
+不断地创造	bu;ad dr;ja de;ty id;dc zk;zg	10
+不断地刺激	bu;ad dr;ja de;ty ci;dc ji;dj	10
+不断地打磨	bu;ad dr;ja de;ty da;fd mo;um	10
 不断地发展	bu;ad dr;ja de;ty fa;ay vj;uy	10
 不断地反思	bu;ad dr;ja de;ty fj;py si;xt	10
-不断的奋斗	bu;ad dr;ja de;bu ff;dt db;du	10
-不断的丰富	bu;ad dr;ja de;bu fg;aa fu;bf	10
-不断的付出	bu;ad dr;ja de;bu fu;rc iu;aa	10
-不断的改变	bu;ad dr;ja de;bu gl;wj bm;wy	10
+不断地奋斗	bu;ad dr;ja de;ty ff;dt db;du	10
+不断地丰富	bu;ad dr;ja de;ty fg;aa fu;bf	10
+不断地付出	bu;ad dr;ja de;ty fu;rc iu;aa	10
 不断地改变	bu;ad dr;ja de;ty gl;wj bm;wy	10
-不断的改进	bu;ad dr;ja de;bu gl;wj jn;zj	10
 不断地改进	bu;ad dr;ja de;ty gl;wj jn;zj	10
-不断的革新	bu;ad dr;ja de;bu ge;ca xn;jq	10
-不断的更新	bu;ad dr;ja de;bu gg;ad xn;jq	10
+不断地革新	bu;ad dr;ja de;ty ge;ca xn;jq	10
 不断地更新	bu;ad dr;ja de;ty gg;ad xn;jq	10
-不断的鼓励	bu;ad dr;ja de;bu gu;vd li;ll	10
-不断的积累	bu;ad dr;ja de;bu ji;hv lz;st	10
+不断地鼓励	bu;ad dr;ja de;ty gu;vd li;ll	10
 不断地积累	bu;ad dr;ja de;ty ji;hv lz;st	10
-不断的加强	bu;ad dr;ja de;bu jw;lk qd;gs	10
 不断地加强	bu;ad dr;ja de;ty jw;lk qd;gs	10
-不断的坚持	bu;ad dr;ja de;bu jm;ty ii;fs	10
-不断的搅拌	bu;ad dr;ja de;bu jc;fj bj;fb	10
-不断的进步	bu;ad dr;ja de;bu jn;zj bu;vx	10
+不断地坚持	bu;ad dr;ja de;ty jm;ty ii;fs	10
+不断地搅拌	bu;ad dr;ja de;ty jc;fj bj;fb	10
 不断地进步	bu;ad dr;ja de;ty jn;zj bu;vx	10
-不断的扩大	bu;ad dr;ja de;bu ko;fg da;ad	10
 不断地扩大	bu;ad dr;ja de;ty ko;fg da;ad	10
-不断的练习	bu;ad dr;ja de;bu lm;sd xi;ga	10
 不断地练习	bu;ad dr;ja de;ty lm;sd xi;ga	10
-不断的努力	bu;ad dr;ja de;bu nu;ln li;gp	10
 不断地努力	bu;ad dr;ja de;ty nu;ln li;gp	10
-不断的前进	bu;ad dr;ja de;bu qm;qd jn;zj	10
 不断地前进	bu;ad dr;ja de;ty qm;qd jn;zj	10
-不断的强化	bu;ad dr;ja de;bu qd;gs hw;rb	10
-不断的升级	bu;ad dr;ja de;bu ug;pc ji;sj	10
+不断地强化	bu;ad dr;ja de;ty qd;gs hw;rb	10
+不断地升级	bu;ad dr;ja de;ty ug;pc ji;sj	10
 不断地实践	bu;ad dr;ja de;ty ui;bt jm;zj	12
 不短的时间	bu;ad dr;ud de;bu ui;oc jm;mo	10
-不断的刷新	bu;ad dr;ja de;bu uw;dj xn;jq	10
-不断的思考	bu;ad dr;ja de;bu si;xt kk;lk	10
+不断地刷新	bu;ad dr;ja de;ty uw;dj xn;jq	10
 不断地思考	bu;ad dr;ja de;ty si;xt kk;lk	10
-不断的探索	bu;ad dr;ja de;bu tj;fm so;sb	10
 不断地探索	bu;ad dr;ja de;ty tj;fm so;sb	10
-不断的提高	bu;ad dr;ja de;bu ti;fu gk;wk	10
 不断地提高	bu;ad dr;ja de;ty ti;fu gk;wk	10
-不断的提升	bu;ad dr;ja de;bu ti;fu ug;pc	10
 不断地提升	bu;ad dr;ja de;ty ti;fu ug;pc	10
-不断的挑战	bu;ad dr;ja de;bu tc;fv vj;gv	10
 不断地挑战	bu;ad dr;ja de;ty tc;fv vj;gv	10
-不断的调整	bu;ad dr;ja de;bu tc;yv vg;vi	10
 不断地调整	bu;ad dr;ja de;ty tc;yv vg;vi	10
-不断的突破	bu;ad dr;ja de;bu tu;xq po;up	10
 不断地突破	bu;ad dr;ja de;ty tu;xq po;up	10
-不断的推出	bu;ad dr;ja de;bu tv;fv iu;aa	10
-不断的推进	bu;ad dr;ja de;bu tv;fv jn;zj	10
-不断的完善	bu;ad dr;ja de;bu wj;by uj;kq	10
+不断地推出	bu;ad dr;ja de;ty tv;fv iu;aa	10
+不断地推进	bu;ad dr;ja de;ty tv;fv jn;zj	10
 不断地完善	bu;ad dr;ja de;ty wj;by uj;kq	10
-不断的向前	bu;ad dr;ja de;bu xd;pk qm;qd	10
-不断的消耗	bu;ad dr;ja de;bu xc;dx hk;lm	10
-不断的修改	bu;ad dr;ja de;bu xq;rp gl;wj	10
-不断的学习	bu;ad dr;ja de;bu xt;zb xi;ga	10
+不断地向前	bu;ad dr;ja de;ty xd;pk qm;qd	10
+不断地消耗	bu;ad dr;ja de;ty xc;dx hk;lm	10
+不断地修改	bu;ad dr;ja de;ty xq;rp gl;wj	10
 不断地学习	bu;ad dr;ja de;ty xt;zb xi;ga	10
-不断的寻找	bu;ad dr;ja de;bu xp;cx vk;fg	10
 不断地寻找	bu;ad dr;ja de;ty xp;cx vk;fg	10
-不断的研究	bu;ad dr;ja de;bu yj;uk jq;xj	10
-不断的优化	bu;ad dr;ja de;bu yb;ry hw;rb	10
+不断地研究	bu;ad dr;ja de;ty yj;uk jq;xj	10
 不断地优化	bu;ad dr;ja de;ty yb;ry hw;rb	10
-不断的增加	bu;ad dr;ja de;bu zg;tc jw;lk	10
 不断地增加	bu;ad dr;ja de;ty zg;tc jw;lk	10
-不断的追求	bu;ad dr;ja de;bu vv;zv qq;ad	10
 不断地追求	bu;ad dr;ja de;ty vv;zv qq;ad	10
-不断的总结	bu;ad dr;ja de;bu zs;xk jx;sj	10
 不断地总结	bu;ad dr;ja de;ty zs;xk jx;sj	10
 不断革命论	bu;ad dr;ja ge;ca my;re lp;yl	10
 不断增长的	bu;ad dr;ja zg;tc vh;pd de;bu	10
@@ -4876,7 +4819,6 @@ sort: by_weight
 不菲的财富	bu;ad fz;cf de;bu cl;bc fu;bf	10
 不菲的价格	bu;ad fz;cf de;bu jw;rj ge;mg	10
 不菲的收入	bu;ad fz;cf de;bu ub;wj ru;pd	10
-补肺阿胶汤	bu;yb fz;of ee;ek jc;oj th;dy	10
 部分报告法	bu;ek ff;bd bk;fy gk;kn fa;dq	10
 部分分数法	bu;ek ff;bd ff;bd uu;wl fa;dq	10
 部分接合子	bu;ek ff;bd jx;fq he;rk zi;aa	10
@@ -5682,7 +5624,6 @@ sort: by_weight
 不言的世界	bu;ad yj;wk de;bu ui;ca jx;tj	10
 不厌其烦地	bu;ad yj;qi qi;ba fj;hy de;ty	10
 不言也不语	bu;ad yj;wk ye;gg bu;ad yu;yw	10
-补阳还五汤	bu;yb yh;eo hl;zb wu;aa th;dy	10
 不要啊杰哥	bu;ad yk;xn aa;ka jx;hm ge;kd	10
 不要白不要	bu;ad yk;xn bl;pa bu;ad yk;xn	10
 不要错过哦	bu;ad yk;xn co;jx go;zc oo;kw	10
@@ -5870,7 +5811,6 @@ sort: by_weight
 不重男轻女	bu;ad vs;pa nj;tl qy;ig nv;aa	10
 不忠选举人	bu;ad vs;xv xr;zx ju;df rf;pd	10
 不重要的事	bu;ad vs;pa yk;xn de;bu ui;aa	10
-补中益气汤	bu;yb vs;aa yi;mb qi;py th;dy	10
 不中止处理	bu;ad vs;aa vi;aa iu;wb li;wl	10
 不中止诉讼	bu;ad vs;aa vi;aa su;yi ss;yg	10
 步骤与方法	bu;vx vb;mj yu;aa fh;wd fa;dq	10
@@ -6510,7 +6450,6 @@ sort: by_weight
 差示温度计	ia;yg ui;ex wf;dm du;gy ji;yu	10
 茶水部主管	ia;cm uv;ad bu;ek vu;dw gr;vg	10
 茶汤的滋味	ia;cm th;dy de;bu zi;dz wz;kw	10
-查特姆群岛	ia;md te;ns mu;nm qp;yj dk;nu	10
 插头和插座	ia;fi tb;dd he;hk ia;fi zo;gz	10
 叉尾麦氏鲈	ia;yd wz;um ml;fw ui;pg lu;yl	10
 查韦斯主义	ia;md wz;aa si;jq vu;dw yi;id	10
@@ -6545,38 +6484,10 @@ sort: by_weight
 叉指快速球	ia;yd vi;fv ky;xd su;zu qq;wq	10
 柴比氏定理	il;mc bi;bb ui;pg dy;bp li;wl	10
 拆掉这堵墙	il;fi dc;fv ve;zw du;tv qd;th	10
-柴独苍术汤	il;mc du;qi ch;cc vu;md th;dy	10
-柴葛桂枝汤	il;mc ge;ch gv;mg vi;mv th;dy	10
-柴葛解肌汤	il;mc ge;ch jx;jn ji;oj th;dy	10
-柴葛芩连汤	il;mc ge;ch qn;cj lm;zi th;dy	10
-柴梗半夏汤	il;mc gg;mg bj;bf xw;wz th;dy	10
 柴河沿战役	il;mc he;dk yj;dk vj;gv yi;xu	10
-柴胡白虎汤	il;mc hu;og bl;pa hu;hj th;dy	10
-柴胡鳖甲汤	il;mc hu;og bx;yb jw;aa th;dy	10
-柴胡参术汤	il;mc hu;og cj;sp uu;md th;dy	10
 柴胡达原饮	il;mc hu;og da;zd yr;ix yn;uq	10
-柴胡丁香汤	il;mc hu;og dy;aa xd;ho th;dy	10
-柴胡独活汤	il;mc hu;og du;qi ho;du th;dy	10
-柴胡防风汤	il;mc hu;og fh;ef fg;ji th;dy	10
-柴胡复生汤	il;mc hu;og fu;wo ug;na th;dy	10
-柴胡厚朴汤	il;mc hu;og hb;iz po;mb th;dy	10
-柴胡加桂汤	il;mc hu;og jw;lk gv;mg th;dy	10
-柴胡姜桂汤	il;mc hu;og jd;ny gv;mg th;dy	10
-柴胡羚角汤	il;mc hu;og ly;yl jc;dy th;dy	10
-柴胡六合汤	il;mc hu;og lq;wb he;rk th;dy	10
-柴胡羌活汤	il;mc hu;og qd;yg ho;du th;dy	10
-柴胡清肝汤	il;mc hu;og qy;dq gj;og th;dy	10
 柴胡清肝饮	il;mc hu;og qy;dq gj;og yn;uq	10
 柴胡清膈煎	il;mc hu;og qy;dq ge;og jm;hq	10
-柴胡升麻汤	il;mc hu;og ug;pc ma;gl th;dy	10
-柴胡胜湿汤	il;mc hu;og ug;ou ui;dx th;dy	10
-柴胡通经汤	il;mc hu;og ts;zy jy;sg th;dy	10
-柴胡陷胸汤	il;mc hu;og xm;ej xs;ox th;dy	10
-柴胡芎归汤	il;mc hu;og xs;cg gv;ax th;dy	10
-柴胡养营汤	il;mc hu;og yh;ya yy;cl th;dy	10
-柴胡抑肝汤	il;mc hu;og yi;fe gj;og th;dy	10
-柴胡枳桔汤	il;mc hu;og vi;mv ju;mj th;dy	10
-柴胡栀连汤	il;mc hu;og vi;me lm;zi th;dy	10
 拆烩鲢鱼头	il;fi hv;hh lm;yl yu;da tb;dd	10
 柴嘉尼效应	il;mc jw;uj ni;ub xc;wj yy;ga	10
 柴可夫斯基	il;mc ke;dk fu;ad si;jq ji;tq	10
@@ -9019,7 +8930,6 @@ sort: by_weight
 初始联结词	iu;yd ui;nt lm;eg jx;sj ci;ys	10
 出示身份证	iu;aa ui;ex uf;pp ff;rf vg;yv	10
 出示通行证	iu;aa ui;ex ts;zy xy;xi vg;yv	10
-除湿胃苓汤	iu;ey ui;dx wz;ot ly;cl th;dy	10
 初始温度计	iu;yd ui;nt wf;dm du;gy ji;yu	10
 初始应力场	iu;yd ui;nt yy;ga li;gp ih;ty	10
 楚式镇墓兽	iu;mp ui;gy vf;jv mu;tm ub;ka	10
@@ -10872,7 +10782,6 @@ sort: by_weight
 打起退堂鼓	da;fd qi;zj tv;zg th;tk gu;vd	10
 大气性缺氧	da;ad qi;py xy;xu qt;fd yh;qy	10
 大气遥相关	da;ad qi;py yk;zf xd;mo gr;qd	10
-大千岛群岛	da;ad qm;pa dk;nu qp;yj dk;nu	10
 搭桥固定器	da;fd qc;mq gu;kg dy;bp qi;kk	10
 大秦王安敦	da;ad qn;hf wh;aa an;bn dp;wx	10
 大秦文明园	da;ad qn;hf wf;wi my;oo yr;ky	10
@@ -11039,7 +10948,6 @@ sort: by_weight
 大学新校区	da;ad xt;zb xn;jq xc;mj qu;ki	10
 大学衍义补	da;ad xt;zb yj;xd yi;id bu;yb	10
 大学与学院	da;ad xt;zb yu;aa xt;zb yr;ew	10
-大巽他群岛	da;ad xp;gs ta;ry qp;yj dk;nu	10
 打压式教育	da;fd ya;id ui;gy jc;wx yu;os	10
 大亚洲主义	da;ad ya;ay vb;dv vu;dw yi;id	10
 大眼瞪小眼	da;ad yj;og dg;od xc;ad yj;og	10
@@ -11420,8 +11328,6 @@ sort: by_weight
 担当的精神	dj;fd dh;xx de;bu jy;mq uf;uu	10
 担当的责任	dj;fd dh;xx de;bu ze;bf rf;rr	10
 单道分析器	dj;ba dk;zu ff;bd xi;mj qi;kk	10
-胆道排石汤	dj;od dk;zu pl;ff ui;kp th;dy	10
-胆道驱蛔汤	dj;od dk;zu qu;mq hv;ih th;dy	10
 弹道式导弹	dj;gd dk;zu ui;gy dk;cs dj;gd	10
 氮的同位素	dj;qy de;bu ts;kk wz;rl su;sf	10
 单递减函数	dj;ba di;zd jm;dx hj;lk uu;wl	10
@@ -11532,7 +11438,6 @@ sort: by_weight
 但满而不痛	dj;rd mj;dl er;aa bu;ad ts;by	10
 耽美电视剧	dj;eg mz;dy dm;ag ui;ju ju;dj	10
 耽美广播剧	dj;eg mz;dy gd;dp bo;ff ju;dj	10
-淡美兰群岛	dj;dy mz;dy lj;qe qp;yj dk;nu	10
 耽美网络剧	dj;eg mz;dy wh;ki lo;sg ju;dj	10
 单面和双面	dj;ba mm;aa he;hk ud;yy mm;aa	10
 单面或双面	dj;ba mm;aa ho;gk ud;yy mm;aa	10
@@ -11759,8 +11664,6 @@ sort: by_weight
 党共产越南	dh;ek gs;cb ij;wi yt;zy nj;ua	10
 当刮目相待	dh;xx gw;du mu;aa xd;mo dl;xs	10
 当归红花酊	dh;xx gv;ax hs;sg hw;ch dy;yd	10
-当归六黄汤	dh;xx gv;ax lq;wb hd;cb th;dy	10
-当归拈痛汤	dh;xx gv;ax nm;fv ts;by th;dy	10
 当哈利遇到	dh;xx ha;kh li;hd yu;zy dk;dv	10
 当红的明星	dh;xx hs;sg de;bu my;oo xy;ou	10
 当红的人气	dh;xx hs;sg de;bu rf;pd qi;py	10
@@ -12320,7 +12223,6 @@ sort: by_weight
 的空间没有	de;bu ks;xg jm;mo mz;du yb;ou	10
 的跨性别者	de;bu kw;zk xy;xu bx;dl ve;ol	10
 的快速删除	de;bu ky;xd su;zu uj;dc iu;ey	10
-德拉旺群岛	de;xx la;fl wh;ow qp;yj dk;nu	10
 德拉棕榈岛	de;xx la;fl zs;mz lv;ml dk;nu	10
 德莱昂主义	de;xx ll;cl ah;oe vu;dw yi;id	10
 德兰得尔表	de;xx lj;qe de;xc er;dx bc;fy	10
@@ -14110,7 +14012,6 @@ sort: by_weight
 刁蛮俏御医	dc;ga mj;iy qc;rx yu;xx yi;ku	10
 调脾清毒饮	dc;yv pi;ob qy;dq du;fm yn;uq	10
 调荣活络饮	dc;yv rs;cm ho;du lo;sg yn;uq	10
-调荣通脉汤	dc;yv rs;cm ts;zy ml;oy th;dy	10
 钓上来的鱼	dc;ju uh;aa ll;am de;bu yu;da	10
 吊水洞煤矿	dc;kj uv;ad ds;dt mz;hm kd;ug	10
 屌丝的春天	dc;ud si;aa de;bu ip;of tm;ad	10
@@ -14118,7 +14019,6 @@ sort: by_weight
 屌丝逆袭日	dc;ud si;aa ni;zn xi;ly ri;aa	10
 屌丝要逆袭	dc;ud si;aa yk;xn ni;zn xi;ly	10
 吊桶环遗址	dc;kj ts;my hr;wb yi;zg vi;tv	10
-调胃承气汤	dc;yv wz;ot ig;ad qi;py th;dy	10
 钓位的选择	dc;ju wz;rl de;bu xr;zx ze;ff	10
 凋谢的小花	dc;dv xx;yu de;bu xc;ad hw;ch	10
 掉一滴眼泪	dc;fv yi;aa di;dd yj;og lz;do	10
@@ -14351,12 +14251,10 @@ sort: by_weight
 定襄关王庙	dy;bp xd;wy gr;qd wh;aa mc;gy	10
 丁香号列车	dy;aa xd;ho hk;kk lx;dd ie;aa	10
 丁香花花介	dy;aa xd;ho hw;ch hw;ch jx;ra	10
-丁香胶艾汤	dy;aa xd;ho jc;oj ai;ci th;dy	10
 丁香罗勒油	dy;aa xd;ho lo;sx le;lg yb;dy	10
 丁香秋雨颉	dy;aa xd;ho qq;hh yu;ad jx;yj	10
 丁香醛双腙	dy;aa xd;ho qr;yq ud;yy zs;oz	10
 丁香人才网	dy;aa xd;ho rf;pd cl;ap wh;ki	10
-丁香柿蒂汤	dy;aa xd;ho ui;mu di;cd th;dy	10
 定向增发股	dy;bp xd;pk zg;tc fa;ay gu;ou	10
 丁香追逐者	dy;aa xd;ho vv;zv vu;zu ve;ol	10
 定向祖细胞	dy;bp xd;pk zu;uq xi;st bk;ob	10
@@ -14454,7 +14352,6 @@ sort: by_weight
 氡的同位素	ds;qd de;bu ts;kk wz;rl su;sf	10
 冻得直哆嗦	ds;dd de;xc vi;uq do;kd so;ks	10
 懂的自然懂	ds;xd de;bu zi;pa rj;hq ds;xd	10
-冬地三黄汤	ds;wd di;ty sj;aa hd;cb th;dy	10
 动电学效应	ds;ly dm;ag xt;zb xc;wj yy;ga	10
 冻顶乌龙茶	ds;dd dy;yd wu;pa ls;ad ia;cm	10
 冬冬的假期	ds;wd ds;wd de;bu jw;rj qi;oq	10
@@ -14694,7 +14591,6 @@ sort: by_weight
 冬泳爱好者	ds;wd ys;dy ai;vy hk;nz ve;ol	10
 董玉娣中学	ds;cv yu;wd di;nd vs;aa xt;zb	10
 动员和组织	ds;ly yr;kb he;hk zu;sq vi;sv	10
-东垣神秘汤	ds;ad yr;tg uf;uu mi;hb th;dy	10
 洞渊神咒经	ds;dt yr;da uf;uu vb;kj jy;sg	10
 东垣试效方	ds;ad yr;tg ui;yu xc;wj fh;wd	10
 动辄几百万	ds;ly ve;ig ji;py bl;ab wj;ag	10
@@ -14977,7 +14873,6 @@ sort: by_weight
 杜哈梅原理	du;mt ha;kh mz;mm yr;ix li;wl	10
 杜亥姆方程	du;mt hl;wr mu;nm fh;wd ig;hi	10
 度海逸酒店	du;gy hl;dm yi;zt jq;dy dm;gv	10
-独活寄生汤	du;qi ho;du ji;bq ug;na th;dy	10
 独火星孔亮	du;qi ho;dd xy;ou ks;zg ld;wj	10
 独家代理权	du;qi jw;bu dl;ry li;wl qr;my	10
 独家代理商	du;qi jw;bu dl;ry li;wl uh;wk	10
@@ -16787,8 +16682,6 @@ sort: by_weight
 法拉第张量	fa;dq la;fl di;vp vh;gi ld;ol	10
 法拉利事件	fa;dq la;fl li;hd ui;aa jm;rn	10
 法拉龙板块	fa;dq la;fl ls;ad bj;mf ky;td	10
-法拉隆群岛	fa;dq la;fl ls;eu qp;yj dk;nu	10
-法拉桑群岛	fa;dq la;fl sh;mr qp;yj dk;nu	10
 珐琅铸铁锅	fa;wq lh;wl vu;ju tx;ju go;jg	10
 发愣的时候	fa;ay lg;xf de;bu ui;oc hb;ru	10
 乏力等症状	fa;pv li;gp dg;vs vg;bv vd;qp	10
@@ -17621,10 +17514,8 @@ sort: by_weight
 防患于未然	fh;ef hr;xi yu;aa wz;ex rj;hq	10
 方辉橄榄岩	fh;wd hv;gj gj;mg lj;ml yj;uu	10
 防己叉丝壳	fh;ef ji;ag ia;yd si;aa ke;uj	10
-防己地黄汤	fh;ef ji;ag di;ty hd;cb th;dy	10
 芳基化合物	fh;cf ji;tq hw;rb he;rk wu;nw	10
 芳基环己胺	fh;cf ji;tq hr;wb ji;ag an;oa	10
-防己黄芪汤	fh;ef ji;ag hd;cb qi;cu th;dy	10
 防己马兜铃	fh;ef ji;ag ma;aa db;ek ly;jl	10
 芳基羟化酶	fh;cf ji;tq qd;yg hw;rb mz;ym	10
 芳基烃受体	fh;cf ji;tq ty;hg ub;vy ti;rb	10
@@ -18288,7 +18179,6 @@ sort: by_weight
 非空真子集	fz;aa ks;xg vf;uj zi;aa ji;vm	10
 肺扩散容量	fz;of ko;fg sj;wo rs;bg ld;ol	10
 非扩张算子	fz;aa ko;fg vh;gi sr;vc zi;aa	10
-费拉隆群岛	fz;bf la;fl ls;eu qp;yj dk;nu	10
 飞来的横祸	fz;yd ll;am de;bu hg;mh ho;ug	10
 飞来的子弹	fz;yd ll;am de;bu zi;aa dj;gd	10
 飞来峰造像	fz;yd ll;am fg;uf zk;zg xd;rx	10
@@ -19111,7 +19001,7 @@ sort: by_weight
 丰富的业态	fg;aa fu;bf de;bu ye;aa tl;xt	10
 丰富和活跃	fg;aa fu;bf he;hk ho;du yt;zy	10
 丰富和拓展	fg;aa fu;bf he;hk to;fu vj;uy	10
-丰富了知识	fg;aa fu;bf le;aa vi;ku ui;yv	10
+丰富了知识	fg;aa fu;bf lc;aa vi;ku ui;yv	10
 奉父母之命	fg;ff fu;pd mu;vd vi;dd my;re	10
 风高放火天	fg;ji gk;wk fh;wf ho;dd tm;ad	10
 风格不统一	fg;ji ge;mg bu;ad ts;si yi;aa	10
@@ -19520,7 +19410,6 @@ sort: by_weight
 复仇女神星	fu;wo ib;rj nv;aa uf;uu xy;ou	10
 复仇者集结	fu;wo ib;rj ve;ol ji;vm jx;sj	10
 复仇者机炮	fu;wo ib;rj ve;ol ji;mj pk;hb	10
-妇仇者联盟	fu;nx ib;rj ve;ol lm;eg mg;mm	10
 复仇者联盟	fu;wo ib;rj ve;ol lm;eg mg;mm	10
 复仇者斯卡	fu;wo ib;rj ve;ol si;jq ka;ub	10
 复仇者之盾	fu;wo ib;rj ve;ol vi;dd dp;po	10
@@ -19740,7 +19629,6 @@ sort: by_weight
 肤康涂膜剂	fu;of kh;gl tu;dy mo;om ji;dq	10
 复科百家人	fu;wo ke;hd bl;ab jw;bu rf;pd	10
 妇科回生丹	fu;nx ke;hd hv;kk ug;na dj;pd	10
-福克兰群岛	fu;uf ke;eg lj;qe qp;yj dk;nu	10
 福克曼挛缩	fu;uf ke;eg mj;oy lr;uy so;ss	10
 妇科毛鸡酒	fu;nx ke;hd mk;pg ji;ny jq;dy	10
 复课闹革命	fu;wo ke;yg nk;mu ge;ca my;re	10
@@ -19767,7 +19655,6 @@ sort: by_weight
 芙兰德科特	fu;cf lj;qe de;xx ke;hd te;ns	10
 腐烂的尸体	fu;gr lj;hl de;bu ui;ap ti;rb	10
 富兰那迦叶	fu;bf lj;qe na;el jw;zj ue;ku	10
-夫兰南群岛	fu;ad lj;qe nj;ua qp;yj dk;nu	10
 夫兰兹定理	fu;ad lj;qe zi;qy dy;bp li;wl	10
 弗兰兹定律	fu;aa lj;qe zi;qy dy;bp lv;xy	12
 夫兰兹定律	fu;ad lj;qe zi;qy dy;bp lv;xy	10
@@ -19906,7 +19793,6 @@ sort: by_weight
 富平交叉路	fu;bf py;aa jc;li ia;yd lu;zg	10
 浮萍随风飘	fu;df py;cp sv;ey fg;ji pc;fp	10
 富平陶艺村	fu;bf py;aa tk;et yi;cy cp;mc	10
-浮萍银翘汤	fu;df py;cp yn;jg qc;yy th;dy	10
 夫妻财产制	fu;ad qi;na cl;bc ij;wi vi;dg	10
 伏俟城遗址	fu;rq qi;ru ig;ti yi;zg vi;tv	10
 夫妻的感情	fu;ad qi;na de;bu gj;xx qy;xq	10
@@ -20279,7 +20165,6 @@ sort: by_weight
 浮园耕种法	fu;df yr;ky gg;lj vs;hv fa;dq	10
 浮园耕作法	fu;df yr;ky gg;lj zo;rv fa;dq	10
 富源工业区	fu;bf yr;dy gs;aa ye;aa qu;ki	10
-复元活血汤	fu;wo yr;aw ho;du xt;pa th;dy	10
 抚远三角洲	fu;fw yr;zy sj;aa jc;dy vb;dv	10
 富悦大酒店	fu;bf yt;xd da;ad jq;dy dm;gv	10
 浮云蔽白日	fu;df yp;es bi;cb bl;pa ri;aa	10
@@ -20361,13 +20246,10 @@ sort: by_weight
 符兹堡大学	fu;vf zi;qy bk;tb da;ad xt;zb	10
 父子的关系	fu;pd zi;aa de;bu gr;qd xi;ps	10
 附子各三分	fu;ef zi;aa ge;wk sj;aa ff;bd	10
-附子粳米汤	fu;ef zi;aa jy;mg mi;dd th;dy	10
-附子理中汤	fu;ef zi;aa li;wl vs;aa th;dy	10
 父子联名制	fu;pd zi;aa lm;eg my;xk vi;dg	10
 父子连名制	fu;pd zi;aa lm;zi my;xk vi;dg	10
 浮子流量计	fu;df zi;aa lq;di ld;ol ji;yu	10
 夫子庙灯会	fu;ad zi;aa mc;gy dg;hd hv;ry	10
-附子泻心汤	fu;ef zi;aa xx;dx xn;dd th;dy	10
 夫子循循然	fu;ad zi;aa xp;xd xp;xd rj;hq	10
 副总经济师	fu;df zs;xk jy;sg ji;dq ui;ab	10
 副总经理陈	fu;df zs;xk jy;sg li;wl if;ed	10
@@ -20574,9 +20456,6 @@ sort: by_weight
 干不同的事	gj;aa bu;ad ts;kk de;bu ui;aa	10
 干不下去了	gj;aa bu;ad xw;ab qu;ts le;aa	10
 干草叉起义	gj;aa ck;cz ia;yd qi;zj yi;id	10
-甘草粉蜜汤	gj;ca ck;cz ff;mf mi;ib th;dy	10
-甘草干姜汤	gj;ca ck;cz gj;aa jd;ny th;dy	10
-甘草麻桂汤	gj;ca ck;cz ma;gl gv;mg th;dy	10
 甘草锌口胶	gj;ca ck;cz xn;jx kb;aa jc;oj	10
 擀成长方形	gj;fg ig;gg ih;pd fh;wd xy;pk	10
 干城章嘉峰	gj;aa ig;ti vh;lz jw;uj fg;uf	10
@@ -20647,10 +20526,8 @@ sort: by_weight
 杆架测试仪	gj;mg jw;mj ce;dz ui;yu yi;ry	10
 甘加二氏脾	gj;ca jw;lk er;aa ui;pg pi;ob	10
 甘家口大厦	gj;ca jw;bu kb;aa da;ad ua;ix	10
-干姜附子汤	gj;aa jd;ny fu;ef zi;aa th;dy	10
 干姜各等分	gj;aa jd;ny ge;wk dg;vs ff;bd	10
 干姜各三两	gj;aa jd;ny ge;wk sj;aa ld;ad	10
-甘姜苓术汤	gj;ca jd;ny ly;cl uu;md th;dy	10
 赣江南大道	gj;vg jd;dg nj;ua da;ad dk;zu	10
 干姜一两半	gj;aa jd;ny yi;aa ld;ad bj;bf	10
 干将与莫邪	gj;aa jd;jc yu;aa mo;cd ye;ey	10
@@ -20666,12 +20543,9 @@ sort: by_weight
 肝局部灌注	gj;og ju;uk bu;ek gr;dv vu;dv	10
 肝局部切除	gj;og ju;uk bu;ek qx;dq iu;ey	10
 柑橘大实蝇	gj;mg ju;mk da;ad ui;bt yy;id	10
-甘桔防风汤	gj;ca ju;mj fh;ef fg;ji th;dy	10
-甘菊荆芥汤	gj;ca ju;cj jy;dk jx;cj th;dy	10
 肝巨噬细胞	gj;og ju;kk ui;ku xi;st bk;ob	10
 柑橘味香气	gj;mg ju;mk wz;kw xd;ho qi;py	10
 柑桔研究所	gj;mg ju;mj yj;uk jq;xj so;hj	10
-甘桔射干汤	gj;ca ju;mj ye;cu gj;aa th;dy	10
 感觉不到爱	gj;xx jt;jb bu;ad dk;dv ai;vy	10
 感觉不到累	gj;xx jt;jb bu;ad dk;dv lz;st	10
 感觉传导路	gj;xx jt;jb ir;rv dk;cs lu;zg	10
@@ -20725,7 +20599,6 @@ sort: by_weight
 甘露陀罗尼	gj;ca lu;yl to;et lo;sx ni;ub	10
 甘露消毒丹	gj;ca lu;yl xc;dx du;fm dj;pd	10
 甘露消毒饮	gj;ca lu;yl xc;dx du;fm yn;uq	10
-甘麦大枣汤	gj;ca ml;fw da;ad zk;cd th;dy	10
 感冒和流感	gj;xx mk;oo he;hk lq;di gj;xx	10
 感冒解毒灵	gj;xx mk;oo jx;jn du;fm ly;hx	10
 感冒解热颗	gj;xx mk;oo jx;jn re;hv ke;yg	10
@@ -20797,8 +20670,6 @@ sort: by_weight
 甘肃文化史	gj;ca su;ad wf;wi hw;rb ui;ki	10
 甘肃野丁香	gj;ca su;ad ye;ly dy;aa xd;ho	10
 肝素原料药	gj;og su;sf yr;ix lc;md yk;cy	10
-甘遂半夏汤	gj;ca sv;zu bj;bf xw;wz th;dy	10
-甘遂通结汤	gj;ca sv;zu ts;zy jx;sj th;dy	10
 橄钛辉长岩	gj;mg tl;jt hv;gj ih;pd yj;uu	10
 感叹号问号	gj;xx tj;ky hk;kk wf;km hk;kk	10
 赶趟儿似的	gj;zg th;zu er;pg ui;ry de;bu	10
@@ -21069,7 +20940,6 @@ sort: by_weight
 高等研究院	gk;wk dg;vs yj;uk jq;xj yr;ew	10
 高登音乐台	gk;wk dg;dd yn;lo yt;pd tl;sk	10
 高地大教堂	gk;wk di;ty da;ad jc;wx th;tk	10
-高地和群岛	gk;wk di;ty he;hk qp;yj dk;nu	10
 高地球轨道	gk;wk di;ty qq;wq gv;ij dk;zu	10
 高低温交变	gk;wk di;rd wf;dm jc;li bm;wy	10
 高帝萧道成	gk;wk di;jb xc;cs dk;zu ig;gg	10
@@ -21805,7 +21675,6 @@ sort: by_weight
 格里高利历	ge;mg li;aa gk;wk li;hd li;il	1000
 格理论学家	ge;mg li;wl lp;yl xt;zb jw;bu	10
 隔离七日情	ge;eg li;ws qi;ag ri;aa qy;xq	10
-蛤蜊巧达汤	ge;ih li;il qc;gk da;zd th;dy	10
 各隶属公司	ge;wk li;ad uu;uy gs;sb si;gk	10
 各联盟学校	ge;wk lm;eg mg;mm xt;zb xc;mj	10
 格列嘧啶钠	ge;mg lx;dd mi;km dy;kd na;jn	10
@@ -21947,8 +21816,6 @@ sort: by_weight
 割铣解卡法	ge;dh xi;jx jx;jn ka;ub fa;dq	10
 阁下的名字	ge;mg xw;ab de;bu my;xk zi;bz	10
 各下属单位	ge;wk xw;ab uu;uy dj;ba wz;rl	10
-膈下逐瘀汤	ge;og xw;ab vu;zu yu;by th;dy	10
-膈下逐淤汤	ge;og xw;ab vu;zu yu;dy th;dy	10
 各向同性的	ge;wk xd;pk ts;kk xy;xu de;bu	10
 各乡镇党委	ge;wk xd;ap vf;jv dh;ek wz;hn	10
 各乡镇政府	ge;wk xd;ap vf;jv vg;wv fu;gf	10
@@ -23244,7 +23111,6 @@ sort: by_weight
 枸杞泡水喝	gb;mj qi;mj pk;db uv;ad he;kh	10
 枸杞山药粥	gb;mj qi;mj uj;aa yk;cy vb;mg	10
 枸杞消炎粥	gb;mj qi;mj xc;dx yj;hh vb;mg	10
-枸杞羊肉汤	gb;mj qi;mj yh;da rb;ad th;dy	10
 枸杞益元酒	gb;mj qi;mj yi;mb yr;aw jq;dy	10
 勾人的眼神	gb;gs rf;pd de;bu yj;og uf;uu	10
 狗善被人欺	gb;qj uj;kq bz;yp rf;pd qi;qq	10
@@ -23307,7 +23173,6 @@ sort: by_weight
 古北口提督	gu;uk bz;ag kb;aa ti;fu du;ou	10
 古本说话集	gu;uk bf;aa uo;yd hw;yu ji;vm	10
 固本延龄丹	gu;kg bf;aa yj;zv ly;il dj;pd	10
-固本止崩汤	gu;kg bf;aa vi;aa bg;up th;dy	10
 古彪基佛塔	gu;uk bc;hp ji;tq fo;rf ta;td	10
 谷丙磨丁枚	gu;bk by;an mo;um dy;aa mz;mw	10
 谷丙转氨酶	gu;bk by;an vr;iv an;qa mz;ym	10
@@ -23561,7 +23426,6 @@ sort: by_weight
 鼓膜上隐窝	gu;vd mo;om uh;aa yn;ej wo;xn	10
 骨膜移植物	gu;go mo;om yi;hd vi;mv wu;nw	10
 古墓的秘密	gu;uk mu;tm de;bu mi;hb mi;ub	10
-顾母理脏汤	gu;ye mu;vd li;wl zh;ov th;dy	10
 骨内种植体	gu;go nz;ad vs;hv vi;mv ti;rb	10
 故能成其大	gu;wg ng;sb ig;gg qi;ba da;ad	10
 故能成其高	gu;wg ng;sb ig;gg qi;ba gk;wk	10
@@ -23590,7 +23454,6 @@ sort: by_weight
 古钱大辞典	gu;uk qm;jj da;ad ci;ux dm;ba	10
 故去的亲人	gu;wg qu;ts de;bu qn;lm rf;pd	10
 股权遭冻结	gu;ou qr;my zk;zc ds;dd jx;sj	10
-古群山群岛	gu;uk qp;yj uj;aa qp;yj dk;nu	10
 骨热影像图	gu;go re;hv yy;pj xd;rx tu;kd	10
 古人的思想	gu;uk rf;pd de;bu si;xt xd;xx	10
 古人的智慧	gu;uk rf;pd de;bu vi;ov hv;xh	10
@@ -23791,11 +23654,7 @@ sort: by_weight
 胍基丁酰胺	gw;og ji;tq dy;aa xm;yx an;oa	10
 挂甲山石刻	gw;fg jw;aa uj;aa ui;kp ke;dh	10
 寡居的一年	gw;bf ju;ug de;bu yi;aa nm;ra	10
-栝蒌桂枝汤	gw;mu lb;cl gv;mg vi;mv th;dy	10
-栝蒌牛蒡汤	gw;mu lb;cl nq;pa bh;cp th;dy	10
 瓜蒌皮栝楼	gw;pd lb;cl pi;ad gw;mu lb;ml	10
-栝蒌枳实汤	gw;mu lb;cl vi;mv ui;bt th;dy	10
-瓜蒌枳实汤	gw;pd lb;cl vi;mv ui;bt th;dy	10
 寡葡糖苷酶	gw;bf pu;cp th;mt gj;cg mz;ym	10
 卦山天宁寺	gw;bg uj;aa tm;ad ny;bd si;ct	10
 挂式洗脸盆	gw;fg ui;gy xi;dx lm;oa pf;mf	10
@@ -24004,6 +23863,8 @@ sort: by_weight
 管乐器技法	gr;vg yt;pd qi;kk ji;fv fa;dq	10
 观月亚里莎	gr;jy yt;pa ya;ay li;aa ua;cu	10
 官越做越大	gr;bg yt;zy zo;rg yt;zy da;ad	10
+关张马黄赵	gr;qd vh;gi ma;aa hd;cb vk;zi	10
+关张赵马黄	gr;qd vh;gi vk;zi ma;aa hd;cb	10
 观枝干植物	gr;jy vi;mv gj;aa vi;mv wu;nw	10
 关中城市群	gr;qd vs;aa ig;ti ui;wj qp;yj	10
 关中大地震	gr;qd vs;aa da;ad di;ty vf;yi	10
@@ -24457,7 +24318,6 @@ sort: by_weight
 硅谷群瞎传	gv;ug gu;bk qp;yj xw;oh vr;rv	10
 桂管观察使	gv;mg gr;vg gr;jy ia;bj ui;rl	10
 贵广客专线	gv;ba gd;dp ke;bg vr;ad xm;sj	10
-归桂化逆汤	gv;ax gv;mg hw;rb ni;zn th;dy	10
 规规矩矩的	gv;fj gv;fj ju;uj ju;uj de;bu	10
 鬼鬼吴映洁	gv;pd gv;pd wu;kt yy;oy jx;dj	10
 归国留学生	gv;ax go;ky lq;td xt;zb ug;na	10
@@ -24510,8 +24370,6 @@ sort: by_weight
 桂林十八中	gv;mg ln;mm ui;aa ba;pd vs;aa	10
 桂林文化史	gv;mg ln;mm wf;wi hw;rb ui;ki	10
 桂苓甘露饮	gv;mg ly;cl gj;ca lu;yl yn;uq	10
-桂苓甘术汤	gv;mg ly;cl gj;ca uu;md th;dy	10
-桂苓神术汤	gv;mg ly;cl uf;uu uu;md th;dy	10
 归零实验者	gv;ax ly;yl ui;bt yj;ma ve;ol	10
 归灵痛经宁	gv;ax ly;hx ts;by jy;sg ny;bd	10
 桂龙咳喘宁	gv;mg ls;ad ke;kh ir;ke ny;bd	10
@@ -24528,7 +24386,6 @@ sort: by_weight
 鬼马小夫妻	gv;pd ma;aa xc;ad fu;ad qi;na	10
 鬼马小精灵	gv;pd ma;aa xc;ad jy;mq ly;hx	10
 鬼马智多星	gv;pd ma;aa vi;ov do;xx xy;ou	10
-归麦榆草汤	gv;ax ml;fw yu;my ck;cz th;dy	10
 鬼魅的传说	gv;pd mz;gw de;bu ir;rv uo;yd	10
 鬼门十三针	gv;pd mf;dg ui;aa sj;aa vf;ju	10
 鬼迷刹玛莉	gv;pd mi;zm ia;du ma;wm li;cl	10
@@ -24558,9 +24415,7 @@ sort: by_weight
 贵人的相助	gv;ba rf;pd de;bu xd;mo vu;lq	10
 贵人多忘事	gv;ba rf;pd do;xx wh;xw ui;aa	10
 桂茸枸杞酒	gv;mg rs;ce gb;mj qi;mj jq;dy	10
-归芍地黄汤	gv;ax uk;cu di;ty hd;cb th;dy	10
 归芍天地煎	gv;ax uk;cu tm;ad di;ty jm;hq	10
-归芍异功汤	gv;ax uk;cu yi;cs gs;lg th;dy	10
 跪式俯卧撑	gv;zw ui;gy fu;rf wo;ib ig;fv	10
 鬼太郎之妻	gv;pd tl;dd lh;el vi;dd qi;na	10
 硅太阳电池	gv;ug tl;dd yh;eo dm;ag ii;dy	10
@@ -24569,7 +24424,6 @@ sort: by_weight
 龟田岩城氏	gv;dd tm;aa yj;uu ig;ti ui;pg	10
 鬼头鬼脑的	gv;pd tb;dd gv;pd nk;ox de;bu	10
 桂王朱由榔	gv;mg wh;aa vu;pw yb;aa lh;ml	10
-归尾泽兰汤	gv;ax wz;um ze;df lj;qe th;dy	10
 鬼舞辻无惨	gv;pd wu;rf ui;zu wu;ag cj;xc	10
 桂溪公交站	gv;mg xi;dx gs;sb jc;li vj;lv	10
 贵溪冶炼厂	gv;ba xi;dx ye;dt lm;hd ih;ap	10
@@ -24610,31 +24464,12 @@ sort: by_weight
 规章和政策	gv;fj vh;lz he;hk vg;wv ce;vc	10
 归正会教堂	gv;ax vg;av hv;ry jc;wx th;tk	10
 规整式园林	gv;fj vg;vi ui;gy yr;ky ln;mm	10
-桂枝白虎汤	gv;mg vi;mv bl;pa hu;hj th;dy	10
-桂枝半夏汤	gv;mg vi;mv bj;bf xw;wz th;dy	10
-桂枝柴胡汤	gv;mg vi;mv il;mc hu;og th;dy	10
-桂枝防风汤	gv;mg vi;mv fh;ef fg;ji th;dy	10
-桂枝附子汤	gv;mg vi;mv fu;ef zi;aa th;dy	10
-桂枝甘草汤	gv;mg vi;mv gj;ca ck;cz th;dy	10
 桂枝各二两	gv;mg vi;mv ge;wk er;aa ld;ad	10
-桂枝葛根汤	gv;mg vi;mv ge;ch gf;mg th;dy	10
 桂枝各三两	gv;mg vi;mv ge;wk sj;aa ld;ad	10
 硅质海绵类	gv;ug vi;bu hl;dm mm;sb lz;md	10
-桂枝黄芪汤	gv;mg vi;mv hd;cb qi;cu th;dy	10
-桂枝黄芩汤	gv;mg vi;mv hd;cb qn;cj th;dy	10
-桂枝加桂汤	gv;mg vi;mv jw;lk gv;mg th;dy	10
-桂枝姜附汤	gv;mg vi;mv jd;ny fu;ef th;dy	10
 规制经济学	gv;fj vi;dg jy;sg ji;dq xt;zb	10
-桂枝麻黄汤	gv;mg vi;mv ma;gl hd;cb th;dy	10
-桂枝羌活汤	gv;mg vi;mv qd;yg ho;du th;dy	10
-桂枝人参汤	gv;mg vi;mv rf;pd uf;sp th;dy	10
 硅质生物岩	gv;ug vi;bu ug;na wu;nw yj;uu	10
-桂枝石膏汤	gv;mg vi;mv ui;kp gk;og th;dy	10
 硅质石灰岩	gv;ug vi;bu ui;kp hv;hu yj;uu	10
-桂枝四七汤	gv;mg vi;mv si;aa qi;ag th;dy	10
-桂枝桃仁汤	gv;mg vi;mv tk;mv rf;re th;dy	10
-桂枝新加汤	gv;mg vi;mv xn;jq jw;lk th;dy	10
-桂枝续命汤	gv;mg vi;mv xu;sm my;re th;dy	10
 贵之岩义司	gv;ba vi;dd yj;uu yi;id si;gk	10
 贵重的东西	gv;ba vs;pa de;bu ds;ad xi;aa	10
 贵重的礼物	gv;ba vs;pa de;bu li;ug wu;nw	10
@@ -25327,7 +25162,6 @@ sort: by_weight
 还不了解吗	hl;zb bu;ad lc;aa jx;jn ma;km	10
 还不明白吧	hl;zb bu;ad my;oo bl;pa ba;kb	10
 还不一定呢	hl;zb bu;ad yi;aa dy;bp ne;kn	10
-海藏五饮汤	hl;dm ch;cz wu;aa yn;uq th;dy	10
 还差得很远	hl;zb ia;yg de;xc hf;xg yr;zy	10
 还差得远那	hl;zb ia;yg de;xc yr;zy na;el	10
 嗨唱转起来	hl;kh ih;ki vr;iv qi;zj ll;am	10
@@ -25522,7 +25356,6 @@ sort: by_weight
 还在夏天呢	hl;zb zl;ut xw;wz tm;ad ne;kn	10
 海藻多糖胶	hl;dm zk;cz do;xx th;mt jc;oj	10
 海藻提取物	hl;dm zk;cz ti;fu qu;ey wu;nw	10
-海藻玉壶汤	hl;dm zk;cz yu;wd hu;uy th;dy	10
 海贼王鲁夫	hl;dm zz;br wh;aa lu;yo fu;ad	10
 海贼王罗杰	hl;dm zz;br wh;aa lo;sx jx;hm	10
 海贼王娜美	hl;dm zz;br wh;aa na;nn mz;dy	10
@@ -26005,7 +25838,6 @@ sort: by_weight
 好气又好笑	hk;nz qi;py yb;vd hk;nz xc;vy	10
 好奇知识君	hk;nz qi;dk vi;ku ui;yv jp;ky	10
 豪乔二氏体	hk;ub qc;ya er;aa ui;pg ti;rb	10
-蒿芩清胆汤	hk;cg qn;cj qy;dq dj;od th;dy	10
 号青莲居士	hk;kk qy;of lm;cl ju;ug ui;aa	10
 豪情四兄弟	hk;ub qy;xq si;aa xs;ke di;bp	10
 好逑双物语	hk;nz qq;zq ud;yy wu;nw yu;yw	10
@@ -26460,7 +26292,6 @@ sort: by_weight
 和农业生产	he;hk ns;by ye;aa ug;na ij;wi	10
 和努尔哈赤	he;hk nu;ln er;dx ha;kh ii;tb	10
 和平北大街	he;hk py;aa bz;ag da;ad jx;xg	10
-和平村旧址	he;hk py;aa cp;mc jq;ao vi;tv	10
 和平的日子	he;hk py;aa de;bu ri;aa zi;aa	10
 和平的世界	he;hk py;aa de;bu ui;ca jx;tj	10
 和平的使者	he;hk py;aa de;bu ui;rl ve;ol	10
@@ -27089,7 +26920,6 @@ sort: by_weight
 衡山五神剑	hg;xd uj;aa wu;aa uf;uu jm;da	10
 恒山悬空寺	hg;xg uj;aa xr;xx ks;xg si;ct	10
 亨舍尔公司	hg;wl ue;ru er;dx gs;sb si;gk	10
-亨升久旧址	hg;wl ug;pc jq;pd jq;ao vi;tv	10
 横省石牌坊	hg;mh ug;ou ui;kp pl;pb fh;tf	10
 亨施二氏带	hg;wl ui;fy er;aa ui;pg dl;jb	10
 恒湿无灰基	hg;xg ui;dx wu;ag hv;hu ji;tq	10
@@ -27357,7 +27187,6 @@ sort: by_weight
 洪顺曲艺社	hs;dg up;yi qu;aa yi;cy ue;ut	10
 红四方面军	hs;sg si;aa fh;wd mm;aa jp;bi	10
 红塔大酒店	hs;sg ta;td da;ad jq;dy dm;gv	10
-红糖姜枣汤	hs;sg th;mt jd;ny zk;cd th;dy	10
 洪塘中路站	hs;dg th;tt vs;aa lu;zg vj;lv	10
 红特超巨星	hs;sg te;ns ik;zv ju;kk xy;ou	10
 洪特霍斯特	hs;dg te;ns ho;yv si;jq te;ns	10
@@ -27550,10 +27379,6 @@ sort: by_weight
 喉盘鱼亚目	hb;kh pj;mv yu;da ya;ay mu;aa	10
 后旁正中核	hb;pk ph;wf vg;av vs;aa he;mh	10
 后佩雷尔曼	hb;pk pz;rb lz;yt er;dx mj;oy	10
-厚朴七物汤	hb;iz po;mb qi;ag wu;nw th;dy	10
-厚朴三物汤	hb;iz po;mb sj;aa wu;nw th;dy	10
-厚朴温中汤	hb;iz po;mb wf;dm vs;aa th;dy	10
-厚朴夏苓汤	hb;iz po;mb xw;wz ly;cl th;dy	10
 后期的保养	hb;pk qi;oq de;bu bk;rd yh;ya	10
 后期的处理	hb;pk qi;oq de;bu iu;wb li;wl	10
 后期的服务	hb;pk qi;oq de;bu fu;oy wu;wl	10
@@ -27784,7 +27609,6 @@ sort: by_weight
 胡椒冰淇淋	hu;og jc;mu by;du qi;dq ln;dl	10
 胡椒粉拌匀	hu;og jc;mu ff;mf bj;fb yp;gd	10
 胡椒粉和盐	hu;og jc;mu ff;mf he;hk yj;mb	10
-胡椒猪肚汤	hu;og jc;mu vu;qv du;ot th;dy	10
 沪九直通车	hu;dh jq;py vi;uq ts;zy ie;aa	10
 沪军都督府	hu;dh jp;bi du;ev du;ou fu;gf	10
 互看不顺眼	hu;aa kj;ou bu;ad up;yi yj;og	10
@@ -28268,9 +28092,7 @@ sort: by_weight
 花神咖啡馆	hw;ch uf;uu ka;kj fz;kf gr;ug	10
 花生和卷福	hw;ch ug;na he;hk jr;ef fu;uf	10
 花生和素菜	hw;ch ug;na he;hk su;sf cl;cc	10
-花生沙参汤	hw;ch ug;na ua;du uf;sp th;dy	10
 画圣吴道子	hw;ak ug;ty wu;kt dk;zu zi;aa	10
-花生枣蜜汤	hw;ch ug;na zk;cd mi;ib th;dy	10
 化石层序律	hw;rb ui;kp cg;uy xu;gy lv;xy	10
 华氏城结集	hw;uh ui;pg ig;ti jx;sj ji;vm	10
 滑石磁铁岩	hw;dg ui;kp ci;uz tx;ju yj;uu	10
@@ -29079,7 +28901,6 @@ sort: by_weight
 黄链丝菌素	hd;cb lm;jl si;aa jp;ch su;sf	10
 荒凉百宝店	hd;ci ld;dj bl;ab bk;by dm;gv	10
 荒凉的戈壁	hd;ci ld;dj de;bu ge;ad bi;tb	10
-黄苓滑石汤	hd;cb ly;cl hw;dg ui;kp th;dy	10
 黄龙甘露碑	hd;cb ls;ad gj;ca lu;yl bz;ub	10
 黄栌染御袍	hd;cb lu;ml rj;mg yu;xx pk;yb	10
 皇马本赛季	hd;bw ma;aa bf;aa sl;bb ji;hz	10
@@ -29113,7 +28934,6 @@ sort: by_weight
 黄鳍马面鲀	hd;cb qi;yo ma;aa mm;aa tp;yt	10
 黄岐派出所	hd;cb qi;uv pl;dp iu;aa so;hj	10
 黄芪属植物	hd;cb qi;cu uu;uy vi;mv wu;nw	10
-黄芩滑石汤	hd;cb qn;cj hw;dg ui;kp th;dy	10
 皇清职贡图	hd;bw qy;dq vi;ev gs;bg tu;kd	10
 磺巯嘌呤钠	hd;uh qq;ai pc;kp ly;kl na;jn	10
 黄衢南高速	hd;cb qu;xq nj;ua gk;wk su;zu	10
@@ -29560,8 +29380,6 @@ sort: by_weight
 灰岩紫地榆	hv;hu yj;uu zi;sc di;ty yu;my	10
 惠阳碧桂园	hv;xh yh;eo bi;ub gv;mg yr;ky	10
 惠阳大亚湾	hv;xh yh;eo da;ad ya;ay wj;dw	10
-回阳救急汤	hv;kk yh;eo jq;wq ji;xi th;dy	10
-回阳救逆汤	hv;kk yh;eo jq;wq ni;zn th;dy	10
 惠阳区政府	hv;xh yh;eo qu;ki vg;wv fu;gf	10
 辉耀姬物语	hv;gj yk;gd ji;ni wu;nw yu;yw	10
 辉夜姬物语	hv;gj ye;wd ji;ni wu;nw yu;yw	10
@@ -29950,7 +29768,6 @@ sort: by_weight
 火力侦察兵	ho;dd li;gp vf;rv ia;bj by;qb	10
 霍乱携带者	ho;yv lr;ug xx;fj dl;jb ve;ol	10
 活络效灵丹	ho;du lo;sg xc;wj ly;hx dj;pd	10
-活络效灵汤	ho;du lo;sg xc;wj ly;hx th;dy	10
 霍梅尼主义	ho;yv mz;mm ni;ub vu;dw yi;id	10
 霍纳演算法	ho;yv na;sn yj;dy sr;vc fa;dq	10
 火鸟号卫星	ho;dd nc;pa hk;kk wz;ga xy;ou	10
@@ -29959,8 +29776,6 @@ sort: by_weight
 或平坦地面	ho;gk py;aa tj;td di;ty mm;aa	10
 霍普夫代数	ho;yv pu;ob fu;ad dl;ry uu;wl	10
 霍普夫分岐	ho;yv pu;ob fu;ad ff;bd qi;uv	10
-霍朴夏苓汤	ho;yv pu;mb xw;wz ly;cl th;dy	10
-藿朴夏苓汤	ho;ch pu;mb xw;wz ly;cl th;dy	10
 霍奇曼算法	ho;yv qi;dk mj;oy sr;vc fa;dq	10
 或其授权人	ho;gk qi;ba ub;fu qr;my rf;pd	10
 霍奇星算子	ho;yv qi;dk xy;ou sr;vc zi;aa	10
@@ -30725,7 +30540,6 @@ sort: by_weight
 激烈驾驶时	ji;dj lx;hl jw;mj ui;mu ui;oc	10
 吉列姆斯基	ji;ku lx;dd mu;nm si;jq ji;tq	10
 吉列体育场	ji;ku lx;dd ti;rb yu;os ih;ty	10
-基林巴群岛	ji;tq ln;mm ba;ag qp;yj dk;nu	10
 基林贝克岛	ji;tq ln;mm bz;ad ke;eg dk;nu	10
 吉林长春的	ji;ku ln;mm ih;pd ip;of de;bu	10
 吉林哈达岭	ji;ku ln;mm ha;kh da;zd ly;ul	10
@@ -30744,7 +30558,6 @@ sort: by_weight
 冀鲁豫边区	ji;bg lu;yo yu;yx bm;zl qu;ki	10
 集论的加法	ji;vm lp;yl de;bu jw;lk fa;dq	10
 吉伦特河口	ji;ku lp;rl te;ns he;dk kb;aa	10
-基罗夫群岛	ji;tq lo;sx fu;ad qp;yj dk;nu	10
 集落形成率	ji;vm lo;cl xy;pk ig;gg lv;wu	10
 纪律和规矩	ji;sj lv;xy he;hk gv;fj ju;uj	10
 纪律和监督	ji;sj lv;xy he;hk jm;mv du;ou	10
@@ -31421,7 +31234,6 @@ sort: by_weight
 鸡与蛋问题	ji;ny yu;aa dj;ip wf;km ti;uy	10
 给予的快乐	ji;sh yu;sa de;bu ky;xd le;pd	10
 给予的力量	ji;sh yu;sa de;bu li;gp ld;ol	10
-鲫鱼豆腐汤	ji;yj yu;da db;aa fu;gr th;dy	10
 机遇和风险	ji;mj yu;zy he;hk fg;ji xm;ea	10
 机遇和挑战	ji;mj yu;zy he;hk tc;fv vj;gv	10
 给予抗生素	ji;sh yu;sa kh;fk ug;na su;sf	10
@@ -31508,7 +31320,6 @@ sort: by_weight
 集众人之力	ji;vm vs;rc rf;pd vi;dd li;gp	10
 集中型经济	ji;vm vs;aa xy;tx jy;sg ji;dq	10
 季中邀请赛	ji;hz vs;aa yk;zj qy;yq sl;bb	10
-集中营旧址	ji;vm vs;aa yy;cl jq;ao vi;tv	10
 及周边地区	ji;nd vb;kt bm;zl di;ty qu;ki	10
 冀州刺史部	ji;bg vb;id ci;dc ui;ki bu;ek	10
 纪州德川家	ji;sj vb;id de;xx ir;pa jw;bu	10
@@ -31563,7 +31374,6 @@ sort: by_weight
 假玻璃熔岩	jw;rj bo;wp li;wl rs;hr yj;uu	10
 嘉布遣大道	jw;uj bu;ju qm;zg da;ad dk;zu	10
 驾部员外郎	jw;mj bu;ek yr;kb wl;xb lh;el	10
-加参生化汤	jw;lk cj;sp ug;na hw;rb th;dy	10
 价层电子对	jw;rj cg;uy dm;ag zi;aa dv;cy	10
 加查拉战役	jw;lk ia;md la;fl vj;gv yi;xu	10
 嘉察仁波切	jw;uj ia;bj rf;re bo;dp qx;dq	10
@@ -31721,7 +31531,6 @@ sort: by_weight
 夹活岩隧道	jw;fb ho;du yj;uu sv;es dk;zu	10
 甲级办公楼	jw;aa ji;sj bj;lb gs;sb lb;ml	10
 甲级防火门	jw;aa ji;sj fh;ef ho;dd mf;dg	10
-甲己化土汤	jw;aa ji;ag hw;rb tu;aa th;dy	10
 佳季科维奇	jw;rg ji;hz ke;hd wz;sv qi;dk	10
 佳季科沃区	jw;rg ji;hz ke;hd wo;dy qu;ki	10
 甲级设计院	jw;aa ji;sj ue;yu ji;yu yr;ew	10
@@ -31729,10 +31538,7 @@ sort: by_weight
 佳佳不在家	jw;rg jw;rg bu;ad zl;ut jw;bu	10
 家家有喜事	jw;bu jw;bu yb;ou xi;uk ui;aa	10
 加减补心丹	jw;lk jm;dx bu;yb xn;dd dj;pd	10
-加减冲和汤	jw;lk jm;dx is;dv he;hk th;dy	10
 加减第二方	jw;lk jm;dx di;vp er;aa fh;wd	10
-加减六君汤	jw;lk jm;dx lq;wb jp;ky th;dy	10
-加减三奇汤	jw;lk jm;dx sj;aa qi;dk th;dy	10
 颊间隙感染	jw;yj jm;mo xi;ex gj;xx rj;mg	10
 加减玉女煎	jw;lk jm;dx yu;wd nv;aa jm;hq	10
 加减镇心丹	jw;lk jm;dx vf;jv xn;dd dj;pd	10
@@ -31835,21 +31641,14 @@ sort: by_weight
 加盟湖人后	jw;lk mg;mm hu;dh rf;pd hb;pk	10
 铗蠓属物种	jw;jj mg;im uu;uy wu;nw vs;hv	10
 甲糜蛋白酶	jw;aa mi;mm dj;ip bl;pa mz;ym	10
-家秘胆星汤	jw;bu mi;hb dj;od xy;ou th;dy	10
 甲米地半岛	jw;aa mi;dd di;ty bj;bf dk;nu	10
 甲米地起义	jw;aa mi;dd di;ty qi;zj yi;id	10
 甲米地省人	jw;aa mi;dd di;ty ug;ou rf;pd	10
 加密和解密	jw;lk mi;ub he;hk jx;jn mi;ub	10
-家秘黄芩汤	jw;bu mi;hb hd;cb qn;cj th;dy	10
-家秘清胃汤	jw;bu mi;hb qy;dq wz;ot th;dy	10
 佳密清真寺	jw;rg mi;ub qy;dq vf;uj si;ct	10
 家秘润肺饮	jw;bu mi;hb rp;dr fz;of yn;uq	10
-家秘神术汤	jw;bu mi;hb uf;uu uu;md th;dy	10
 家秘天地煎	jw;bu mi;hb tm;ad di;ty jm;hq	10
-家秘温肺汤	jw;bu mi;hb wf;dm fz;of th;dy	10
-家秘戊己汤	jw;bu mi;hb wu;gp ji;ag th;dy	10
 家秘香薷饮	jw;bu mi;hb xd;ho ru;cx yn;uq	10
-家秘消滞汤	jw;bu mi;hb xc;dx vi;dd th;dy	10
 加密与解密	jw;lk mi;ub yu;aa jx;jn mi;ub	10
 假面的告白	jw;rj mm;aa de;bu gk;kn bl;pa	10
 假面的女王	jw;rj mm;aa de;bu nv;aa wh;aa	10
@@ -31861,7 +31660,6 @@ sort: by_weight
 加拿大罗氏	jw;lk na;uh da;ad lo;sx ui;pg	10
 加纳共和国	jw;lk na;sn gs;cb he;hk go;ky	10
 迦纳基督徒	jw;zj na;sn ji;tq du;ou tu;xz	10
-加那利群岛	jw;lk na;el li;hd qp;yj dk;nu	10
 嘉纳治五郎	jw;uj na;sn vi;dt wu;aa lh;el	10
 甲南山手站	jw;aa nj;ua uj;aa ub;pa vj;lv	10
 甲南玉圣寺	jw;aa nj;ua yu;wd ug;ty si;ct	10
@@ -32000,50 +31798,16 @@ sort: by_weight
 家庭照顾假	jw;bu ty;gt vk;hv gu;ye jw;rj	10
 加同余方法	jw;lk ts;kk yu;rb fh;wd fa;dq	10
 假王鱼形介	jw;rj wh;aa yu;da xy;pk jx;ra	10
-加味保元汤	jw;lk wz;kw bk;rd yr;aw th;dy	10
-加味补血汤	jw;lk wz;kw bu;yb xt;pa th;dy	10
-加味柴胡汤	jw;lk wz;kw il;mc hu;og th;dy	10
-加味导痰汤	jw;lk wz;kw dk;cs tj;by th;dy	10
-加味地黄汤	jw;lk wz;kw di;ty hd;cb th;dy	10
-加味二陈汤	jw;lk wz;kw er;aa if;ed th;dy	10
-加味二妙汤	jw;lk wz;kw er;aa mc;nu th;dy	10
-加味甘桔汤	jw;lk wz;kw gj;ca ju;mj th;dy	10
 加味龟龄集	jw;lk wz;kw gv;dd ly;il ji;vm	10
-加味归芍汤	jw;lk wz;kw gv;ax uk;cu th;dy	10
-加味归宗汤	jw;lk wz;kw gv;ax zs;bu th;dy	10
-加味建中汤	jw;lk wz;kw jm;zy vs;aa th;dy	10
-加味姜附汤	jw;lk wz;kw jd;ny fu;ef th;dy	10
-加味解毒汤	jw;lk wz;kw jx;jn du;fm th;dy	10
-加味连草汤	jw;lk wz;kw lm;zi ck;cz th;dy	10
 加味凉膈煎	jw;lk wz;kw ld;dj ge;og jm;hq	10
 加味灵芝菌	jw;lk wz;kw ly;hx vi;cv jp;ch	10
-加味麻黄汤	jw;lk wz;kw ma;gl hd;cb th;dy	10
-加味清胃汤	jw;lk wz;kw qy;dq wz;ot th;dy	10
 加味清心饮	jw;lk wz;kw qy;dq xn;dd yn;uq	10
-加味三拗汤	jw;lk wz;kw sj;aa ao;fy th;dy	10
-加味三星汤	jw;lk wz;kw sj;aa xy;ou th;dy	10
-加味肾热汤	jw;lk wz;kw uf;oy re;hv th;dy	10
 加味参苏饮	jw;lk wz;kw uf;sp su;cb yn;uq	10
-加味生化汤	jw;lk wz;kw ug;na hw;rb th;dy	10
-加味胜湿汤	jw;lk wz;kw ug;ou ui;dx th;dy	10
-加味四七汤	jw;lk wz;kw si;aa qi;ag th;dy	10
-加味四物汤	jw;lk wz;kw si;aa wu;nw th;dy	10
 加味通心饮	jw;lk wz;kw ts;zy xn;dd yn;uq	10
-加味胃苓汤	jw;lk wz;kw wz;ot ly;cl th;dy	10
-加味温胆汤	jw;lk wz;kw wf;dm dj;od th;dy	10
-加味五痹汤	jw;lk wz;kw wu;aa bi;bb th;dy	10
-加味戊己汤	jw;lk wz;kw wu;gp ji;ag th;dy	10
-加味乌药汤	jw;lk wz;kw wu;pa yk;cy th;dy	10
 加味香薷饮	jw;lk wz;kw xd;ho ru;cx yn;uq	10
 加味消毒饮	jw;lk wz;kw xc;dx du;fm yn;uq	10
-加味泻白汤	jw;lk wz;kw xx;dx bl;pa th;dy	10
 钾微斜长石	jw;jj wz;xw xx;dy ih;pd ui;kp	10
-加味泻心汤	jw;lk wz;kw xx;dx xn;dd th;dy	10
-加味养心汤	jw;lk wz;kw yh;ya xn;dd th;dy	10
 加味益母草	jw;lk wz;kw yi;mb mu;vd ck;cz	10
-加味枳术汤	jw;lk wz;kw vi;mv uu;md th;dy	10
-加味竹叶汤	jw;lk wz;kw vu;gg ye;ku th;dy	10
-加味左金汤	jw;lk wz;kw zo;ug jn;ra th;dy	10
 甲午大海战	jw;aa wu;ru da;ad hl;dm vj;gv	10
 家务的男人	jw;bu wu;wl de;bu nj;tl rf;pd	10
 假五味子素	jw;rj wu;aa wz;kw zi;aa su;sf	10
@@ -32315,7 +32079,6 @@ sort: by_weight
 检查一下您	jm;ma ia;md yi;aa xw;ab nn;xn	10
 检查与维护	jm;ma ia;md yu;aa wz;sv hu;fh	10
 检察院干警	jm;ma ia;bj yr;ew gj;aa jy;yj	10
-监察院旧址	jm;mv ia;bj yr;ew jq;ao vi;tv	10
 监察院院长	jm;mv ia;bj yr;ew yr;ew vh;pd	10
 建昌镇总兵	jm;zy ih;oo vf;jv zs;xk by;qb	10
 煎成金黄色	jm;hq ig;gg jn;ra hd;cb se;db	10
@@ -33216,8 +32979,6 @@ sort: by_weight
 江左盟宗主	jd;dg zo;ug mg;mm zs;bu vu;dw	10
 江作青罗带	jd;dg zo;rv qy;of lo;sx dl;jb	10
 江左三大家	jd;dg zo;ug sj;aa da;ad jw;bu	10
-胶艾六合汤	jc;oj ai;ci lq;wb he;rk th;dy	10
-胶艾四物汤	jc;oj ai;ci si;aa wu;nw th;dy	10
 骄傲的活着	jc;mq ao;ra de;bu ho;du ve;yo	10
 骄傲和自豪	jc;mq ao;ra he;hk zi;pa hk;ub	10
 骄傲和自信	jc;mq ao;ra he;hk zi;pa xn;ry	10
@@ -33464,7 +33225,6 @@ sort: by_weight
 叫你做什么	jc;kj ni;re zo;rg uf;ru me;ps	10
 胶黏剂产品	jc;oj nm;hv ji;dq ij;wi pn;kk	10
 焦浓重淡清	jc;hv ns;dn vs;pa dj;dy qy;dq	10
-教弩台旧址	jc;wx nu;gn tl;sk jq;ao vi;tv	10
 交配的季节	jc;li pz;yj de;bu ji;hz jx;ce	10
 叫强哥就行	jc;kj qd;gs ge;kd jq;yj xy;xi	10
 交强险标识	jc;li qd;gs xm;ea bc;mu ui;yv	10
@@ -33863,11 +33623,9 @@ sort: by_weight
 届格莱美奖	jx;uy ge;mg ll;cl mz;dy jd;dx	10
 届葛莱美奖	jx;uy ge;ch ll;cl mz;dy jd;dx	10
 借给别人钱	jx;rx gz;sh bx;dl rf;pd qm;jj	10
-桔梗二陈汤	jx;mj gg;mg er;aa if;ed th;dy	10
 桔梗类植物	jx;mj gg;mg lz;md vi;mv wu;nw	10
 桔梗汤主之	jx;mj gg;mg th;dy vu;dw vi;dd	10
 桔梗杏仁煎	jx;mj gg;mg xy;mk rf;re jm;hq	10
-桔梗枳壳汤	jx;mj gg;mg vi;mv qc;uj th;dy	10
 阶共变张量	jx;ej gs;cb bm;wy vh;gi ld;ol	10
 皆共成佛道	jx;bb gs;cb ig;gg fo;rf dk;zu	10
 结构功能论	jx;sj gb;mg gs;lg ng;sb lp;yl	10
@@ -36178,7 +35936,6 @@ sort: by_weight
 久违的快乐	jq;pd wz;zw de;bu ky;xd le;pd	10
 旧危地马拉	jq;ao wz;de di;ty ma;aa la;fl	10
 九味黑蚁酒	jq;py wz;kw hz;ha yi;iy jq;dy	10
-九味羌活汤	jq;py wz;kw qd;yg ho;du th;dy	10
 九尾人柱力	jq;py wz;um rf;pd vu;mv li;gp	10
 九味石灰华	jq;py wz;kw ui;kp hv;hu hw;uh	10
 旧唯物主义	jq;ao wz;kv wu;nw vu;dw yi;id	10
@@ -36483,7 +36240,6 @@ sort: by_weight
 巨配分函数	ju;kk pz;yj ff;bd hj;lk uu;wl	12
 据澎湃新闻	ju;fj pg;dp pl;db xn;jq wf;em	10
 橘皮汤主之	ju;mk pi;ad th;dy vu;dw vi;dd	10
-橘皮竹茹汤	ju;mk pi;ad vu;gg ru;cr th;dy	10
 焗葡国鸡饭	ju;hj pu;cp go;ky ji;ny fj;uf	10
 聚葡糖胺酶	ju;ed pu;cp th;mt an;oa mz;ym	10
 举起的拳头	ju;df qi;zj de;bu qr;uf tb;dd	10
@@ -36817,7 +36573,6 @@ sort: by_weight
 绝望和无助	jt;ss wh;wo he;hk wu;ag vu;lq	10
 绝望与希望	jt;ss wh;wo yu;aa xi;ib wh;wo	10
 绝望者之歌	jt;ss wh;wo ve;ol vi;dd ge;qg	10
-觉悟社旧址	jt;jb wu;xw ue;ut jq;ao vi;tv	10
 觉先声剧团	jt;jb xm;ne ug;um ju;dj tr;kc	10
 决心和力量	jt;dd xn;dd he;hk li;gp ld;ol	10
 决心和态度	jt;dd xn;dd he;hk tl;xt du;gy	10
@@ -36999,7 +36754,6 @@ sort: by_weight
 卡林诺斯岛	ka;ub ln;mm no;yr si;jq dk;nu	10
 卡路脂肪乳	ka;ub lu;zg vi;ov fh;of ru;gf	10
 卡洛登战役	ka;ub lo;dg dg;dd vj;gv yi;xu	10
-卡罗林群岛	ka;ub lo;sx ln;mm qp;yj dk;nu	10
 卡迈克尔数	ka;ub ml;zw ke;eg er;dx uu;wl	10
 卡曼钱近似	ka;ub mj;oy qm;jj jn;zj si;ry	10
 卡曼旋涡街	ka;ub mj;oy xr;fp wo;dg jx;xg	10
@@ -37195,7 +36949,6 @@ sort: by_weight
 开开心心地	kl;ac kl;ac xn;dd xn;dd de;ty	10
 开开心心呢	kl;ac kl;ac xn;dd xn;dd ne;kn	10
 凯克萨银行	kl;jj ke;eg sa;ci yn;jg hh;xi	10
-凯科斯群岛	kl;jj ke;hd si;jq qp;yj dk;nu	10
 凯克天文台	kl;jj ke;eg tm;ad wf;wi tl;sk	10
 凯克望远镜	kl;jj ke;eg wh;wo yr;zy jy;jj	10
 凯克研究院	kl;jj ke;eg yj;uk jq;xj yr;ew	10
@@ -37721,9 +37474,7 @@ sort: by_weight
 克巴二氏法	ke;eg ba;ag er;aa ui;pg fa;dq	10
 科巴姆山脉	ke;hd ba;ag mu;nm uj;aa ml;oy	10
 柯鲍二氏法	ke;mk bk;yb er;aa ui;pg fa;dq	10
-可保立苏汤	ke;dk bk;rd li;da su;cb th;dy	10
 可悲点理论	ke;dk bz;xf dm;hv li;wl lp;yl	10
-科贝克群岛	ke;hd bz;ad ke;eg qp;yj dk;nu	10
 可比的函数	ke;dk bi;bb de;bu hj;lk uu;wl	10
 克比诺圆盘	ke;eg bi;bb no;yr yr;ky pj;mv	10
 可比一致性	ke;dk bi;bb yi;aa vi;wv xy;xu	10
@@ -37940,8 +37691,6 @@ sort: by_weight
 科克尔手法	ke;hd ke;eg er;dx ub;pa fa;dq	10
 客客气气的	ke;bg ke;bg qi;py qi;py de;bu	10
 科科斯板块	ke;hd ke;hd si;jq bj;mf ky;td	10
-科科斯群岛	ke;hd ke;hd si;jq qp;yj dk;nu	10
-可可斯群岛	ke;dk ke;dk si;jq qp;yj dk;nu	10
 可可西里的	ke;dk ke;dk xi;aa li;aa de;bu	10
 可可西里湖	ke;dk ke;dk xi;aa li;aa hu;dh	10
 科孔二氏法	ke;hd ks;zg er;aa ui;pg fa;dq	10
@@ -38053,7 +37802,6 @@ sort: by_weight
 科罗内申岛	ke;hd lo;sx nz;ad uf;aa dk;nu	10
 科洛切普岛	ke;hd lo;dg qx;dq pu;ob dk;nu	10
 科洛索夫角	ke;hd lo;dg so;sb fu;ad jc;dy	10
-克罗泽群岛	ke;eg lo;sx ze;df qp;yj dk;nu	10
 刻律涅牝鹿	ke;dh lv;xy nx;dn pn;nb lu;gb	10
 克略科查湖	ke;eg lt;tg ke;hd ia;md hu;dh	10
 克略科查山	ke;eg lt;tg ke;hd ia;md uj;aa	10
@@ -38075,7 +37823,6 @@ sort: by_weight
 科目三考场	ke;hd mu;aa sj;aa kk;lk ih;ty	10
 克纳尔方法	ke;eg na;sn er;dx fh;wd fa;dq	10
 科拿米公司	ke;hd na;uh mi;dd gs;sb si;gk	10
-科纳提群岛	ke;hd na;sn ti;fu qp;yj dk;nu	10
 可难得多了	ke;dk nj;vy de;xc do;xx le;aa	10
 壳内囊出血	ke;uj nz;ad nh;ay iu;aa xx;pa	10
 可能是遗传	ke;dk ng;sb ui;op yi;zg ir;rv	10
@@ -39149,7 +38896,6 @@ sort: by_weight
 蜡蚧轮枝菌	la;ix jx;ij lp;il vi;mv jp;ch	10
 辣警霸王花	la;xu jy;yj ba;yo wh;aa hw;ch	10
 辣酒煮花螺	la;xu jq;dy vu;hv hw;ch lo;il	10
-拉克沙群岛	la;fl ke;eg ua;du qp;yj dk;nu	10
 拉克斯山脉	la;fl ke;eg si;jq uj;aa ml;oy	10
 啦啦队队长	la;kl la;kl dv;er dv;er vh;pd	10
 啦啦队之舞	la;kl la;kl dv;er vi;dd wu;rf	10
@@ -39190,7 +38936,6 @@ sort: by_weight
 拉特朗条约	la;fl te;ns lh;ol tc;wm yt;su	10
 拉廷格定理	la;fl ty;zr ge;mg dy;bp li;wl	10
 腊味煲仔饭	la;ox wz;kw bk;hb zl;rz fj;uf	10
-拉韦齐群岛	la;fl wz;aa qi;wa qp;yj dk;nu	10
 拉央拉央岛	la;fl yh;ad la;fl yh;ad dk;nu	10
 腊月二十八	la;ox yt;pa er;aa ui;aa ba;pd	10
 腊月十七号	la;ox yt;pa ui;aa qi;ag hk;kk	10
@@ -39395,10 +39140,7 @@ sort: by_weight
 蓝田铁路站	lj;cj tm;aa tx;ju lu;zg vj;lv	10
 蓝天与白云	lj;cj tm;ad yu;aa bl;pa yp;es	10
 蓝廷珍府第	lj;cj ty;zr vf;wp fu;gf di;vp	10
-阑尾化瘀汤	lj;mj wz;um hw;rb yu;by th;dy	10
 阑尾切口疝	lj;mj wz;um qx;dq kb;aa uj;bu	10
-阑尾清化汤	lj;mj wz;um qy;dq hw;rb th;dy	10
-阑尾清解汤	lj;mj wz;um qy;dq jx;jn th;dy	10
 阑尾炎异位	lj;mj wz;um yj;hh yi;cs wz;rl	10
 岚县公安局	lj;uf xm;sq gs;sb an;bn ju;uk	10
 蓝胸佛法僧	lj;cj xs;ox fo;rf fa;dq sg;rc	10
@@ -39720,8 +39462,6 @@ sort: by_weight
 勒克莱齐奥	le;lg ke;eg ll;cl qi;wa ao;dm	10
 了累死我了	le;aa lz;st si;db wo;pd le;aa	10
 勒利德布尔	le;lg li;hd de;xx bu;ju er;dx	10
-乐令黄芪汤	le;pd ly;rs hd;cb qi;cu th;dy	10
-乐令建中汤	le;pd ly;rs jm;zy vs;aa th;dy	10
 勒洛三角形	le;lg lo;dg sj;aa jc;dy xy;pk	10
 勒芒耐力赛	le;lg mh;cw nl;ce li;gp sl;bb	10
 勒芒原型车	le;lg mh;cw yr;ix xy;tx ie;aa	10
@@ -40191,7 +39931,6 @@ sort: by_weight
 栗林美奈实	li;mx ln;mm mz;dy nl;du ui;bt	10
 立领的设计	li;da ly;yl de;bu ue;yu ji;yu	10
 利留卡拉尼	li;hd lq;td ka;ub la;fl ni;ub	10
-藜芦甘草汤	li;cl lu;ch gj;ca ck;cz th;dy	10
 理论和实操	li;wl lp;yl he;hk ui;bt ck;fz	10
 理论和实际	li;wl lp;yl he;hk ui;bt ji;eu	10
 理论及实践	li;wl lp;yl ji;nd ui;bt jm;zj	10
@@ -40503,7 +40242,6 @@ sort: by_weight
 离一切诸相	li;ws yi;aa qx;dq vu;yv xd;mo	10
 利益攸关方	li;hd yi;mb yb;rw gr;qd fh;wd	10
 丽蝇虫疠霉	li;ad yy;id is;ad li;bw mz;ym	10
-立应四物汤	li;da yy;ga si;aa wu;nw th;dy	10
 利用波长为	li;hd ys;kf bo;dp ih;pd wz;dd	10
 利用的价值	li;hd ys;kf de;bu jw;rj vi;rv	10
 离用户最近	li;ws ys;kf hu;dp zv;oq jn;zj	10
@@ -40532,7 +40270,6 @@ sort: by_weight
 礼运大同篇	li;ug yp;zy da;ad ts;kk pm;vb	10
 离这里不远	li;ws ve;zw li;aa bu;ad yr;zy	10
 立正佼成会	li;da vg;av jc;rj ig;gg hv;ry	10
-荔枝大枣汤	li;cl vi;mv da;ad zk;cd th;dy	10
 励志的电影	li;ll vi;xu de;bu dm;ag yy;pj	10
 励志的歌曲	li;ll vi;xu de;bu ge;qg qu;aa	10
 励志的故事	li;ll vi;xu de;bu gu;wg ui;aa	10
@@ -40548,7 +40285,6 @@ sort: by_weight
 理智和情感	li;wl vi;ov he;hk qy;xq gj;xx	10
 励志奖学金	li;ll vi;xu jd;dx xt;zb jn;ra	10
 励志偶像剧	li;ll vi;xu ou;ry xd;rx ju;dj	10
-励志社旧址	li;ll vi;xu ue;ut jq;ao vi;tv	10
 理智投资者	li;wl vi;ov tb;fu zi;bc ve;ol	10
 荔枝湾文塔	li;cl vi;mv wj;dw wf;wi ta;td	10
 励志文艺莎	li;ll vi;xu wf;wi yi;cy ua;cu	10
@@ -40561,8 +40297,6 @@ sort: by_weight
 荔枝蘸酱油	li;cl vi;mv vj;cj jd;yx yb;dy	10
 励志正能量	li;ll vi;xu vg;av ng;sb ld;ol	10
 离职支付法	li;ws vi;ev vi;uy fu;rc fa;dq	10
-理中安蛔汤	li;wl vs;aa an;bn hv;ih th;dy	10
-理中化痰汤	li;wl vs;aa hw;rb tj;by th;dy	10
 利州节度使	li;hd vb;id jx;ce du;gy ui;rl	10
 丽珠加乐欣	li;ad vu;wv jw;lk le;pd xn;qj	10
 丽珠克毒星	li;ad vu;wv ke;eg du;fm xy;ou	10
@@ -40794,7 +40528,6 @@ sort: by_weight
 恋恋书中人	lm;xy lm;xy uu;ad vs;aa rf;pd	10
 联联周边游	lm;eg lm;eg vb;kt bm;zl yb;dz	10
 连帽的设计	lm;zi mk;jm de;bu ue;yu ji;yu	10
-连梅安蛔汤	lm;zi mz;mm an;bn hv;ih th;dy	10
 链酶蛋白酶	lm;jl mz;ym dj;ip bl;pa mz;ym	10
 链霉亲和素	lm;jl mz;ym qn;lm he;hk su;sf	10
 链霉素激酶	lm;jl mz;ym su;sf ji;dj mz;ym	10
@@ -40981,8 +40714,6 @@ sort: by_weight
 两封推荐信	ld;ad fg;cg tv;fv jm;cc xn;ry	10
 靓夫脱毛霜	ld;jq fu;ad to;od mk;pg ud;yx	10
 两杆大烟枪	ld;ad gj;mg da;ad yj;hy qd;mc	10
-凉肝导赤汤	ld;dj gj;og dk;cs ii;tb th;dy	10
-凉膈白虎汤	ld;dj ge;og bl;pa hu;hj th;dy	10
 凉膈攻毒饮	ld;dj ge;og gs;wg du;fm yn;uq	10
 凉膈清脾饮	ld;dj ge;og qy;dq pi;ob yn;uq	10
 两个人的事	ld;ad ge;ra rf;pd de;bu ui;aa	10
@@ -41200,7 +40931,6 @@ sort: by_weight
 良心大使奖	ld;dg xn;dd da;ad ui;rl jd;dx	10
 两新党组织	ld;ad xn;jq dh;ek zu;sq vi;sv	10
 梁新记牙刷	ld;md xn;jq ji;yj ya;ap uw;dj	10
-凉心清肝汤	ld;dj xn;dd qy;dq gj;og th;dy	10
 凉性的食物	ld;dj xy;xu de;bu ui;rl wu;nw	10
 两性电解质	ld;ad xy;xu dm;ag jx;jn vi;bu	10
 两性关系的	ld;ad xy;xu gr;qd xi;ps de;bu	10
@@ -41225,7 +40955,6 @@ sort: by_weight
 两仪生四象	ld;ad yi;ry ug;na si;aa xd;du	10
 两亿五千万	ld;ad yi;ry wu;aa qm;pa wj;ag	10
 两阴夹一阳	ld;ad yn;eo jw;fb yi;aa yh;eo	10
-凉营清气汤	ld;dj yy;cl qy;dq qi;py th;dy	10
 良友便利店	ld;dg yb;yu bm;rg li;hd dm;gv	10
 粮油副食品	ld;ml yb;dy fu;df ui;rl pn;kk	10
 梁元帝萧绎	ld;md yr;aw di;jb xc;cs yi;sf	10
@@ -41563,7 +41292,6 @@ sort: by_weight
 灵格斯词霸	ly;hx ge;mg si;jq ci;ys ba;yo	10
 灵光守护者	ly;hx gd;ea ub;bc hu;fh ve;ol	10
 苓桂咳喘宁	ly;cl gv;mg ke;kh ir;ke ny;bd	10
-苓桂术甘汤	ly;cl gv;mg uu;md gj;ca th;dy	10
 菱果羊蹄甲	ly;cl go;tm yh;da ti;zd jw;aa	10
 领海基线法	ly;yl hl;dm ji;tq xm;sj fa;dq	10
 零化多项式	ly;yl hw;rb do;xx xd;gy ui;gy	10
@@ -41599,7 +41327,6 @@ sort: by_weight
 凌家山北路	ly;dl jw;bu uj;aa bz;ag lu;zg	10
 凌家滩遗址	ly;dl jw;bu tj;dn yi;zg vi;tv	10
 零件的制造	ly;yl jm;rn de;bu vi;dg zk;zg	10
-羚角钩藤汤	ly;yl jc;dy gb;jg tg;ct th;dy	10
 羚角钩藤饮	ly;yl jc;dy gb;jg tg;ct yn;uq	10
 零阶保持器	ly;yl jx;ej bk;rd ii;fs qi;kk	10
 灵境胡同站	ly;hx jy;tj hu;og ts;kk vj;lv	10
@@ -41928,7 +41655,6 @@ sort: by_weight
 琉璃奥图码	lq;wi li;wl ao;dm tu;kd ma;um	10
 琉璃厂西街	lq;wi li;wl ih;ap xi;aa jx;xg	10
 琉璃河遗址	lq;wi li;wl he;dk yi;zg vi;tv	10
-柳里基群岛	lq;mm li;aa ji;tq qp;yj dk;nu	10
 留里科维奇	lq;td li;aa ke;hd wz;sv qi;dk	10
 琉璃美人煞	lq;wi li;wl mz;dy rf;pd ua;hw	10
 六里桥北里	lq;wb li;aa qc;mq bz;ag li;aa	10
@@ -42028,7 +41754,6 @@ sort: by_weight
 留头不留发	lq;td tb;dd bu;ad lq;td fa;ay	10
 六万平方米	lq;wb wj;ag py;aa fh;wd mi;dd	10
 六味白莲酊	lq;wb wz;kw bl;pa lm;cl dy;yd	10
-六味地黄汤	lq;wb wz;kw di;ty hd;cb th;dy	10
 刘维尔定理	lq;dw wz;sv er;dx dy;bp li;wl	10
 刘维尔方程	lq;dw wz;sv er;dx fh;wd ig;hi	10
 刘维尔公式	lq;dw wz;sv er;dx gs;sb ui;gy	10
@@ -42140,7 +41865,6 @@ sort: by_weight
 泷川龟太郎	ls;dl ir;pa gv;dd tl;dd lh;el	10
 陇川设治局	ls;el ir;pa ue;yu vi;dt ju;uk	10
 龙胆坚龙胆	ls;ad dj;od jm;ty ls;ad dj;od	10
-龙胆泻肝汤	ls;ad dj;od xx;dx gj;og th;dy	10
 隆德大教堂	ls;eu de;xx da;ad jc;wx th;tk	10
 龙德施泰特	ls;ad de;xx ui;fy tl;uf te;ns	10
 龙灯花鼓夜	ls;ad dg;hd hw;ch gu;vd ye;wd	10
@@ -42160,10 +41884,8 @@ sort: by_weight
 陇海东路站	ls;el hl;dm ds;ad lu;zg vj;lv	10
 陇海快速路	ls;el hl;dm ky;xd su;zu lu;zg	10
 陇海西路站	ls;el hl;dm xi;aa lu;zg vj;lv	10
-龙蚝理痰汤	ls;ad hk;im li;wl tj;by th;dy	10
 龙号太空船	ls;ad hk;kk tl;dd ks;xg ir;vk	10
 龙虎砵兰街	ls;ad hu;hj bo;ub lj;qe jx;xg	10
-龙虎二仙汤	ls;ad hu;hj er;aa xm;ru th;dy	10
 龙虎清凉油	ls;ad hu;hj qy;dq ld;dj yb;dy	10
 龙虎少年队	ls;ad hu;hj uk;xp nm;ra dv;er	10
 龙虎新风云	ls;ad hu;hj xn;jq fg;ji yp;es	10
@@ -42197,7 +41919,6 @@ sort: by_weight
 隆梅尔函数	ls;eu mz;mm er;dx hj;lk uu;wl	10
 隆美尔神话	ls;eu mz;dy er;dx uf;uu hw;yu	10
 龙门烤鱼坊	ls;ad mf;dg kk;hk yu;da fh;tf	10
-龙牡复脉汤	ls;ad mu;nt fu;wo ml;oy th;dy	10
 陇南镇守使	ls;el nj;ua vf;jv ub;bc ui;rl	10
 龙坪度假村	ls;ad py;tp du;gy jw;rj cp;mc	10
 龙平度假村	ls;ad py;aa du;gy jw;rj cp;mc	10
@@ -42446,7 +42167,6 @@ sort: by_weight
 卤素校正线	lu;bi su;sf jc;mj vg;av xm;sj	10
 卤素配合物	lu;bi su;sf pz;yj he;rk wu;nw	10
 路随人茫茫	lu;zg sv;ey rf;pd mh;cw mh;cw	10
-芦笋奶油汤	lu;ch sp;vy nl;nn yb;dy th;dy	10
 鲁特斯集团	lu;yo te;ns si;jq ji;vm tr;kc	10
 路透社援引	lu;zg tb;zx ue;ut yr;fy yn;ga	10
 路途的遥远	lu;zg tu;zy de;bu yk;zf yr;zy	10
@@ -42530,7 +42250,6 @@ sort: by_weight
 鸾鸟城城址	lr;ny nc;pa ig;ti ig;ti vi;tv	10
 卵泡刺激素	lr;pd pk;db ci;dc ji;dj su;sf	10
 卵泡黄素化	lr;pd pk;db hd;cb su;sf hw;rb	10
-乱喷鱼头汤	lr;ug pf;kb yu;da tb;dd th;dy	10
 乱七八糟的	lr;ug qi;ag ba;pd zk;mc de;bu	10
 卵清白蛋白	lr;pd qy;dq bl;pa dj;ip bl;pa	10
 乱世风云儿	lr;ug ui;ca fg;ji yp;es er;pg	10
@@ -42994,8 +42713,6 @@ sort: by_weight
 玛哈帕腊达	ma;wm ha;kh pa;jb la;ox da;zd	10
 玛哈沙拉堪	ma;wm ha;kh ua;du la;fl kj;tu	10
 麻花辫发型	ma;gl hw;ch bm;sx fa;ay xy;tx	10
-麻黄加术汤	ma;gl hd;cb jw;lk uu;md th;dy	10
-麻黄升麻汤	ma;gl hd;cb ug;pc ma;gl th;dy	10
 马吉安主义	ma;aa ji;ku an;bn vu;dw yi;id	10
 玛姬葛伦霍	ma;wm ji;ni ge;ch lp;rl ho;yv	10
 玛吉斯轮胎	ma;wm ji;ku si;jq lp;il tl;ot	10
@@ -43077,7 +42794,6 @@ sort: by_weight
 麻萨诸塞州	ma;gl sa;ci vu;yv sl;tb vb;id	10
 玛莎拉蒂案	ma;wm ua;cu la;fl di;cd an;ma	10
 马善被人骑	ma;aa uj;kq bz;yp rf;pd qi;mq	10
-马绍尔群岛	ma;aa uk;sv er;dx qp;yj dk;nu	10
 麻生久美子	ma;gl ug;na jq;pd mz;dy zi;aa	10
 麻生美代子	ma;gl ug;na mz;dy dl;ry zi;aa	10
 麻省总医院	ma;gl ug;ou zs;xk yi;ku yr;ew	10
@@ -43096,10 +42812,6 @@ sort: by_weight
 马提尼克岛	ma;aa ti;fu ni;ub ke;eg dk;nu	10
 马桶疏通器	ma;aa ts;my uu;pi ts;zy qi;kk	10
 马戏团帐篷	ma;aa xi;yg tr;kc vh;ji pg;vf	10
-麻杏甘石汤	ma;gl xy;mk gj;ca ui;kp th;dy	10
-麻杏石甘汤	ma;gl xy;mk ui;kp gj;ca th;dy	10
-麻杏苡甘汤	ma;gl xy;mk yi;cy gj;ca th;dy	10
-麻杏薏甘汤	ma;gl xy;mk yi;cy gj;ca th;dy	10
 马修恩条约	ma;aa xq;rp en;xy tc;wm yt;su	10
 玛雅金字塔	ma;wm ya;vy jn;ra zi;bz ta;td	10
 玛雅潘联盟	ma;wm ya;vy pj;df lm;eg mg;mm	10
@@ -45191,7 +44903,6 @@ sort: by_weight
 明初四大案	my;oo iu;yd si;aa da;ad an;ma	10
 名词和动词	my;xk ci;ys he;hk ds;ly ci;ys	10
 名词解释题	my;xk ci;ys jx;jn ui;pf ti;uy	10
-明打威群岛	my;oo da;fd wz;gn qp;yj dk;nu	10
 明旦沟水头	my;oo dj;oa gb;dg uv;ad tb;dd	10
 冥道残月破	my;bl dk;zu cj;dj yt;pa po;up	10
 明悼毛皇后	my;oo dk;xv mk;pg hd;bw hb;pk	10
@@ -45657,6 +45368,8 @@ sort: by_weight
 魔王的契约	mo;gm wh;aa de;bu qi;dd yt;su	10
 末位淘汰制	mo;ad wz;rl tk;dt tl;dt vi;dg	10
 末尾淘汰制	mo;ad wz;um tk;dt tl;dt vi;dg	10
+末尾这几个	mo;ad wz;um ve;zw ji;py ge;ra	12
+莫为这几个	mo;cd wz;dd ve;zw ji;py ge;ra	10
 墨西哥半岛	mo;th xi;aa ge;kd bj;bf dk;nu	10
 墨西哥卷饼	mo;th xi;aa ge;kd jr;ef by;ub	10
 墨西哥粽子	mo;th xi;aa ge;kd zs;mz zi;aa	10
@@ -46096,8 +45809,6 @@ sort: by_weight
 那天的流星	na;el tm;ad de;bu lq;di xy;ou	10
 那天是星期	na;el tm;ad ui;op xy;ou qi;oq	10
 拿铁马奇朵	na;uh tx;ju ma;aa qi;dk do;mj	10
-纳吐纳群岛	na;sn tu;kt na;sn qp;yj dk;nu	10
-纳土纳群岛	na;sn tu;aa na;sn qp;yj dk;nu	10
 纳瓦尔宝典	na;sn wa;ad er;dx bk;by dm;ba	10
 那瓦尔王国	na;el wa;ad er;dx wh;aa go;ky	10
 纳维亚半岛	na;sn wz;sv ya;ay bj;bf dk;nu	10
@@ -46222,7 +45933,6 @@ sort: by_weight
 耐药性癫痫	nl;ce yk;cy xy;xu dm;bd xm;bx	10
 奶油炒面糊	nl;nn yb;dy ik;hu mm;aa hu;mh	10
 奶油咖哩鸡	nl;nn yb;dy ka;kj li;kl ji;ny	10
-奶油芦笋汤	nl;nn yb;dy lu;ch sp;vy th;dy	10
 奶油猫悖论	nl;nn yb;dy mk;qm bz;xb lp;yl	10
 奈泽维奇岩	nl;du ze;df wz;sv qi;dk yj;uu	10
 乃至无老死	nl;pg vi;tv wu;ag lk;lb si;db	10
@@ -46330,7 +46040,6 @@ sort: by_weight
 男女分班制	nj;tl nv;aa ff;bd bj;dw vi;dg	10
 男配角心声	nj;tl pz;yj jt;dy xn;dd ug;um	10
 男乒世界杯	nj;tl py;qp ui;ca jx;tj bz;mb	10
-南千岛群岛	nj;ua qm;pa dk;nu qp;yj dk;nu	10
 南乔治亚岛	nj;ua qc;ya vi;dt ya;ay dk;nu	10
 男权的神话	nj;tl qr;my de;bu uf;uu hw;yu	10
 男人不能惯	nj;tl rf;pd bu;ad ng;sb gr;xg	10
@@ -46499,7 +46208,6 @@ sort: by_weight
 内禀角动量	nz;ad by;wu jc;dy ds;ly ld;ol	10
 内部惩罚法	nz;ad bu;ek ig;xv fa;sd fa;dq	10
 内部告发者	nz;ad bu;ek gk;kn fa;ay ve;ol	10
-内补黄芪汤	nz;ad bu;yb hd;cb qi;cu th;dy	10
 内部或外部	nz;ad bu;ek ho;gk wl;xb bu;ek	10
 内布拉斯加	nz;ad bu;ju la;fl si;jq jw;lk	10
 内部人士称	nz;ad bu;ek rf;pd ui;aa ig;he	10
@@ -46950,7 +46658,6 @@ sort: by_weight
 你看我像谁	ni;re kj;ou wo;pd xd;rx uv;yv	10
 你看着这个	ni;re kj;ou ve;yo ve;zw ge;ra	10
 你考多少分	ni;re kk;lk do;xx uk;xp ff;bd	10
-尼科巴群岛	ni;ub ke;hd ba;ag qp;yj dk;nu	10
 尼科堡战役	ni;ub ke;hd bk;tb vj;gv yi;xu	10
 尼科波尔角	ni;ub ke;hd bo;dp er;dx jc;dy	10
 尼科尔半岛	ni;ub ke;hd er;dx bj;bf dk;nu	10
@@ -47282,7 +46989,6 @@ sort: by_weight
 年龄的增加	nm;ra ly;il de;bu zg;tc jw;lk	10
 年龄的增长	nm;ra ly;il de;bu zg;tc vh;pd	10
 年龄和性别	nm;ra ly;il he;hk xy;xu bx;dl	10
-年罗门群岛	nm;ra lo;sx mf;dg qp;yj dk;nu	10
 年迈的父母	nm;ra ml;zw de;bu fu;pd mu;vd	10
 年迈的父亲	nm;ra ml;zw de;bu fu;pd qn;lm	10
 年迈的老人	nm;ra ml;zw de;bu lk;lb rf;pd	10
@@ -47528,7 +47234,6 @@ sort: by_weight
 柠檬的味道	ny;mn mg;mm de;bu wz;kw dk;zu	10
 凝溶胶蛋白	ny;dy rs;dr jc;oj dj;ip bl;pa	10
 宁若戴尔河	ny;bd ro;cy dl;gg er;dx he;dk	10
-宁嗽化痰汤	ny;bd sb;kq hw;rb tj;by th;dy	10
 宁宿徐高速	ny;bd su;bb xu;xy gk;wk su;zu	10
 宁王朱宸濠	ny;bd wh;aa vu;pw if;bi hk;dh	10
 宁为太平犬	ny;bd wz;dd tl;dd py;aa qr;dd	10
@@ -48466,7 +48171,6 @@ sort: by_weight
 配近视眼镜	pz;yj jn;zj ui;ju yj;og jy;jj	10
 配角的戏份	pz;yj jt;dy de;bu xi;yg ff;rf	10
 培菌培养基	pz;tk jp;ch pz;tk yh;ya ji;tq	10
-佩拉杰群岛	pz;rb la;fl jx;hm qp;yj dk;nu	10
 佩莱利乌岛	pz;rb ll;cl li;hd wu;pa dk;nu	10
 培乐多黏土	pz;tk le;pd do;xx nm;hv tu;aa	10
 赔了个精光	pz;bk le;aa ge;ra jy;mq gd;ea	10
@@ -49217,9 +48921,6 @@ sort: by_weight
 坪坦风雨桥	py;tp tj;td fg;ji yu;ad qc;mq	10
 平坦状断口	py;aa tj;td vd;qp dr;ja kb;aa	10
 平塘特大桥	py;aa th;tt te;ns da;ad qc;mq	10
-平胃导痰汤	py;aa wz;ot dk;cs tj;by th;dy	10
-平胃地榆汤	py;aa wz;ot di;ty yu;my th;dy	10
-平胃二陈汤	py;aa wz;ot er;aa if;ed th;dy	10
 平圩发电厂	py;aa wz;ty fa;ay dm;ag ih;ap	10
 评委老师们	py;yp wz;hn lk;lb ui;ab mf;rm	10
 平稳的过渡	py;aa wf;hj de;bu go;zc du;dd	10
@@ -49356,7 +49057,6 @@ sort: by_weight
 婆娑尼师今	po;nb so;nu ni;ub ui;ab jn;ra	10
 破晓风笛手	po;up xc;oy fg;ji di;vy ub;pa	10
 泊萧叶定律	po;db xc;cs ye;ku dy;bp lv;xy	10
-破血散瘀汤	po;up xt;pa sj;wo yu;by th;dy	10
 鄱阳湖大坝	po;ef yh;eo hu;dh da;ad ba;tb	10
 鄱阳湖水战	po;ef yh;eo hu;dh uv;ad vj;gv	10
 鄱阳湖之战	po;ef yh;eo hu;dh vi;dd vj;gv	10
@@ -49467,6 +49167,7 @@ sort: by_weight
 浦上天主堂	pu;df uh;aa tm;ad vu;dw th;tk	10
 普世价值论	pu;ob ui;ca jw;rj vi;rv lp;yl	10
 普适相互酌	pu;ob ui;zu xd;mo hu;aa vo;yu	10
+葡式小蛋挞	pu;cp ui;gy xc;ad dj;ip ta;fd	10
 葡属安哥拉	pu;cp uu;uy an;bn ge;kd la;fl	10
 葡属东帝汶	pu;cp uu;uy ds;ad di;jb wf;dw	10
 葡属几内亚	pu;cp uu;uy ji;py nz;ad ya;ay	10
@@ -50049,7 +49750,6 @@ sort: by_weight
 七味辣椒粉	qi;ag wz;kw la;xu jc;mu ff;mf	10
 其未来发展	qi;ba wz;ex ll;am fa;ay vj;uy	10
 戚薇李承铉	qi;gx wz;cw li;mz ig;ad xr;jx	10
-七味沙参汤	qi;ag wz;kw ua;du uf;sp th;dy	10
 奇维塔符号	qi;dk wz;sv ta;td fu;vf hk;kk	10
 奇维塔联络	qi;dk wz;sv ta;td lm;eg lo;sg	10
 奇维塔诺瓦	qi;dk wz;sv ta;td no;yr wa;ad	10
@@ -50519,7 +50219,6 @@ sort: by_weight
 千金买马骨	qm;pa jn;ra ml;at ma;aa gu;go	10
 前进气格栅	qm;qd jn;zj qi;py ge;mg uj;mc	10
 千斤肾安宁	qm;pa jn;pa uf;oy an;bn ny;bd	10
-千金苇茎汤	qm;pa jn;ra wz;cw jy;cg th;dy	10
 前进新台湾	qm;qd jn;zj xn;jq tl;sk wj;dw	10
 潜晶霏细岩	qm;dt jy;oo fz;yf xi;st yj;uu	10
 前景和背景	qm;qd jy;oj he;hk bz;ob jy;oj	10
@@ -50907,7 +50606,6 @@ sort: by_weight
 强化治疗石	qd;gs hw;rb vi;dt lc;bl ui;kp	10
 强混合变换	qd;gs hp;dk he;rk bm;wy hr;fh	10
 强混合条件	qd;gs hp;dk he;rk tc;wm jm;rn	10
-羌活胜湿汤	qd;yg ho;du ug;ou ui;dx th;dy	10
 羟基斑蝥素	qd;yg ji;tq bj;ww mk;im su;sf	10
 羟基胞嘧啶	qd;yg ji;tq bk;ob mi;km dy;kd	10
 羟基丁内酯	qd;yg ji;tq dy;aa nz;ad vi;yv	10
@@ -51259,21 +50957,12 @@ sort: by_weight
 秦会要订补	qn;hf hv;ry yk;xn dy;yd bu;yb	10
 秦基伟家系	qn;hf ji;tq wz;rw jw;bu xi;ps	10
 秦家上祠堂	qn;hf jw;bu uh;aa ci;us th;tk	10
-秦艽苍术汤	qn;hf jc;cj ch;cc vu;md th;dy	10
-秦艽当归汤	qn;hf jc;cj dh;xx gv;ax th;dy	10
-秦艽地黄汤	qn;hf jc;cj di;ty hd;cb th;dy	10
-秦艽防风汤	qn;hf jc;cj fh;ef fg;ji th;dy	10
-秦艽扶羸汤	qn;hf jc;cj fu;ff lz;dd th;dy	10
-秦艽牛蒡汤	qn;hf jc;cj nq;pa bh;cp th;dy	10
-秦艽羌活汤	qn;hf jc;cj qd;yg ho;du th;dy	10
-秦艽升麻汤	qn;hf jc;cj ug;pc ma;gl th;dy	10
 秦艽小秦艽	qn;hf jc;cj xc;ad qn;hf jc;cj	10
 亲近的父亲	qn;lm jn;zj de;bu fu;pd qn;lm	10
 亲近的朋友	qn;lm jn;zj de;bu pg;oo yb;yu	10
 秦晋殽之战	qn;hf jn;oy xc;uy vi;dd vj;gv	10
 勤劳的蜜蜂	qn;lj lk;lb de;bu mi;ib fg;if	10
 勤劳感谢日	qn;lj lk;lb gj;xx xx;yu ri;aa	10
-芩连四物汤	qn;cj lm;zi si;aa wu;nw th;dy	10
 秦良玉陵园	qn;hf ld;dg yu;wd ly;el yr;ky	10
 秦陵兵马俑	qn;hf ly;el by;qb ma;aa ys;ry	10
 秦陵博物院	qn;hf ly;el bo;uc wu;nw yr;ew	10
@@ -51541,7 +51230,6 @@ sort: by_weight
 清代内蒙古	qy;dq dl;ry nz;ad mg;cm gu;uk	10
 清单化管控	qy;dq dj;ba hw;rb gr;vg ks;fk	10
 清单式管理	qy;dq dj;ba ui;gy gr;vg li;wl	10
-清胆泻火汤	qy;dq dj;od xx;dx ho;dd th;dy	10
 清淡易消化	qy;dq dj;dy yi;ow xc;dx hw;rb	10
 青岛八大关	qy;of dk;nu ba;pd da;ad gr;qd	10
 青岛办事处	qy;of dk;nu bj;lb ui;aa iu;wb	10
@@ -51663,7 +51351,6 @@ sort: by_weight
 请放下手机	qy;yq fh;wf xw;ab ub;pa ji;mj	10
 请放心食用	qy;yq fh;wf xn;dd ui;rl ys;kf	10
 清肺的食物	qy;dq fz;of de;bu ui;rl wu;nw	10
-清肺排毒汤	qy;dq fz;of pl;ff du;fm th;dy	10
 清肺十八味	qy;dq fz;of ui;aa ba;pd wz;kw	10
 庆丰包子铺	qy;gd fg;aa bk;gs zi;aa pu;jf	10
 清风拂山岗	qy;dq fg;ji fu;ff uj;aa gh;ug	10
@@ -51705,7 +51392,6 @@ sort: by_weight
 清海无上师	qy;dq hl;dm wu;ag uh;aa ui;ab	10
 清海镇海运	qy;dq hl;dm vf;jv hl;dm yp;zy	10
 青函联络船	qy;of hj;lk lm;eg lo;sg ir;vk	10
-青蒿鳖甲汤	qy;of hk;cg bx;yb jw;aa th;dy	10
 晴好的天气	qy;oq hk;nz de;bu tm;ad qi;py	10
 请好好珍惜	qy;yq hk;nz hk;nz vf;wp xi;xx	10
 青蒿琥酯钠	qy;of hk;cg hu;wh vi;yv na;jn	10
@@ -51772,7 +51458,6 @@ sort: by_weight
 清洁与保养	qy;dq jx;dj yu;aa bk;rd yh;ya	10
 清洁与消毒	qy;dq jx;dj yu;aa xc;dx du;fm	10
 青睫综合症	qy;of jx;oj zs;sz he;rk vg;bv	10
-清金降火汤	qy;dq jn;ra jd;ef ho;dd th;dy	10
 倾尽我所有	qy;rq jn;id wo;pd so;hj yb;ou	10
 请进行澄清	qy;yq jn;zj xy;xi ig;dd qy;dq	10
 清净化城塔	qy;dq jy;dv hw;rb ig;ti ta;td	10
@@ -51781,7 +51466,6 @@ sort: by_weight
 清经世文编	qy;dq jy;sg ui;ca wf;wi bm;sb	10
 情境式学习	qy;xq jy;tj ui;gy xt;zb xi;ga	10
 清净真如海	qy;dq jy;dv vf;uj ru;nk hl;dm	10
-清经止血汤	qy;dq jy;sg vi;aa xt;pa th;dy	10
 清酒红人面	qy;dq jq;dy hs;sg rf;pd mm;aa	10
 情就在那里	qy;xq jq;yj zl;ut na;el li;aa	10
 倾举国之力	qy;rq ju;df go;ky vi;dd li;gp	10
@@ -51912,7 +51596,6 @@ sort: by_weight
 清热消炎宁	qy;dq re;hv xc;dx yj;hh ny;bd	10
 清热泻火类	qy;dq re;hv xx;dx ho;dd lz;md	10
 清热醒脑灵	qy;dq re;hv xy;yx nk;ox ly;hx	10
-清热止崩汤	qy;dq re;hv vi;aa bg;up th;dy	10
 情人节将至	qy;xq rf;pd jx;ce jd;jc vi;tv	10
 情人节快乐	qy;xq rf;pd jx;ce ky;xd le;pd	10
 情人节七夕	qy;xq rf;pd jx;ce qi;ag xi;pd	10
@@ -51977,14 +51660,12 @@ sort: by_weight
 情圣囧色夫	qy;xq ug;ty js;kk se;db fu;ad	10
 清圣祖玄烨	qy;dq ug;ty zu;uq xr;wy ye;hh	10
 清诗别裁集	qy;dq ui;ys bx;dl cl;yg ji;vm	10
-清湿化痰汤	qy;dq ui;dx hw;rb tj;by th;dy	10
 请拭目以待	qy;yq ui;fu mu;aa yi;rd dl;xs	10
 倾食症候群	qy;rq ui;rl vg;bv hb;ru qp;yj	10
 清世宗胤禛	qy;dq ui;ca zs;bu yn;pg vf;uv	10
 清世祖福临	qy;dq ui;ca zu;uq fu;uf ln;ao	10
 请受我一拜	qy;yq ub;vy wo;pd yi;aa bl;uf	10
 请手下留情	qy;yq ub;pa xw;ab lq;td qy;xq	10
-清暑益气汤	qy;dq uu;ov yi;mb qi;py th;dy	10
 清双唇擦音	qy;dq ud;yy ip;ki ca;fi yn;lo	10
 清双唇塞音	qy;dq ud;yy ip;ki se;tb yn;lo	10
 清爽的白色	qy;dq ud;dy de;bu bl;pa se;db	10
@@ -52205,7 +51886,6 @@ sort: by_weight
 清远英德市	qy;dq yr;zy yy;cy de;xx ui;wj	10
 情越海岸线	qy;xq yt;zy hl;dm an;ug xm;sj	10
 情越双白线	qy;xq yt;zy ud;yy bl;pa xm;sj	10
-清燥救肺汤	qy;dq zk;hz jq;wq fz;of th;dy	10
 清真北大寺	qy;dq vf;uj bz;ag da;ad si;ct	10
 清真老华寺	qy;dq vf;uj lk;lb hw;uh si;ct	10
 清蒸八宝猪	qy;dq vg;hv ba;pd bk;by vu;qv	10
@@ -52506,7 +52186,6 @@ sort: by_weight
 去鄂尔多斯	qu;ts ee;ee er;dx do;xx si;jq	10
 去额尔古纳	qu;ts ee;yk er;dx gu;uk na;sn	10
 去俄罗斯化	qu;ts ee;rw lo;sx si;jq hw;rb	10
-去恶清心汤	qu;ts ee;xy qy;dq xn;dd th;dy	10
 去二连浩特	qu;ts er;aa lm;zi hk;dg te;ns	10
 屈尔珀学派	qu;ui er;dx po;wb xt;zb pl;dp	10
 去房地产化	qu;ts fh;hf di;ty ij;wi hw;rb	10
@@ -52539,7 +52218,6 @@ sort: by_weight
 曲果岩黄耆	qu;aa go;tm yj;uu hd;cb qi;lo	10
 去海边看风	qu;ts hl;dm bm;zl kj;ou fg;ji	10
 去海边游泳	qu;ts hl;dm bm;zl yb;dz ys;dy	10
-祛寒娇耳汤	qu;uq hj;bd jc;nq er;aa th;dy	10
 去黑头粉刺	qu;ts hz;ha tb;dd ff;mf ci;dc	10
 去很多地方	qu;ts hf;xg do;xx di;ty fh;wd	10
 区红十字会	qu;ki hs;sg ui;aa zi;bz hv;ry	10
@@ -53758,14 +53436,12 @@ sort: by_weight
 人参各三两	rf;pd uf;sp ge;wk sj;aa ld;ad	10
 妊娠和分娩	rf;nr uf;ni he;hk ff;bd mm;nm	10
 人身和设备	rf;pd uf;pp he;hk ue;yu bz;wt	10
-人参胡桃汤	rf;pd uf;sp hu;og tk;mv th;dy	10
 人身及财产	rf;pd uf;pp ji;nd cl;bc ij;wi	10
 妊娠葡萄胎	rf;nr uf;ni pu;cp tk;ct tl;ot	10
 人参汽锅鸡	rf;pd uf;sp qi;dq go;jg ji;ny	10
 壬申誓记石	rf;pu uf;aa ui;yv ji;yj ui;kp	10
 人参首乌精	rf;pd uf;sp ub;qz wu;pa jy;mq	10
 人身危险性	rf;pd uf;pp wz;de xm;ea xy;xu	10
-人参养荣汤	rf;pd uf;sp yh;ya rs;cm th;dy	10
 人身意外险	rf;pd uf;pp yi;xy wl;xb xm;ea	10
 妊娠诊断剂	rf;nr uf;ni vf;yp dr;ja ji;dq	10
 人身自由权	rf;pd uf;pp zi;pa yb;aa qr;my	10
@@ -54269,8 +53945,6 @@ sort: by_weight
 肉体的恶魔	rb;ad ti;rb de;bu ee;xy mo;gm	10
 肉体的痛苦	rb;ad ti;rb de;bu ts;by ku;cg	10
 肉体与灵魂	rb;ad ti;rb yu;aa ly;hx hp;gy	10
-肉丸胡辣汤	rb;ad wj;jd hu;og la;xu th;dy	10
-肉丸糊辣汤	rb;ad wj;jd hu;mh la;xu th;dy	10
 肉馅的馄饨	rb;ad xm;uj de;bu hp;uk tp;ut	10
 肉眼可见的	rb;ad yj;og ke;dk jm;ag de;bu	10
 柔直换流阀	rb;mm vi;uq hr;fh lq;di fa;mf	10
@@ -54556,16 +54230,12 @@ sort: by_weight
 润肠通秘茶	rp;dr ih;oy ts;zy mi;hb ia;cm	10
 润城东岳庙	rp;dr ig;ti ds;ad yt;uq mc;gy	10
 润肺的食物	rp;dr fz;of de;bu ui;rl wu;nw	10
-润肺化炎汤	rp;dr fz;of hw;rb yj;hh th;dy	10
-润肺降气汤	rp;dr fz;of jd;ef qi;py th;dy	10
 润肺止嗽方	rp;dr fz;of vi;aa sb;kq fh;wd	10
 润富宝科技	rp;dr fu;bf bk;by ke;hd ji;fv	10
 润滑油业务	rp;dr hw;dg yb;dy ye;aa wu;wl	10
 𥆧即胸中痛	rp;or ji;eg xs;ox vs;aa ts;by	10
 润居健康家	rp;dr ju;ug jm;rj kh;gl jw;bu	10
 润万家超市	rp;dr wj;ag jw;bu ik;zv ui;wj	10
-润燥安胎汤	rp;dr zk;hz an;bn tl;ot th;dy	10
-润燥泻肺汤	rp;dr zk;hz xx;dx fz;of th;dy	10
 若昂科斯塔	ro;cy ah;oe ke;hd si;jq ta;td	10
 若昂佩索阿	ro;cy ah;oe pz;rb so;sb aa;ek	10
 若奥马里奥	ro;cy ao;dm ma;aa li;aa ao;dm	10
@@ -54819,8 +54489,6 @@ sort: by_weight
 三家村札记	sj;aa jw;bu cp;mc va;mg ji;yj	10
 三甲村战斗	sj;aa jw;aa cp;mc vj;gv db;du	10
 三甲呋豆素	sj;aa jw;aa fu;kf db;aa su;sf	10
-三甲复脉汤	sj;aa jw;aa fu;wo ml;oy th;dy	10
-三甲腹脉汤	sj;aa jw;aa fu;of ml;oy th;dy	10
 三甲花翠素	sj;aa jw;aa hw;ch cv;yz su;sf	10
 散架了似的	sj;wo jw;mj le;aa ui;ry de;bu	10
 三甲三爷宫	sj;aa jw;aa sj;aa ye;fe gs;bl	10
@@ -55055,7 +54723,6 @@ sort: by_weight
 三下五除二	sj;aa xw;ab wu;aa iu;ey er;aa	10
 三峡总公司	sj;aa xw;uj zs;xk gs;sb si;gk	10
 三线闭壳龟	sj;aa xm;sj bi;mc ke;uj gv;dd	10
-三鲜木樨汤	sj;aa xm;yy mu;ad xi;mx th;dy	10
 三线性插值	sj;aa xm;sj xy;xu ia;fi vi;rv	10
 三线性形式	sj;aa xm;sj xy;xu xy;pk ui;gy	10
 三线性映射	sj;aa xm;sj xy;xu yy;oy ue;cu	10
@@ -55146,11 +54813,9 @@ sort: by_weight
 三周年庆典	sj;aa vb;kt nm;ra qy;gd dm;ba	10
 三专两闭锁	sj;aa vr;ad ld;ad bi;mc so;jb	10
 三子教训状	sj;aa zi;aa jc;wx xp;yi vd;qp	10
-三子养亲汤	sj;aa zi;aa yh;ya qn;lm th;dy	10
 三唑巴坦钠	sj;aa zo;kz ba;ag tj;td na;jn	10
 三唑磷乳油	sj;aa zo;kz ln;ul ru;gf yb;dy	10
 桑柴火烘法	sh;mr il;mc ho;dd hs;hg fa;dq	10
-桑丹泻白汤	sh;mr dj;pd xx;dx bl;pa th;dy	10
 丧门神鲍旭	sh;ty mf;dg uf;uu bk;yb xu;oj	10
 桑葚状磨牙	sh;mr uf;cu vd;qp mo;um ya;ap	10
 丧尸暴龙兽	sh;ty ui;ap bk;ou ls;ad ub;ka	10
@@ -55287,8 +54952,6 @@ sort: by_weight
 杀入爱情街	ua;mi ru;pd ai;vy qy;xq jx;xg	10
 傻傻分不清	ua;rw ua;rw ff;bd bu;ad qy;dq	10
 莎莎化妆品	ua;cu ua;cu hw;rb vd;np pn;kk	10
-沙参麦冬汤	ua;du uf;sp ml;fw ds;wd th;dy	10
-沙参止咳汤	ua;du uf;sp vi;aa ke;kh th;dy	10
 沙市钢管厂	ua;du ui;wj gh;jg gr;vg ih;ap	10
 砂石骨料网	ua;uu ui;kp gu;go lc;md wh;ki	10
 啥时候的事	ua;ku ui;oc hb;ru de;bu ui;aa	10
@@ -55655,7 +55318,6 @@ sort: by_weight
 山下健二郎	uj;aa xw;ab jm;rj er;aa lh;el	10
 单县公安局	uj;ba xm;sq gs;sb an;bn ju;uk	10
 单县教育局	uj;ba xm;sq jc;wx yu;os ju;uk	10
-单县羊肉汤	uj;ba xm;sq yh;da rb;ad th;dy	10
 山县伊三郎	uj;aa xm;sq yi;ry sj;aa lh;el	10
 闪斜煌斑岩	uj;mr xx;dy hd;hh bj;ww yj;uu	10
 扇形三角洲	uj;hy xy;pk sj;aa jc;dy vb;dv	10
@@ -56057,7 +55719,6 @@ sort: by_weight
 上诉不加刑	uh;aa su;yi bu;ad jw;lk xy;dk	10
 上诉的权利	uh;aa su;yi de;bu qr;my li;hd	10
 上锁的房间	uh;aa so;jb de;bu fh;hf jm;mo	10
-尚塔尔群岛	uh;xk ta;td er;dx qp;yj dk;nu	10
 上塘高架路	uh;aa th;tt gk;wk jw;mj lu;zg	10
 上塘派出所	uh;aa th;tt pl;dp iu;aa so;hj	10
 上汤娃娃菜	uh;aa th;dy wa;ng wa;ng cl;cc	10
@@ -56226,7 +55887,6 @@ sort: by_weight
 烧瓷牙松脱	uk;hy ci;wc ya;ap ss;mg to;od	10
 绍德尔估计	uk;sv de;xx er;dx gu;rg ji;yu	10
 烧放复合伤	uk;hy fh;wf fu;wo he;rk uh;rl	10
-少腹逐瘀汤	uk;xp fu;of vu;zu yu;by th;dy	10
 少跟我说话	uk;xp gf;zg wo;pd uo;yd hw;yu	10
 少共国际师	uk;xp gs;cb go;ky ji;eu ui;ab	10
 韶关丹霞山	uk;yv gr;qd dj;pd xw;yj uj;aa	10
@@ -57259,8 +56919,6 @@ sort: by_weight
 神通乡巴佬	uf;uu ts;zy xd;ap ba;ag lk;rl	10
 神通小精灵	uf;uu ts;zy xc;ad jy;mq ly;hx	10
 神通小侦探	uf;uu ts;zy xc;ad vf;rv tj;fm	10
-身痛逐瘀汤	uf;pp ts;by vu;zu yu;by th;dy	10
-身痛逐淤汤	uf;pp ts;by vu;zu yu;dy th;dy	10
 神偷次世代	uf;uu tb;ry ci;dq ui;ca dl;ry	10
 神偷大劫案	uf;uu tb;ry da;ad jx;lq an;ma	10
 神头发电厂	uf;uu tb;dd fa;ay dm;ag ih;ap	10
@@ -57470,7 +57128,6 @@ sort: by_weight
 生当复来归	ug;na dh;xx fu;wo ll;am gv;ax	10
 声导抗测听	ug;um dk;cs kh;fk ce;dz ty;kj	10
 剩的不多了	ug;di de;bu bu;ad do;xx le;aa	10
-生地八物汤	ug;na di;ty ba;pd wu;nw th;dy	10
 生地黄二斤	ug;na di;ty hd;cb er;aa jn;pa	10
 生地黄饮子	ug;na di;ty hd;cb yn;uq zi;aa	10
 生地麦冬饮	ug;na di;ty ml;fw ds;wd yn;uq	10
@@ -57530,7 +57187,6 @@ sort: by_weight
 省红十字会	ug;ou hs;sg ui;aa zi;bz hv;ry	10
 生化反应器	ug;na hw;rb fj;py yy;ga qi;kk	10
 生化分析仪	ug;na hw;rb ff;bd xi;mj yi;ry	10
-生化六和汤	ug;na hw;rb lq;wb he;hk th;dy	10
 生化实验室	ug;na hw;rb ui;bt yj;ma ui;bv	10
 生化危机都	ug;na hw;rb wz;de ji;mj db;ev	10
 生化需氧量	ug;na hw;rb xu;ye yh;qy ld;ol	10
@@ -57623,7 +57279,6 @@ sort: by_weight
 生姜的功效	ug;na jd;ny de;bu gs;lg xc;wj	10
 升降的时候	ug;pc jd;ef de;bu ui;oc hb;ru	10
 升降的同时	ug;pc jd;ef de;bu ts;kk ui;oc	10
-生姜甘草汤	ug;na jd;ny gj;ca ck;cz th;dy	10
 生姜各三两	ug;na jd;ny ge;wk sj;aa ld;ad	10
 生姜和大蒜	ug;na jd;ny he;hk da;ad sr;cs	10
 升降级制度	ug;pc jd;ef ji;sj vi;dg du;gy	10
@@ -57641,9 +57296,6 @@ sort: by_weight
 省交警总队	ug;ou jc;li jy;yj zs;xk dv;er	10
 升结肠系膜	ug;pc jx;sj ih;oy xi;ps mo;om	10
 省界收费站	ug;ou jx;tj ub;wj fz;bf vj;lv	10
-生津葛根汤	ug;na jn;dy ge;ch gf;mg th;dy	10
-生津四物汤	ug;na jn;dy si;aa wu;nw th;dy	10
-生津养血汤	ug;na jn;dy yh;ya xt;pa th;dy	10
 省警察学院	ug;ou jy;yj ia;bj xt;zb yr;ew	10
 盛京大剧院	ug;mi jy;wx da;ad ju;dj yr;ew	10
 盛京副都统	ug;mi jy;wx fu;df du;ev ts;si	10
@@ -57652,7 +57304,6 @@ sort: by_weight
 省精神病院	ug;ou jy;mq uf;uu by;bb yr;ew	10
 生境生态位	ug;na jy;tj ug;na tl;xt wz;rl	10
 盛京施医院	ug;mi jy;wx ui;fy yi;ku yr;ew	10
-省军区旧址	ug;ou jp;bi qu;ki jq;ao vi;tv	10
 盛开的荷花	ug;mi kl;ac de;bu he;ch hw;ch	10
 盛开的花朵	ug;mi kl;ac de;bu hw;ch do;mj	10
 盛开的季节	ug;mi kl;ac de;bu ji;hz jx;ce	10
@@ -57705,10 +57356,7 @@ sort: by_weight
 生理与心理	ug;na li;wl yu;aa xn;dd li;wl	10
 生两个儿子	ug;na ld;ad ge;ra er;pg zi;aa	10
 生两个孩子	ug;na ld;ad ge;ra hl;zh zi;aa	10
-生料四物汤	ug;na lc;md si;aa wu;nw th;dy	10
 圣露西亚岛	ug;ty lu;yl xi;aa ya;ay dk;nu	10
-升麻鳖甲汤	ug;pc ma;gl bx;yb jw;aa th;dy	10
-生脉补精汤	ug;na ml;oy bu;yb jy;mq th;dy	10
 生茂午时茶	ug;na mk;cw wu;ru ui;oc ia;cm	10
 胜梅化妆品	ug;ou mz;mm hw;rb vd;np pn;kk	10
 声门闭塞音	ug;um mf;dg bi;mc se;tb yn;lo	10
@@ -57805,7 +57453,6 @@ sort: by_weight
 省时又省心	ug;ou ui;oc yb;vd ug;ou xn;dd	10
 盛世滋生图	ug;mi ui;ca zi;dz ug;na tu;kd	10
 省市自治区	ug;ou ui;wj zi;pa vi;dt qu;ki	10
-生熟三黄汤	ug;na uu;hu sj;aa hd;cb th;dy	10
 省属三商银	ug;ou uu;uy sj;aa uh;wk yn;jg	10
 省属行署区	ug;ou uu;uy xy;xi uu;sv qu;ki	10
 生死的考验	ug;na si;db de;bu kk;lk yj;ma	10
@@ -57940,14 +57587,11 @@ sort: by_weight
 生锈的铁钉	ug;na xq;jx de;bu tx;ju dy;jd	10
 生锈的小刀	ug;na xq;jx de;bu xc;ad dk;gp	10
 盛宣怀铜像	ug;mi xr;bg hy;xb ts;jt xd;rx	10
-生血补髓汤	ug;na xt;pa bu;yb sv;gs th;dy	10
 升学的压力	ug;pc xt;zb de;bu ya;id li;gp	10
 声学实验室	ug;um xt;zb ui;bt yj;ma ui;bv	10
 声学试验室	ug;um xt;zb ui;yu yj;ma ui;bv	10
-升血调元汤	ug;pc xt;pa tc;yv yr;aw th;dy	10
 省血液中心	ug;ou xt;pa ye;dy vs;aa xn;dd	10
 声学语音学	ug;um xt;zb yu;yw yn;lo xt;zb	10
-生血止崩汤	ug;na xt;pa vi;aa bg;up th;dy	10
 升压变换器	ug;pc ya;id bm;wy hr;fh qi;kk	10
 升压变压器	ug;pc ya;id bm;wy ya;id qi;kk	10
 升压斩波器	ug;pc ya;id vj;ji bo;dp qi;kk	10
@@ -57955,7 +57599,6 @@ sort: by_weight
 省烟草公司	ug;ou yj;hy ck;cz gs;sb si;gk	10
 盛阳食品城	ug;mi yh;eo ui;rl pn;kk ig;ti	10
 升阳十一味	ug;pc yh;eo ui;aa yi;aa wz;kw	10
-升阳益胃汤	ug;pc yh;eo yi;mb wz;ot th;dy	10
 生药库大使	ug;na yk;cy ku;gi da;ad ui;rl	10
 生药库副使	ug;na yk;cy ku;gi fu;df ui;rl	10
 省一大笔钱	ug;ou yi;aa da;ad bi;vm qm;jj	10
@@ -58461,19 +58104,16 @@ sort: by_weight
 实干再冲锋	ui;bt gj;aa zl;aa is;dv fg;jf	10
 实干者实惠	ui;bt gj;aa ve;ol ui;bt hv;xh	10
 石膏绷带法	ui;kp gk;og bg;sp dl;jb fa;dq	10
-石膏葱白汤	ui;kp gk;og cs;cc bl;pa th;dy	10
 石膏打磨机	ui;kp gk;og da;fd mo;um ji;mj	10
 石膏调切刀	ui;kp gk;og dc;yv qx;dq dk;gp	10
 石膏各六两	ui;kp gk;og ge;wk lq;wb ld;ad	10
 石膏几何体	ui;kp gk;og ji;py he;rk ti;rb	10
 市高级中学	ui;wj gk;wk ji;sj vs;aa xt;zb	10
 是搞建筑的	ui;op gk;fg jm;zy vu;vg de;bu	10
-石膏六合汤	ui;kp gk;og lq;wb he;rk th;dy	10
 式高射机枪	ui;gy gk;wk ue;cu ji;mj qd;mc	10
 石膏十二枚	ui;kp gk;og ui;aa er;aa mz;mw	10
 市高速公路	ui;wj gk;wk su;zu gs;sb lu;zg	10
 石膏震荡机	ui;kp gk;og vf;yi dh;ct ji;mj	10
-石膏知母汤	ui;kp gk;og vi;ku mu;vd th;dy	10
 史高治叔叔	ui;ki gk;wk vi;dt uu;yx uu;yx	10
 诗歌爱好者	ui;ys ge;qg ai;vy hk;nz ve;ol	10
 诗歌颁奖礼	ui;ys ge;qg bj;yf jd;dx li;ug	10
@@ -59480,11 +59120,10 @@ sort: by_weight
 失去了理智	ui;pf qu;ts le;aa li;wl vi;ov	10
 失去了人性	ui;pf qu;ts le;aa rf;pd xy;xu	10
 失去了生机	ui;pf qu;ts le;aa ug;na ji;mj	10
-失去了知觉	ui;pf qu;ts le;aa vi;ku jt;jb	10
 失去了踪迹	ui;pf qu;ts le;aa zs;zz ji;zy	10
+失去了知觉	ui;pf qu;ts lc;aa vi;ku jt;jb	10
 市区主干道	ui;wj qu;ki vu;dw gj;aa dk;zu	10
 十全大补男	ui;aa qr;rw da;ad bu;yb nj;tl	10
-十全大补汤	ui;aa qr;rw da;ad bu;yb th;dy	10
 十全武功记	ui;aa qr;rw wu;vy gs;lg ji;yj	10
 室缺残余漏	ui;bv qt;fd cj;dj yu;rb lb;dl	10
 市燃气公司	ui;wj rj;hr qi;py gs;sb si;gk	10
@@ -59911,7 +59550,6 @@ sort: by_weight
 视为未提交	ui;ju wz;dd wz;ex ti;fu jc;li	10
 视为未委托	ui;ju wz;dd wz;ex wz;hn to;fq	10
 视为未要求	ui;ju wz;dd wz;ex yk;xn qq;ad	10
-十味温胆汤	ui;aa wz;kw wf;dm dj;od th;dy	10
 市委文明办	ui;wj wz;hn wf;wi my;oo bj;lb	10
 十味溪黄草	ui;aa wz;kw xi;dx hd;cb ck;cz	10
 十维锌铁钙	ui;aa wz;sv xn;jx tx;ju gl;jg	10
@@ -60595,7 +60233,6 @@ sort: by_weight
 师子吼菩萨	ui;ab zi;aa hb;kk pu;ck sa;ci	10
 狮子吼菩萨	ui;qu zi;aa hb;kk pu;ck sa;ci	10
 石子混凝土	ui;kp zi;aa hp;dk ny;dy tu;aa	10
-石子荠苨汤	ui;kp zi;aa ji;cq ni;cn th;dy	10
 十字架项链	ui;aa zi;bz jw;mj xd;gy lm;jl	10
 十字交叉法	ui;aa zi;bz jc;li ia;yd fa;dq	10
 十字交乘法	ui;aa zi;bz jc;li ig;pb fa;dq	10
@@ -60824,7 +60461,7 @@ sort: by_weight
 收获的玉米	ub;wj ho;cq de;bu yu;wd mi;dd	10
 收获了快乐	ub;wj ho;cq le;aa ky;xd le;pd	10
 收获了友谊	ub;wj ho;cq le;aa yb;yu yi;yy	10
-收获了知识	ub;wj ho;cq le;aa vi;ku ui;yv	10
+收获了知识	ub;wj ho;cq lc;aa vi;ku ui;yv	10
 收获与成长	ub;wj ho;cq yu;aa ig;gg vh;pd	10
 手机爱好者	ub;pa ji;mj ai;vy hk;nz ve;ol	10
 收集爱好者	ub;wj ji;vm ai;vy hk;nz ve;ol	10
@@ -61197,9 +60834,7 @@ sort: by_weight
 抒发自己的	uu;fy fa;ay zi;pa ji;ag de;bu	10
 书房的设计	uu;ad fh;hf de;bu ue;yu ji;yu	10
 庶妃颜扎氏	uu;gh fz;nj yj;yy va;fg ui;pg	10
-疏风活血汤	uu;pi fg;ji ho;du xt;pa th;dy	10
 舒肤止痒酊	uu;yu fu;of vi;aa yh;by dy;yd	10
-疏肝理脾汤	uu;pi gj;og li;wl pi;ob th;dy	10
 鼠肝炎病毒	uu;ju gj;og yj;hh by;bb du;fm	10
 竖个大拇指	uu;ly ge;ra da;ad mu;fm vi;fv	10
 树冠覆盖面	uu;md gr;bc fu;xf gl;my mm;aa	10
@@ -61238,7 +60873,6 @@ sort: by_weight
 书简阅中国	uu;ad jm;vj yt;md vs;aa go;ky	10
 舒筋定痛酒	uu;yu jn;vl dy;bp ts;by jq;dy	10
 舒筋活络酒	uu;yu jn;vl ho;du lo;sg jq;dy	10
-疏筋活血汤	uu;pi jn;vl ho;du xt;pa th;dy	10
 舒筋止痛酊	uu;yu jn;vl vi;aa ts;by dy;yd	10
 舒筋止痛水	uu;yu jn;vl vi;aa ts;by uv;ad	10
 输精管闭锁	uu;iy jy;mq gr;vg bi;mc so;jb	10
@@ -61462,7 +61096,6 @@ sort: by_weight
 数学与想象	uu;wl xt;zb yu;aa xd;xx xd;du	10
 鼠牙半枝莲	uu;ju ya;ap bj;bf vi;mv lm;cl	10
 束腰的设计	uu;ad yk;oy de;bu ue;yu ji;yu	10
-书业诚旧址	uu;ad ye;aa ig;yi jq;ao vi;tv	10
 树叶的颜色	uu;md ye;ku de;bu yj;yy se;db	10
 输液加温袋	uu;iy ye;dy jw;lk wf;dm dl;yd	10
 输液监控器	uu;iy ye;dy jm;mv ks;fk qi;kk	10
@@ -62060,7 +61693,6 @@ sort: by_weight
 水流的速度	uv;ad lq;di de;bu su;zu du;gy	10
 水流积分器	uv;ad lq;di ji;hv ff;bd qi;kk	10
 水陆二仙丹	uv;ad lu;ej er;aa xm;ru dj;pd	10
-水陆二仙汤	uv;ad lu;ej er;aa xm;ru th;dy	10
 水陆机动团	uv;ad lu;ej ji;mj ds;ly tr;kc	10
 水陆两栖车	uv;ad lu;ej ld;ad qi;mx ie;aa	10
 水陆两用车	uv;ad lu;ej ld;ad ys;kf ie;aa	10
@@ -62506,7 +62138,6 @@ sort: by_weight
 四核八线程	si;aa he;mh ba;pd xm;sj ig;hi	10
 四合五天井	si;aa he;rk wu;aa tm;ad jy;aa	10
 四皇的实力	si;aa hd;bw de;bu ui;bt li;gp	10
-四黄三子汤	si;aa hd;cb sj;aa zi;aa th;dy	10
 四惠枢纽站	si;aa hv;xh uu;mq nq;si vj;lv	10
 四季彩之丘	si;aa ji;hz cl;pc vi;dd qq;pa	10
 四季出版社	si;aa ji;hz iu;aa bj;pf ue;ut	10
@@ -62574,7 +62205,6 @@ sort: by_weight
 司可巴比妥	si;gk ke;dk ba;ag bi;bb to;vn	10
 斯科盖尔岛	si;jq ke;hd gl;my er;dx dk;nu	10
 四科简效方	si;aa ke;hd jm;vj xc;wj fh;wd	10
-斯克林群岛	si;jq ke;eg ln;mm qp;yj dk;nu	10
 思科路由器	si;xt ke;hd lu;zg yb;aa qi;kk	10
 斯科伦悖论	si;jq ke;hd lp;rl bz;xb lp;yl	10
 斯科伦定理	si;jq ke;hd lp;rl dy;bp li;wl	10
@@ -62612,7 +62242,6 @@ sort: by_weight
 撕裂野丁香	si;fs lx;yl ye;ly dy;aa xd;ho	10
 似鳞铠甲虾	si;ry ln;yl kl;jj jw;aa xw;ix	10
 思林水电站	si;xt ln;mm uv;ad dm;ag vj;lv	10
-司令部旧址	si;gk ly;rs bu;ek jq;ao vi;tv	10
 丝路经济带	si;aa lu;zg jy;sg ji;dq dl;jb	10
 思路与方法	si;xt lu;zg yu;aa fh;wd fa;dq	10
 四轮滑冰鞋	si;aa lp;il hw;dg by;du xx;gg	10
@@ -62633,7 +62262,6 @@ sort: by_weight
 私密的事情	si;hs mi;ub de;bu ui;aa qy;xq	10
 四免一关怀	si;aa mm;de yi;aa gr;qd hy;xb	10
 思勉原创奖	si;xt mm;lm yr;ix id;dc jd;dx	10
-四妙勇安汤	si;aa mc;nu ys;ly an;bn th;dy	10
 思明电影院	si;xt my;oo dm;ag yy;pj yr;ew	10
 撕名牌环节	si;fs my;xk pl;pb hr;wb jx;ce	10
 思明区政府	si;xt my;oo qu;ki vg;wv fu;gf	10
@@ -62772,7 +62400,6 @@ sort: by_weight
 四团龙补服	si;aa tr;kc ls;ad bu;yb fu;oy	10
 斯托克斯线	si;jq to;fq ke;eg si;jq xm;sj	10
 斯托姆方程	si;jq to;fq mu;nm fh;wd ig;hi	10
-斯瓦巴群岛	si;jq wa;ad ba;ag qp;yj dk;nu	10
 斯瓦巴条约	si;jq wa;ad ba;ag tc;wm yt;su	10
 斯瓦尔巴岛	si;jq wa;ad er;dx ba;ag dk;nu	10
 寺洼山遗址	si;ct wa;dg uj;aa yi;zg vi;tv	10
@@ -62818,16 +62445,9 @@ sort: by_weight
 四味雪莲花	si;aa wz;kw xt;yx lm;cl hw;ch	10
 思维与智慧	si;xt wz;sv yu;aa vi;ov hv;xh	10
 四位主持人	si;aa wz;rl vu;dw ii;fs rf;pd	10
-四物安神汤	si;aa wu;nw an;bn uf;uu th;dy	10
 四物打击乐	si;aa wu;nw da;fd ji;fk yt;pd	10
-四物二连汤	si;aa wu;nw er;aa lm;zi th;dy	10
-四物化郁汤	si;aa wu;nw hw;rb yu;ey th;dy	10
 肆无忌惮地	si;yi wu;ag ji;xj dj;xd de;ty	10
-四物绛覆汤	si;aa wu;nw jd;sf fu;xf th;dy	10
-四物龙胆汤	si;aa wu;nw ls;ad dj;od th;dy	10
-四物消风汤	si;aa wu;nw xc;dx fg;ji th;dy	10
 四物消风饮	si;aa wu;nw xc;dx fg;ji yn;uq	10
-四物延胡汤	si;aa wu;nw yj;zv hu;og th;dy	10
 四下看了看	si;aa xw;ab kj;ou le;aa kj;ou	10
 泗县公安局	si;ds xm;sq gs;sb an;bn ju;uk	10
 思想不统一	si;xt xd;xx bu;ad ts;si yi;aa	10
@@ -63276,7 +62896,6 @@ sort: by_weight
 苏州织造局	su;cb vb;id vi;sv zk;zg ju;uk	10
 苏州织造署	su;cb vb;id vi;sv zk;zg uu;sv	10
 宿主与媒介	su;bb vu;dw yu;aa mz;nm jx;ra	10
-苏子降气汤	su;cb zi;aa jd;ef qi;py th;dy	10
 苏祖基反应	su;cb zu;uq ji;tq fj;py yy;ga	10
 苏尊斯基区	su;cb zp;cq si;jq ji;tq qu;ki	10
 算不错的了	sr;vc bu;ad co;jx de;bu le;aa	10
@@ -63480,7 +63099,6 @@ sort: by_weight
 所讲的内容	so;hj jd;yj de;bu nz;ad rs;bg	10
 所经历的事	so;hj jy;sg li;il de;bu ui;aa	10
 索控肩背带	so;sb ks;fk jm;oh bz;ob dl;jb	10
-所罗门群岛	so;hj lo;sx mf;dg qp;yj dk;nu	10
 索马里联邦	so;sb ma;aa li;aa lm;eg bh;ef	10
 锁模激光器	so;jb mo;mm ji;dj gd;ea qi;kk	10
 索纳蒂基里	so;sb na;sn di;cd ji;tq li;aa	10
@@ -64378,12 +63996,10 @@ sort: by_weight
 套管进针法	tk;di gr;vg jn;zj vf;ju fa;dq	10
 套管伸缩器	tk;di gr;vg uf;ru so;ss qi;kk	10
 逃过了一劫	tk;zv go;zc le;aa yi;aa jx;lq	10
-桃核承气汤	tk;mv he;mh ig;ad qi;py th;dy	10
 桃黑亭一门	tk;mv hz;ha ty;wd yi;aa mf;dg	10
 桃红起泡酒	tk;mv hs;sg qi;zj pk;db jq;dy	10
 陶后鲜有闻	tk;et hb;pk xm;yy yb;ou wf;em	10
 桃花白芷酒	tk;mv hw;ch bl;pa vi;cv jq;dy	10
-桃花化浊汤	tk;mv hw;ch hw;rb vo;di th;dy	10
 桃花即是君	tk;mv hw;ch ji;eg ui;op jp;ky	10
 桃华落英掌	tk;mv hw;uh lo;cl yy;cy vh;uk	10
 桃花泣血记	tk;mv hw;ch qi;dl xt;pa ji;yj	10
@@ -64443,7 +64059,6 @@ sort: by_weight
 套期保值者	tk;di qi;oq bk;rd vi;rv ve;ol	10
 淘气的孩子	tk;dt qi;py de;bu hl;zh zi;aa	10
 陶清河水库	tk;et qy;dq he;dk uv;ad ku;gi	10
-桃仁红花汤	tk;mv rf;re hs;sg hw;ch th;dy	10
 套式病毒目	tk;di ui;gy by;bb du;fm mu;aa	10
 陶寺北墓地	tk;et si;ct bz;ag mu;tm di;ty	10
 淘汰赛席位	tk;dt tl;dt sl;bb xi;jc wz;rl	10
@@ -64951,7 +64566,6 @@ sort: by_weight
 天皇即位礼	tm;ad hd;bw ji;eg wz;rl li;ug	10
 天皇主权说	tm;ad hd;bw vu;dw qr;my uo;yd	10
 天回到原点	tm;ad hv;kk dk;dv yr;ix dm;hv	10
-天毁灭倒数	tm;ad hv;ug mx;ah dk;rd uu;wl	10
 天际凤凰岛	tm;ad ji;eu fg;jy hd;jh dk;nu	10
 田集连接线	tm;aa ji;vm lm;zi jx;fq xm;sj	10
 天基人才网	tm;ad ji;tq rf;pd cl;ap wh;ki	10
@@ -65385,7 +64999,6 @@ sort: by_weight
 条顿堡森林	tc;wm dp;yt bk;tb sf;ml ln;mm	10
 跳高运动员	tc;zv gk;wk yp;zy ds;ly yr;kb	10
 调好的料汁	tc;yv hk;nz de;bu lc;md vi;du	10
-调和荣卫汤	tc;yv he;hk rs;cm wz;ga th;dy	10
 调和优函数	tc;yv he;hk yb;ry hj;lk uu;wl	10
 跳火山的人	tc;zv ho;dd uj;aa de;bu rf;pd	10
 条件反射般	tc;wm jm;rn fj;py ue;cu bj;vu	10
@@ -65398,7 +65011,6 @@ sort: by_weight
 调解委员会	tc;yv jx;jn wz;hn yr;kb hv;ry	10
 调解协议书	tc;yv jx;jn xx;ub yi;yy uu;ad	10
 调解心理学	tc;yv jx;jn xn;dd li;wl xt;zb	10
-调经琥珀汤	tc;yv jy;sg hu;wh po;wb th;dy	10
 调侃归调侃	tc;yv kj;ri gv;ax tc;yv kj;ri	10
 条款和条件	tc;wm kr;qu he;hk tc;wm jm;rn	10
 条款及条件	tc;wm kr;qu ji;nd tc;wm jm;rn	10
@@ -65475,8 +65087,6 @@ sort: by_weight
 调整和优化	tc;yv vg;vi he;hk yb;ry hw;rb	10
 调整型抽检	tc;yv vg;vi xy;tx ib;fy jm;ma	10
 调制与解调	tc;yv vi;dg yu;aa jx;jn tc;yv	10
-调中大成汤	tc;yv vs;aa da;ad ig;gg th;dy	10
-调中益气汤	tc;yv vs;aa yi;mb qi;py th;dy	10
 铁铵锌铜维	tx;ju an;ja xn;jx ts;jt wz;sv	10
 铁背山山城	tx;ju bz;ob uj;aa uj;aa ig;ti	10
 铁臂膊蔡福	tx;ju bi;ob bo;oc cl;cj fu;uf	10
@@ -65717,7 +65327,6 @@ sort: by_weight
 同步式编程	ts;kk bu;vx ui;gy bm;sb ig;hi	10
 通察约基河	ts;zy ia;bj yt;su ji;tq he;dk	10
 通畅的道路	ts;zy ih;uy de;bu dk;zu lu;zg	10
-通肠解毒汤	ts;zy ih;oy jx;jn du;fm th;dy	10
 同唱一首歌	ts;kk ih;ki yi;aa ub;qz ge;qg	10
 同沉积断层	ts;kk if;dj ji;hv dr;ja cg;uy	10
 通城高架路	ts;zy ig;ti gk;wk jw;mj lu;zg	10
@@ -65755,7 +65364,6 @@ sort: by_weight
 痛风发作时	ts;by fg;ji fa;ay zo;rv ui;oc	10
 通风和采光	ts;zy fg;ji he;hk cl;vm gd;ea	10
 通风与空调	ts;zy fg;ji yu;aa ks;xg tc;yv	10
-通肝生乳汤	ts;zy gj;og ug;na ru;gf th;dy	10
 通戈科琴区	ts;zy ge;ad ke;hd qn;wj qu;ki	10
 同工不同酬	ts;kk gs;aa bu;ad ts;kk ib;yv	10
 同功维生素	ts;kk gs;lg wz;sv ug;na su;sf	10
@@ -65827,7 +65435,6 @@ sort: by_weight
 同阶无穷小	ts;kk jx;ej wu;ag qs;xl xc;ad	10
 通金斯基区	ts;zy jn;ra si;jq ji;tq qu;ki	10
 桐泾北路站	ts;mt jy;dg bz;ag lu;zg vj;lv	10
-通经导滞汤	ts;zy jy;sg dk;cs vi;dd th;dy	10
 痛经的女性	ts;by jy;sg de;bu nv;aa xy;xu	10
 痛经的原因	ts;by jy;sg de;bu yr;ix yn;kd	10
 桐泾公园站	ts;mt jy;dg gs;sb yr;ky vj;lv	10
@@ -65887,12 +65494,10 @@ sort: by_weight
 同伦群函子	ts;kk lp;rl qp;yj hj;lk zi;aa	10
 通络补肾酒	ts;zy lo;sg bu;yb uf;oy jq;dy	10
 通络骨质宁	ts;zy lo;sg gu;go vi;bu ny;bd	10
-通络利湿汤	ts;zy lo;sg li;hd ui;dx th;dy	10
 铜绿微囊菌	ts;jt lv;sl wz;xw nh;ay jp;ch	10
 铜绿微囊藻	ts;jt lv;sl wz;xw nh;ay zk;cz	10
 铜绿狭甲蝇	ts;jt lv;sl xw;qj jw;aa yy;id	10
 通脉刺五加	ts;zy ml;oy ci;dc wu;aa jw;lk	10
-通脉四逆汤	ts;zy ml;oy si;aa ni;zn th;dy	10
 通茂大酒店	ts;zy mk;cw da;ad jq;dy dm;gv	10
 同门师姐妹	ts;kk mf;dg ui;ab jx;nq mz;nw	10
 同门师兄弟	ts;kk mf;dg ui;ab xs;ke di;bp	10
@@ -65909,9 +65514,7 @@ sort: by_weight
 童年和少年	ts;ll nm;ra he;hk uk;xp nm;ra	10
 童年记忆里	ts;ll nm;ra ji;yj yi;xy li;aa	10
 同年同月生	ts;kk nm;ra ts;kk yt;pa ug;na	10
-通脾泻胃汤	ts;zy pi;ob xx;dx wz;ot th;dy	10
 通评虚实论	ts;zy py;yp xu;hy ui;bt lp;yl	10
-通气防风汤	ts;zy qi;py fh;ef fg;ji th;dy	10
 通气失代偿	ts;zy qi;py ui;pf dl;ry ih;ri	10
 同妻在行动	ts;kk qi;na zl;ut xy;xi ds;ly	10
 通窍救心油	ts;zy qc;xq jq;wq xn;dd yb;dy	10
@@ -65952,7 +65555,6 @@ sort: by_weight
 通天河水系	ts;zy tm;ad he;dk uv;ad xi;ps	10
 通天岩摩崖	ts;zy tm;ad yj;uu mo;um ya;uy	10
 通天岩石窟	ts;zy tm;ad yj;uu ui;kp ku;xq	10
-通天愈风汤	ts;zy tm;ad yu;xy fg;ji th;dy	10
 通通消失掉	ts;zy ts;zy xc;dx ui;pf dc;fv	10
 通透的玻璃	ts;zy tb;zx de;bu bo;wp li;wl	10
 通透的空间	ts;zy tb;zx de;bu ks;xg jm;mo	10
@@ -66120,7 +65722,6 @@ sort: by_weight
 通用覆盖廖	ts;zy ys;kf fu;xf gl;my lc;gl	10
 通用公证行	ts;zy ys;kf gs;sb vg;yv xy;xi	10
 通永镇总兵	ts;zy ys;dd vf;jv zs;xk by;qb	10
-通幽化浊汤	ts;zy yb;uy hw;rb vo;di th;dy	10
 通瘀化坚丹	ts;zy yu;by hw;rb jm;ty dj;pd	10
 同余模代数	ts;kk yu;rb mo;mm dl;ry uu;wl	10
 同予者何人	ts;kk yu;sa ve;ol he;rk rf;pd	10
@@ -66303,7 +65904,6 @@ sort: by_weight
 投影寻踪法	tb;fu yy;pj xp;cx zs;zz fa;dq	10
 投影值测度	tb;fu yy;pj vi;rv ce;dz do;gy	10
 偷影子的人	tb;ry yy;pj zi;aa de;bu rf;pd	10
-透疹凉解汤	tb;zx vf;bp ld;dj jx;jn th;dy	10
 投掷燃烧瓶	tb;fu vi;fv rj;hr uk;hy py;wb	10
 投掷实心球	tb;fu vi;fv ui;bt xn;dd qq;wq	10
 投掷手榴弹	tb;fu vi;fv ub;pa lq;ml dj;gd	10
@@ -66359,7 +65959,6 @@ sort: by_weight
 土鳖南玻玩	tu;aa bx;yb nj;ua bo;wp wj;wy	10
 土拨鼠之日	tu;aa bo;ff uu;ju vi;dd ri;aa	10
 突波吸收器	tu;xq bo;dp xi;kj ub;wj qi;kk	10
-土布艾群岛	tu;aa bu;ju ai;ci qp;yj dk;nu	10
 吐槽的对象	tu;kt ck;mc de;bu dv;cy xd;du	10
 吐槽的声音	tu;kt ck;mc de;bu ug;um yn;lo	10
 吐槽归吐槽	tu;kt ck;mc gv;ax tu;kt ck;mc	10
@@ -66743,7 +66342,6 @@ sort: by_weight
 脱钙骨基质	to;od gl;jg gu;go ji;tq vi;bu	10
 拖姑清真寺	to;fy gu;ng qy;dq vf;uj si;ct	10
 脱古思可敦	to;od gu;uk si;xt ke;dk dp;wx	10
-托吉安群岛	to;fq ji;ku an;bn qp;yj dk;nu	10
 脱甲金霉素	to;od jw;aa jn;ra mz;ym su;sf	10
 脱缰的野马	to;od jd;sj de;bu ye;ly ma;aa	10
 托克络辛钾	to;fq ke;eg lo;sg xn;lu jw;jj	10
@@ -66839,7 +66437,6 @@ sort: by_weight
 瓦氏呼吸器	wa;ad ui;pg hu;kh xi;kj qi;kk	10
 瓦斯涌出量	wa;ad si;jq ys;dy iu;aa ld;ol	10
 娃娃爱天下	wa;ng wa;ng ai;vy tm;ad xw;ab	10
-瓦瓦乌群岛	wa;ad wa;ad wu;pa qp;yj dk;nu	10
 哇系鱼刺刺	wa;kg xi;ps yu;da ci;dc ci;dc	10
 外阿莱山脉	wl;xb aa;ek ll;cl uj;aa ml;oy	10
 歪把子机枪	wl;bv ba;fb zi;aa ji;mj qd;mc	10
@@ -66952,7 +66549,6 @@ sort: by_weight
 外事委员会	wl;xb ui;aa wz;hn yr;kb hv;ry	10
 外碎屑灰岩	wl;xb sv;uz xx;ux hv;hu yj;uu	10
 外太空条约	wl;xb tl;dd ks;xg tc;wm yt;su	10
-外台走马汤	wl;xb tl;sk zb;tv ma;aa th;dy	10
 外滩情人墙	wl;xb tj;dn qy;xq rf;pd qd;th	10
 外滩源壹号	wl;xb tj;dn yr;dy yi;ud hk;kk	10
 外外百老汇	wl;xb wl;xb bl;ab lk;lb hv;dk	10
@@ -70455,7 +70051,6 @@ sort: by_weight
 吴同文住宅	wu;kt ts;kk wf;wi vu;rv vl;bq	10
 无头服务器	wu;ag tb;dd fu;oy wu;wl qi;kk	10
 乌头附子尖	wu;pa tb;dd fu;ef zi;aa jm;xd	10
-乌头桂枝汤	wu;pa tb;dd gv;mg vi;mv th;dy	10
 无头浏览器	wu;ag tb;dd lq;dl lj;jv qi;kk	10
 无投票当选	wu;ag tb;fu pc;xu dh;xx xr;zx	10
 无途的归人	wu;ag tu;zy de;bu gv;ax rf;pd	10
@@ -70621,7 +70216,6 @@ sort: by_weight
 无性交能力	wu;ag xy;xu jc;li ng;sb li;gp	10
 五行缺桃花	wu;aa xy;xi qt;fd tk;mv hw;ch	10
 五行生肖法	wu;aa xy;xi ug;na xc;xo fa;dq	10
-五行蔬菜汤	wu;aa xy;xi uu;cu cl;cc th;dy	10
 无行为能力	wu;ag xy;xi wz;dd ng;sb li;gp	10
 无形文化财	wu;ag xy;pk wf;wi hw;rb cl;bc	10
 无形象思维	wu;ag xy;pk xd;du si;xt wz;sv	10
@@ -71044,7 +70638,6 @@ sort: by_weight
 西方哲学的	xi;aa fh;wd ve;kv xt;zb de;bu	10
 西非孔灯鳉	xi;aa fz;aa ks;zg dg;hd jd;yj	10
 锡菲足球会	xi;jy fz;cf zu;kv qq;wq hv;ry	10
-息焚安胎汤	xi;xz ff;hl an;bn tl;ot th;dy	10
 戏份比较多	xi;yg ff;rf bi;bb jc;ij do;xx	10
 熙芬丝蜜哒	xi;hs ff;cf si;aa mi;ib da;kd	10
 息烽集中营	xi;xz fg;hf ji;vm vs;aa yy;cl	10
@@ -71090,7 +70683,6 @@ sort: by_weight
 戏红人不红	xi;yg hs;sg rf;pd bu;ad hs;sg	10
 洗烘一体机	xi;dx hs;hg yi;aa ti;rb ji;mj	10
 西侯度遗址	xi;aa hb;ru du;gy yi;zg vi;tv	10
-西湖莼菜汤	xi;aa hu;dh ip;ci cl;cc th;dy	10
 吸呼气转换	xi;kj hu;kh qi;py vr;iv hr;fh	10
 西湖区法院	xi;aa hu;dh qu;ki fa;dq yr;ew	10
 细花丁香蓼	xi;st hw;ch dy;aa xd;ho lc;cl	10
@@ -71124,7 +70716,6 @@ sort: by_weight
 喜家德水饺	xi;uk jw;bu de;xx uv;ad jc;uj	10
 希贾兹山脉	xi;ib jw;bx zi;qy uj;aa ml;oy	10
 膝交叉韧带	xi;oq jc;li ia;yd rf;wr dl;jb	10
-犀角地黄汤	xi;nu jc;dy di;ty hd;cb th;dy	10
 细角帕扁甲	xi;st jc;dy pa;jb bm;hc jw;aa	10
 细节的把控	xi;st jx;ce de;bu ba;fb ks;fk	10
 细节的把握	xi;st jx;ce de;bu ba;fb wo;fw	10
@@ -71353,7 +70944,6 @@ sort: by_weight
 吸收式冰箱	xi;kj ub;wj ui;gy by;du xd;vx	10
 吸收式制冷	xi;kj ub;wj ui;gy vi;dg lg;dl	10
 洗手液洗手	xi;dx ub;pa ye;dy xi;dx ub;pa	10
-洗手做羹汤	xi;dx ub;pa zo;rg gg;ym th;dy	10
 系数行列式	xi;ps uu;wl hh;xi lx;dd ui;gy	10
 系数显影法	xi;ps uu;wl xm;oy yy;pj fa;dq	10
 吸水喇叭口	xi;kj uv;ad la;kd ba;kb kb;aa	10
@@ -71882,7 +71472,6 @@ sort: by_weight
 县处级副职	xm;sq iu;wb ji;sj fu;df vi;ev	10
 县处级正职	xm;sq iu;wb ji;sj vg;av vi;ev	10
 现出了原形	xm;wj iu;aa le;aa yr;ix xy;pk	10
-仙传化毒汤	xm;ru ir;rv hw;rb du;fm th;dy	10
 县慈善总会	xm;sq ci;xz uj;kq zs;xk hv;ry	10
 线丛的曲面	xm;sj cs;ac de;bu qu;aa mm;aa	10
 线丛的锥面	xm;sj cs;ac de;bu vv;jv mm;aa	10
@@ -71958,7 +71547,6 @@ sort: by_weight
 宪法研究会	xm;bx fa;dq yj;uk jq;xj hv;ry	10
 掀翻小池塘	xm;fx fj;yf xc;ad ii;dy th;tt	10
 仙方活命饮	xm;ru fh;wd ho;du my;re yn;uq	10
-仙方救命汤	xm;ru fh;wd jq;wq my;re th;dy	10
 先飞的笨鸟	xm;ne fz;yd de;bu bf;vb nc;pa	10
 先锋队队长	xm;ne fg;jf dv;er dv;er vh;pd	10
 咸丰十一年	xm;kg fg;aa ui;aa yi;aa nm;ra	10
@@ -72435,8 +72023,6 @@ sort: by_weight
 线性粘弹性	xm;sj xy;xu vj;mv tj;gd xy;xu	10
 线性子空间	xm;sj xy;xu zi;aa ks;xg jm;mo	10
 线性最优化	xm;sj xy;xu zv;oq yb;ry hw;rb	10
-陷胸承气汤	xm;ej xs;ox ig;ad qi;py th;dy	10
-陷胸泻心汤	xm;ej xs;ox xx;dx xn;dd th;dy	10
 鲜血与荣耀	xm;yy xt;pa yu;aa rs;cm yk;gd	10
 鲜血与土地	xm;yy xt;pa yu;aa tu;aa di;ty	10
 鲜血与真相	xm;yy xt;pa yu;aa vf;uj xd;mo	10
@@ -73341,7 +72927,6 @@ sort: by_weight
 小刀电动车	xc;ad dk;gp dm;ag ds;ly ie;aa	10
 笑到肚子疼	xc;vy dk;dv du;ot zi;aa tg;bd	10
 笑到肚子痛	xc;vy dk;dv du;ot zi;aa ts;by	10
-消导二陈汤	xc;dx dk;cs er;aa if;ed th;dy	10
 小刀会起义	xc;ad dk;gp hv;ry qi;zj yi;id	10
 小道消息称	xc;ad dk;zu xc;dx xi;xz ig;he	10
 笑得打滚儿	xc;vy de;xc da;fd gp;dg er;pg	10
@@ -73362,8 +72947,6 @@ sort: by_weight
 消毒碘棉签	xc;dx du;fm dm;ud mm;mb qm;va	10
 消毒和灭菌	xc;dx du;fm he;hk mx;ah jp;ch	10
 消毒和清洁	xc;dx du;fm he;hk qy;dq jx;dj	10
-消毒化癍汤	xc;dx du;fm hw;rb bj;bb th;dy	10
-消毒圣神汤	xc;dx du;fm ug;ty uf;uu th;dy	10
 消毒犀角饮	xc;dx du;fm xi;nu jc;dy yn;uq	10
 小端带螺纹	xc;ad dr;le dl;jb lo;il wf;sw	10
 孝端文皇后	xc;zl dr;le wf;wi hd;bw hb;pk	10
@@ -73416,9 +72999,6 @@ sort: by_weight
 小分队队长	xc;ad ff;bd dv;er dv;er vh;pd	10
 小分子团水	xc;ad ff;bd zi;aa tr;kc uv;ad	10
 小分子物质	xc;ad ff;bd zi;aa wu;nw vi;bu	10
-消风导赤汤	xc;dx fg;ji dk;cs ii;tb th;dy	10
-消风豁痰汤	xc;dx fg;ji ho;gh tj;by th;dy	10
-消风宁嗽汤	xc;dx fg;ji ny;bd sb;kq th;dy	10
 消风止痛宁	xc;dx fg;ji vi;aa ts;by ny;bd	10
 小富兰克林	xc;ad fu;bf lj;qe ke;eg ln;mm	10
 小弗洛伊德	xc;ad fu;aa lo;dg yi;ry de;xx	10
@@ -73940,7 +73520,6 @@ sort: by_weight
 消息人士称	xc;dx xi;xz rf;pd ui;aa ig;he	10
 小西真奈美	xc;ad xi;aa vf;uj nl;du mz;dy	10
 小虾虎鱼族	xc;ad xw;ix hu;hj yu;da zu;fu	10
-消下破血汤	xc;dx xw;ab po;up xt;pa th;dy	10
 孝贤纯皇后	xc;zl xm;by ip;st hd;bw hb;pk	10
 小仙女似的	xc;ad xm;ru nv;aa ui;ry de;bu	10
 小仙坛窑址	xc;ad xm;ru tj;ty yk;xf vi;tv	10
@@ -73993,7 +73572,6 @@ sort: by_weight
 小学和中学	xc;ad xt;zb he;hk vs;aa xt;zb	10
 小学至高中	xc;ad xt;zb vi;tv gk;wk vs;aa	10
 小雪转多云	xc;ad xt;yx vr;iv do;xx yp;es	10
-小巽他群岛	xc;ad xp;gs ta;ry qp;yj dk;nu	10
 小哑铃星云	xc;ad ya;ky ly;jl xy;ou yp;es	10
 小丫头片子	xc;ad ya;ba tb;dd pm;pa zi;aa	10
 小鸭洗衣机	xc;ad ya;nj xi;dx yi;dd ji;mj	10
@@ -74002,7 +73580,6 @@ sort: by_weight
 小岩城事件	xc;ad yj;uu ig;ti ui;aa jm;rn	10
 硝烟的味道	xc;ux yj;hy de;bu wz;kw dk;zu	10
 硝烟的战场	xc;ux yj;hy de;bu vj;gv ih;ty	10
-消炎化毒汤	xc;dx yj;hh hw;rb du;fm th;dy	10
 小岩井琴梨	xc;ad yj;uu jy;aa qn;wj li;ml	10
 小岩井琴里	xc;ad yj;uu jy;aa qn;wj li;aa	10
 小岩井小鸟	xc;ad yj;uu jy;aa xc;ad nc;pa	10
@@ -74046,7 +73623,6 @@ sort: by_weight
 小英雄托托	xc;ad yy;cy xs;vh to;fq to;fq	10
 小应用程序	xc;ad yy;ga ys;kf ig;hi xu;gy	10
 笑拥江山梦	xc;vy ys;fy jd;dg uj;aa mg;mx	10
-消痈散毒汤	xc;dx ys;by sj;wo du;fm th;dy	10
 效用最大化	xc;wj ys;kf zv;oq da;ad hw;rb	10
 小疣叉丝壳	xc;ad yb;by ia;yd si;aa ke;uj	10
 校友或老师	xc;mj yb;yu ho;gk lk;lb ui;ab	10
@@ -74059,7 +73635,6 @@ sort: by_weight
 小尉迟孙新	xc;ad yu;cu ii;zi sp;zx xn;jq	10
 小鱼吃虾米	xc;ad yu;da ii;kq xw;ix mi;dd	10
 小鱼吃小虾	xc;ad yu;da ii;kq xc;ad xw;ix	10
-消瘀荡秽汤	xc;dx yu;by dh;ct hv;hs th;dy	10
 小雨到中雨	xc;ad yu;ad dk;dv vs;aa yu;ad	10
 小鱼的理想	xc;ad yu;da de;bu li;wl xd;xx	10
 小于等于号	xc;ad yu;aa dg;vs yu;aa hk;kk	10
@@ -74123,7 +73698,6 @@ sort: by_weight
 小职员周记	xc;ad vi;ev yr;kb vb;kt ji;yj	10
 消肿的功效	xc;dx vs;ov de;bu gs;lg xc;wj	10
 小中华思想	xc;ad vs;aa hw;uh si;xt xd;xx	10
-消肿健脾汤	xc;dx vs;ov jm;rj pi;ob th;dy	10
 消肿止痛酊	xc;dx vs;ov vi;aa ts;by dy;yd	10
 消肿止痛贴	xc;dx vs;ov vi;aa ts;by tx;bv	10
 小猪的大猪	xc;ad vu;qv de;bu da;ad vu;qv	10
@@ -74466,7 +74040,6 @@ sort: by_weight
 新即物主义	xn;jq ji;eg wu;nw vu;dw yi;id	10
 心肌纤维化	xn;dd ji;oj xm;sq wz;sv hw;rb	10
 心基叶溲疏	xn;dd ji;tq ye;ku sb;ds uu;pi	10
-新加黄龙汤	xn;jq jw;lk hd;cb ls;ad th;dy	10
 新假期周刊	xn;jq jw;rj qi;oq vb;kt kj;dg	10
 新加香薷饮	xn;jq jw;lk xd;ho ru;cx yn;uq	10
 新建和改造	xn;jq jm;zy he;hk gl;wj zk;zg	10
@@ -75393,7 +74966,6 @@ sort: by_weight
 杏仁各六分	xy;mk rf;re ge;wk lq;wb ff;bd	10
 行人过路线	xy;xi rf;pd go;zc lu;zg xm;sj	10
 行人和车辆	xy;xi rf;pd he;hk ie;aa ld;il	10
-杏仁滑石汤	xy;mk rf;re hw;dg ui;kp th;dy	10
 行人三三两	xy;xi rf;pd sj;aa sj;aa ld;ad	10
 行人徒步区	xy;xi rf;pd tu;xz bu;vx qu;ki	10
 杏仁小圆饼	xy;mk rf;re xc;ad yr;ky by;ub	10
@@ -76096,8 +75668,6 @@ sort: by_weight
 翾飞兮翠曾	xr;yh fz;yd xi;bk cv;yz cg;ob	10
 旋风扫叶腿	xr;fp fg;ji sk;fx ye;ku tv;ot	10
 悬浮床治疗	xr;xx fu;df id;gm vi;dt lc;bl	10
-旋覆代赭汤	xr;fp fu;xf dl;ry ve;iv th;dy	10
-旋复代赭汤	xr;fp fu;wo dl;ry ve;iv th;dy	10
 悬浮于空中	xr;xx fu;df yu;aa ks;xg vs;aa	10
 悬浮在空中	xr;xx fu;df zl;ut ks;xg vs;aa	10
 旋肱后动脉	xr;fp gs;oh hb;pk ds;ly ml;oy	10
@@ -76112,7 +75682,6 @@ sort: by_weight
 玄海铠甲虾	xr;wy hl;dm kl;jj jw;aa xw;ix	10
 宣和博古录	xr;bg he;hk bo;uc gu;uk lu;au	10
 烜赫大梁城	xr;hg he;ii da;ad ld;md ig;ti	10
-玄胡六合汤	xr;wy hu;og lq;wb he;rk th;dy	10
 喧哗两成败	xr;kx hw;kh ld;ad ig;gg bl;wb	10
 喧哗与骚动	xr;kx hw;kh yu;aa sk;mi ds;ly	10
 旋肩胛动脉	xr;fp jm;oh jw;oj ds;ly ml;oy	10
@@ -76166,7 +75735,6 @@ sort: by_weight
 选人的标准	xr;zx rf;pd de;bu bc;mu vp;dv	10
 旋入式表冠	xr;fp ru;pd ui;gy bc;fy gr;bc	10
 宣歙观察使	xr;bg ue;qy gr;jy ia;bj ui;rl	10
-玄参升麻汤	xr;wy uf;sp ug;pc ma;gl th;dy	10
 选手的比赛	xr;zx ub;pa de;bu bi;bb sl;bb	10
 选手的实力	xr;zx ub;pa de;bu ui;bt li;gp	10
 选手的状态	xr;zx ub;pa de;bu vd;qp tl;xt	10
@@ -76282,8 +75850,6 @@ sort: by_weight
 雪佛兰伏特	xt;yx fu;rf lj;qe fu;rq te;ns	10
 雪佛兰羚羊	xt;yx fu;rf lj;qe ly;yl yh;da	10
 学富五车的	xt;zb fu;bf wu;aa ie;aa de;bu	10
-血府逐瘀汤	xt;pa fu;gf vu;zu yu;by th;dy	10
-血府逐淤汤	xt;pa fu;gf vu;zu yu;dy th;dy	10
 雪糕红豆冰	xt;yx gk;mg hs;sg db;aa by;du	10
 薛歌妮韦花	xt;cx ge;qg ni;nn wz;aa hw;ch	10
 学哥学姐们	xt;zb ge;kd xt;zb jx;nq mf;rm	10
@@ -76852,7 +76418,6 @@ sort: by_weight
 雅满干涉仪	ya;vy mj;dl gj;aa ue;db yi;ry	10
 亚米念主义	ya;ay mi;dd nm;xj vu;dw yi;id	10
 压敏粘着剂	ya;id mn;wm nm;mv vo;yo ji;dq	10
-亚南极群岛	ya;ay nj;ua ji;mj qp;yj dk;nu	10
 牙脓肿引流	ya;ap ns;on vs;ov yn;ga lq;di	10
 牙排列不齐	ya;ap pl;ff lx;dd bu;ad qi;wa	10
 鸦片有益论	ya;ny pm;pa yb;ou yi;mb lp;yl	10
@@ -76866,14 +76431,12 @@ sort: by_weight
 亚热带季风	ya;ay re;hv dl;jb ji;hz fg;ji	10
 压融成膜法	ya;id rs;ig ig;gg mo;om fa;dq	10
 雅润润滑剂	ya;vy rp;dr rp;dr hw;dg ji;dq	10
-亚萨瓦群岛	ya;ay sa;ci wa;ad qp;yj dk;nu	10
 崖上的波儿	ya;uy uh;aa de;bu bo;dp er;pg	10
 崖上的波妞	ya;uy uh;aa de;bu bo;dp nq;ni	10
 压伤的芦苇	ya;id uh;rl de;bu lu;ch wz;cw	10
 亚声波眩晕	ya;ay ug;um bo;dp xr;ox yp;oj	10
 压实度试验	ya;id ui;bt du;gy ui;yu yj;ma	10
 雅士谷马场	ya;vy ui;aa gu;bk ma;aa ih;ty	10
-亚述尔群岛	ya;ay uu;zu er;dx qp;yj dk;nu	10
 雅斯贝尔斯	ya;vy si;jq bz;ad er;dx si;jq	10
 雅思和托福	ya;vy si;xt he;hk to;fq fu;uf	10
 雅司螺旋体	ya;vy si;gk lo;il xr;fp ti;rb	10
@@ -77166,7 +76729,6 @@ sort: by_weight
 延吉帽儿山	yj;zv ji;ku mk;jm er;pg uj;aa	10
 演技没的说	yj;dy ji;fv mz;du de;bu uo;yd	10
 演技派女星	yj;dy ji;fv pl;dp nv;aa xy;ou	10
-延基韦群岛	yj;zv ji;tq wz;aa qp;yj dk;nu	10
 演技与颜值	yj;dy ji;fv yu;aa yj;yy vi;rv	10
 延吉中路站	yj;zv ji;ku vs;aa lu;zg vj;lv	10
 眼睑白癜风	yj;og jm;oa bl;pa dm;bd fg;ji	10
@@ -77899,7 +77461,6 @@ sort: by_weight
 洋山深水港	yh;dy uj;aa uf;dm uv;ad gh;dx	10
 仰韶彩陶坊	yh;re uk;yv cl;pc tk;et fh;tf	10
 仰韶村遗址	yh;re uk;yv cp;mc yi;zg vi;tv	10
-洋参炖鸡汤	yh;dy uf;sp dp;ht ji;ny th;dy	10
 养肾活血酒	yh;ya uf;oy ho;du xt;pa jq;dy	10
 养生的方法	yh;ya ug;na de;bu fh;wd fa;dq	10
 养生的效果	yh;ya ug;na de;bu xc;wj go;tm	10
@@ -77951,7 +77512,6 @@ sort: by_weight
 羊羊运动会	yh;da yh;da yp;zy ds;ly hv;ry	10
 养也没养过	yh;ya ye;gg mz;du yh;ya go;zc	10
 养阴健胃饮	yh;ya yn;eo jm;rj wz;ot yn;uq	10
-养阴清肺汤	yh;ya yn;eo qy;dq fz;of th;dy	10
 养鱼的小猫	yh;ya yu;da de;bu xc;ad mk;qm	10
 养鱼先养水	yh;ya yu;da xm;ne yh;ya uv;ad	10
 杨裕兴面馆	yh;my yu;yg xy;ba mm;aa gr;ug	10
@@ -78254,9 +77814,7 @@ sort: by_weight
 耶尔森氏菌	ye;ee er;dx sf;ml ui;pg jp;ch	10
 耶尔辛氏菌	ye;ee er;dx xn;lu ui;pg jp;ch	10
 椰风挡不住	ye;my fg;ji dh;fd bu;ad vu;rv	10
-射干兜铃汤	ye;cu gj;aa db;ek ly;jl th;dy	10
 射干抗病毒	ye;cu gj;aa kh;fk by;bb du;fm	10
-射干麻黄汤	ye;cu gj;aa ma;gl hd;cb th;dy	10
 射干十三枚	ye;cu gj;aa ui;aa sj;aa mz;mw	10
 射干消毒饮	ye;cu gj;aa xc;dx du;fm yn;uq	10
 野沟门水库	ye;ly gb;dg mf;dg uv;ad ku;gi	10
@@ -78798,8 +78356,6 @@ sort: by_weight
 依存关系树	yi;ry cp;uz gr;qd xi;ps uu;md	10
 以村为单位	yi;rd cp;mc wz;dd dj;ba wz;rl	10
 易错知识点	yi;ow co;jx vi;ku ui;yv dm;hv	10
-宜大柴胡汤	yi;bq da;ad il;mc hu;og th;dy	10
-宜大承气汤	yi;bq da;ad ig;ad qi;py th;dy	10
 医大二院站	yi;ku da;ad er;aa yr;ew vj;lv	10
 一大根基佬	yi;aa da;ad gf;mg ji;tq lk;rl	10
 一大家子人	yi;aa da;ad jw;bu zi;aa rf;pd	10
@@ -79163,7 +78719,6 @@ sort: by_weight
 宜家博物馆	yi;bq jw;bu bo;uc wu;nw gr;ug	10
 意甲电话门	yi;xy jw;aa dm;ag hw;yu mf;dg	10
 乙甲丁酰胺	yi;aa jw;aa dy;aa xm;yx an;oa	10
-一甲复脉汤	yi;aa jw;aa fu;wo ml;oy th;dy	10
 一甲观音亭	yi;aa jw;aa gr;jy yn;lo ty;wd	10
 意甲积分榜	yi;xy jw;aa ji;hv ff;bd bh;mp	10
 意甲拉齐奥	yi;xy jw;aa la;fl qi;wa ao;dm	10
@@ -79468,11 +79023,8 @@ sort: by_weight
 伊珀尔战役	yi;ry po;wb er;dx vj;gv yi;xu	10
 已迫在眉睫	yi;vg po;zb zl;ut mz;om jx;oj	10
 伊普尔战役	yi;ry pu;ob er;dx vj;gv yi;xu	10
-益气安神汤	yi;mb qi;py an;bn uf;uu th;dy	10
 一七八九年	yi;aa qi;ag ba;pd jq;py nm;ra	10
 一期办公室	yi;aa qi;oq bj;lb gs;sb ui;bv	10
-益气补肺汤	yi;mb qi;py bu;yb fz;of th;dy	10
-益气聪明汤	yi;mb qi;py cs;ez my;oo th;dy	10
 一起打鬼子	yi;aa qi;zj da;fd gv;pd zi;aa	10
 仪器的研发	yi;ry qi;kk de;bu yj;uk fa;ay	10
 一妻多夫制	yi;aa qi;na do;xx fu;ad vi;dg	10
@@ -79490,11 +79042,9 @@ sort: by_weight
 亦乞列思部	yi;wb qi;ry lx;dd si;xt bu;ek	10
 一汽马自达	yi;aa qi;dq ma;aa zi;pa da;zd	10
 一起拍照的	yi;aa qi;zj pl;fb vk;hv de;bu	10
-益气清金汤	yi;mb qi;py qy;dq jn;ra th;dy	10
 以其人之道	yi;rd qi;ba rf;pd vi;dd dk;zu	10
 益气生津茶	yi;mb qi;py ug;na jn;dy ia;cm	10
 弈棋仕女图	yi;cy qi;mq ui;ru nv;aa tu;kd	10
-益气疏风汤	yi;mb qi;py uu;pi fg;ji th;dy	10
 一七四医院	yi;aa qi;ag si;aa yi;ku yr;ew	10
 一起同过窗	yi;aa qi;zj ts;kk go;zc id;xx	10
 仪器信息网	yi;ry qi;kk xn;ry xi;xz wh;ki	10
@@ -79992,7 +79542,6 @@ sort: by_weight
 异位皮脂腺	yi;cs wz;rl pi;ad vi;ov xm;oq	10
 已蔚然成风	yi;vg wz;cw rj;hq ig;gg fg;ji	10
 毅伟商学院	yi;uu wz;rw uh;wk xt;zb yr;ew	10
-益胃升阳汤	yi;mb wz;ot ug;pc yh;eo th;dy	10
 一位史蒂夫	yi;aa wz;rl ui;ki di;cd fu;ad	10
 异位输尿管	yi;cs wz;rl uu;iy nc;uu gr;vg	10
 异位唾液腺	yi;cs wz;rl to;ki ye;dy xm;oq	10
@@ -80396,7 +79945,6 @@ sort: by_weight
 一致估计量	yi;aa vi;wv gu;rg ji;yu ld;ol	10
 一之谷之战	yi;aa vi;dd gu;bk vi;dd vj;gv	10
 已知和未知	yi;vg vi;ku he;hk wz;ex vi;ku	10
-益智和中汤	yi;mb vi;ov he;hk vs;aa th;dy	10
 抑制黑色素	yi;fe vi;dg hz;ha se;db su;sf	10
 一只红兔子	yi;aa vi;kb hs;sg tu;dd zi;aa	10
 一枝花蔡庆	yi;aa vi;mv hw;ch cl;cj qy;gd	10
@@ -80586,8 +80134,6 @@ sort: by_weight
 阴沉的天气	yn;eo if;dj de;bu tm;ad qi;py	10
 茵陈蒿六两	yn;cy if;ed hk;cg lq;wb ld;ad	10
 茵陈蒿汤方	yn;cy if;ed hk;cg th;dy fh;wd	10
-茵陈术附汤	yn;cy if;ed uu;md fu;ef th;dy	10
-茵陈四逆汤	yn;cy if;ed si;aa ni;zn th;dy	10
 隐翅虫下目	yn;ej ii;yv is;ad xw;ab mu;aa	10
 阴川蝴蝶君	yn;eo ir;pa hu;ih dx;im jp;ky	10
 银川兴庆区	yn;jg ir;pa xy;ba qy;gd qu;ki	10
@@ -81342,7 +80888,6 @@ sort: by_weight
 营养与代谢	yy;cl yh;ya yu;aa dl;ry xx;yu	10
 应要求撤转	yy;ga yk;xn qq;ad ie;fw vr;iv	10
 营业部经理	yy;cl ye;aa bu;ek jy;sg li;wl	10
-营业部旧址	yy;cl ye;aa bu;ek jq;ao vi;tv	10
 营业费用的	yy;cl ye;aa fz;bf ys;kf de;bu	10
 樱野玖璃梦	yy;my ye;ly jq;wj li;wl mg;mx	10
 赢也没赢过	yy;bk ye;gg mz;du yy;bk go;zc	10
@@ -83492,7 +83037,6 @@ sort: by_weight
 预应力箱梁	yu;yy yy;ga li;gp xd;vx ld;md	10
 育婴里小学	yu;os yy;nb li;aa xc;ad xt;zb	10
 预应力张拉	yu;yy yy;ga li;gp vh;gi la;fl	10
-育婴堂旧址	yu;os yy;nb th;tk jq;ao vi;tv	10
 育英小学校	yu;os yy;cy xc;ad xt;zb xc;mj	10
 育英幼儿园	yu;os yy;cy yb;ly er;pg yr;ky	10
 鱼鹰直升机	yu;da yy;gn vi;uq ug;pc ji;mj	10
@@ -84211,7 +83755,6 @@ sort: by_weight
 越搞越糊涂	yt;zy gk;fg yt;zy hu;mh tu;dy	10
 月歌舞台剧	yt;pa ge;qg wu;rf tl;sk ju;dj	10
 月桂山梨坦	yt;pa gv;mg uj;aa li;ml tj;td	10
-粤海关旧址	yt;pk hl;dm gr;qd jq;ao vi;tv	10
 月海基性岩	yt;pa hl;dm ji;tq xy;xu yj;uu	10
 月海玄武岩	yt;pa hl;dm xr;wy wu;vy yj;uu	10
 约翰内斯堡	yt;su hj;yu nz;ad si;jq bk;tb	10
@@ -85178,7 +84721,6 @@ sort: by_weight
 增效胺原粉	zg;tc xc;wj an;oa yr;ix ff;mf	10
 增效胺原油	zg;tc xc;wj an;oa yr;ix yb;dy	10
 增血鬼果林	zg;tc xt;pa gv;pd go;tm ln;mm	10
-增液承气汤	zg;tc ye;dy ig;ad qi;py th;dy	10
 增壹阿含经	zg;tc yi;ud aa;ek hj;rk jy;sg	10
 增一阿含经	zg;tc yi;aa aa;ek hj;rk jy;sg	10
 增益带宽积	zg;tc yi;mb dl;jb kr;bj ji;hv	10
@@ -85190,7 +84732,7 @@ sort: by_weight
 增长的曲线	zg;tc vh;pd de;bu qu;aa xm;sj	10
 增长的速度	zg;tc vh;pd de;bu su;zu du;gy	10
 增长了见识	zg;tc vh;pd le;aa jm;ag ui;yv	10
-增长了知识	zg;tc vh;pd le;aa vi;ku ui;yv	10
+增长了知识	zg;tc vh;pd lc;aa vi;ku ui;yv	10
 增殖反应堆	zg;tc vi;dv fj;py yy;ga dv;tv	10
 增值税减免	zg;tc vi;rv uv;hd jm;dx mm;de	10
 增值税纳税	zg;tc vi;rv uv;hd na;sn uv;hd	10
@@ -85645,8 +85187,8 @@ sort: by_weight
 掌握的技术	vh;uk wo;fw de;bu ji;fv uu;md	10
 掌握的资源	vh;uk wo;fw de;bu zi;bc yr;dy	10
 掌握和运用	vh;uk wo;fw he;hk yp;zy ys;kf	10
-掌握了知识	vh;uk wo;fw le;aa vi;ku ui;yv	10
 张我勒个去	vh;gi wo;pd lz;lg ge;ra qu;ts	10
+掌握了知识	vh;uk wo;fw lc;aa vi;ku ui;yv	10
 张夏石灰岩	vh;gi xw;wz ui;kp hv;hu yj;uu	10
 张献忠沉银	vh;gi xm;qn vs;xv if;dj yn;jg	10
 张献忠起义	vh;gi xm;qn vs;xv qi;zj yi;id	10
@@ -86163,7 +85705,6 @@ sort: by_weight
 真凤舞九天	vf;uj fg;jy wu;rf jq;py tm;ad	10
 真斧锤精通	vf;uj fu;jf iv;ji jy;mq ts;zy	10
 振幅反射度	vf;fi fu;jf fj;py ue;cu du;gy	10
-镇肝熄风汤	vf;jv gj;og xi;hx fg;ji th;dy	10
 镇高级中学	vf;jv gk;wk ji;sj vs;aa xt;zb	10
 枕骨大孔疝	vf;mg gu;go da;ad ks;zg uj;bu	10
 砧骨后韧带	vf;uv gu;go hb;pk rf;wr dl;jb	10
@@ -86964,7 +86505,6 @@ sort: by_weight
 正真骨鱼群	vg;av vf;uj gu;go yu;da qp;yj	10
 怔怔地望着	vg;xv vg;xv de;ty wh;wo ve;yo	10
 整整高出了	vg;vi vg;vi gk;wk iu;aa le;aa	10
-政治部旧址	vg;wv vi;dt bu;ek jq;ao vi;tv	10
 政治的高度	vg;wv vi;dt de;bu gk;wk du;gy	10
 政治的过程	vg;wv vi;dt de;bu go;zc ig;hi	10
 政治的人生	vg;wv vi;dt de;bu rf;pd ug;na	10
@@ -87045,7 +86585,6 @@ sort: by_weight
 治安维持法	vi;dt an;bn wz;sv ii;fs fa;dq	10
 治百病的药	vi;dt bl;ab by;bb de;bu yk;cy	10
 直白的语言	vi;uq bl;pa de;bu yu;yw yj;wk	10
-知柏地黄汤	vi;ku bl;mb di;ty hd;cb th;dy	10
 值班的点点	vi;rv bj;dw de;bu dm;hv dm;hv	10
 职棒签赌案	vi;ev bh;mf qm;va du;bv an;ma	10
 纸包不住火	vi;su bk;gs bu;ad vu;rv ho;dd	10
@@ -88166,7 +87705,6 @@ sort: by_weight
 制造和销售	vi;dg zk;zg he;hk xc;jx ub;kv	10
 制造和装配	vi;dg zk;zg he;hk vd;yv pz;yj	10
 制造及销售	vi;dg zk;zg ji;nd xc;jx ub;kv	10
-织造署旧址	vi;sv zk;zg uu;sv jq;ao vi;tv	10
 制造业大国	vi;dg zk;zg ye;aa da;ad go;ky	10
 制造业大省	vi;dg zk;zg ye;aa da;ad ug;ou	10
 制造业大市	vi;dg zk;zg ye;aa da;ad ui;wj	10
@@ -88219,19 +87757,14 @@ sort: by_weight
 执着的信念	vi;fw vo;yo de;bu xn;ry nm;xj	10
 执着的追求	vi;fw vo;yo de;bu vv;zv qq;ad	10
 执着与坚持	vi;fw vo;yo yu;aa jm;ty ii;fs	10
-栀子柏皮汤	vi;me zi;aa bl;mb pi;ad th;dy	10
 栀子豉汤方	vi;me zi;aa ii;dv th;dy fh;wd	10
 质子磁力仪	vi;bu zi;aa ci;uz li;gp yi;ry	10
-栀子导赤汤	vi;me zi;aa dk;cs ii;tb th;dy	10
-栀子干姜汤	vi;me zi;aa gj;aa jd;ny th;dy	10
 直子宫颈钳	vi;uq zi;aa gs;bl jy;yg qm;jg	10
 质子和电子	vi;bu zi;aa he;hk dm;ag zi;aa	10
 质子和中子	vi;bu zi;aa he;hk vs;aa zi;aa	10
-栀子厚朴汤	vi;me zi;aa hb;iz po;mb th;dy	10
 栀子花开时	vi;me zi;aa hw;ch kl;ac ui;oc	10
 质子加速器	vi;bu zi;aa jw;lk su;zu qi;kk	10
 质子交换膜	vi;bu zi;aa jc;li hr;fh mo;om	10
-栀子金花汤	vi;me zi;aa jn;ra hw;ch th;dy	10
 知子莫如父	vi;ku zi;aa mo;cd ru;nk fu;pd	10
 知子莫若父	vi;ku zi;aa mo;cd ro;cy fu;pd	10
 知子莫若母	vi;ku zi;aa mo;cd ro;cy mu;vd	10
@@ -88404,6 +87937,7 @@ sort: by_weight
 中国的优势	vs;aa go;ky de;bu yb;ry ui;lv	10
 中国的智慧	vs;aa go;ky de;bu vi;ov hv;xh	10
 中国电影史	vs;aa go;ky dm;ag yy;pj ui;ki	10
+中国共产党	vs;aa go;ky gs;cb ij;wi dh;ek	10
 中国旅行社	vs;aa go;ky lv;fp xy;xi ue;ut	10
 中国美术馆	vs;aa go;ky mz;dy uu;md gr;ug	10
 中国现代史	vs;aa go;ky xm;wj dl;ry ui;ki	10
@@ -88555,7 +88089,6 @@ sort: by_weight
 钟楼和鼓楼	vs;jv lb;ml he;hk gu;vd lb;ml	10
 钟楼湾胡同	vs;jv lb;ml wj;dw hu;og ts;kk	10
 钟吕传道集	vs;jv lv;kk ir;rv dk;zu ji;vm	10
-中满分消汤	vs;aa mj;dl ff;bd xc;dx th;dy	10
 肿么个情况	vs;ov me;ps ge;ra qy;xq kd;dx	10
 中米粒组织	vs;aa mi;dd li;ml zu;sq vi;sv	10
 钟鸣作曲法	vs;jv my;kn zo;rv qu;aa fa;dq	10
@@ -89278,7 +88811,6 @@ sort: by_weight
 珠海金湾区	vu;wv hl;dm jn;ra wj;dw qu;ki	10
 珠海市一中	vu;wv hl;dm ui;wj yi;aa vs;aa	10
 珠海香洲区	vu;wv hl;dm xd;ho vb;dv qu;ki	10
-逐寒荡惊汤	vu;zu hj;bd dh;ct jy;xj th;dy	10
 驻韩美军第	vu;mv hj;uw mz;dy jp;bi di;vp	10
 煮好的鸡蛋	vu;hv hk;nz de;bu ji;ny dj;ip	10
 煮好的米饭	vu;hv hk;nz de;bu mi;dd fj;uf	10
@@ -89575,8 +89107,6 @@ sort: by_weight
 主要推动者	vu;dw yk;xn tv;fv ds;ly ve;ol	10
 主要照顾者	vu;dw yk;xn vk;hv gu;ye ve;ol	10
 竹叶狂想曲	vu;gg ye;ku kd;qw xd;xx qu;aa	10
-竹叶柳蒡汤	vu;gg ye;ku lq;mm bh;cp th;dy	10
-竹叶石膏汤	vu;gg ye;ku ui;kp gk;og th;dy	10
 主耶稣基督	vu;dw ye;ee su;yh ji;tq du;ou	10
 竹叶汤主之	vu;gg ye;ku th;dy vu;dw vi;dd	10
 竹叶亭杂记	vu;gg ye;ku ty;wd za;jm ji;yj	10
@@ -89606,7 +89136,6 @@ sort: by_weight
 猪油蒙了心	vu;qv yb;dy mg;cm le;aa xn;dd	10
 主与尔偕焉	vu;dw yu;aa er;dx xx;rj yj;vh	10
 茱萸汤主之	vu;cv yu;cy th;dy vu;dw vi;dd	10
-逐瘀止血汤	vu;zu yu;by vi;aa xt;pa th;dy	10
 住院的病人	vu;rv yr;ew de;bu by;bb rf;pd	10
 猪圆环病毒	vu;qv yr;ky hr;wb by;bb du;fm	10
 住院时间短	vu;rv yr;ew ui;oc jm;mo dr;ud	10
@@ -90599,7 +90128,6 @@ sort: by_weight
 自适应网格	zi;pa ui;zu yy;ga wh;ki ge;mg	10
 自适应巡航	zi;pa ui;zu yy;ga xp;zi hh;vk	10
 自受激振动	zi;pa ub;vy ji;dj vf;fi ds;ly	10
-资寿解语汤	zi;bc ub;cf jx;jn yu;yw th;dy	10
 紫苏变玄岩	zi;sc su;cb bm;wy xr;wy yj;uu	10
 紫苏闪石岩	zi;sc su;cb uj;mr ui;kp yj;uu	10
 姿态指引仪	zi;nc tl;xt vi;fv yn;ga yi;ry	10
@@ -90999,7 +90527,6 @@ sort: by_weight
 宗穆玛釉玛	zs;bu mu;hp ma;wm yb;py ma;wm	10
 总平面布置	zs;xk py;aa mm;aa bu;ju vi;sv	10
 纵绮罗满目	zs;sc qi;sq lo;sx mj;dl mu;aa	10
-总前委旧址	zs;xk qm;qd wz;hn jq;ao vi;tv	10
 总人民大会	zs;xk rf;pd mn;ag da;ad hv;ry	10
 总溶解固体	zs;xk rs;dr jx;jn gu;kg ti;rb	10
 纵褥式缝合	zs;sc ru;yr ui;gy fg;sf he;rk	10
@@ -92006,7 +91533,6 @@ sort: by_weight
 阿基米斯基岛	aa;ek ji;tq mi;dd si;jq ji;tq dk;nu	10
 阿嘉呼图克图	aa;ek jw;uj hu;kh tu;kd ke;eg tu;kd	10
 阿加克斯火药	aa;ek jw;lk ke;eg si;jq ho;dd yk;cy	10
-阿加莱加群岛	aa;ek jw;lk ll;cl jw;lk qp;yj dk;nu	10
 阿卡二氏试验	aa;ek ka;ub er;aa ui;pg ui;yu yj;ma	10
 阿喀高速公路	aa;ek ka;kk gk;wk su;zu gs;sb lu;zg	10
 阿卡普尔科群	aa;ek ka;ub pu;ob er;dx ke;hd qp;yj	10
@@ -92045,7 +91571,6 @@ sort: by_weight
 阿姆达尔定律	aa;ek mu;nm da;zd er;dx dy;bp lv;xy	10
 阿姆斯特丹岛	aa;ek mu;nm si;jq te;ns dj;pd dk;nu	10
 阿那日十四味	aa;ek na;el ri;aa ui;aa si;aa wz;kw	10
-阿南巴斯群岛	aa;ek nj;ua ba;ag si;jq qp;yj dk;nu	10
 阿欧二氏变性	aa;ek ou;qq er;aa ui;pg bm;wy xy;xu	10
 阿啪啦甲嘎噗	aa;ek pa;kp la;kl jw;aa ga;kg pu;kp	10
 阿帕拉契山脉	aa;ek pa;jb la;fl qi;dd uj;aa ml;oy	10
@@ -92382,7 +91907,6 @@ sort: by_weight
 安道尔共和国	an;bn dk;zu er;dx gs;cb he;hk go;ky	10
 安德里卡猜想	an;bn de;xx li;aa ka;ub cl;qq xd;xx	10
 安得列多项式	an;bn de;xc lx;dd do;xx xd;gy ui;gy	10
-安的列斯群岛	an;bn de;bu lx;dd si;jq qp;yj dk;nu	10
 安蒂基西拉岛	an;bn di;cd ji;tq xi;aa la;fl dk;nu	10
 安蒂科斯蒂岛	an;bn di;cd ke;hd si;jq di;cd dk;nu	10
 安蒂特姆战役	an;bn di;cd te;ns mu;nm vj;gv yi;xu	10
@@ -92640,7 +92164,6 @@ sort: by_weight
 扒了个底朝天	ba;fb le;aa ge;ra di;gd ik;ou tm;ad	10
 拔了毛的凤凰	ba;fb le;aa mk;pg de;bu fg;jy hd;jh	10
 巴雷二氏试验	ba;ag lz;yt er;aa ui;pg ui;yu yj;ma	10
-巴利阿里群岛	ba;ag li;hd aa;ek li;aa qp;yj dk;nu	10
 巴黎奥利机场	ba;ag li;hu ao;dm li;hd ji;mj ih;ty	10
 巴黎半岛酒店	ba;ag li;hu bj;bf dk;nu jq;dy dm;gv	10
 巴黎大凯旋门	ba;ag li;hu da;ad kl;jj xr;fp mf;dg	10
@@ -92663,7 +92186,6 @@ sort: by_weight
 巴拿赫星代数	ba;ag na;uh he;ii xy;ou dl;ry uu;wl	10
 八旗都统衙门	ba;pd qi;fq du;ev ts;si ya;xw mf;dg	10
 八七会议会址	ba;pd qi;ag hv;ry yi;yy hv;ry vi;tv	10
-八七会议旧址	ba;pd qi;ag hv;ry yi;yy jq;ao vi;tv	10
 八旗通志初集	ba;pd qi;fq ts;zy vi;xu iu;yd ji;vm	10
 八旗值年大臣	ba;pd qi;fq vi;rv nm;ra da;ad if;aa	10
 八千颂般若经	ba;pd qm;pa ss;yg bo;vu re;cy jy;sg	10
@@ -92779,7 +92301,6 @@ sort: by_weight
 百大购物中心	bl;ab da;ad gb;bg wu;nw vs;aa xn;dd	10
 百代唱片公司	bl;ab dl;ry ih;ki pm;pa gs;sb si;gk	10
 百代电影公司	bl;ab dl;ry dm;ag yy;pj gs;sb si;gk	10
-百代公司旧址	bl;ab dl;ry gs;sb si;gk jq;ao vi;tv	10
 白带染色试剂	bl;pa dl;jb rj;mg se;db ui;yu ji;dq	10
 白带像豆腐渣	bl;pa dl;jb xd;rx db;aa fu;gr va;di	10
 百代音乐出版	bl;ab dl;ry yn;lo yt;pd iu;aa bj;pf	10
@@ -92808,7 +92329,6 @@ sort: by_weight
 百度超级搜霸	bl;ab du;gy ik;zv ji;sj sb;fs ba;yo	10
 百度人工智能	bl;ab du;gy rf;pd gs;aa vi;ov ng;sb	10
 百度十大神兽	bl;ab du;gy ui;aa da;ad uf;uu ub;ka	10
-百度手机卫士	bl;ab du;gy ub;pa ji;mj wz;ga ui;aa	10
 白垩纪的南客	bl;pa ee;ty ji;sj de;bu nj;ua ke;bg	10
 白垩纪鳄形类	bl;pa ee;ty ji;sj ee;ye xy;pk lz;md	10
 拜厄姆马丁岛	bl;uf ee;ie mu;nm ma;aa dy;aa dk;nu	10
@@ -92839,10 +92359,6 @@ sort: by_weight
 白喉忌表抉微	bl;pa hb;kh ji;xj bc;fy jt;fd wz;xw	10
 白喉证治通考	bl;pa hb;kh vg;yv vi;dt ts;zy kk;lk	10
 白喉治法抉微	bl;pa hb;kh vi;dt fa;dq jt;fd wz;xw	10
-白虎加仓术汤	bl;pa hu;hj jw;lk ch;re uu;md th;dy	10
-白虎加苍术汤	bl;pa hu;hj jw;lk ch;cc vu;md th;dy	10
-白虎加桂枝汤	bl;pa hu;hj jw;lk gv;mg vi;mv th;dy	10
-白虎加人参汤	bl;pa hu;hj jw;lk rf;pd uf;sp th;dy	10
 白虎监兵神君	bl;pa hu;hj jm;mv by;qb uf;uu jp;ky	10
 白胡椒粉少许	bl;pa hu;og jc;mu ff;mf uk;xp xu;yw	10
 白胡椒粉适量	bl;pa hu;og jc;mu ff;mf ui;zu ld;ol	10
@@ -93394,7 +92910,6 @@ sort: by_weight
 包容审慎监管	bk;gs rs;bg uf;bu uf;xv jm;mv gr;vg	10
 保山云端机场	bk;rd uj;aa yp;es dr;le ji;mj ih;ty	10
 保山云瑞机场	bk;rd uj;aa yp;es rv;we ji;mj ih;ty	10
-保商银行旧址	bk;rd uh;wk yn;jg hh;xi jq;ao vi;tv	10
 保神高速公路	bk;rd uf;uu gk;wk su;zu gs;sb lu;zg	10
 保生大帝信俗	bk;rd ug;na da;ad di;jb xn;ry su;rg	10
 鲍氏不动杆菌	bk;yb ui;pg bu;ad ds;ly gj;mg jp;ch	10
@@ -94199,7 +93714,6 @@ sort: by_weight
 鼻前后孔狭窄	bi;zb qm;qd hb;pk ks;zg xw;qj vl;xv	10
 鼻腔给药系统	bi;zb qd;ok gz;sh yk;cy xi;ps ts;si	10
 鼻切开取异物	bi;zb qx;dq kl;ac qu;ey yi;cs wu;nw	10
-比热戈斯群岛	bi;bb re;hv ge;ad si;jq qp;yj dk;nu	10
 比赛的第二节	bi;bb sl;bb de;bu di;vp er;aa jx;ce	10
 比赛的第三节	bi;bb sl;bb de;bu di;vp sj;aa jx;ce	10
 比赛的第四节	bi;bb sl;bb de;bu di;vp si;aa jx;ce	10
@@ -96155,7 +95669,6 @@ sort: by_weight
 拆除乱搭乱建	il;fi iu;ey lr;ug da;fd lr;ug jm;zy	10
 拆除私搭乱建	il;fi iu;ey si;hs da;fd lr;ug jm;zy	10
 拆东墙补西墙	il;fi ds;ad qd;th bu;yb xi;aa qd;th	10
-柴胡加芒硝汤	il;mc hu;og jw;lk mh;cw xc;ux th;dy	10
 柴胡皂苷配基	il;mc hu;og zk;bq gj;cg pz;yj ji;tq	10
 柴米油盐酱醋	il;mc mi;dd yb;dy yj;mb jd;yx cu;yx	10
 柴米油盐之上	il;mc mi;dd yb;dy yj;mb vi;dd uh;aa	10
@@ -98505,7 +98018,6 @@ sort: by_weight
 大部分的玩家	da;ad bu;ek ff;bd de;bu wj;wy jw;bu	10
 大部分的原因	da;ad bu;ek ff;bd de;bu yr;ix yn;kd	10
 大部分三体性	da;ad bu;ek ff;bd sj;aa ti;rb xy;xu	10
-大不列颠群岛	da;ad bu;ad lx;dd dm;yv qp;yj dk;nu	10
 打不起精神来	da;fd bu;ad qi;zj jy;mq uf;uu ll;am	10
 打不死的小强	da;fd bu;ad si;db de;bu xc;ad qd;gs	10
 大埔文娱中心	da;ad bu;tf wf;wi yu;nw vs;aa xn;dd	10
@@ -98645,7 +98157,6 @@ sort: by_weight
 大旱之望云霓	da;ad hj;og vi;dd wh;wo yp;es ni;ye	10
 大航海的时代	da;ad hh;vk hl;dm de;bu ui;oc dl;ry	10
 打好坚实基础	da;fd hk;nz jm;ty ui;bt ji;tq iu;ui	10
-达赫拉克群岛	da;zd he;ii la;fl ke;eg qp;yj dk;nu	10
 大河向东流啊	da;ad he;dk xd;pk ds;ad lq;di aa;ka	10
 大河向东流哇	da;ad he;dk xd;pk ds;ad lq;di wa;kg	10
 大红色的口红	da;ad hs;sg se;db de;bu kb;aa hs;sg	10
@@ -98710,7 +98221,6 @@ sort: by_weight
 大口径截止阀	da;ad kb;aa jy;xg jx;gv vi;aa fa;mf	12
 大口径止回阀	da;ad kb;aa jy;xg vi;aa hv;kk fa;mf	12
 达库尼亚鸟类	da;zd ku;gi ni;ub ya;ay nc;pa lz;md	10
-达库尼亚群岛	da;zd ku;gi ni;ub ya;ay qp;yj dk;nu	10
 大块棱光碎片	da;ad ky;td lg;ml gd;ea sv;uz pm;pa	10
 大块魔光碎片	da;ad ky;td mo;gm gd;ea sv;uz pm;pa	10
 达赖喇嘛代表	da;zd ll;uf la;kd ma;km dl;ry bc;fy	10
@@ -98954,7 +98464,6 @@ sort: by_weight
 大自然的法则	da;ad zi;pa rj;hq de;bu fa;dq ze;bd	10
 大自然的力量	da;ad zi;pa rj;hq de;bu li;gp ld;ol	10
 打左灯向右转	da;fd zo;ug dg;hd xd;pk yb;ku vr;iv	10
-代奥米德群岛	dl;ry ao;dm mi;dd de;xx qp;yj dk;nu	10
 待办事项列表	dl;xs bj;lb ui;aa xd;gy lx;dd bc;fy	10
 待办事项清单	dl;xs bj;lb ui;aa xd;gy qy;dq dj;ba	10
 代表性捷思法	dl;ry bc;fy xy;xu jx;fj si;xt fa;dq	10
@@ -99322,7 +98831,6 @@ sort: by_weight
 党风廉政专题	dh;ek fg;ji lm;gj vg;wv vr;ad ti;uy	10
 党管干部原则	dh;ek gr;vg gj;aa bu;ek yr;ix ze;bd	10
 党管人才原则	dh;ek gr;vg rf;pd cl;ap yr;ix ze;bd	10
-当归鸡血藤汤	dh;xx gv;ax ji;ny xt;pa tg;ct th;dy	10
 当归疏肝茶剂	dh;xx gv;ax uu;pi gj;og ia;cm ji;dq	10
 当红流量小生	dh;xx hs;sg lq;di ld;ol xc;ad ug;na	10
 当红一线女星	dh;xx hs;sg yi;aa xm;sj nv;aa xy;ou	10
@@ -100876,7 +100384,6 @@ sort: by_weight
 动量守恒定律	ds;ly ld;ol ub;bc hg;xg dy;bp lv;xy	10
 动量转移截面	ds;ly ld;ol vr;iv yi;hd jx;gv mm;aa	10
 动量转移理论	ds;ly ld;ol vr;iv yi;hd li;wl lp;yl	10
-东林书院旧址	ds;ad ln;mm uu;ad yr;ew jq;ao vi;tv	10
 咚隆隆炎魔君	ds;kd ls;eu ls;eu yj;hh mo;gm jp;ky	10
 东吕高速公路	ds;ad lv;kk gk;wk su;zu gs;sb lu;zg	10
 东马德雷山脉	ds;ad ma;aa de;xx lz;yt uj;aa ml;oy	10
@@ -101571,7 +101078,6 @@ sort: by_weight
 腭肌和咽门肌	ee;oe ji;oj he;hk yj;ky mf;dg ji;oj	10
 额济纳旗机场	ee;yk ji;dq na;sn qi;fq ji;mj ih;ty	10
 俄甲联赛球队	ee;rw jw;aa lm;eg sl;bb qq;wq dv;er	10
-阿胶鸡子黄汤	ee;ek jc;oj ji;ny zi;aa hd;cb th;dy	10
 恶徼以为知者	ee;xy jc;xj yi;rd wz;dd vi;ku ve;ol	10
 俄克拉何马州	ee;rw ke;eg la;fl he;rk ma;aa vb;id	10
 俄克拉荷马州	ee;rw ke;eg la;fl he;ch ma;aa vb;id	10
@@ -101891,15 +101397,6 @@ sort: by_weight
 二十味肉豆蔻	er;aa ui;aa wz;kw rb;ad db;aa kb;ck	10
 二十五点纲领	er;aa ui;aa wu;aa dm;hv gh;sg ly;yl	10
 二十五条纲领	er;aa ui;aa wu;aa tc;wm gh;sg ly;yl	10
-二十五味阿魏	er;aa ui;aa wu;aa wz;kw aa;ek wz;gw	10
-二十五味大汤	er;aa ui;aa wu;aa wz;kw da;ad th;dy	10
-二十五味儿茶	er;aa ui;aa wu;aa wz;kw er;pg ia;cm	10
-二十五味鬼臼	er;aa ui;aa wu;aa wz;kw gv;pd jq;pa	10
-二十五味驴血	er;aa ui;aa wu;aa wz;kw lv;mh xt;pa	10
-二十五味马宝	er;aa ui;aa wu;aa wz;kw ma;aa bk;by	10
-二十五味珊瑚	er;aa ui;aa wu;aa wz;kw uj;wc hu;wh	10
-二十五味松石	er;aa ui;aa wu;aa wz;kw ss;mg ui;kp	10
-二十五味珍珠	er;aa ui;aa wu;aa wz;kw vf;wp vu;wv	10
 二十一人审判	er;aa ui;aa yi;aa rf;pd uf;bu pj;db	10
 二十一史弹词	er;aa ui;aa yi;aa ui;ki tj;gd ci;ys	10
 二十一条要求	er;aa ui;aa yi;aa tc;wm yk;xn qq;ad	10
@@ -102131,7 +101628,6 @@ sort: by_weight
 发生什么事了	fa;ay ug;na uf;ru me;ps ui;aa le;aa	10
 发生突发事件	fa;ay ug;na tu;xq fa;ay ui;aa jm;rn	10
 发生质的变化	fa;ay ug;na vi;bu de;bu bm;wy hw;rb	10
-法式龙虾浓汤	fa;dq ui;gy ls;ad xw;ix ns;dn th;dy	10
 法属留尼汪岛	fa;dq uu;uy lq;td ni;ub wh;dw dk;nu	10
 法属南部领地	fa;dq uu;uy nj;ua bu;ek ly;yl di;ty	10
 法属南部领土	fa;dq uu;uy nj;ua bu;ek ly;yl tu;aa	10
@@ -103058,7 +102554,6 @@ sort: by_weight
 肺囊性纤维化	fz;of nh;ay xy;xu xm;sq wz;sv hw;rb	10
 肺囊肿并感染	fz;of nh;ay vs;ov by;bk gj;xx rj;mg	10
 非你不可芥末	fz;aa ni;re bu;ad ke;dk jx;cj mo;ad	10
-菲尼克斯群岛	fz;cf ni;ub ke;eg si;jq qp;yj dk;nu	10
 飞鸟从不惊诧	fz;yd nc;pa cs;rr bu;ad jy;xj ia;yv	10
 飞鸟净御原宫	fz;yd nc;pa jy;dv yu;xx yr;ix gs;bl	10
 飞鸟浄御原宫	fz;yd nc;pa jy;dv yu;xx yr;ix gs;bl	10
@@ -103629,7 +103124,6 @@ sort: by_weight
 佛开高速公路	fo;rf kl;ac gk;wk su;zu gs;sb lu;zg	10
 佛科留斯系统	fo;rf ke;hd lq;td si;jq xi;ps ts;si	10
 佛罗里达半岛	fo;rf lo;sx li;aa da;zd bj;bf dk;nu	10
-佛罗里达群岛	fo;rf lo;sx li;aa da;zd qp;yj dk;nu	10
 佛美尼症候群	fo;rf mz;dy ni;ub vg;bv hb;ru qp;yj	10
 佛诺斯特战役	fo;rf no;yr si;jq te;ns vj;gv yi;xu	10
 佛山高速公路	fo;rf uj;aa gk;wk su;zu gs;sb lu;zg	10
@@ -104556,7 +104050,6 @@ sort: by_weight
 告别千篇一律	gk;kn bx;dl qm;pa pm;vb yi;aa lv;xy	10
 高波级护卫舰	gk;wk bo;dp ji;sj hu;fh wz;ga jm;vj	10
 高不成低不就	gk;wk bu;ad ig;gg di;rd bu;ad jq;yj	10
-高埗大桥旧址	gk;wk bu;tb da;ad qc;mq jq;ao vi;tv	10
 搞不清楚状况	gk;fg bu;ad qy;dq iu;mp vd;qp kd;dx	10
 高层人事变动	gk;wk cg;uy rf;pd ui;aa bm;wy ds;ly	10
 高昌古城遗址	gk;wk ih;oo gu;uk ig;ti yi;zg vi;tv	10
@@ -105113,7 +104606,6 @@ sort: by_weight
 个个身怀绝技	ge;ra ge;ra uf;pp hy;xb jt;ss ji;fv	10
 各个职能部门	ge;wk ge;ra vi;ev ng;sb bu;ek mf;dg	10
 葛根定眩胶嚢	ge;ch gf;mg dy;bp xr;ox jc;oj nh;ay	10
-葛根加半夏汤	ge;ch gf;mg jw;lk bj;bf xw;wz th;dy	10
 葛根素葡萄糖	ge;ch gf;mg su;sf pu;cp tk;ct th;mt	10
 个股跌多涨少	ge;ra gu;ou dx;zu do;xx vh;dv uk;xp	10
 各国保守主义	ge;wk go;ky bk;rd ub;bc vu;dw yi;id	10
@@ -105278,7 +104770,6 @@ sort: by_weight
 个人自付比例	ge;ra rf;pd zi;pa fu;rc bi;bb li;rl	10
 个人自愿安排	ge;ra rf;pd zi;pa yr;xy an;bn pl;ff	10
 格瑞那达条约	ge;mg rv;we na;el da;zd tc;wm yt;su	10
-格瑞那丁群岛	ge;mg rv;we na;el dy;aa qp;yj dk;nu	10
 格塞二氏定律	ge;mg sl;tb er;aa ui;pg dy;bp lv;xy	10
 葛饰北斋作品	ge;ch ui;uj bz;ag vl;we zo;rv pn;kk	10
 歌诗达迷人号	ge;qg ui;ys da;zd mi;zm rf;pd hk;kk	10
@@ -105675,7 +105166,6 @@ sort: by_weight
 宫本亚莉安娜	gs;bl bf;aa ya;ay li;cl an;bn na;nn	10
 共变异数函数	gs;cb bm;wy yi;cs uu;wl hj;lk uu;wl	10
 共变异数矩阵	gs;cb bm;wy yi;cs uu;wl ju;uj vf;ei	10
-攻表宜桂枝汤	gs;wg bc;fy yi;bq gv;mg vi;mv th;dy	10
 工部局宰牲场	gs;aa bu;ek ju;uk zl;bx ug;nu ih;ty	10
 弓长月月鸟宇	gs;vg ih;pd yt;pa yt;pa nc;pa yu;by	10
 功臣馆总纂官	gs;lg if;aa gr;ug zs;xk zr;vs gr;bg	10
@@ -106471,7 +105961,6 @@ sort: by_weight
 挂牛头卖马肉	gw;fg nq;pa tb;dd ml;um ma;aa rb;ad	10
 挂牌督办案件	gw;fg pl;pb du;ou bj;lb an;ma jm;rn	10
 寡王一路硕博	gw;bf wh;aa yi;aa lu;zg uo;uy bo;uc	10
-瓜亚内科群岛	gw;pd ya;ay nz;ad ke;hd qp;yj dk;nu	10
 挂羊头卖狗肉	gw;fg yh;da tb;dd ml;um gb;qj rb;ad	10
 怪盗与名侦探	gy;xu dk;mc yu;aa my;xk vf;rv tj;fm	10
 怪怪怪的妻子	gy;xu gy;xu gy;xu de;bu qi;na zi;aa	10
@@ -106934,7 +106423,6 @@ sort: by_weight
 光战队覆面人	gd;ea vj;gv dv;er fu;xf mm;aa rf;pd	10
 广湛高速公路	gd;dp vj;du gk;wk su;zu gs;sb lu;zg	10
 广肇高速公路	gd;dp vk;yw gk;wk su;zu gs;sb lu;zg	10
-广肇公所旧址	gd;dp vk;yw gs;sb so;hj jq;ao vi;tv	10
 光致变色现象	gd;ea vi;wv bm;wy se;db xm;wj xd;du	10
 广州北车辆段	gd;dp vb;id bz;ag ie;aa ld;il dr;ud	10
 广州从化街口	gd;dp vb;id cs;rr hw;rb jx;xg kb;aa	10
@@ -106950,7 +106438,6 @@ sort: by_weight
 广州高速公路	gd;dp vb;id gk;wk su;zu gs;sb lu;zg	10
 广州歌剧院站	gd;dp vb;id ge;qg ju;dj yr;ew vj;lv	10
 广州公交车夜	gd;dp vb;id gs;sb jc;li ie;aa ye;wd	10
-广州公社旧址	gd;dp vb;id gs;sb ue;ut jq;ao vi;tv	10
 广州广船国际	gd;dp vb;id gd;dp ir;vk go;ky ji;eu	10
 广州海事法院	gd;dp vb;id hl;dm ui;aa fa;dq yr;ew	10
 广州号驱逐舰	gd;dp vb;id hk;kk qu;mq vu;zu jm;vj	10
@@ -107088,11 +106575,6 @@ sort: by_weight
 贵在持之以恒	gv;ba zl;ut ii;fs vi;dd yi;rd hg;xg	10
 规则功利主义	gv;fj ze;bd gs;lg li;hd vu;dw yi;id	10
 规则简单易懂	gv;fj ze;bd jm;vj dj;ba yi;ow ds;xd	10
-桂枝加当归汤	gv;mg vi;mv jw;lk dh;xx gv;ax th;dy	10
-桂枝加附子汤	gv;mg vi;mv jw;lk fu;ef zi;aa th;dy	10
-桂枝加葛根汤	gv;mg vi;mv jw;lk ge;ch gf;mg th;dy	10
-桂枝加归芍汤	gv;mg vi;mv jw;lk gv;ax uk;cu th;dy	10
-桂枝加黄芪汤	gv;mg vi;mv jw;lk hd;cb qi;cu th;dy	10
 贵州布政使司	gv;ba vb;id bu;ju vg;wv ui;rl si;gk	10
 贵胄法政学堂	gv;ba vb;oy fa;dq vg;wv xt;zb th;tk	10
 贵州高速公路	gv;ba vb;id gk;wk su;zu gs;sb lu;zg	10
@@ -108304,7 +107786,6 @@ sort: by_weight
 赫布二氏反射	he;ii bu;ju er;aa ui;pg fj;py ue;cu	10
 喝不尽杯中酒	he;kh bu;ad jn;id bz;mb vs;aa jq;dy	10
 核不扩散条约	he;mh bu;ad ko;fg sj;wo tc;wm yt;su	10
-赫布里底群岛	he;ii bu;ju li;aa di;gd qp;yj dk;nu	10
 和差化积公式	he;hk ia;yg hw;rb ji;hv gs;sb ui;gy	10
 合成材料地基	he;rk ig;gg cl;mc lc;md di;ty ji;tq	10
 合成雌激素类	he;rk ig;gg ci;vc ji;dj su;sf lz;md	10
@@ -108519,7 +108000,6 @@ sort: by_weight
 荷属福尔摩莎	he;ch uu;uy fu;uf er;dx mo;um ua;cu	10
 荷属黄金海岸	he;ch uu;uy hd;cb jn;ra hl;dm an;ug	10
 荷属库拉索岛	he;ch uu;uy ku;gi la;fl so;sb dk;nu	10
-荷属南洋群岛	he;ch uu;uy nj;ua yh;dy qp;yj dk;nu	10
 荷属圣马丁人	he;ch uu;uy ug;ty ma;aa dy;aa rf;pd	10
 荷属新几内亚	he;ch uu;uy xn;jq ji;py nz;ad ya;ay	10
 河水不犯井水	he;dk uv;ad bu;ad fj;qe jy;aa uv;ad	10
@@ -108723,7 +108203,6 @@ sort: by_weight
 黑鲨游戏手机	hz;ha ua;yu yb;dz xi;yg ub;pa ji;mj	10
 黑神话之悟空	hz;ha uf;uu hw;yu vi;dd wu;xw ks;xg	10
 黑绳天谴明王	hz;ha ug;sd tm;ad qm;yq my;oo wh;aa	10
-黑氏饭店旧址	hz;ha ui;pg fj;uf dm;gv jq;ao vi;tv	10
 黑斯廷斯算法	hz;ha si;jq ty;zr si;jq sr;vc fa;dq	10
 黑斯廷斯战役	hz;ha si;jq ty;zr si;jq vj;gv yi;xu	10
 黑塔利亚角色	hz;ha ta;td li;hd ya;ay jt;dy se;db	10
@@ -109050,7 +108529,6 @@ sort: by_weight
 红与黑的碰撞	hs;sg yu;aa hz;ha de;bu pg;ub vd;ft	12
 红云红河集团	hs;sg yp;es hs;sg he;dk ji;vm tr;kc	10
 红云红河烟草	hs;sg yp;es hs;sg he;dk yj;hy ck;cz	10
-红枣黑木耳汤	hs;sg zk;cd hz;ha mu;ad er;aa th;dy	10
 轰炸格尔尼卡	hs;iu va;hv ge;mg er;dx ni;ub ka;ub	10
 弘政夫人陈氏	hs;gs vg;wv fu;ad rf;pd if;ed ui;pg	10
 宏正自动科技	hs;bh vg;av zi;pa ds;ly ke;hd ji;fv	10
@@ -110747,7 +110225,6 @@ sort: by_weight
 既对立又统一	ji;gg dv;cy li;da yb;vd ts;si yi;aa	10
 及多种矿物质	ji;nd do;xx vs;hv kd;ug wu;nw vi;bu	10
 吉尔伯特法则	ji;ku er;dx bo;rb te;ns fa;dq ze;bd	10
-吉尔伯特群岛	ji;ku er;dx bo;rb te;ns qp;yj dk;nu	10
 基尔霍夫定理	ji;tq er;dx ho;yv fu;ad dy;bp li;wl	10
 基尔霍夫定律	ji;tq er;dx ho;yv fu;ad dy;bp lv;xy	10
 基尔霍夫公式	ji;tq er;dx ho;yv fu;ad gs;sb ui;gy	10
@@ -110959,7 +110436,6 @@ sort: by_weight
 即刻风团试验	ji;eg ke;dh fg;ji tr;kc ui;yu yj;ma	10
 即可关火出锅	ji;eg ke;dk gr;qd ho;dd iu;aa go;jg	10
 急客户之所急	ji;xi ke;bg hu;dp vi;dd so;hj ji;xi	10
-基克拉迪群岛	ji;tq ke;eg la;fl di;zy qp;yj dk;nu	10
 疾控中心领导	ji;bu ks;fk vs;aa xn;dd ly;yl dk;cs	10
 疾控中心主任	ji;bu ks;fk vs;aa xn;dd vu;dw rf;rr	10
 疾控中心专家	ji;bu ks;fk vs;aa xn;dd vr;ad jw;bu	10
@@ -111570,13 +111046,7 @@ sort: by_weight
 甲甲黑心医院	jw;aa jw;aa hz;ha xn;dd yi;ku yr;ew	10
 嘉佳卡通卫视	jw;uj jw;rg ka;ub ts;zy wz;ga ui;ju	10
 嘉佳少儿频道	jw;uj jw;rg uk;xp er;pg pn;yb dk;zu	10
-加减大柴胡汤	jw;lk jm;dx da;ad il;mc hu;og th;dy	10
-加减大建中汤	jw;lk jm;dx da;ad jm;zy vs;aa th;dy	10
 加减当归饮子	jw;lk jm;dx dh;xx gv;ax yn;uq zi;aa	10
-加减木防己汤	jw;lk jm;dx mu;ad fh;ef ji;ag th;dy	10
-加减生地黄汤	jw;lk jm;dx ug;na di;ty hd;cb th;dy	10
-加减四君子汤	jw;lk jm;dx si;aa jp;ky zi;aa th;dy	10
-加减小柴胡汤	jw;lk jm;dx xc;ad il;mc hu;og th;dy	10
 甲教太上长老	jw;aa jc;wx tl;dd uh;aa vh;pd lk;lb	10
 假结核鼠疫菌	jw;rj jx;sj he;mh uu;ju yi;bu jp;ch	10
 嫁接了非规格	jw;nj jx;fq le;aa fz;aa gv;fj ge;mg	10
@@ -111614,10 +111084,8 @@ sort: by_weight
 架空输电线路	jw;mj ks;xg uu;iy dm;ag xm;sj lu;zg	10
 加快高速公路	jw;lk ky;xd gk;wk su;zu gs;sb lu;zg	10
 加快推进油气	jw;lk ky;xd tv;fv jn;zj yb;dy qi;py	10
-加拉巴哥群岛	jw;lk la;fl ba;ag ge;kd qp;yj dk;nu	10
 加拉帕戈斯化	jw;lk la;fl pa;jb ge;ad si;jq hw;rb	10
 加勒比海鸟类	jw;lk le;lg bi;bb hl;dm nc;pa lz;md	10
-加勒比海群岛	jw;lk le;lg bi;bb hl;dm qp;yj dk;nu	10
 加勒比海洋流	jw;lk le;lg bi;bb hl;dm yh;dy lq;di	10
 嫁了个好老公	jw;nj le;aa ge;ra hk;nz lk;lb gs;sb	10
 嫁了个有钱人	jw;nj le;aa ge;ra yb;ou qm;jj rf;pd	10
@@ -111676,7 +111144,6 @@ sort: by_weight
 假面骑士响鬼	jw;rj mm;aa qi;mq ui;aa xd;kx gv;pd	10
 假面骑士斩月	jw;rj mm;aa qi;mq ui;aa vj;ji yt;pa	10
 佳明集团控股	jw;rg my;oo ji;vm tr;kc ks;fk gu;ou	10
-加那利亚群岛	jw;lk na;el li;hd ya;ay qp;yj dk;nu	10
 甲南大学教师	jw;aa nj;ua da;ad xt;zb jc;wx ui;ab	10
 甲南大学校友	jw;aa nj;ua da;ad xt;zb xc;mj yb;yu	10
 佳南实验农场	jw;rg nj;ua ui;bt yj;ma ns;by ih;ty	10
@@ -111822,12 +111289,8 @@ sort: by_weight
 加托可微算子	jw;lk to;fq ke;dk wz;xw sr;vc zi;aa	10
 甲烷化换热器	jw;aa wj;hw hw;rb hr;fh re;hv qi;kk	12
 加味八珍益母	jw;lk wz;kw ba;pd vf;wp yi;mb mu;vd	10
-加味白头翁汤	jw;lk wz;kw bl;pa tb;dd wg;yg th;dy	10
 加味龟龄集酒	jw;lk wz;kw gv;dd ly;il ji;vm jq;dy	10
 加味藿香正气	jw;lk wz;kw ho;ch xd;ho vg;av qi;py	10
-加味六君子汤	jw;lk wz;kw lq;wb jp;ky zi;aa th;dy	10
-加味四君子汤	jw;lk wz;kw si;aa jp;ky zi;aa th;dy	10
-加味小柴胡汤	jw;lk wz;kw xc;ad il;mc hu;og th;dy	10
 甲午农民起义	jw;aa wu;ru ns;by mn;ag qi;zj yi;id	10
 甲午农民战争	jw;aa wu;ru ns;by mn;ag vj;gv vg;dy	10
 甲午平壤之战	jw;aa wu;ru py;aa rh;tx vi;dd vj;gv	10
@@ -112496,7 +111959,6 @@ sort: by_weight
 江珠高速公路	jd;dg vu;wv gk;wk su;zu gs;sb lu;zg	10
 讲自己的故事	jd;yj zi;pa ji;ag de;bu gu;wg ui;aa	10
 江孜宗山古堡	jd;dg zi;wz zs;bu uj;aa gu;uk bk;tb	10
-胶澳海关旧址	jc;oj ao;da hl;dm gr;qd jq;ao vi;tv	10
 胶澳商埠督办	jc;oj ao;da uh;wk bu;tf du;ou bj;lb	10
 骄傲使人落后	jc;mq ao;ra ui;rl rf;pd lo;cl hb;pk	10
 胶澳租借条约	jc;oj ao;da zu;hq jx;rx tc;wm yt;su	10
@@ -112584,7 +112046,6 @@ sort: by_weight
 缴纳五险一金	jc;sj na;sn wu;aa xm;ea yi;aa jn;ra	10
 角平分线定理	jc;dy py;aa ff;bd xm;sj dy;bp li;wl	10
 脚气脚汗脚臭	jc;oq qi;py jc;oq hj;dg jc;oq ib;zq	10
-脚气宜风引汤	jc;oq qi;py yi;bq fg;ji yn;ga th;dy	10
 叫人家小甜甜	jc;kj rf;pd jw;bu xc;ad tm;ug tm;ug	10
 角人民币硬币	jc;dy rf;pd mn;ag bi;pj yy;ug bi;pj	10
 胶乳凝集试验	jc;oj ru;gf ny;dy ji;vm ui;yu yj;ma	10
@@ -112835,7 +112296,6 @@ sort: by_weight
 解放军烈士庙	jx;jn fh;wf jp;bi lx;hl ui;aa mc;gy	10
 解放军四总部	jx;jn fh;wf jp;bi si;aa zs;xk bu;ek	10
 解放奴隶宣言	jx;jn fh;wf nu;ny li;ad xr;bg yj;wk	10
-解放万山群岛	jx;jn fh;wf wj;ag uj;aa qp;yj dk;nu	10
 解放一江山岛	jx;jn fh;wf yi;aa jd;dg uj;aa dk;nu	10
 解放战争纪念	jx;jn fh;wf vj;gv vg;dy ji;sj nm;xj	10
 杰斐缅柯方程	jx;hm fz;wf mm;sm ke;mk fh;wd ig;hi	10
@@ -115268,7 +114728,6 @@ sort: by_weight
 科德十二定律	ke;hd de;xx ui;aa er;aa dy;bp lv;xy	10
 可得性捷思法	ke;dk de;xc xy;xu jx;fj si;xt fa;dq	10
 科迪勒拉山脉	ke;hd di;zy le;lg la;fl uj;aa ml;oy	10
-科迪亚克群岛	ke;hd di;zy ya;ay ke;eg qp;yj dk;nu	10
 科蒂耶亚山脉	ke;hd di;cd ye;ee ya;ay uj;aa ml;oy	10
 可对角化矩阵	ke;dk dv;cy jc;dy hw;rb ju;uj vf;ei	10
 科恩氏假鳃鳉	ke;hd en;xy ui;pg jw;rj sl;ys jd;yj	10
@@ -115442,10 +114901,7 @@ sort: by_weight
 克罗扎矫治器	ke;eg lo;sx va;fg jc;uq vi;dt qi;kk	10
 克吕二氏杆菌	ke;eg lv;kk er;aa ui;pg gj;mg jp;ch	10
 科律克索战役	ke;hd lv;xy ke;eg so;sb vj;gv yi;xu	10
-克马德克群岛	ke;eg ma;aa de;xx ke;eg qp;yj dk;nu	10
-科玛狄克群岛	ke;hd ma;wm di;qh ke;eg qp;yj dk;nu	10
 科马罗夫战役	ke;hd ma;aa lo;sx fu;ad vj;gv yi;xu	10
-科曼多尔群岛	ke;hd mj;oy do;xx er;dx qp;yj dk;nu	10
 克霉唑癣药水	ke;eg mz;ym zo;kz xr;bx yk;cy uv;ad	10
 可米国际影视	ke;dk mi;dd go;ky ji;eu yy;pj ui;ju	10
 克默氏持针钳	ke;eg mo;hq ui;pg ii;fs vf;ju qm;jg	10
@@ -115480,7 +114936,6 @@ sort: by_weight
 科热夫尼科夫	ke;hd re;hv fu;ad ni;ub ke;hd fu;ad	10
 可溶性复合物	ke;dk rs;dr xy;xu fu;wo he;rk wu;nw	10
 科锐信达公司	ke;hd rv;jd xn;ry da;zd gs;sb si;gk	10
-科萨科夫群岛	ke;hd sa;ci ke;hd fu;ad qp;yj dk;nu	10
 科萨拉朱算法	ke;hd sa;ci la;fl vu;pw sr;vc fa;dq	10
 柯萨奇病毒性	ke;mk sa;ci qi;dk by;bb du;fm xy;xu	10
 珂赛特的肖像	ke;wk sl;bb te;ns de;bu xc;xo xd;rx	10
@@ -116111,7 +115566,6 @@ sort: by_weight
 垃圾桶里捡来	la;tl ji;tj ts;my li;aa jm;fq ll;am	10
 垃圾源头减量	la;tl ji;tj yr;dy tb;dd jm;dx ld;ol	10
 拉加代尔集团	la;fl jw;lk dl;ry er;dx ji;vm tr;kc	10
-拉科维策群岛	la;fl ke;hd wz;sv ce;vc qp;yj dk;nu	10
 拉罗东加条约	la;fl lo;sx ds;ad jw;lk tc;wm yt;su	10
 拉罗二氏因子	la;fl lo;sx er;aa ui;pg yn;kd zi;aa	10
 拉马努金常数	la;fl ma;aa nu;ln jn;ra ih;jk uu;wl	10
@@ -117970,7 +117424,6 @@ sort: by_weight
 路氹连贯公路	lu;zg dh;uy lm;zi gr;bm gs;sb lu;zg	10
 鹿岛建设公司	lu;gb dk;nu jm;zy ue;yu gs;sb si;gk	10
 鹿岛鹿角球员	lu;gb dk;nu lu;gb jc;dy qq;wq yr;kb	10
-路德公寓旧址	lu;zg de;xx gs;sb yu;by jq;ao vi;tv	10
 路德维希绞痛	lu;zg de;xx wz;sv xi;ib jc;sj ts;by	10
 路等基础设施	lu;zg dg;vs ji;tq iu;ui ue;yu ui;fy	10
 路邓葡萄球菌	lu;zg dg;ey pu;cp tk;ct qq;wq jp;ch	10
@@ -118177,7 +117630,6 @@ sort: by_weight
 罗浮山百草油	lo;sx fu;df uj;aa bl;ab ck;cz yb;dy	10
 螺杆式压缩机	lo;il gj;mg ui;gy ya;id so;ss ji;mj	12
 骆岗国际机场	lo;mg gh;ug go;ky ji;eu ji;mj ih;ty	10
-罗汉果柿饼汤	lo;sx hj;dy go;tm ui;mu by;ub th;dy	10
 漯河高速公路	lo;dl he;dk gk;wk su;zu gs;sb lu;zg	10
 络合交织性能	lo;sg he;rk jc;li vi;sv xy;xu ng;sb	10
 落合南长崎站	lo;cl he;rk nj;ua ih;pd qi;uq vj;lv	10
@@ -118236,7 +117688,6 @@ sort: by_weight
 洛伦兹协变性	lo;dg lp;rl zi;qy xx;ub bm;wy xy;xu	10
 罗马号铁甲舰	lo;sx ma;aa hk;kk tx;ju jw;aa jm;vj	10
 罗马级铁甲舰	lo;sx ma;aa ji;sj tx;ju jw;aa jm;vj	10
-洛迈维蒂群岛	lo;dg ml;zw wz;sv di;cd qp;yj dk;nu	10
 罗曼斯基染料	lo;sx mj;oy si;jq ji;tq rj;mg lc;md	10
 罗讷阿尔卑斯	lo;sx ne;yn aa;ek er;dx bz;pa si;jq	10
 罗宁高速公路	lo;sx ny;bd gk;wk su;zu gs;sb lu;zg	10
@@ -118348,7 +117799,6 @@ sort: by_weight
 律师执业准入	lv;xy ui;ab vi;fw ye;aa vp;dv ru;pd	10
 滤水池干损纸	lv;dl uv;ad ii;dy gj;aa sp;fy vi;su	10
 旅顺工科大学	lv;fp up;yi gs;aa ke;hd da;ad xt;zb	10
-旅顺监狱旧址	lv;fp up;yi jm;mv yu;qq jq;ao vi;tv	10
 吕宋助左卫门	lv;kk ss;bm vu;lq zo;ug wz;ga mf;dg	10
 驴头不对马嘴	lv;mh tb;dd bu;ad dv;cy ma;aa zv;kj	10
 绿湾包装工队	lv;sl wj;dw bk;gs vd;yv gs;aa dv;er	10
@@ -118421,7 +117871,6 @@ sort: by_weight
 马丁对偶边界	ma;aa dy;aa dv;cy ou;ry bm;zl jx;tj	10
 马丁加西亚岛	ma;aa dy;aa jw;lk xi;aa ya;ay dk;nu	10
 马丁尼斯主义	ma;aa dy;aa ni;ub si;jq vu;dw yi;id	10
-马尔代夫群岛	ma;aa er;dx dl;ry fu;ad qp;yj dk;nu	10
 马尔可夫半群	ma;aa er;dx ke;dk fu;ad bj;bf qp;yj	10
 马尔可夫变换	ma;aa er;dx ke;dk fu;ad bm;wy hr;fh	10
 马尔可夫测度	ma;aa er;dx ke;dk fu;ad ce;dz do;gy	10
@@ -118439,7 +117888,6 @@ sort: by_weight
 马尔尼菲青霉	ma;aa er;dx ni;ub fz;cf qy;of mz;ym	10
 马尔萨斯模型	ma;aa er;dx sa;ci si;jq mo;mm xy;tx	10
 马尔塔十字管	ma;aa er;dx ta;td ui;aa zi;bz gr;vg	10
-马尔维纳群岛	ma;aa er;dx wz;sv na;sn qp;yj dk;nu	10
 玛法达的世界	ma;wm fa;dq da;zd de;bu ui;ca jx;tj	10
 吗啡甲溴化物	ma;km fz;kf jw;aa xq;di hw;rb wu;nw	10
 吗啡检测试剂	ma;km fz;kf jm;ma ce;dz ui;yu ji;dq	10
@@ -118484,7 +117932,6 @@ sort: by_weight
 玛利欧与路易	ma;wm li;hd ou;qq yu;aa lu;zg yi;ow	10
 玛莉亚的凝望	ma;wm li;cl ya;ay de;bu ny;dy wh;wo	10
 马里亚纳海沟	ma;aa li;aa ya;ay na;sn hl;dm gb;dg	10
-马里亚那群岛	ma;aa li;aa ya;ay na;el qp;yj dk;nu	10
 马六甲宝山亭	ma;aa lq;wb jw;aa bk;by uj;aa ty;wd	10
 马六甲联球员	ma;aa lq;wb jw;aa lm;eg qq;wq yr;kb	10
 马六甲香林寺	ma;aa lq;wb jw;aa xd;ho ln;mm si;ct	10
@@ -118496,8 +117943,6 @@ sort: by_weight
 妈妈包的饺子	ma;nm ma;nm bk;gs de;bu jc;uj zi;aa	10
 妈妈觉得你冷	ma;nm ma;nm jt;jb de;xc ni;re lg;dl	10
 妈妈您辛苦了	ma;nm ma;nm nn;xn xn;lu ku;cg le;aa	10
-马马努卡群岛	ma;aa ma;aa nu;ln ka;ub qp;yj dk;nu	10
-马马努萨群岛	ma;aa ma;aa nu;ln sa;ci qp;yj dk;nu	10
 妈妈是个美人	ma;nm ma;nm ui;op ge;ra mz;dy rf;pd	10
 妈咪的男朋友	ma;nm mi;km de;bu nj;tl pg;oo yb;yu	10
 妈咪们的心机	ma;nm mi;km mf;rm de;bu xn;dd ji;mj	10
@@ -118522,7 +117967,6 @@ sort: by_weight
 马氏体不锈钢	ma;aa ui;pg ti;rb bu;ad xq;jx gh;jg	10
 马斯垂克条约	ma;aa si;jq iv;pa ke;eg tc;wm yt;su	10
 马斯垂特条约	ma;aa si;jq iv;pa te;ns tc;wm yt;su	10
-马斯克林群岛	ma;aa si;jq ke;eg ln;mm qp;yj dk;nu	10
 马塔基托战役	ma;aa ta;td ji;tq to;fq vj;gv yi;xu	10
 马太效应加剧	ma;aa tl;dd xc;wj yy;ga jw;lk ju;dj	10
 玛特妮斐鲁丽	ma;wm te;ns ni;nn fz;wf lu;yo li;ad	10
@@ -118621,7 +118065,6 @@ sort: by_weight
 埋下一颗种子	ml;tl xw;ab yi;aa ke;yg vs;hv zi;aa	10
 迈向全面小康	ml;zw xd;pk qr;rw mm;aa xc;ad kh;gl	10
 脉虚弱细微者	ml;oy xu;hy ro;gd xi;st wz;xw ve;ol	10
-麦芽浸膏肉汤	ml;fw ya;cy jn;dy gk;og rb;ad th;dy	10
 卖耶稣的犹大	ml;um ye;ee su;yh de;bu yb;qy da;ad	10
 买一层送一层	ml;at yi;aa cg;uy ss;zg yi;aa cg;uy	10
 卖一套少一套	ml;um yi;aa tk;di uk;xp yi;aa tk;di	10
@@ -118856,7 +118299,6 @@ sort: by_weight
 煤电价格联动	mz;hm dm;ag jw;rj ge;mg lm;eg ds;ly	10
 梅毒抗体测定	mz;mm du;fm kh;fk ti;rb ce;dz dy;bp	10
 梅毒性黏膜斑	mz;mm du;fm xy;xu nm;hv mo;om bj;ww	10
-梅尔基奥群岛	mz;mm er;dx ji;tq ao;dm qp;yj dk;nu	10
 美法短暂冲突	mz;dy fa;dq dr;ud zj;ov is;dv tu;xq	10
 美发美容协会	mz;dy fa;ay mz;dy rs;bg xx;ub hv;ry	10
 没反应够速度	mz;du fj;py yy;ga gb;xj su;zu du;gy	10
@@ -119014,10 +118456,7 @@ sort: by_weight
 美食作家王刚	mz;dy ui;rl zo;rv jw;bu wh;aa gh;dg	10
 没收非法财物	mz;du ub;wj fz;aa fa;dq cl;bc wu;nw	10
 美属波多黎各	mz;dy uu;uy bo;dp do;xx li;hu ge;wk	10
-美属处女群岛	mz;dy uu;uy iu;wb nv;aa qp;yj dk;nu	10
-美属琉球群岛	mz;dy uu;uy lq;wi qq;wq qp;yj dk;nu	10
 美属台湾方案	mz;dy uu;uy tl;sk wj;dw fh;wd an;ma	10
-美属维京群岛	mz;dy uu;uy wz;sv jy;wx qp;yj dk;nu	10
 美术与设计类	mz;dy uu;md yu;aa ue;yu ji;yu lz;md	10
 酶水解干酪素	mz;ym uv;ad jx;jn gj;aa lk;yg su;sf	10
 美素佳儿奶粉	mz;dy su;sf jw;rg er;pg nl;nn ff;mf	10
@@ -119250,7 +118689,6 @@ sort: by_weight
 密库力阿弗它	mi;ub ku;gi li;gp aa;ek fu;aa ta;bb	10
 米勒抽样方法	mi;dd le;lg ib;fy yh;my fh;wd fa;dq	10
 米勒海顿琼脂	mi;dd le;lg hl;dm dp;yt qs;wj vi;ov	10
-米勒海顿肉汤	mi;dd le;lg hl;dm dp;yt rb;ad th;dy	10
 蜜炼川贝枇杷	mi;ib lm;hd ir;pa bz;ad pi;mb pa;mb	10
 幂零线性变换	mi;bj ly;yl xm;sj xy;xu bm;wy hr;fh	10
 迷路机能减退	mi;zm lu;zg ji;mj ng;sb jm;dx tv;zg	10
@@ -119420,7 +118858,6 @@ sort: by_weight
 民间木版年画	mn;ag jm;mo mu;ad bj;pf nm;ra hw;ak	10
 民间神话故事	mn;ag jm;mo uf;uu hw;yu gu;wg ui;aa	10
 民间手工艺品	mn;ag jm;mo ub;pa gs;aa yi;cy pn;kk	10
-民间瓦罐煨汤	mn;ag jm;mo wa;ad gr;fv wz;hw th;dy	10
 民进北京市委	mn;ag jn;zj bz;ag jy;wx ui;wj wz;hn	10
 民进上海市委	mn;ag jn;zj uh;aa hl;dm ui;wj wz;hn	10
 民警赶到现场	mn;ag jy;yj gj;zg dk;dv xm;wj ih;ty	10
@@ -120051,7 +119488,6 @@ sort: by_weight
 乃至无意识界	nl;pg vi;tv wu;ag yi;xy ui;yv jx;tj	10
 南阿拉伯半岛	nj;ua aa;ek la;fl bo;rb bj;bf dk;nu	10
 南澳大利亚州	nj;ua ao;da da;ad li;hd ya;ay vb;id	10
-南奥克尼群岛	nj;ua ao;dm ke;eg ni;ub qp;yj dk;nu	10
 南北高速公路	nj;ua bz;ag gk;wk su;zu gs;sb lu;zg	10
 难波八阪神社	nj;vy bo;dp ba;pd bj;ef uf;uu ue;ut	10
 男不男女不女	nj;tl bu;ad nj;tl nv;aa bu;ad nv;aa	10
@@ -120063,7 +119499,6 @@ sort: by_weight
 南邓高速公路	nj;ua dg;ey gk;wk su;zu gs;sb lu;zg	10
 楠迪国际机场	nj;mn di;zy go;ky ji;eu ji;mj ih;ty	10
 难点堵点卡点	nj;vy dm;hv du;tv dm;hv ka;ub dm;hv	10
-南丁格尔群岛	nj;ua dy;aa ge;mg er;dx qp;yj dk;nu	10
 难度可想而知	nj;vy du;gy ke;dk xd;xx er;aa vi;ku	10
 南方电力公司	nj;ua fh;wd dm;ag li;gp gs;sb si;gk	10
 南方集团军群	nj;ua fh;wd ji;vm tr;kc jp;bi qp;yj	10
@@ -120105,7 +119540,6 @@ sort: by_weight
 男朋友的手机	nj;tl pg;oo yb;yu de;bu ub;pa ji;mj	10
 男朋友的衣服	nj;tl pg;oo yb;yu de;bu yi;dd fu;oy	10
 男朋友或老公	nj;tl pg;oo yb;yu ho;gk lk;lb gs;sb	10
-南乔治亚群岛	nj;ua qc;ya vi;dt ya;ay qp;yj dk;nu	10
 男人不可以穷	nj;tl rf;pd bu;ad ke;dk yi;rd qs;xl	10
 男人当畜生用	nj;tl rf;pd dh;xx iu;tx ug;na ys;kf	10
 男人可以穿裙	nj;tl rf;pd ke;dk yi;rd ir;xy qp;yj	10
@@ -120115,17 +119549,13 @@ sort: by_weight
 男人沙文主义	nj;tl rf;pd ua;du wf;wi vu;dw yi;id	10
 男人至上主义	nj;tl rf;pd vi;tv uh;aa vu;dw yi;id	10
 难溶性化合物	nj;vy rs;dr xy;xu hw;rb he;rk wu;nw	12
-南三明治群岛	nj;ua sj;aa my;oo vi;dt qp;yj dk;nu	10
-南桑威奇群岛	nj;ua sh;mr wz;gn qi;dk qp;yj dk;nu	10
 南山文体中心	nj;ua uj;aa wf;wi ti;rb vs;aa xn;dd	10
-南设得兰群岛	nj;ua ue;yu de;xc lj;qe qp;yj dk;nu	10
 男生贾里全传	nj;tl ug;na jw;bx li;aa qr;rw vr;rv	10
 南石高速公路	nj;ua ui;kp gk;wk su;zu gs;sb lu;zg	10
 南石灰岩山脉	nj;ua ui;kp hv;hu yj;uu uj;aa ml;oy	10
 难受的不行了	nj;vy ub;vy de;bu bu;ad xy;xi le;aa	10
 南顺香港集团	nj;ua up;yi xd;ho gh;dx ji;vm tr;kc	10
 南斯剩余间隙	nj;ua si;jq ug;di yu;rb jm;mo xi;ex	10
-南太平洋群岛	nj;ua tl;dd py;aa yh;dy qp;yj dk;nu	10
 南坛高速公路	nj;ua tj;ty gk;wk su;zu gs;sb lu;zg	10
 难题迎刃而解	nj;vy ti;uy yy;ze rf;dd er;aa jx;jn	10
 难为无米之炊	nj;vy wz;dd wu;ag mi;dd vi;dd iv;hq	10
@@ -121190,7 +120620,6 @@ sort: by_weight
 帕卡赖马山脉	pa;jb ka;ub ll;uf ma;aa uj;aa ml;oy	10
 帕克利特西尔	pa;jb ke;eg li;hd te;ns xi;aa er;dx	10
 帕拉瓜纳半岛	pa;jb la;fl gw;pd na;sn bj;bf dk;nu	10
-帕拉塞尔群岛	pa;jb la;fl sl;tb er;dx qp;yj dk;nu	10
 怕老婆的男人	pa;xb lk;lb po;nb de;bu nj;tl rf;pd	10
 帕雷托最优性	pa;jb lz;yt to;fq zv;oq yb;ry xy;xu	10
 帕尼帕特战役	pa;jb ni;ub pa;jb te;ns vj;gv yi;xu	10
@@ -121466,8 +120895,6 @@ sort: by_weight
 批容许废品率	pi;fb rs;bg xu;yw fz;gf pn;kk lv;wu	10
 皮瑞雷斯地图	pi;ad rv;we lz;yt si;jq di;ty tu;kd	10
 毗湿奴的化身	pi;tb ui;dx nu;ny de;bu hw;rb uf;pp	10
-皮特开恩群岛	pi;ad te;ns kl;ac en;xy qp;yj dk;nu	10
-皮特凯恩群岛	pi;ad te;ns kl;jj en;xy qp;yj dk;nu	10
 批踢踢实业坊	pi;fb ti;zy ti;zy ui;bt ye;aa fh;tf	10
 皮碗式封隔器	pi;ad wj;uw ui;gy fg;cg ge;eg qi;kk	12
 脾为后天之本	pi;ob wz;dd hb;pk tm;ad vi;dd bf;aa	10
@@ -121486,7 +120913,6 @@ sort: by_weight
 皮质脊髓前束	pi;ad vi;bu ji;od sv;gs qm;qd uu;ad	10
 皮质素水试验	pi;ad vi;bu su;sf uv;ad ui;yu yj;ma	10
 皮质性白内障	pi;ad vi;bu xy;xu bl;pa nz;ad vh;ev	10
-皮竺凯恩群岛	pi;ad vu;ve kl;jj en;xy qp;yj dk;nu	10
 偏侧咀嚼习惯	pm;rb ce;rz ju;kq jt;kc xi;ga gr;xg	10
 偏侧肢体无力	pm;rb ce;rz vi;ov ti;rb wu;ag li;gp	10
 偏差的显著性	pm;rb ia;yg de;bu xm;oy vu;cv xy;xu	10
@@ -121622,7 +121048,6 @@ sort: by_weight
 平价医疗法案	py;aa jw;rj yi;ku lc;bl fa;dq an;ma	10
 平减物价指数	py;aa jm;dx wu;nw jw;rj vi;fv uu;wl	10
 平江历史街区	py;aa jd;dg li;il ui;ki jx;xg qu;ki	10
-平江起义旧址	py;aa jd;dg qi;zj yi;id jq;ao vi;tv	10
 平截头棱锥体	py;aa jx;gv tb;dd lg;ml vv;jv ti;rb	10
 平截头圆锥体	py;aa jx;gv tb;dd yr;ky vv;jv ti;rb	10
 凭借一人之力	py;jr jx;rx yi;aa rf;pd vi;dd li;gp	10
@@ -123053,7 +122478,6 @@ sort: by_weight
 青岛啤酒股份	qy;of dk;nu pi;kb jq;dy gu;ou ff;rf	10
 青岛前湾港区	qy;of dk;nu qm;qd wj;dw gh;dx qu;ki	10
 青岛人民会堂	qy;of dk;nu rf;pd mn;ag hv;ry th;tk	10
-青岛商会旧址	qy;of dk;nu uh;wk hv;ry jq;ao vi;tv	10
 青岛上市公司	qy;of dk;nu uh;aa ui;wj gs;sb si;gk	10
 青岛商业建筑	qy;of dk;nu uh;wk ye;aa jm;zy vu;vg	10
 青岛师范学校	qy;of dk;nu ui;ab fj;ce xt;zb xc;mj	10
@@ -123475,7 +122899,6 @@ sort: by_weight
 取宫内节育器	qu;ey gs;bl nz;ad jx;ce yu;os qi;kk	10
 区广播电视局	qu;ki gd;dp bo;ff dm;ag ui;ju ju;uk	10
 屈光发育档案	qu;ui gd;ea fa;ay yu;os dh;md an;ma	10
-去桂加白术汤	qu;ts gv;mg jw;lk bl;pa vu;md th;dy	10
 去过哪些地方	qu;ts go;zc na;kn xx;ec di;ty fh;wd	10
 区国土资源局	qu;ki go;ky tu;aa zi;bc yr;dy ju;uk	10
 去黑眼圈眼袋	qu;ts hz;ha yj;og qr;kj yj;og dl;yd	10
@@ -124880,7 +124303,6 @@ sort: by_weight
 入室抢劫杀人	ru;pd ui;bv qd;fc jx;lq ua;mi rf;pd	10
 如是降伏其心	ru;nk ui;op xd;ef fu;rq qi;ba xn;dd	10
 乳糖胆盐琼脂	ru;gf th;mt dj;od yj;mb qs;wj vi;ov	10
-乳糖胆盐肉汤	ru;gf th;mt dj;od yj;mb rb;ad th;dy	10
 乳糖阻遏蛋白	ru;gf th;mt zu;eq ee;zh dj;ip bl;pa	10
 如同大海捞针	ru;nk ts;kk da;ad hl;dm lk;fl vf;ju	10
 如同行尸走肉	ru;nk ts;kk xy;xi ui;ap zb;tv rb;ad	10
@@ -125372,7 +124794,6 @@ sort: by_weight
 厦沙高速公路	ua;ix ua;du gk;wk su;zu gs;sb lu;zg	10
 杀伤力的武器	ua;mi uh;rl li;gp de;bu wu;vy qi;kk	10
 厦深客运专线	ua;ix uf;dm ke;bg yp;zy vr;ad xm;sj	10
-沙参麦门冬汤	ua;du uf;sp ml;fw mf;dg ds;wd th;dy	10
 莎士比亚故居	ua;cu ui;aa bi;bb ya;ay gu;wg ju;ug	10
 莎士比亚花园	ua;cu ui;aa bi;bb ya;ay hw;ch yr;ky	10
 莎士比亚全集	ua;cu ui;aa bi;bb ya;ay qr;rw ji;vm	10
@@ -126093,7 +125514,6 @@ sort: by_weight
 设立合资公司	ue;yu li;da he;rk zi;bc gs;sb si;gk	10
 舍利科夫海峡	ue;ru li;hd ke;hd fu;ad hl;dm xw;uj	10
 设立自治机关	ue;yu li;da zi;pa vi;dt ji;mj gr;qd	10
-舍隆斯基群岛	ue;ru ls;eu si;jq ji;tq qp;yj dk;nu	10
 舍卢季基夫卡	ue;ru lu;bu ji;hz ji;tq fu;ad ka;ub	10
 蛇魔法师之皮	ue;it mo;gm fa;dq ui;ab vi;dd pi;ad	10
 蛇年大吉大利	ue;it nm;ra da;ad ji;ku da;ad li;hd	10
@@ -126577,14 +125997,12 @@ sort: by_weight
 声带其他疾患	ug;um dl;jb qi;ba ta;ry ji;bu hr;xi	10
 声的反常传播	ug;um de;bu fj;py ih;jk ir;rv bo;ff	10
 生第二个孩子	ug;na di;vp er;aa ge;ra hl;zh zi;aa	10
-生地黄黄连汤	ug;na di;ty hd;cb hd;cb lm;zi th;dy	10
 省地图出版社	ug;ou di;ty tu;kd iu;aa bj;pf ue;ut	10
 省地质测绘院	ug;ou di;ty vi;bu ce;dz hv;sh yr;ew	10
 声电子相互酌	ug;um dm;ag zi;aa xd;mo hu;aa vo;yu	10
 声东击西之计	ug;um ds;ad ji;fk xi;aa vi;dd ji;yu	10
 生而不可与死	ug;na er;aa bu;ad ke;dk yu;aa si;db	10
 省发展改革委	ug;ou fa;ay vj;uy gl;wj ge;ca wz;hn	10
-生附四君子汤	ug;na fu;ef si;aa jp;ky zi;aa th;dy	10
 省港旗兵系列	ug;ou gh;dx qi;fq by;qb xi;ps lx;dd	10
 盛高置地控股	ug;mi gk;wk vi;sv di;ty ks;fk gu;ou	10
 省公安厅厅长	ug;ou gs;sb an;bn ty;id ty;id vh;pd	10
@@ -127604,7 +127022,6 @@ sort: by_weight
 视觉效果更佳	ui;ju jt;jb xc;wj go;tm gg;ad jw;rg	10
 视觉诱发电位	ui;ju jt;jb yb;yx fa;ay dm;ag wz;rl	10
 式军用霰弹枪	ui;gy jp;bi ys;kf xm;ys dj;gd qd;mc	10
-史凯利杰群岛	ui;ki kl;jj li;hd jx;hm qp;yj dk;nu	10
 时刻保持清醒	ui;oc ke;dh bk;rd ii;fs qy;dq xy;yx	10
 时刻保持质疑	ui;oc ke;dh bk;rd ii;fs vi;bu yi;bp	10
 什科茨扬洞群	ui;ru ke;hd ci;cc yh;fy ds;dt qp;yj	10
@@ -128003,7 +127420,6 @@ sort: by_weight
 市属事业单位	ui;wj uu;uy ui;aa ye;aa dj;ba wz;rl	10
 嗜水气单胞菌	ui;ko uv;ad qi;py dj;ba bk;ob jp;ch	10
 市司法局局长	ui;wj si;gk fa;dq ju;uk ju;uk vh;pd	10
-师司令部旧址	ui;ab si;gk ly;rs bu;ek jq;ao vi;tv	10
 十四岁的母亲	ui;aa si;aa sv;ux de;bu mu;vd qn;lm	10
 世俗人文主义	ui;ca su;rg rf;pd wf;wi vu;dw yi;id	10
 世俗主义原则	ui;ca su;rg vu;dw yi;id yr;ix ze;bd	10
@@ -129623,7 +129039,6 @@ sort: by_weight
 饲料价格上涨	si;us lc;md jw;rj ge;mg uh;aa vh;dv	10
 饲料品质检验	si;us lc;md pn;kk vi;bu jm;ma yj;ma	10
 丝裂霉素冻干	si;aa lx;yl mz;ym su;sf ds;dd gj;aa	10
-四苓合芩芍汤	si;aa ly;cl he;rk qn;cj uk;cu th;dy	10
 死灵舞师地牢	si;db ly;hx wu;rf ui;ab di;ty lk;bn	10
 斯卢茨基定理	si;jq lu;bu ci;cc ji;tq dy;bp li;wl	10
 思路决定出路	si;xt lu;zg jt;dd dy;bp iu;aa lu;zg	10
@@ -129639,13 +129054,11 @@ sort: by_weight
 斯梅尔向量场	si;jq mz;mm er;dx xd;pk ld;ol ih;ty	10
 斯密特正交化	si;jq mi;ub te;ns vg;av jc;li hw;rb	10
 思妙文化传播	si;xt mc;nu wf;wi hw;rb ir;rv bo;ff	10
-四明公所旧址	si;aa my;oo gs;sb so;hj jq;ao vi;tv	10
 四明公所事件	si;aa my;oo gs;sb so;hj ui;aa jm;rn	10
 似魔鬼的步伐	si;ry mo;gm gv;pd de;bu bu;vx fa;rg	10
 斯摩棱斯克州	si;jq mo;um lg;ml si;jq ke;eg vb;id	10
 司母戊大方鼎	si;gk mu;vd wu;gp da;ad fh;wd dy;oa	10
 斯奈克玛公司	si;jq nl;du ke;eg ma;wm gs;sb si;gk	10
-四逆加人参汤	si;aa ni;zn jw;lk rf;pd uf;sp th;dy	10
 思念幻化成海	si;xt nm;xj hr;yg hw;rb ig;gg hl;dm	10
 四年级的孩子	si;aa nm;ra ji;sj de;bu hl;zh zi;aa	10
 思念食品控股	si;xt nm;xj ui;rl pn;kk ks;fk gu;ou	10
@@ -129726,8 +129139,6 @@ sort: by_weight
 斯托克斯现象	si;jq to;fq ke;eg si;jq xm;wj xd;du	10
 斯托克斯佯谬	si;jq to;fq ke;eg si;jq yh;ry mq;yl	10
 思拓通讯科技	si;xt to;fu ts;zy xp;yu ke;hd ji;fv	10
-斯瓦巴德群岛	si;jq wa;ad ba;ag de;xx qp;yj dk;nu	10
-斯瓦尔巴群岛	si;jq wa;ad er;dx ba;ag qp;yj dk;nu	10
 斯瓦尔巴条约	si;jq wa;ad er;dx ba;ag tc;wm yt;su	10
 死亡的原因是	si;db wh;da de;bu yr;ix yn;kd ui;op	10
 死亡和机器人	si;db wh;da he;hk ji;mj qi;kk rf;pd	10
@@ -129737,7 +129148,6 @@ sort: by_weight
 思维导图达人	si;xt wz;sv dk;cs tu;kd da;zd rf;pd	10
 四维电流密度	si;aa wz;sv dm;ag lq;di mi;ub du;gy	10
 四维电流矢量	si;aa wz;sv dm;ag lq;di ui;rd ld;ol	10
-四味光明盐汤	si;aa wz;kw gd;ea my;oo yj;mb th;dy	10
 四纹长角石蛾	si;aa wf;sw ih;pd jc;dy ui;kp ee;iw	10
 四五岁的孩子	si;aa wu;aa sv;ux de;bu hl;zh zi;aa	10
 死无葬身之地	si;db wu;ag zh;cc uf;pp vi;dd di;ty	10
@@ -130116,7 +129526,6 @@ sort: by_weight
 隼级导弹快艇	sp;vu ji;sj dk;cs dj;gd ky;xd ty;vt	10
 孙家渡同善桥	sp;zx jw;bu du;dd ts;kk uj;kq qc;mq	10
 孙加罗科查湖	sp;zx jw;lk lo;sx ke;hd ia;md hu;dh	10
-孙科公馆旧址	sp;zx ke;hd gs;sb gr;ug jq;ao vi;tv	10
 孙立人兵变案	sp;zx li;da rf;pd by;qb bm;wy an;ma	10
 孙庞斗志演义	sp;zx ph;gl db;du vi;xu yj;dy yi;id	10
 孙权据有江东	sp;zx qr;my ju;fj yb;ou jd;dg ds;ad	10
@@ -131216,7 +130625,6 @@ sort: by_weight
 天移动平均线	tm;ad yi;hd ds;ly py;aa jp;ty xm;sj	10
 天翼亚洲航空	tm;ad yi;yg ya;ay vb;dv hh;vk ks;xg	10
 天一影片公司	tm;ad yi;aa yy;pj pm;pa gs;sb si;gk	10
-天一总局旧址	tm;ad yi;aa zs;xk ju;uk jq;ao vi;tv	10
 天银机电股份	tm;ad yn;jg ji;mj dm;ag gu;ou ff;rf	10
 天鹰式攻击机	tm;ad yy;gn ui;gy gs;wg ji;fk ji;mj	10
 天有不测风雨	tm;ad yb;ou bu;ad ce;dz fg;ji yu;ad	10
@@ -131715,7 +131123,6 @@ sort: by_weight
 投资者的信心	tb;fu zi;bc ve;ol de;bu xn;ry xn;dd	10
 投资者的预期	tb;fu zi;bc ve;ol de;bu yu;yy qi;oq	10
 投资者的资金	tb;fu zi;bc ve;ol de;bu zi;bc jn;ra	10
-土阿莫土群岛	tu;aa aa;ek mo;cd tu;aa qp;yj dk;nu	10
 涂壁毛细管柱	tu;dy bi;tb mk;pg xi;st gr;vg vu;mv	12
 土鳖虫地鳖虫	tu;aa bx;yb is;ad di;ty bx;yb is;ad	10
 土鳖虫冀地鳖	tu;aa bx;yb is;ad ji;bg di;ty bx;yb	10
@@ -131780,7 +131187,6 @@ sort: by_weight
 途经公交线路	tu;zy jy;sg gs;sb jc;li xm;sj lu;zg	10
 土荆皮金钱松	tu;aa jy;dk pi;ad jn;ra qm;jj ss;mg	10
 图卡佩尔战役	tu;kd ka;ub pz;rb er;dx vj;gv yi;xu	10
-土克凯可群岛	tu;aa ke;eg kl;jj ke;dk qp;yj dk;nu	10
 土克曼却条约	tu;aa ke;eg mj;oy qt;eq tc;wm yt;su	10
 图科斯基方程	tu;kd ke;hd si;jq ji;tq fh;wd ig;hi	10
 图林机器理论	tu;kd ln;mm ji;mj qi;kk li;wl lp;yl	10
@@ -131971,7 +131377,6 @@ sort: by_weight
 脱水剂脱水剂	to;od uv;ad ji;dq to;od uv;ad ji;dq	10
 托斯卡纳大区	to;fq si;jq ka;ub na;sn da;ad qu;ki	10
 托斯卡纳公司	to;fq si;jq ka;ub na;sn gs;sb si;gk	10
-托斯卡纳群岛	to;fq si;jq ka;ub na;sn qp;yj dk;nu	10
 沱沱的风魔教	to;dt to;dt de;bu fg;ji mo;gm jc;wx	10
 拓维信息系统	to;fu wz;sv xn;ry xi;xz xi;ps ts;si	10
 拖线遇上鬼火	to;fy xm;sj yu;zy uh;aa gv;pd ho;dd	10
@@ -132684,7 +132089,6 @@ sort: by_weight
 伪等值线地图	wz;rw dg;vs vi;rv xm;sj di;ty tu;kd	10
 伪狄奥尼修斯	wz;rw di;qh ao;dm ni;ub xq;rp si;jq	10
 微点主动防御	wz;xw dm;hv vu;dw ds;ly fh;ef yu;xx	10
-蔚斗小学旧址	wz;cw db;du xc;ad xt;zb jq;ao vi;tv	10
 伪度量一致性	wz;rw du;gy ld;ol yi;aa vi;wv xy;xu	10
 唯独因信称义	wz;kv du;qi yn;kd xn;ry ig;he yi;id	10
 未锻烧高岭土	wz;ex dr;jd uk;hy gk;wk ly;ul tu;aa	10
@@ -132795,7 +132199,6 @@ sort: by_weight
 为何家会伤人	wz;dd he;rk jw;bu hv;ry uh;rl rf;pd	10
 胃和十二指肠	wz;ot he;hk ui;aa er;aa vi;fv ih;oy	10
 围护结构施工	wz;kw hu;fh jx;sj gb;mg ui;fy gs;aa	10
-渭华起义旧址	wz;dw hw;uh qi;zj yi;id jq;ao vi;tv	10
 卫缓则为中风	wz;ga hr;sy ze;bd wz;dd vs;aa fg;ji	10
 微辉绿岩状的	wz;xw hv;gj lv;sl yj;uu vd;qp de;bu	10
 微火煮服三升	wz;xw ho;dd vu;hv fu;oy sj;aa ug;pc	10
@@ -133202,7 +132605,6 @@ sort: by_weight
 稳居世界第一	wf;hj ju;ug ui;ca jx;tj di;vp yi;aa	10
 文科试验班类	wf;wi ke;hd ui;yu yj;ma bj;dw lz;md	10
 温丽高速公路	wf;dm li;ad gk;wk su;zu gs;sb lu;zg	10
-温里宜四逆汤	wf;dm li;aa yi;bq si;aa ni;zn th;dy	10
 吻两下打两枪	wf;kw ld;ad xw;ab da;fd ld;ad qd;mc	10
 温岭长屿硐天	wf;dm ly;ul ih;pd yu;uy ds;ut tm;ad	10
 闻名不如见面	wf;em my;xk bu;ad ru;nk jm;ag mm;aa	10
@@ -133850,7 +133252,6 @@ sort: by_weight
 无平方因子数	wu;ag py;aa fh;wd yn;kd zi;aa uu;wl	10
 伍珀塔尔大学	wu;rw po;wb ta;td er;dx da;ad xt;zb	10
 伍珀塔尔空铁	wu;rw po;wb ta;td er;dx ks;xg tx;ju	10
-五七干校旧址	wu;aa qi;ag gj;aa xc;mj jq;ao vi;tv	10
 吴起高级中学	wu;kt qi;zj gk;wk ji;sj vs;aa xt;zb	10
 吾妻岩永琴子	wu;kw qi;na yj;uu ys;dd qn;wj zi;aa	10
 吾妻之美我者	wu;kw qi;na vi;dd mz;dy wo;pd ve;ol	10
@@ -134228,7 +133629,6 @@ sort: by_weight
 无止境的杀人	wu;ag vi;aa jy;tj de;bu ua;mi rf;pd	10
 无止境的欲望	wu;ag vi;aa jy;tj de;bu yu;qg wh;wo	10
 物质决定意识	wu;nw vi;bu jt;dd dy;bp yi;xy ui;yv	10
-五指毛桃炖汤	wu;aa vi;fv mk;pg tk;mv dp;ht th;dy	10
 物质生产部门	wu;nw vi;bu ug;na ij;wi bu;ek mf;dg	10
 物质生产体系	wu;nw vi;bu ug;na ij;wi ti;rb xi;ps	10
 物质生活方面	wu;nw vi;bu ug;na ho;du fh;wd mm;aa	10
@@ -134304,7 +133704,6 @@ sort: by_weight
 西安清真大寺	xi;aa an;bn qy;dq vf;uj da;ad si;ct	10
 西安绕城高速	xi;aa an;bn rk;sy ig;ti gk;wk su;zu	10
 锡安社会主义	xi;jy an;bn ue;ut hv;ry vu;dw yi;id	10
-西安事变旧址	xi;aa an;bn ui;aa bm;wy jq;ao vi;tv	10
 西安师范学校	xi;aa an;bn ui;ab fj;ce xt;zb xc;mj	10
 西安师范学院	xi;aa an;bn ui;ab fj;ce xt;zb yr;ew	10
 西安石油大学	xi;aa an;bn ui;kp yb;dy da;ad xt;zb	10
@@ -134589,7 +133988,6 @@ sort: by_weight
 吸收无线电波	xi;kj ub;wj wu;ag xm;sj dm;ag bo;dp	10
 吸收性肺不张	xi;kj ub;wj xy;xu fz;of bu;ad vh;gi	10
 洗手液或肥皂	xi;dx ub;pa ye;dy ho;gk fz;ob zk;bq	10
-西属处女群岛	xi;aa uu;uy iu;wb nv;aa qp;yj dk;nu	10
 系数机械设计	xi;ps uu;wl ji;mj xx;mj ue;yu ji;yu	10
 洗水闭路循环	xi;dx uv;ad bi;mc lu;zg xp;xd hr;wb	10
 溪水清澈见底	xi;dx uv;ad qy;dq ie;dw jm;ag di;gd	10
@@ -135528,7 +134926,6 @@ sort: by_weight
 相容性的证明	xd;mo rs;bg xy;xu de;bu vg;yv my;oo	10
 相容性公理系	xd;mo rs;bg xy;xu gs;sb li;wl xi;ps	10
 镶入式支管嘴	xd;jx ru;pd ui;gy vi;uy gr;vg zv;kj	10
-香砂六君子汤	xd;ho ua;uu lq;wb jp;ky zi;aa th;dy	10
 香砂养胃乳剂	xd;ho ua;uu yh;ya wz;ot ru;gf ji;dq	10
 象山邨秀山楼	xd;du uj;aa cp;et xq;hn uj;aa lb;ml	10
 像山那样思考	xd;rx uj;aa na;el yh;my si;xt kk;lk	10
@@ -135786,7 +135183,6 @@ sort: by_weight
 晓红美甲美睫	xc;oy hs;sg mz;dy jw;aa mz;dy jx;oj	10
 小红胸黑翅萤	xc;ad hs;sg xs;ox hz;ha ii;yv yy;ci	10
 校后时距曲线	xc;mj hb;pk ui;oc ju;zj qu;aa xm;sj	12
-小画舫斋旧址	xc;ad hw;ak fh;vf vl;we jq;ao vi;tv	10
 硝化甘油火药	xc;ux hw;rb gj;ca yb;dy ho;dd yk;cy	10
 硝化甘油炸药	xc;ux hw;rb gj;ca yb;dy va;hv yk;cy	10
 硝化螺旋菌纲	xc;ux hw;rb lo;il xr;fp jp;ch gh;sg	10
@@ -136148,7 +135544,6 @@ sort: by_weight
 斜坡道开拓法	xx;dy po;tp dk;zu kl;ac to;fu fa;dq	10
 邪气内藏于心	xx;ey qi;py nz;ad ch;cz yu;aa xn;dd	10
 邪气侵入人体	xx;ey qi;py qn;ry ru;pd rf;pd ti;rb	10
-协日嘎四味汤	xx;ub ri;aa ga;kg si;aa wz;kw th;dy	10
 携瑞信息科技	xx;fj rv;we xn;ry xi;xz ke;hd ji;fv	10
 写上你的名字	xx;by uh;aa ni;re de;bu my;xk zi;bz	10
 协商一致原则	xx;ub uh;wk yi;aa vi;wv yr;ix ze;bd	10
@@ -137575,7 +136970,6 @@ sort: by_weight
 雅力留学专家	ya;vy li;gp lq;td xt;zb vr;ad jw;bu	10
 亚历山大地岛	ya;ay li;il uj;aa da;ad di;ty dk;nu	10
 亚历山大对偶	ya;ay li;il uj;aa da;ad dv;cy ou;ry	10
-亚历山大群岛	ya;ay li;il uj;aa da;ad qp;yj dk;nu	10
 亚历山大学派	ya;ay li;il uj;aa da;ad xt;zb pl;dp	10
 亚里士多德说	ya;ay li;aa ui;aa do;xx de;xx uo;yd	10
 压力式温度计	ya;id li;gp ui;gy wf;dm du;gy ji;yu	10
@@ -138322,7 +137716,6 @@ sort: by_weight
 扬州泰州机场	yh;fy vb;id tl;uf vb;id ji;mj ih;ty	10
 扬州唐城遗址	yh;fy vb;id th;gk ig;ti yi;zg vi;tv	10
 杨庄红色页岩	yh;my vd;gt hs;sg se;db ye;ab yj;uu	10
-扬子饭店旧址	yh;fy zi;aa fj;uf dm;gv jq;ao vi;tv	10
 阳字号驱逐舰	yh;eo zi;bz hk;kk qu;mq vu;zu jm;vj	10
 杨紫和张一山	yh;my zi;sc he;hk vh;gi yi;aa uj;aa	10
 扬子建业公司	yh;fy zi;aa jm;zy ye;aa gs;sb si;gk	10
@@ -138445,7 +137838,6 @@ sort: by_weight
 野分号驱逐舰	ye;ly ff;bd hk;kk qu;mq vu;zu jm;vj	10
 液分配色谱法	ye;dy ff;bd pz;yj se;db pu;yp fa;dq	10
 射干麻黄汤方	ye;cu gj;aa ma;gl hd;cb th;dy fh;wd	10
-射干鼠粘子汤	ye;cu gj;aa uu;ju vj;mv zi;aa th;dy	10
 叶戈罗夫定理	ye;ku ge;ad lo;sx fu;ad dy;bp li;wl	10
 液固吸附色谱	ye;dy gu;kg xi;kj fu;ef se;db pu;yp	10
 野花牌绿蜂胶	ye;ly hw;ch pl;pb lv;sl fg;if jc;oj	10
@@ -138579,8 +137971,6 @@ sort: by_weight
 义安理工学院	yi;id an;bn li;wl gs;aa xt;zb yr;ew	10
 已安装的程序	yi;vg an;bn vd;yv de;bu ig;hi xu;gy	10
 以昂扬的斗志	yi;rd ah;oe yh;fy de;bu db;du vi;xu	10
-伊奥利亚群岛	yi;ry ao;dm li;hd ya;ay qp;yj dk;nu	10
-伊奥尼亚群岛	yi;ry ao;dm ni;ub ya;ay qp;yj dk;nu	10
 伊奥尼亚学派	yi;ry ao;dm ni;ub ya;ay xt;zb pl;dp	10
 宜巴高速公路	yi;bq ba;ag gk;wk su;zu gs;sb lu;zg	10
 一八九五乙未	yi;aa ba;pd jq;py wu;aa yi;aa wz;ex	10
@@ -138772,7 +138162,6 @@ sort: by_weight
 一代宗师叶问	yi;aa dl;ry zs;bu ui;ab ye;ku wf;km	10
 胰蛋白酶消化	yi;oy dj;ip bl;pa mz;ym xc;dx hw;rb	10
 胰蛋白酶胰脏	yi;oy dj;ip bl;pa mz;ym yi;oy zh;ov	10
-胰蛋白示肉汤	yi;oy dj;ip bl;pa ui;ex rb;ad th;dy	10
 一箪食一瓢饮	yi;aa dj;vd ui;rl yi;aa pc;gp yn;uq	10
 异担子菌亚纲	yi;cs dj;fd zi;aa jp;ch ya;ay gh;sg	10
 以党建带队建	yi;rd dh;ek jm;zy dl;jb dv;er jm;zy	10
@@ -139166,7 +138555,6 @@ sort: by_weight
 一律予以没收	yi;aa lv;xy yu;sa yi;rd mo;du ub;wj	10
 一马发展公司	yi;aa ma;aa fa;ay vj;uy gs;sb si;gk	10
 益马高速公路	yi;mb ma;aa gk;wk su;zu gs;sb lu;zg	10
-宜麻黄附子汤	yi;bq ma;gl hd;cb fu;ef zi;aa th;dy	10
 乙麻目清真寺	yi;aa ma;gl mu;aa qy;dq vf;uj si;ct	10
 已卖出的宝贝	yi;vg ml;um iu;aa de;bu bk;by bz;ad	10
 已买到的宝贝	yi;vg ml;at dk;dv de;bu bk;by bz;ad	10
@@ -139174,7 +138562,6 @@ sort: by_weight
 一毛钱的关系	yi;aa mk;pg qm;jj de;bu gr;qd xi;ps	10
 乙茆中医诊所	yi;aa mk;cm vs;aa yi;ku vf;yp so;hj	10
 胰酶大豆琼脂	yi;oy mz;ym da;ad db;aa qs;wj vi;ov	10
-胰酶大豆肉汤	yi;oy mz;ym da;ad db;aa rb;ad th;dy	10
 沂蒙革命老区	yi;dj mg;cm ge;ca my;re lk;lb qu;ki	10
 以免耽误行程	yi;rd mm;de dj;eg wu;yw xy;xi ig;hi	10
 以免发生侧滑	yi;rd mm;de fa;ay ug;na ce;rz hw;dg	10
@@ -140271,8 +139658,6 @@ sort: by_weight
 应收账款回款	yy;ga ub;wj vh;bi kr;qu hv;kk kr;qu	10
 应收账款债权	yy;ga ub;wj vh;bi kr;qu vl;rz qr;my	10
 英属巴勒斯坦	yy;cy uu;uy ba;ag le;lg si;jq tj;td	10
-英属背风群岛	yy;cy uu;uy bz;ob fg;ji qp;yj dk;nu	10
-英属盖曼群岛	yy;cy uu;uy gl;my mj;oy qp;yj dk;nu	10
 英属哥伦比亚	yy;cy uu;uy ge;kd lp;rl bi;bb ya;ay	10
 英属哈德孙岛	yy;cy uu;uy ha;kh de;xx sp;zx dk;nu	10
 英属洪都拉斯	yy;cy uu;uy hs;dg du;ev la;fl si;jq	10
@@ -140281,8 +139666,6 @@ sort: by_weight
 英属塞拉利昂	yy;cy uu;uy sl;tb la;fl li;hd ah;oe	10
 英属赛普勒斯	yy;cy uu;uy sl;bb pu;ob le;lg si;jq	10
 英属塞浦路斯	yy;cy uu;uy sl;tb pu;df lu;zg si;jq	10
-英属维京群岛	yy;cy uu;uy wz;sv jy;wx qp;yj dk;nu	10
-英属向风群岛	yy;cy uu;uy xd;pk fg;ji qp;yj dk;nu	10
 英属香港旗帜	yy;cy uu;uy xd;ho gh;dx qi;fq vi;jv	10
 英属香港人物	yy;cy uu;uy xd;ho gh;dx rf;pd wu;nw	10
 英属香港水灾	yy;cy uu;uy xd;ho gh;dx uv;ad zl;bh	10
@@ -140496,7 +139879,6 @@ sort: by_weight
 勇士死亡五小	ys;ly ui;aa si;db wh;da wu;aa xc;ad	10
 勇士特种部队	ys;ly ui;aa te;ns vs;hv bu;ek dv;er	10
 庸俗唯物主义	ys;ga su;rg wz;kv wu;nw vu;dw yi;id	10
-永泰丝厂旧址	ys;dd tl;uf si;aa ih;ap jq;ao vi;tv	10
 用途权利要求	ys;kf tu;zy qr;my li;hd yk;xn qq;ad	10
 勇往直前加油	ys;ly wh;xv vi;uq qm;qd jw;lk yb;dy	10
 永旺株式会社	ys;dd wh;ow vu;mv ui;gy hv;ry ue;ut	10
@@ -142264,7 +141646,6 @@ sort: by_weight
 早有心理准备	zk;ou yb;ou xn;dd li;wl vp;dv bz;wt	10
 遭遇灭顶之灾	zk;zc yu;zy mx;ah dy;yd vi;dd zl;bh	10
 遭遇突发事件	zk;zc yu;zy tu;xq fa;ay ui;aa jm;rn	10
-枣园革命旧址	zk;cd yr;ky ge;ca my;re jq;ao vi;tv	10
 早孕试纸测试	zk;ou yp;zn ui;yu vi;su ce;dz ui;yu	10
 早在几十年前	zk;ou zl;ut ji;py ui;aa nm;ra qm;qd	10
 早在上个世纪	zk;ou zl;ut uh;aa ge;ra ui;ca ji;sj	10
@@ -142722,7 +142103,6 @@ sort: by_weight
 哲德沙尔汗国	ve;kv de;xx ua;du er;dx hj;dg go;ky	10
 遮得严严实实	ve;zu de;xc yj;ap yj;ap ui;bt ui;bt	10
 这点痛算什么	ve;zw dm;hv ts;by sr;vc uf;ru me;ps	10
-浙东区委旧址	ve;dv ds;ad qu;ki wz;hn jq;ao vi;tv	10
 浙东唐诗之路	ve;dv ds;ad th;gk ui;ys vi;dd lu;zg	10
 浙东行政公署	ve;dv ds;ad xy;xi vg;wv gs;sb uu;sv	10
 这都不是个事	ve;zw db;ev bu;ad ui;op ge;ra ui;aa	10
@@ -143634,7 +143014,6 @@ sort: by_weight
 指间关节强直	vi;fv jm;mo gr;qd jx;ce qd;gs vi;uq	10
 指尖上的艺术	vi;fv jm;xd uh;aa de;bu yi;cy uu;md	10
 指尖痛性小结	vi;fv jm;xd ts;by xy;xu xc;ad jx;sj	10
-之江大学旧址	vi;dd jd;dg da;ad xt;zb jq;ao vi;tv	10
 之江文化中心	vi;dd jd;dg wf;wi hw;rb vs;aa xn;dd	10
 纸浆销售合同	vi;su jd;ux xc;jx ub;kv he;rk ts;kk	10
 纸浆业务异常	vi;su jd;ux ye;aa wu;wl yi;cs ih;jk	10
@@ -144062,7 +143441,6 @@ sort: by_weight
 只是一厢情愿	vi;kb ui;op yi;aa xd;ix qy;xq yr;xy	10
 只是一小部分	vi;kb ui;op yi;aa xc;ad bu;ek ff;bd	10
 只是站在那里	vi;kb ui;op vj;lv zl;ut na;el li;aa	10
-枳实栀子鼓汤	vi;mv ui;bt vi;me zi;aa gu;vd th;dy	10
 只是走个过场	vi;kb ui;op zb;tv ge;ra go;zc ih;ty	10
 只是坐在那里	vi;kb ui;op zo;tc zl;ut na;el li;aa	10
 只是做做样子	vi;kb ui;op zo;rg zo;rg yh;my zi;aa	10
@@ -144289,9 +143667,7 @@ sort: by_weight
 至卓国际控股	vi;tv vo;uo go;ky ji;eu ks;fk gu;ou	10
 质子半径之谜	vi;bu zi;aa bj;bf jy;xg vi;dd mi;ym	10
 栀子豉汤主之	vi;me zi;aa ii;dv th;dy vu;dw vi;dd	10
-栀子甘草豉汤	vi;me zi;aa gj;ca ck;cz ii;dv th;dy	10
 栀子花开花开	vi;me zi;aa hw;ch kl;ac hw;ch kl;ac	10
-栀子生姜豉汤	vi;me zi;aa ug;na jd;ny ii;dv th;dy	10
 质子运载火箭	vi;bu zi;aa yp;zy zl;ig ho;dd jm;vq	10
 质子治疗中心	vi;bu zi;aa vi;dt lc;bl vs;aa xn;dd	10
 质子转移反应	vi;bu zi;aa vr;iv yi;hd fj;py yy;ga	10
@@ -145756,7 +145132,6 @@ sort: by_weight
 灼眼的讨伐者	vo;hu yj;og de;bu tk;yc fa;rg ve;ol	10
 酌与反酌定律	vo;yu yu;aa fj;py vo;yu dy;bp lv;xy	10
 卓越世纪中心	vo;uo yt;zy ui;ca ji;sj vs;aa xn;dd	10
-卓越蔚蓝群岛	vo;uo yt;zy wz;cw lj;cj qp;yj dk;nu	10
 卓越置业集团	vo;uo yt;zy vi;sv ye;aa ji;vm tr;kc	10
 涿州保定会战	vo;dd vb;id bk;rd dy;bp hv;ry vj;gv	10
 涿洲影视基地	vo;dd vb;dv yy;pj ui;ju ji;tq di;ty	10
@@ -147218,7 +146593,6 @@ sort: by_weight
 爱因斯坦的大脑	ai;vy yn;kd si;jq tj;td de;bu da;ad nk;ox	10
 爱因斯坦的圣经	ai;vy yn;kd si;jq tj;td de;bu ug;ty jy;sg	10
 艾因斯特丁根岛	ai;ci yn;kd si;jq te;ns dy;aa gf;mg dk;nu	10
-艾因斯特丁群岛	ai;ci yn;kd si;jq te;ns dy;aa qp;yj dk;nu	10
 艾因札鲁特战役	ai;ci yn;kd va;mg lu;yo te;ns vj;gv yi;xu	10
 爱与归属的需要	ai;vy yu;aa gv;ax uu;uy de;bu xu;ye yk;xn	10
 爱与黑暗的故事	ai;vy yu;aa hz;ha an;oy de;bu gu;wg ui;aa	10
@@ -147678,7 +147052,6 @@ sort: by_weight
 白塘生态植物园	bl;pa th;tt ug;na tl;xt vi;mv wu;nw yr;ky	10
 白天不懂夜的黑	bl;pa tm;ad bu;ad ds;xd ye;wd de;bu hz;ha	10
 白天打灯笼白搭	bl;pa tm;ad da;fd dg;hd ls;vl bl;pa da;fd	10
-白通加猪胆汁汤	bl;pa ts;zy jw;lk vu;qv dj;od vi;du th;dy	10
 白头居士无呵殿	bl;pa tb;dd ju;ug ui;aa wu;ag he;kk dm;ug	10
 白头翁汤治热痢	bl;pa tb;dd wg;yg th;dy vi;dt re;hv li;bl	10
 白瓦特号铁甲舰	bl;pa wa;ad te;ns hk;kk tx;ju jw;aa jm;vj	10
@@ -147816,11 +147189,8 @@ sort: by_weight
 斑贴试验致敏原	bj;ww tx;bv ui;yu yj;ma vi;wv mn;wm yr;ix	10
 半为苍生半美人	bj;bf wz;dd ch;cc ug;na bj;bf mz;dy rf;pd	10
 半为怜春半恼春	bj;bf wz;dd lm;xl ip;of bj;bf nk;xx ip;of	10
-半夏白木天麻汤	bj;bf xw;wz bl;pa mu;ad tm;ad ma;gl th;dy	10
-半夏白术天麻汤	bj;bf xw;wz bl;pa vu;md tm;ad ma;gl th;dy	10
 半夏参草大枣姜	bj;bf xw;wz cj;sp ck;cz da;ad zk;cd jd;ny	10
 半夏干姜散主之	bj;bf xw;wz gj;aa jd;ny sj;wo vu;dw vi;dd	10
-半夏桂枝甘草汤	bj;bf xw;wz gv;mg vi;mv gj;ca ck;cz th;dy	10
 半夏厚朴痰气疏	bj;bf xw;wz hb;iz po;mb tj;by qi;py uu;pi	10
 半夏厚朴汤加减	bj;bf xw;wz hb;iz po;mb th;dy jw;lk jm;dx	10
 半夏人参甘草从	bj;bf xw;wz rf;pd uf;sp gj;ca ck;cz cs;rr	10
@@ -147851,7 +147221,6 @@ sort: by_weight
 绑定的手机号码	bh;sb dy;bp de;bu ub;pa ji;mj hk;kk ma;um	10
 磅力每平方英寸	bh;up li;gp mz;rm py;aa fh;wd yy;cy cp;ad	10
 邦罗力玻璃安瓿	bh;ef lo;sx li;gp bo;wp li;wl an;bn bu;wk	10
-榜罗镇会议旧址	bh;mp lo;sx vf;jv hv;ry yi;yy jq;ao vi;tv	10
 棒球打击练习场	bh;mf qq;wq da;fd ji;fk lm;sd xi;ga ih;ty	10
 棒式涂膜涂布器	bh;mf ui;gy tu;dy mo;om tu;dy bu;ju qi;kk	10
 帮助更多的孩子	bh;jb vu;lq gg;ad do;xx de;bu hl;zh zi;aa	10
@@ -148225,7 +147594,6 @@ sort: by_weight
 悲怜上帝的女儿	bz;xf lm;xl uh;aa di;jb de;bu nv;aa er;pg	10
 被列入失信名单	bz;yp lx;dd ru;pd ui;pf xn;ry my;xk dj;ba	10
 北落基山脉地区	bz;ag lo;cl ji;tq uj;aa ml;oy di;ty qu;ki	10
-北马里亚纳群岛	bz;ag ma;aa li;aa ya;ay na;sn qp;yj dk;nu	10
 北美防空司令部	bz;ag mz;dy fh;ef ks;xg si;gk ly;rs bu;ek	10
 北美国际汽车展	bz;ag mz;dy go;ky ji;eu qi;dq ie;aa vj;uy	10
 北美空防司令部	bz;ag mz;dy ks;xg fh;ef si;gk ly;rs bu;ek	10
@@ -149504,7 +148872,6 @@ sort: by_weight
 才得吹嘘身渐稳	cl;ap de;xc iv;kq xu;kx uf;pp jm;dv wf;hj	10
 财阀家的小儿子	cl;bc fa;mf jw;bu de;bu xc;ad er;pg zi;aa	10
 财富的神秘商人	cl;bc fu;bf de;bu uf;uu mi;hb uh;wk rf;pd	10
-菜干鸭肾蜜枣汤	cl;cc gj;aa ya;nj uf;oy mi;ib zk;cd th;dy	10
 采购经理人指数	cl;vm gb;bg jy;sg li;wl rf;pd vi;fv uu;wl	10
 采购生活必需品	cl;vm gb;bg ug;na ho;du bi;dd xu;ye pn;kk	10
 采购说明汇总表	cl;vm gb;bg uo;yd my;oo hv;dk zs;xk bc;fy	10
@@ -149785,7 +149152,6 @@ sort: by_weight
 差异化防控策略	ia;yg yi;cs hw;rb fh;ef ks;fk ce;vc lt;tg	10
 插足别人的婚姻	ia;fi zu;kv bx;dl rf;pd de;bu hp;nh yn;ny	10
 拆掉思维里的墙	il;fi dc;fv si;xt wz;sv li;aa de;bu qd;th	10
-柴胡桂枝干姜汤	il;mc hu;og gv;mg vi;mv gj;aa jd;ny th;dy	10
 柴胡芍桔牛膝等	il;mc hu;og uk;cu ju;mj nq;pa xi;oq dg;vs	10
 豺狼人皮弹药包	il;vc lh;ql rf;pd pi;ad dj;gd yk;cy bk;gs	10
 豺狼未来先磨刀	il;vc lh;ql wz;ex ll;am xm;ne mo;um dk;gp	10
@@ -150470,7 +149836,6 @@ sort: by_weight
 尺桡骨远端骨折	ii;ad rk;my gu;go yr;zy dr;le gu;go ve;fj	10
 池上碧苔三四点	ii;dy uh;aa bi;ub tl;ct sj;aa si;aa dm;hv	10
 池上凭阑愁无侣	ii;dy uh;aa py;jr lj;mj ib;xq wu;ag lv;rl	10
-赤石脂禹余粮汤	ii;tb ui;kp vi;ov yu;pd yu;rb ld;ml th;dy	10
 翅双褐弧卵沫蝉	ii;yv ud;yy he;yh hu;gg lr;pd mo;dm ij;id	10
 吃水不忘打井人	ii;kq uv;ad bu;ad wh;xw da;fd jy;aa rf;pd	10
 吃水不忘挖井人	ii;kq uv;ad bu;ad wh;xw wa;fw jy;aa rf;pd	10
@@ -151170,7 +150535,6 @@ sort: by_weight
 错误检查和纠正	co;jx wu;yw jm;ma ia;md he;hk jq;sj vg;av	10
 错综复杂的关系	co;jx zs;sz fu;wo za;jm de;bu gr;qd xi;ps	10
 大爱道比丘尼经	da;ad ai;vy dk;zu bi;bb qq;pa ni;ub jy;sg	10
-大安的列斯群岛	da;ad an;bn de;bu lx;dd si;jq qp;yj dk;nu	10
 答案其实很简单	da;vh an;ma qi;ba ui;bt hf;xg jm;vj dj;ba	10
 答案在风中飘荡	da;vh an;ma zl;ut fg;ji vs;aa pc;fp dh;ct	10
 打败天下无敌手	da;fd bl;wb tm;ad xw;ab wu;ag di;wu ub;pa	10
@@ -151484,7 +150848,6 @@ sort: by_weight
 单兵反坦克火箭	dj;ba by;qb fj;py tj;td ke;eg ho;dd jm;vq	10
 丹不忍以己之私	dj;pd bu;ad rf;xr yi;rd ji;ag vi;dd si;hs	10
 但不是说不努力	dj;rd bu;ad ui;op uo;yd bu;ad nu;ln li;gp	10
-淡菜紫菜瘦肉汤	dj;dy cl;cc zi;sc cl;cc ub;bs rb;ad th;dy	10
 单侧腭裂伴唇裂	dj;ba ce;rz ee;oe lx;yl bj;rb ip;ki lx;yl	10
 单侧肾发育不全	dj;ba ce;rz uf;oy fa;ay yu;os bu;ad qr;rw	10
 单侧肢体肌萎缩	dj;ba ce;rz vi;ov ti;rb ji;oj wz;cw so;ss	10
@@ -151624,7 +150987,6 @@ sort: by_weight
 当地球停止转动	dh;xx di;ty qq;wq ty;rt vi;aa vr;iv ds;ly	10
 当归川楝水煎服	dh;xx gv;ax ir;pa lm;mj uv;ad jm;hq fu;oy	10
 当归六黄二地黄	dh;xx gv;ax lq;wb hd;cb er;aa di;ty hd;cb	10
-当归生姜羊肉汤	dh;xx gv;ax ug;na jd;ny yh;da rb;ad th;dy	10
 当过去就在眼前	dh;xx go;zc qu;ts jq;yj zl;ut yj;og qm;qd	10
 当哈利遇到莎莉	dh;xx ha;kh li;hd yu;zy dk;dv ua;cu li;cl	10
 当汗出而不汗出	dh;xx hj;dg iu;aa er;aa bu;ad hj;dg iu;aa	10
@@ -152704,7 +152066,6 @@ sort: by_weight
 杜詹二氏开口器	du;mt vj;yb er;aa ui;pg kl;ac kb;aa qi;kk	10
 杜仲牛膝人参草	du;mt vs;rv nq;pa xi;oq rf;pd uf;sp ck;cz	10
 杜仲牛膝桑寄生	du;mt vs;rv nq;pa xi;oq sh;mr ji;bq ug;na	10
-杜仲山楂猪肚汤	du;mt vs;rv uj;aa va;mi vu;qv du;ot th;dy	10
 杜仲双降袋泡剂	du;mt vs;rv ud;yy jd;ef dl;yd pk;db ji;dq	10
 肚子饿得咕咕叫	du;ot zi;aa ee;uw de;xc gu;kg gu;kg jc;kj	10
 肚子饿的咕咕叫	du;ot zi;aa ee;uw de;bu gu;kg gu;kg jc;kj	10
@@ -152983,14 +152344,6 @@ sort: by_weight
 二级铁十字勋章	er;aa ji;sj tx;ju ui;aa zi;bz xp;ly vh;lz	10
 二级同位素效应	er;aa ji;sj ts;kk wz;rl su;sf xc;wj yy;ga	10
 二级心理咨询师	er;aa ji;sj xn;dd li;wl zi;kc xp;yx ui;ab	10
-二尖瓣闭式扩张	er;aa jm;xd bj;gx bi;mc ui;gy ko;fg vh;gi	10
-二尖瓣闭锁不全	er;aa jm;xd bj;gx bi;mc so;jb bu;ad qr;rw	10
-二尖瓣关闭不全	er;aa jm;xd bj;gx gr;qd bi;mc bu;ad qr;rw	10
-二尖瓣关闭间期	er;aa jm;xd bj;gx gr;qd bi;mc jm;mo qi;oq	10
-二尖瓣后叶脱垂	er;aa jm;xd bj;gx hb;pk ye;ku to;od iv;pa	10
-二尖瓣腱索断裂	er;aa jm;xd bj;gx jm;oj so;sb dr;ja lx;yl	10
-二尖瓣术后狭窄	er;aa jm;xd bj;gx uu;md hb;pk xw;qj vl;xv	10
-二尖瓣退行性变	er;aa jm;xd bj;gx tv;zg xy;xi xy;xu bm;wy	10
 二将军宫门镇鬼	er;aa jd;jc jp;bi gs;bl mf;dg vf;jv gv;pd	10
 而皆背晋以归梁	er;aa jx;bb bz;ob jn;oy yi;rd gv;ax ld;md	10
 二阶常微分方程	er;aa jx;ej ih;jk wz;xw ff;bd fh;wd ig;hi	10
@@ -153049,10 +152402,7 @@ sort: by_weight
 二十世纪之支那	er;aa ui;aa ui;ca ji;sj vi;dd vi;uy na;el	10
 二式水上战斗机	er;aa ui;gy uv;ad uh;aa vj;gv db;du ji;mj	10
 二十四节气之一	er;aa ui;aa si;aa jx;ce qi;py vi;dd yi;aa	10
-二十四味润喉糖	er;aa ui;aa si;aa wz;kw rp;dr hb;kh th;mt	10
 二十四小时营业	er;aa ui;aa si;aa xc;ad ui;oc yy;cl ye;aa	10
-二十五味绿绒蒿	er;aa ui;aa wu;aa wz;kw lv;sl rs;sr hk;cg	10
-二十五味獐牙菜	er;aa ui;aa wu;aa wz;kw vh;qv ya;ap cl;cc	10
 二十一天不出鸡	er;aa ui;aa yi;aa tm;ad bu;ad iu;aa ji;ny	10
 二十一味寒水石	er;aa ui;aa yi;aa wz;kw hj;bd uv;ad ui;kp	10
 二十余年如一梦	er;aa ui;aa yu;rb nm;ra ru;nk yi;aa mg;mx	10
@@ -153215,7 +152565,6 @@ sort: by_weight
 法属瓜德罗普岛	fa;dq uu;uy gw;pd de;xx lo;sx pu;ob dk;nu	10
 法属马提尼克岛	fa;dq uu;uy ma;aa ti;fu ni;ub ke;eg dk;nu	10
 法属南半球领地	fa;dq uu;uy nj;ua bj;bf qq;wq ly;yl di;ty	10
-法属西印度群岛	fa;dq uu;uy xi;aa yn;ey du;gy qp;yj dk;nu	10
 法特潘二氏小体	fa;dq te;ns pj;df er;aa ui;pg xc;ad ti;rb	10
 法特氏壶腹结石	fa;dq te;ns ui;pg hu;uy fu;of jx;sj ui;kp	10
 发条都市冒险记	fa;ay tc;wm du;ev ui;wj mk;oo xm;ea ji;yj	10
@@ -154329,7 +153678,6 @@ sort: by_weight
 父亲对女儿的爱	fu;pd qn;lm dv;cy nv;aa er;pg de;bu ai;vy	10
 父亲写的散文诗	fu;pd qn;lm xx;by de;bu sj;wo wf;wi ui;ys	10
 伏清白以死直兮	fu;rq qy;dq bl;pa yi;rd si;db vi;uq xi;bk	10
-富饶的西沙群岛	fu;bf rk;uy de;bu xi;aa ua;du qp;yj dk;nu	10
 副热带高气压带	fu;df re;hv dl;jb gk;wk qi;py ya;id dl;jb	10
 副热带夏干气候	fu;df re;hv dl;jb xw;wz gj;aa qi;py hb;ru	10
 夫人兮自有美子	fu;ad rf;pd xi;bk zi;pa yb;ou mz;dy zi;aa	10
@@ -154522,8 +153870,6 @@ sort: by_weight
 甘草粳米四般宜	gj;ca ck;cz jy;mg mi;dd si;aa bj;vu yi;bq	10
 甘草木香大腹加	gj;ca ck;cz mu;ad xd;ho da;ad fu;of jw;lk	10
 甘草如指大一枚	gj;ca ck;cz ru;nk vi;fv da;ad yi;aa mz;mw	10
-甘草小麦大枣汤	gj;ca ck;cz xc;ad ml;fw da;ad zk;cd th;dy	10
-甘草小麦红枣汤	gj;ca ck;cz xc;ad ml;fw hs;sg zk;cd th;dy	10
 赶场走进死胡同	gj;zg ih;ty zb;tv jn;zj si;db hu;og ts;kk	10
 敢打敢拼的精神	gj;we da;fd gj;we pn;fb de;bu jy;mq uf;uu	10
 肝胆胰外科杂志	gj;og dj;od yi;oy wl;xb ke;hd za;jm vi;xu	10
@@ -154981,7 +154327,6 @@ sort: by_weight
 咯咯咯的鬼太郎	ge;kg ge;kg ge;kg de;bu gv;pd tl;dd lh;el	10
 各个国家和地区	ge;wk ge;ra go;ky jw;bu he;hk di;ty qu;ki	10
 各个击破的手段	ge;wk ge;ra ji;fk po;up de;bu ub;pa dr;ud	10
-葛根黄芩黄连汤	ge;ch gf;mg hd;cb qn;cj hd;cb lm;zi th;dy	10
 葛根芩连甘草伍	ge;ch gf;mg qn;cj lm;zi gj;ca ck;cz wu;rw	10
 个股分时走势图	ge;ra gu;ou ff;bd ui;oc zb;tv ui;lv tu;kd	10
 各行各业的企业	ge;wk hh;xi ge;wk ye;aa de;bu qi;rv ye;aa	10
@@ -155011,7 +154356,6 @@ sort: by_weight
 葛量洪教育学院	ge;ch ld;ol hs;dg jc;wx yu;os xt;zb yr;ew	10
 葛量洪师范学院	ge;ch ld;ol hs;dg ui;ab fj;ce xt;zb yr;ew	10
 格列斯罗明试剂	ge;mg lx;dd si;jq lo;sx my;oo ui;yu ji;dq	10
-格林纳丁斯群岛	ge;mg ln;mm na;sn dy;aa si;jq qp;yj dk;nu	10
 格鲁伯肥达反应	ge;mg lu;yo bo;rb fz;ob da;zd fj;py yy;ga	10
 格鲁伯肥达试验	ge;mg lu;yo bo;rb fz;ob da;zd ui;yu yj;ma	10
 格鲁布相关病毒	ge;mg lu;yo bu;ju xd;mo gr;qd by;bb du;fm	10
@@ -155702,7 +155046,6 @@ sort: by_weight
 古教会斯拉夫语	gu;uk jc;wx hv;ry si;jq la;fl fu;ad yu;yw	10
 古今大战秦俑情	gu;uk jn;ra da;ad vj;gv qn;hf ys;ry qy;xq	10
 古今将相在何方	gu;uk jn;ra jd;jc xd;mo zl;ut he;rk fh;wd	10
-古今录验续命汤	gu;uk jn;ra lu;au yj;ma xu;sm my;re th;dy	10
 古今名医方类编	gu;uk jn;ra my;xk yi;ku fh;wd lz;md bm;sb	10
 古今姓氏书辩证	gu;uk jn;ra xy;nu ui;pg uu;ad bm;yx vg;yv	10
 古今一梦尽荒唐	gu;uk jn;ra yi;aa mg;mx jn;id hd;ci th;gk	10
@@ -155813,7 +155156,6 @@ sort: by_weight
 谷雨清明空屈指	gu;bk yu;ad qy;dq my;oo ks;xg qu;ui vi;fv	10
 谷雨如丝复似尘	gu;bk yu;ad ru;nk si;aa fu;wo si;ry if;tx	10
 故园三径吐幽丛	gu;wg yr;ky sj;aa jy;xg tu;kt yb;uy cs;ac	10
-故曰二加龙骨汤	gu;wg yt;aa er;aa jw;lk ls;ad gu;go th;dy	10
 故障检测和隔离	gu;wg vh;ev jm;ma ce;dz he;hk ge;eg li;ws	10
 故障诊断与排除	gu;wg vh;ev vf;yp dr;ja yu;aa pl;ff iu;ey	10
 骨折迟延性愈合	gu;go ve;fj ii;zi yj;zv xy;xu yu;xy he;rk	10
@@ -155838,10 +155180,6 @@ sort: by_weight
 挂甲寺庆音法鼓	gw;fg jw;aa si;ct qy;gd yn;lo fa;dq gu;vd	10
 寡聚葡萄糖苷酶	gw;bf ju;ed pu;cp tk;ct th;mt gj;cg mz;ym	10
 瓜蒌皮双边栝楼	gw;pd lb;cl pi;ad ud;yy bm;zl gw;mu lb;ml	10
-瓜蒌薤白白酒汤	gw;pd lb;cl xx;ca bl;pa bl;pa jq;dy th;dy	10
-栝蒌薤白白酒汤	gw;mu lb;cl xx;ca bl;pa bl;pa jq;dy th;dy	10
-瓜蒌薤白半夏汤	gw;pd lb;cl xx;ca bl;pa bj;bf xw;wz th;dy	10
-栝蒌薤白半夏汤	gw;mu lb;cl xx;ca bl;pa bj;bf xw;wz th;dy	10
 寡人虽亡国之余	gw;bf rf;pd sv;ki wh;da go;ky vi;dd yu;rb	10
 挂着羊头卖狗肉	gw;fg ve;yo yh;da tb;dd ml;um gb;qj rb;ad	10
 怪当今居世之士	gy;xu dh;xx jn;ra ju;ug ui;ca vi;dd ui;aa	10
@@ -156042,18 +155380,12 @@ sort: by_weight
 规划编制与实施	gv;fj hw;dg bm;sb vi;dg yu;aa ui;bt ui;fy	10
 硅基超共轭效应	gv;ug ji;tq ik;zv gs;cb ee;ie xc;wj yy;ga	10
 硅胶颅骨修补板	gv;ug jc;oj lu;yl gu;go xq;rp bu;yb bj;mf	10
-桂苓五味甘草汤	gv;mg ly;cl wu;aa wz;kw gj;ca ck;cz th;dy	10
 归脾汤用术参芪	gv;ax pi;ob th;dy ys;kf uu;md uf;sp qi;cu	10
 归尾通经佐地龙	gv;ax wz;um ts;zy jy;sg zo;rz di;ty ls;ad	10
 硅橡胶印模材料	gv;ug xd;mx jc;oj yn;ey mo;mm cl;mc lc;md	10
 归芎地芍桂苓均	gv;ax xs;cg di;ty uk;cu gv;mg ly;cl jp;ty	10
 规则性经间出血	gv;fj ze;bd xy;xu jy;sg jm;mo iu;aa xx;pa	10
-桂枝二麻黄一汤	gv;mg vi;mv er;aa ma;gl hd;cb yi;aa th;dy	10
-桂枝二越婢一汤	gv;mg vi;mv er;aa yt;zy bi;nb yi;aa th;dy	10
 桂枝加黄芪汤方	gv;mg vi;mv jw;lk hd;cb qi;cu th;dy fh;wd	10
-桂枝龙骨牡蛎汤	gv;mg vi;mv ls;ad gu;go mu;nt li;il th;dy	10
-桂枝麻黄各半汤	gv;mg vi;mv ma;gl hd;cb ge;wk bj;bf th;dy	10
-桂枝生姜枳实汤	gv;mg vi;mv ug;na jd;ny vi;mv ui;bt th;dy	10
 过饱和结晶学说	go;zc bk;ub he;hk jx;sj jy;oo xt;zb uo;yd	10
 国不可一日无君	go;ky bu;ad ke;dk yi;aa ri;aa wu;ag jp;ky	10
 国产新能源汽车	go;ky ij;wi xn;jq ng;sb yr;dy qi;dq ie;aa	10
@@ -156297,7 +155629,6 @@ sort: by_weight
 华南二叉韧革菌	hw;uh nj;ua er;aa ia;yd rf;wr ge;ca jp;ch	10
 华润新能源控股	hw;uh rp;dr xn;jq ng;sb yr;dy ks;fk gu;ou	10
 华森克里克模型	hw;uh sf;ml ke;eg li;aa ke;eg mo;mm xy;tx	10
-花生大枣猪蹄汤	hw;ch ug;na da;ad zk;cd vu;qv ti;zd th;dy	10
 华盛顿血红蛋白	hw;uh ug;mi dp;yt xt;pa hs;sg dj;ip bl;pa	10
 华生克里克模型	hw;uh ug;na ke;eg li;aa ke;eg mo;mm xy;tx	10
 化学发光自显影	hw;rb xt;zb fa;ay gd;ea zi;pa xm;oy yy;pj	10
@@ -156349,7 +155680,6 @@ sort: by_weight
 黄连阿胶鸡子黄	hd;cb lm;zi ee;ek jc;oj ji;ny zi;aa hd;cb	10
 黄连黄柏与秦皮	hd;cb lm;zi hd;cb bo;mb yu;aa qn;hf pi;ad	10
 黄连解毒柏栀芩	hd;cb lm;zi jx;jn du;fm bl;mb vi;me qn;cj	10
-黄芪桂枝五物汤	hd;cb qi;cu gv;mg vi;mv wu;aa wu;nw th;dy	10
 黄芪建中汤主之	hd;cb qi;cu jm;zy vs;aa th;dy vu;dw vi;dd	10
 黄芩滑石猪茯苓	hd;cb qn;cj hw;dg ui;kp vu;qv fu;cf ly;cl	10
 黄芩芍药合自良	hd;cb qn;cj uk;cu yk;cy he;rk zi;pa ld;dg	10
@@ -156366,16 +155696,10 @@ sort: by_weight
 回收利用新模式	hv;kk ub;wj li;hd ys;kf xn;jq mo;mm ui;gy	10
 回苏剂意外中毒	hv;kk su;cb ji;dq yi;xy wl;xb vs;aa du;fm	10
 惠特灵大道战役	hv;xh te;ns ly;hx da;ad dk;zu vj;gv yi;xu	10
-回味鸭血粉丝汤	hv;kk wz;kw ya;nj xt;pa ff;mf si;aa th;dy	10
 回旋镖装甲车族	hv;kk xr;fp bc;jp vd;yv jw;aa ie;aa zu;fu	10
 会厌软骨前脂体	hv;ry yj;qi rr;iq gu;go qm;qd vi;ov ti;rb	10
 会议室不够用了	hv;ry yi;yy ui;bv bu;ad gb;xj ys;kf le;aa	10
 回忆专用小马甲	hv;kk yi;xy vr;ad ys;kf xc;ad ma;aa jw;aa	10
-会阴部炎性肿物	hv;ry yn;eo bu;ek yj;hh xy;xu vs;ov wu;nw	10
-会阴非炎性疾患	hv;ry yn;eo fz;aa yj;hh xy;xu ji;bu hr;xi	10
-会阴缝合术产科	hv;ry yn;eo fg;sf he;rk uu;md ij;wi ke;hd	10
-会阴切开术产科	hv;ry yn;eo qx;dq kl;ac uu;md ij;wi ke;hd	10
-会阴型尿道下裂	hv;ry yn;eo xy;tx nc;uu dk;zu xw;ab lx;yl	10
 混合方程式乐团	hp;dk he;rk fh;wd ig;hi ui;gy yt;pd tr;kc	10
 混合价态化合物	hp;dk he;rk jw;rj tl;xt hw;rb he;rk wu;nw	10
 混合器沉降器法	hp;dk he;rk qi;kk if;dj jd;ef qi;kk fa;dq	10
@@ -156460,7 +155784,6 @@ sort: by_weight
 激酶激酶激酶类	ji;dj mz;ym ji;dj mz;ym ji;dj mz;ym lz;md	10
 基欧诺西斯战役	ji;tq ou;qq no;yr xi;aa si;jq vj;gv yi;xu	10
 机器人三大法则	ji;mj qi;kk rf;pd sj;aa da;ad fa;dq ze;bd	10
-及其日中如探汤	ji;nd qi;ba ri;aa vs;aa ru;nk tj;fm th;dy	10
 寄生性色素缺乏	ji;bq ug;na xy;xu se;db su;sf qt;fd fa;pv	10
 几时心绪浑无事	ji;py ui;oc xn;dd xu;sv hp;dj wu;ag ui;aa	10
 技术革命性突破	ji;fv uu;md ge;ca my;re xy;xu tu;xq po;up	10
@@ -156503,7 +155826,6 @@ sort: by_weight
 极坐标定位方法	ji;mj zo;tc bc;mu dy;bp wz;rl fh;wd fa;dq	10
 贾阿二氏色觉计	jw;bx aa;ek er;aa ui;pg se;db jt;jb ji;yu	10
 家不可一日无主	jw;bu bu;ad ke;dk yi;aa ri;aa wu;ag vu;dw	10
-加参安肺生化汤	jw;lk cj;sp an;bn fz;of ug;na hw;rb th;dy	10
 甲辰乙巳覆灯火	jw;aa if;iy yi;aa si;ag fu;xf dg;hd ho;dd	10
 加大抗生素剂量	jw;lk da;ad kh;fk ug;na su;sf ji;dq ld;ol	10
 假单胞菌噬菌体	jw;rj dj;ba bk;ob jp;ch ui;ku jp;ch ti;rb	10
@@ -156519,15 +155841,7 @@ sort: by_weight
 甲骨文诉谷歌案	jw;aa gu;go wf;wi su;yi gu;bk ge;qg an;ma	10
 甲贺流忍术屋敷	jw;aa he;bj lq;di rf;xr uu;md wu;uv fu;wf	10
 家花不如野花香	jw;bu hw;ch bu;ad ru;nk ye;ly hw;ch xd;ho	10
-加减补中益气汤	jw;lk jm;dx bu;yb vs;aa yi;mb qi;py th;dy	10
-加减黄芩知母汤	jw;lk jm;dx hd;cb qn;cj vi;ku mu;vd th;dy	10
-加减活血解毒汤	jw;lk jm;dx ho;du xt;pa jx;jn du;fm th;dy	10
-加减麻杏甘石汤	jw;lk jm;dx ma;gl xy;mk gj;ca ui;kp th;dy	10
 加减普济消毒饮	jw;lk jm;dx pu;ob ji;dq xc;dx du;fm yn;uq	10
-加减人参泻心汤	jw;lk jm;dx rf;pd uf;sp xx;dx xn;dd th;dy	10
-加减升麻葛根汤	jw;lk jm;dx ug;pc ma;gl ge;ch gf;mg th;dy	10
-加减苏子桃仁汤	jw;lk jm;dx su;cb zi;aa tk;mv rf;re th;dy	10
-加减桃仁承气汤	jw;lk jm;dx tk;mv rf;re ig;ad qi;py th;dy	10
 加减运用在胸中	jw;lk jm;dx yp;zy ys;kf zl;ut xs;ox vs;aa	10
 加快数字化发展	jw;lk ky;xd uu;wl zi;bz hw;rb fa;ay vj;uy	10
 加快数字化转型	jw;lk ky;xd uu;wl zi;bz hw;rb vr;iv xy;tx	10
@@ -156535,11 +155849,8 @@ sort: by_weight
 加利马二氏试验	jw;lk li;hd ma;aa er;aa ui;pg ui;yu yj;ma	10
 加利迈尼尼试验	jw;lk li;hd ml;zw ni;ub ni;ub ui;yu yj;ma	10
 加利亚诺铁甲堡	jw;lk li;hd ya;ay no;yr tx;ju jw;aa bk;tb	10
-家秘川连枳壳汤	jw;bu mi;hb ir;pa lm;zi vi;mv qc;uj th;dy	10
 加米二氏结肠钳	jw;lk mi;dd er;aa ui;pg jx;sj ih;oy qm;jg	10
-家秘木通羌活汤	jw;bu mi;hb mu;ad ts;zy qd;yg ho;du th;dy	10
 家秘知柏天地煎	jw;bu mi;hb vi;ku bl;mb tm;ad di;ty jm;hq	10
-家秘枳壳黄连汤	jw;bu mi;hb vi;mv qc;uj hd;cb lm;zi th;dy	10
 荚膜组织胞浆菌	jw;cj mo;om zu;sq vi;sv bk;ob jd;ux jp;ch	10
 加拿大先灵葆雅	jw;lk na;uh da;ad xm;ne ly;hx bk;cb ya;vy	10
 加能站里的忙碌	jw;lk ng;sb vj;lv li;aa de;bu mh;xw lu;ul	10
@@ -156606,10 +155917,6 @@ sort: by_weight
 加替沙星葡萄糖	jw;lk ti;of ua;du xy;ou pu;cp tk;ct th;mt	10
 家庭病床建床费	jw;bu ty;gt by;bb id;gm jm;zy id;gm fz;bf	10
 家庭病床巡诊费	jw;bu ty;gt by;bb id;gm xp;zi vf;yp fz;bf	10
-加味六味地黄汤	jw;lk wz;kw lq;wb wz;kw di;ty hd;cb th;dy	10
-加味十全大补汤	jw;lk wz;kw ui;aa qr;rw da;ad bu;yb th;dy	10
-加味调中益气汤	jw;lk wz;kw tc;yv vs;aa yi;mb qi;py th;dy	10
-加味犀角地黄汤	jw;lk wz;kw xi;nu jc;dy di;ty hd;cb th;dy	10
 甲午乙未沙中金	jw;aa wu;ru yi;aa wz;ex ua;du vs;aa jn;ra	10
 甲矽亚基自由基	jw;aa xi;ux ya;ay ji;tq zi;pa yb;aa ji;tq	10
 甲酰刻叶紫堇胺	jw;aa xm;yx ke;dh ye;ku zi;sc jn;ca an;oa	10
@@ -156675,7 +155982,6 @@ sort: by_weight
 简明逻辑学导论	jm;vj my;oo lo;zl ji;ie xt;zb dk;cs lp;yl	10
 腱膜下疏松组织	jm;oj mo;om xw;ab uu;pi ss;mg zu;sq vi;sv	10
 键盘磁盘输入器	jm;jj pj;mv ci;uz pj;mv uu;iy ru;pd qi;kk	10
-健脾利水生化汤	jm;rj pi;ob li;hd uv;ad ug;na hw;rb th;dy	10
 健脾祛痰治相当	jm;rj pi;ob qu;uq tj;by vi;dt xd;mo dh;xx	10
 柬埔寨血红蛋白	jm;ad pu;tf vl;mb xt;pa hs;sg dj;ip bl;pa	10
 间期进行性缩短	jm;mo qi;oq jn;zj xy;xi xy;xu so;ss dr;ud	10
@@ -156803,7 +156109,6 @@ sort: by_weight
 锦葵花素葡糖苷	jn;jb kv;cg hw;ch su;sf pu;cp th;mt gj;cg	10
 锦葵色素葡糖苷	jn;jb kv;cg se;db su;sf pu;cp th;mt gj;cg	10
 近来怕说当时事	jn;zj ll;am pa;xb uo;yd dh;xx ui;oc ui;aa	10
-金陵鸭血粉丝汤	jn;ra ly;el ya;nj xt;pa ff;mf si;aa th;dy	10
 金龙胆草提取物	jn;ra ls;ad dj;od ck;cz ti;fu qu;ey wu;nw	10
 金牌橡胶避孕套	jn;ra pl;pb xd;mx jc;oj bi;zb yp;zn tk;di	10
 金钱白花蛇药酒	jn;ra qm;jj bl;pa hw;ch ue;it yk;cy jq;dy	10
@@ -157339,7 +156644,6 @@ sort: by_weight
 累积尿排泄曲线	lz;st ji;hv nc;uu pl;ff xx;du qu;aa xm;sj	10
 雷克塞尔伽玛刀	lz;yt ke;eg sl;tb er;dx ga;rj ma;wm dk;gp	10
 肋软骨发育不全	lz;ol rr;iq gu;go fa;ay yu;os bu;ad qr;rw	10
-雷氏清凉涤暑汤	lz;yt ui;pg qy;dq ld;dj di;dt uu;ov th;dy	10
 肋头关节内韧带	lz;ol tb;dd gr;qd jx;ce nz;ad rf;wr dl;jb	10
 泪腺动脉吻合支	lz;do xm;oq ds;ly ml;oy wf;kw he;rk vi;uy	10
 类志贺邻单胞菌	lz;md vi;xu he;bj ln;el dj;ba bk;ob jp;ch	10
@@ -157396,7 +156700,6 @@ sort: by_weight
 利绍尔麻痹瘫痪	li;hd uk;sv er;dx ma;gl bi;bb tj;bn hr;bh	10
 力时间关系肌肉	li;gp ui;oc jm;mo gr;qd xi;ps ji;oj rb;ad	10
 利什曼原虫病毒	li;hd ui;ru mj;oy yr;ix is;ad by;bb du;fm	10
-李氏清暑益气汤	li;mz ui;pg qy;dq uu;ov yi;mb qi;py th;dy	10
 李斯奥二氏试验	li;mz si;jq ao;dm er;aa ui;pg ui;yu yj;ma	10
 里斯二氏关节钉	li;aa si;jq er;aa ui;pg gr;qd jx;ce dy;jd	10
 李斯二氏巨细胞	li;mz si;jq er;aa ui;pg ju;kk xi;st bk;ob	10
@@ -157475,7 +156778,6 @@ sort: by_weight
 淋浊流连自可除	ln;dl vo;di lq;di lm;zi zi;pa ke;dk iu;ey	10
 苓草橘红大枣姜	ly;cl ck;cz ju;mk hs;sg da;ad zk;cd jd;ny	10
 领导行为连续体	ly;yl dk;cs xy;xi wz;dd lm;zi xu;sm ti;rb	10
-苓甘五味姜辛汤	ly;cl gj;ca wu;aa wz;kw jd;ny xn;lu th;dy	10
 苓桂术甘化饮剂	ly;cl gv;mg uu;md gj;ca hw;rb yn;uq ji;dq	10
 苓桂术甘汤主之	ly;cl gv;mg uu;md gj;ca th;dy vu;dw vi;dd	10
 羚角钩藤菊花桑	ly;yl jc;dy gb;jg tg;ct ju;cj hw;ch sh;mr	10
@@ -157567,15 +156869,10 @@ sort: by_weight
 马鼻疽假单胞菌	ma;aa bi;zb ju;bq jw;rj dj;ba bk;ob jp;ch	10
 麻痹性上睑下垂	ma;gl bi;bb xy;xu uh;aa jm;oa xw;ab iv;pa	10
 马场海边大马路	ma;aa ih;ty hl;dm bm;zl da;ad ma;aa lu;zg	10
-马尔维纳斯群岛	ma;aa er;dx wz;sv na;sn si;jq qp;yj dk;nu	10
 马公东甲北极殿	ma;aa gs;sb ds;ad jw;aa bz;ag ji;mj dm;ug	10
 马公市三甲七保	ma;aa gs;sb ui;wj sj;aa jw;aa qi;ag bk;rd	10
 马哈拉施特拉邦	ma;aa ha;kh la;fl ui;fy te;ns la;fl bh;ef	10
-麻黄附子甘草汤	ma;gl hd;cb fu;ef zi;aa gj;ca ck;cz th;dy	10
-麻黄附子细辛汤	ma;gl hd;cb fu;ef zi;aa xi;st xn;lu th;dy	10
-麻黄连翘赤豆汤	ma;gl hd;cb lm;zi qc;yy ii;tb db;aa th;dy	10
 麻黄汤中用桂枝	ma;gl hd;cb th;dy vs;aa ys;kf gv;mg vi;mv	10
-麻黄细辛附子汤	ma;gl hd;cb xi;st xn;lu fu;ef zi;aa th;dy	10
 马交石炮台马路	ma;aa jc;li ui;kp pk;hb tl;sk ma;aa lu;zg	10
 马克斯韦方程组	ma;aa ke;eg si;jq wz;aa fh;wd ig;hi zu;sq	10
 马克思异化理论	ma;aa ke;eg si;xt yi;cs hw;rb li;wl lp;yl	10
@@ -157656,7 +156953,6 @@ sort: by_weight
 美容皮肤外科学	mz;dy rs;bg pi;ad fu;of wl;xb ke;hd xt;zb	10
 美容医学心理学	mz;dy rs;bg yi;ku xt;zb xn;dd li;wl xt;zb	10
 美沙拉秦灌肠剂	mz;dy ua;du la;fl qn;hf gr;dv ih;oy ji;dq	10
-美属维尔京群岛	mz;dy uu;uy wz;sv er;dx jy;wx qp;yj dk;nu	10
 媒体关注度指数	mz;nm ti;rb gr;qd vu;dv du;gy vi;fv uu;wl	10
 镁血液水平异常	mz;jm xt;pa ye;dy uv;ad py;aa yi;cs ih;jk	10
 镁氧石灰菱镁矿	mz;jm yh;qy ui;kp hv;hu ly;cl mz;jm kd;ug	10
@@ -157714,7 +157010,6 @@ sort: by_weight
 闵可夫斯基几何	mn;mw ke;dk fu;ad si;jq ji;tq ji;py he;rk	10
 闵可夫斯基空间	mn;mw ke;dk fu;ad si;jq ji;tq ks;xg jm;mo	10
 民离散而相失兮	mn;ag li;ws sj;wo er;aa xd;mo ui;pf xi;bk	10
-名曰黄芪建中汤	my;xk yt;aa hd;cb qi;cu jm;zy vs;aa th;dy	10
 默比茨传导阻滞	mo;hq bi;bb ci;cc ir;rv dk;cs zu;eq vi;dd	10
 莫比乌斯综合征	mo;cd bi;bb wu;pa si;jq zs;sz he;rk vg;xv	10
 磨刀不误砍柴工	mo;um dk;gp bu;ad wu;yw kj;uq il;mc gs;aa	10
@@ -157808,7 +157103,6 @@ sort: by_weight
 耐高温包埋材料	nl;ce gk;wk wf;dm bk;gs ml;tl cl;mc lc;md	10
 奈马克扩张定理	nl;du ma;aa ke;eg ko;fg vh;gi dy;bp li;wl	10
 萘哌地尔片博帝	nl;cn pl;kp di;ty er;dx pm;pa bo;uc di;jb	10
-南北杏仁鹌鹑汤	nj;ua bz;ag xy;mk rf;re an;nd ip;nx th;dy	10
 南朝萧绩墓石刻	nj;ua ik;ou xc;cs ji;sz mu;tm ui;kp ke;dh	10
 男儿膝下有黄金	nj;tl er;pg xi;oq xw;ab yb;ou hd;cb jn;ra	10
 南港项目管理部	nj;ua gh;dx xd;gy mu;aa gr;vg li;wl bu;ek	10
@@ -158025,8 +157319,6 @@ sort: by_weight
 平安消炎喷雾胶	py;aa an;bn xc;dx yj;hh pf;kb wu;yw jc;oj	10
 平等的法律地位	py;aa dg;vs de;bu fa;dq lv;xy di;ty wz;rl	10
 平对上颌第磨牙	py;aa dv;cy uh;aa he;yh di;vp mo;um ya;ap	10
-平肝开郁止血汤	py;aa gj;og kl;ac yu;ey vi;aa xt;pa th;dy	10
-苹果雪梨瘦肉汤	py;cp go;tm xt;yx li;ml ub;bs rb;ad th;dy	10
 凭借出色的发挥	py;jr jx;rx iu;aa se;db de;bu fa;ay hv;fj	10
 凭借出色的演技	py;jr jx;rx iu;aa se;db de;bu yj;dy ji;fv	10
 凭借自己的本事	py;jr jx;rx zi;pa ji;ag de;bu bf;aa ui;aa	10
@@ -158887,8 +158179,6 @@ sort: by_weight
 杀人不过头点地	ua;mi rf;pd bu;ad go;zc tb;dd dm;hv di;ty	10
 沙参麦冬饮豆桑	ua;du uf;sp ml;fw ds;wd yn;uq db;aa sh;mr	10
 沙参杞子麦冬襄	ua;du uf;sp qi;mj zi;aa ml;fw ds;wd xd;wy	10
-沙参玉竹老鸭汤	ua;du uf;sp yu;wd vu;gg lk;lb ya;nj th;dy	10
-沙参玉竹猪皮汤	ua;du uf;sp yu;wd vu;gg vu;qv pi;ad th;dy	10
 杀鼠剂意外中毒	ua;mi uu;ju ji;dq yi;xy wl;xb vs;aa du;fm	10
 沙塔尔精炼臂甲	ua;du ta;td er;dx jy;mq lm;hd bi;ob jw;aa	10
 沙特朱拜勒炼厂	ua;du te;ns vu;pw bl;uf le;lg lm;hd ih;ap	10
@@ -158968,7 +158258,6 @@ sort: by_weight
 生地丹皮升麻全	ug;na di;ty dj;pd pi;ad ug;pc ma;gl qr;rw	10
 声反射鼻腔测量	ug;um fj;py ue;cu bi;zb qd;ok ce;dz ld;ol	10
 省高级人民法院	ug;ou gk;wk ji;sj rf;pd mn;ag fa;dq yr;ew	10
-圣惠荆芥地黄汤	ug;ty hv;xh jy;dk jx;cj di;ty hd;cb th;dy	10
 生活满意度指数	ug;na ho;du mj;dl yi;xy du;gy vi;fv uu;wl	10
 圣基茨和尼维斯	ug;ty ji;tq ci;cc he;hk ni;ub wz;sv si;jq	10
 省级自然保护区	ug;ou ji;sj zi;pa rj;hq bk;rd hu;fh qu;ki	10
@@ -159064,7 +158353,6 @@ sort: by_weight
 实验者期望效应	ui;bt yj;ma ve;ol qi;oq wh;wo xc;wj yy;ga	10
 湿阳化饮又健脾	ui;dx yh;eo hw;rb yn;uq yb;vd jm;rj pi;ob	10
 师夷长技以制夷	ui;ab yi;ad ih;pd ji;fv yi;rd vi;dg yi;ad	10
-是以陈涉不用汤	ui;op yi;rd if;ed ue;db bu;ad ys;kf th;dy	10
 嗜异性凝集试验	ui;ko yi;cs xy;xu ny;dy ji;vm ui;yu yj;ma	10
 市隐庐医学杂著	ui;wj yn;ej lu;gh yi;ku xt;zb za;jm vu;cv	10
 适应性支持通气	ui;zu yy;ga xy;xu vi;uy ii;fs ts;zy qi;py	10
@@ -159191,7 +158479,6 @@ sort: by_weight
 衰弱型人格障碍	uy;yv ro;gd xy;tx rf;pd ge;mg vh;ev ai;uc	10
 双臂创伤性截断	ud;yy bi;ob id;dc uh;rl xy;xu jx;gv dr;ja	10
 双边外固定支架	ud;yy bm;zl wl;xb gu;kg dy;bp vi;uy jw;mj	10
-双补气血八珍汤	ud;yy bu;yb qi;py xt;pa ba;pd vf;wp th;dy	10
 双叉旋花白粉菌	ud;yy ia;yd xr;fp hw;ch bl;pa ff;mf jp;ch	10
 双重期望值定理	ud;yy is;pa qi;oq wh;wo vi;rv dy;bp li;wl	10
 双重狭义相对论	ud;yy is;pa xw;qj yi;id xd;mo dv;cy lp;yl	10
@@ -159255,7 +158542,6 @@ sort: by_weight
 斯特里贝克曲线	si;jq te;ns li;aa bz;ad ke;eg qu;aa xm;sj	10
 斯特瑞克装甲车	si;jq te;ns rv;we ke;eg vd;yv jw;aa ie;aa	10
 斯托尔波沃条约	si;jq to;fq er;dx bo;dp wo;dy tc;wm yt;su	10
-斯瓦尔巴德群岛	si;jq wa;ad er;dx ba;ag de;xx qp;yj dk;nu	10
 思益梵天所问经	si;xt yi;mb fj;mf tm;ad so;hj wf;km jy;sg	10
 四元线性方程组	si;aa yr;aw xm;sj xy;xu fh;wd ig;hi zu;sq	10
 四肢为诸阳之本	si;aa vi;ov wz;dd vu;yv yh;eo vi;dd bf;aa	10
@@ -159336,7 +158622,6 @@ sort: by_weight
 桃温万户府故城	tk;mv wf;dm wj;ag hu;dp fu;gf gu;wg ig;ti	10
 特定秘密保护法	te;ns dy;bp mi;hb mi;ub bk;rd hu;fh fa;dq	10
 特发性肺纤维化	te;ns fa;ay xy;xu fz;of xm;sq wz;sv hw;rb	10
-特克斯科斯群岛	te;ns ke;eg si;jq ke;hd si;jq qp;yj dk;nu	10
 特拉法尔加广场	te;ns la;fl fa;dq er;dx jw;lk gd;dp ih;ty	10
 特拉法尔加战役	te;ns la;fl fa;dq er;dx jw;lk vj;gv yi;xu	10
 特拉特洛科条约	te;ns la;fl te;ns lo;dg ke;hd tc;wm yt;su	10
@@ -159399,7 +158684,6 @@ sort: by_weight
 条件反射的泛化	tc;wm jm;rn fj;py ue;cu de;bu fj;df hw;rb	10
 条件因果关系说	tc;wm jm;rn yn;kd go;tm gr;qd xi;ps uo;yd	10
 调经解郁清热着	tc;yv jy;sg jx;jn yu;ey qy;dq re;hv ve;yo	10
-调经升阳除湿汤	tc;yv jy;sg ug;pc yh;eo iu;ey ui;dx th;dy	10
 条陀堡森林战役	tc;wm to;et bk;tb sf;ml ln;mm vj;gv yi;xu	10
 调制中频电疗法	tc;yv vi;dg vs;aa pn;yb dm;ag lc;bl fa;dq	10
 铁达尼盐单胞菌	tx;ju da;zd ni;ub yj;mb dj;ba bk;ob jp;ch	10
@@ -159409,7 +158693,6 @@ sort: by_weight
 铁甲雄师突击战	tx;ju jw;aa xs;vh ui;ab tu;xq ji;fk vj;gv	10
 铁锈色小孢子菌	tx;ju xq;jx se;db xc;ad bk;zb zi;aa jp;ch	10
 挺好的一个同事	ty;ft hk;nz de;bu yi;aa ge;ra ts;kk ui;aa	10
-葶苈大枣泻肺汤	ty;ct li;cl da;ad zk;cd xx;dx fz;of th;dy	10
 同步激发光谱学	ts;kk bu;vx ji;dj fa;ay gd;ea pu;yp xt;zb	10
 统筹发展和安全	ts;si ib;vu fa;ay vj;uy he;hk an;bn qr;rw	10
 通风良好的地方	ts;zy fg;ji ld;dg hk;nz de;bu di;ty fh;wd	10
@@ -159710,7 +158993,6 @@ sort: by_weight
 细长刺刚毛状菌	xi;st ih;pd ci;dc gh;dg mk;pg vd;qp jp;ch	10
 洗发剂意外中毒	xi;dx fa;ay ji;dq yi;xy wl;xb vs;aa du;fm	10
 西方阿拉伯数字	xi;aa fh;wd aa;ek la;fl bo;rb uu;wl zi;bz	10
-息烽集中营旧址	xi;xz fg;hf ji;vm vs;aa yy;cl jq;ao vi;tv	10
 吸附无细胞百白	xi;kj fu;ef wu;ag xi;st bk;ob bl;ab bl;pa	10
 习惯和冲突障碍	xi;ga gr;xg he;hk is;dv tu;xq vh;ev ai;uc	10
 膝关节髌骨假体	xi;oq gr;qd jx;ce bn;gb gu;go jw;rj ti;rb	10
@@ -159846,7 +159128,6 @@ sort: by_weight
 香石双解袋泡剂	xd;ho ui;kp ud;yy jx;jn dl;yd pk;db ji;dq	10
 相位荧光测定法	xd;mo wz;rl yy;ch gd;ea ce;dz dy;bp fa;dq	10
 相信相信的力量	xd;mo xn;ry xd;mo xn;ry de;bu li;gp ld;ol	10
-小半夏加茯苓汤	xc;ad bj;bf xw;wz jw;lk fu;cf ly;cl th;dy	10
 小柴胡汤和解供	xc;ad il;mc hu;og th;dy he;hk jx;jn gs;rg	10
 小动脉性肾硬化	xc;ad ds;ly ml;oy xy;xu uf;oy yy;ug hw;rb	10
 消毒弹性创可贴	xc;dx du;fm tj;gd xy;xu id;dc ke;dk tx;bv	10
@@ -159886,7 +159167,6 @@ sort: by_weight
 小脑性共济失调	xc;ad nk;ox xy;xu gs;cb ji;dq ui;pf tc;yv	10
 小牛血清去蛋白	xc;ad nq;pa xx;pa qy;dq qu;ts dj;ip bl;pa	10
 小气道功能障碍	xc;ad qi;py dk;zu gs;lg ng;sb vh;ev ai;uc	10
-小青龙加石膏汤	xc;ad qy;of ls;ad jw;lk ui;kp gk;og th;dy	10
 小青龙汤亦主之	xc;ad qy;of ls;ad th;dy yi;wb vu;dw vi;dd	10
 小青龙汤最有功	xc;ad qy;of ls;ad th;dy zv;oq yb;ou gs;lg	10
 消失得无影无踪	xc;dx ui;pf de;xc wu;ag yy;pj wu;ag zs;zz	10
@@ -159962,7 +159242,6 @@ sort: by_weight
 新生儿重度窒息	xn;jq ug;na er;pg vs;pa du;gy vi;xv xi;xz	10
 新时代青年先锋	xn;jq ui;oc dl;ry qy;of nm;ra xm;ne fg;jf	10
 新世纪福音战士	xn;jq ui;ca ji;sj fu;uf yn;lo vj;gv ui;aa	10
-新四军军部旧址	xn;jq si;aa jp;bi jp;bi bu;ek jq;ao vi;tv	10
 心外膜起搏导线	xn;dd wl;xb mo;om qi;zj bo;fc dk;cs xm;sj	10
 信息和金融服务	xn;ry xi;xz he;hk jn;ra rs;ig fu;oy wu;wl	10
 信息化和数字化	xn;ry xi;xz hw;rb he;hk uu;wl zi;bz hw;rb	10
@@ -160005,7 +159284,6 @@ sort: by_weight
 新增投资者数量	xn;jq zg;tc tb;fu zi;bc ve;ol uu;wl ld;ol	10
 新账旧账一起算	xn;jq vh;bi jq;ao vh;bi yi;aa qi;zj sr;vc	10
 新账老账一起算	xn;jq vh;bi lk;lb vh;bi yi;aa qi;zj sr;vc	10
-新制橘皮竹茹汤	xn;jq vi;dg ju;mk pi;ad vu;gg ru;cr th;dy	10
 心中如啖蒜齑状	xn;dd vs;aa ru;nk dj;ky sr;cs ji;qj vd;qp	10
 心中恶寒不足者	xn;dd vs;aa wu;xy hj;bd bu;ad zu;kv ve;ol	10
 心浊音界无扩大	xn;dd vo;di yn;lo jx;tj wu;ag ko;fg da;ad	10
@@ -160486,7 +159764,6 @@ sort: by_weight
 硬化剂注入疗法	yy;ug hw;rb ji;dq vu;dv ru;pd lc;bl fa;dq	10
 硬化萎缩性苔藓	yy;ug hw;rb wz;cw so;ss xy;xu tl;ct xm;cx	10
 应激性生活事件	yy;ga ji;dj xy;xu ug;na ho;du ui;aa jm;rn	10
-英属维尔京群岛	yy;cy uu;uy wz;sv er;dx jy;wx qp;yj dk;nu	10
 英属印度洋领地	yy;cy uu;uy yn;ey du;gy yh;dy ly;yl di;ty	10
 罂粟果提取物粉	yy;fb su;mx go;tm ti;fu qu;ey wu;nw ff;mf	10
 英雄连勇气传说	yy;cy xs;vh lm;zi ys;ly qi;py ir;rv uo;yd	10
@@ -160727,7 +160004,6 @@ sort: by_weight
 真夏的人鱼传说	vf;uj xw;wz de;bu rf;pd yu;da ir;rv uo;yd	10
 真性红细胞增多	vf;uj xy;xu hs;sg xi;st bk;ob zg;tc do;xx	10
 枕叶脑白质病变	vf;mg ye;ku nk;ox bl;pa vi;bu by;bb bm;wy	10
-珍珠翡翠白玉汤	vf;wp vu;wv fz;yf cv;yz bl;pa yu;wd th;dy	10
 正丙氧基化合物	vg;av by;an yh;qy ji;tq hw;rb he;rk wu;nw	10
 正餐不喝夜宵喝	vg;av cj;uy bu;ad he;kh ye;wd xc;bx he;kh	10
 正常分娩并绝育	vg;av ih;jk ff;bd mm;nm by;bk jt;ss yu;os	10
@@ -160799,10 +160075,8 @@ sort: by_weight
 肢上下肌肉萎缩	vi;ov uh;aa xw;ab ji;oj rb;ad wz;cw so;ss	10
 知识产权第一案	vi;ku ui;yv ij;wi qr;my di;vp yi;aa an;ma	10
 枳实导滞首大黄	vi;mv ui;bt dk;cs vi;dd ub;qz da;ad hd;cb	10
-枳实栝楼桂枝汤	vi;mv ui;bt gw;mu lb;ml gv;mg vi;mv th;dy	10
 枳实芩夏白芍将	vi;mv ui;bt qn;cj xw;wz bl;pa uk;cu jd;jc	10
 枳实芍药散主之	vi;mv ui;bt uk;cu yk;cy sj;wo vu;dw vi;dd	10
-枳实薤白桂枝汤	vi;mv ui;bt xx;ca bl;pa gv;mg vi;mv th;dy	10
 枳实易壳行气良	vi;mv ui;bt yi;ow ke;uj xy;xi qi;py ld;dg	10
 直属党组织书记	vi;uq uu;uy dh;ek zu;sq vi;sv uu;ad ji;yj	10
 指数股票型基金	vi;fv uu;wl gu;ou pc;xu xy;tx ji;tq jn;ra	10
@@ -161399,7 +160673,6 @@ sort: by_weight
 白刀子进红刀子出	bl;pa dk;gp zi;aa jn;zj hs;sg dk;gp zi;aa iu;aa	10
 百舸争流鹰击长空	bl;ab ge;vk vg;dy lq;di yy;gn ji;fk ih;pd ks;xg	10
 百花齐放百家争鸣	bl;ab hw;ch qi;wa fh;wf bl;ab jw;bu vg;dy my;kn	10
-白求恩手术室旧址	bl;pa qq;ad en;xy ub;pa uu;md ui;bv jq;ao vi;tv	10
 柏孜克里克千佛洞	bl;mb zi;wz ke;eg li;aa ke;eg qm;pa fo;rf ds;dt	10
 百足之虫死而不僵	bl;ab zu;kv vi;dd is;ad si;db er;aa bu;ad jd;rj	10
 爆破地面大块岩石	bk;hb po;up di;ty mm;aa da;ad ky;td yj;uu ui;kp	10
@@ -161544,7 +160817,6 @@ sort: by_weight
 国家兴亡匹夫有责	go;ky jw;bu xy;ba wh;da pi;ke fu;ad yb;ou ze;bf	10
 海岸动力模拟实验	hl;dm an;ug ds;ly li;gp mo;mm ni;fy ui;bt yj;ma	10
 海底多金属热液沉	hl;dm di;gd do;xx jn;ra uu;uy re;hv ye;dy if;dj	10
-海丰红宫红场旧址	hl;dm fg;aa hs;sg gs;bl hs;sg ih;ty jq;ao vi;tv	10
 亥姆霍兹函数判据	hl;wr mu;nm ho;yv zi;qy hj;lk uu;wl pj;db ju;fj	12
 含煤岩系成因类型	hj;rk mz;hm yj;uu xi;ps ig;gg yn;kd lz;md xy;tx	10
 含煤岩系旋回结构	hj;rk mz;hm yj;uu xi;ps xr;fp hv;kk jx;sj gb;mg	10
@@ -161562,7 +160834,6 @@ sort: by_weight
 花开两朵各表一枝	hw;ch kl;ac ld;ad do;mj ge;wk bc;fy yi;aa vi;mv	10
 华严寺薄伽教藏殿	hw;uh yj;ap si;ct bk;cc ga;rj jc;wx zh;cz dm;ug	10
 环境水文地质调查	hr;wb jy;tj uv;ad wf;wi di;ty vi;bu dc;yv ia;md	10
-黄桥决战革命旧址	hd;cb qc;mq jt;dd vj;gv ge;ca my;re jq;ao vi;tv	10
 会哭的孩子有奶吃	hv;ry ku;kq de;bu hl;zh zi;aa yb;ou nl;nn ii;kq	10
 会者不难难者不会	hv;ry ve;ol bu;ad nj;vy nj;vy ve;ol bu;ad hv;ry	10
 活人不能让尿憋死	ho;du rf;pd bu;ad ng;sb rh;yu nc;uu bx;xb si;db	10
@@ -161936,8 +161207,6 @@ sort: by_weight
 嘴巴给我放干净点	zv;kj ba;ag gz;sh wo;pd fh;wf gj;aa jy;dv dm;hv	10
 最低工业米百分值	zv;oq di;rd gs;aa ye;aa mi;dd bl;ab ff;bd vi;rv	10
 嘴上没个把门儿的	zv;kj uh;aa mz;du ge;ra ba;fb mf;dg er;pg de;bu	10
-八路军总司令部旧址	ba;pd lu;zg jp;bi zs;xk si;gk ly;rs bu;ek jq;ao vi;tv	10
-白头翁加甘草阿胶汤	bl;pa tb;dd wg;yg jw;lk gj;ca ck;cz ee;ek jc;oj th;dy	10
 搬起石头砸自己的脚	bj;fb qi;zj ui;kp tb;dd za;uz zi;pa ji;ag de;bu jc;oq	10
 宝山六道沟冶钢遗址	bk;by uj;aa lq;wb dk;zu gb;dg ye;dt gh;jg yi;zg vi;tv	10
 被人卖了还帮着数钱	bz;yp rf;pd ml;um le;aa hl;zb bh;jb vk;yo uu;wl qm;jj	10
@@ -161968,11 +161237,9 @@ sort: by_weight
 躲了初一躲不了十五	do;ud le;aa iu;yd yi;aa do;ud bu;ad lc;aa ui;aa wu;aa	10
 房山云居寺塔及石经	fh;hf uj;aa yp;es ju;ug si;ct ta;td ji;nd ui;kp jy;sg	10
 该放松的时候就放松	gl;yh fh;wf ss;mg de;bu ui;oc hb;ru jq;yj fh;wf ss;mg	10
-干姜黄芩黄连人参汤	gj;aa jd;ny hd;cb qn;cj hd;cb lm;zi rf;pd uf;sp th;dy	10
 高蠡暴动烈士纪念塔	gk;wk li;it bk;ou ds;ly lx;hl ui;aa ji;sj nm;xj ta;td	10
 格罗图斯德雷珀定律	ge;mg lo;sx tu;kd si;jq de;xx lz;yt po;wb dy;bp lv;xy	10
 广元千佛崖摩崖造象	gd;dp yr;aw qm;pa fo;rf ya;uy mo;um ya;uy zk;zg xd;du	10
-桂枝甘草龙骨牡蛎汤	gv;mg vi;mv gj;ca ck;cz ls;ad gu;go mu;nt li;il th;dy	10
 国际奥林匹克委员会	go;ky ji;eu ao;dm ln;mm pi;ke ke;eg wz;hn yr;kb hv;ry	10
 汉书遗址西团山遗址	hj;dy uu;ad yi;zg vi;tv xi;aa tr;kc uj;aa yi;zg vi;tv	10
 和林格尔土城子遗址	he;hk ln;mm ge;mg er;dx tu;aa ig;ti zi;aa yi;zg vi;tv	10
@@ -161989,8 +161256,6 @@ sort: by_weight
 九百六十万平方公里	jq;py bl;ab lq;wb ui;aa wj;ag py;aa fh;wd gs;sb li;aa	10
 孔望山汉代摩崖造像	ks;zg wh;wo uj;aa hj;dy dl;ry mo;um ya;uy zk;zg xd;rx	10
 辽沈战役烈士纪念塔	lc;zl uf;dg vj;gv yi;xu lx;hl ui;aa ji;sj nm;xj ta;td	10
-麻黄杏仁甘草石膏汤	ma;gl hd;cb xy;mk rf;re gj;ca ck;cz ui;kp gk;og th;dy	10
-麻黄杏仁薏苡甘草汤	ma;gl hd;cb xy;mk rf;re yi;cy yi;cy gj;ca ck;cz th;dy	10
 没有对比就没有伤害	mz;du yb;ou dv;cy bi;bb jq;yj mz;du yb;ou uh;rl hl;bk	10
 能量守恒与转化定律	ng;sb ld;ol ub;bc hg;xg yu;aa vr;iv hw;rb dy;bp lv;xy	10
 纽芬兰与拉布拉多省	nq;si ff;cf lj;qe yu;aa la;fl bu;ju la;fl do;xx ug;ou	10
@@ -162005,23 +161270,18 @@ sort: by_weight
 斯莫卢霍夫斯基理论	si;jq mo;cd lu;bu ho;yv fu;ad si;jq ji;tq li;wl lp;yl	10
 苏黎世联邦理工学院	su;cb li;hu ui;ca lm;eg bh;ef li;wl gs;aa xt;zb yr;ew	10
 苏州文庙内宋代石刻	su;cb vb;id wf;wi mc;gy nz;ad ss;bm dl;ry ui;kp ke;dh	10
-绥远城将军衙署旧址	sv;st yr;zy ig;ti jd;jc jp;bi ya;xw uu;sv jq;ao vi;tv	10
 太平天国历史博物馆	tl;dd py;aa tm;ad go;ky li;il ui;ki bo;uc wu;nw gr;ug	10
 太平天国天王府遗址	tl;dd py;aa tm;ad go;ky tm;ad wh;aa fu;gf yi;zg vi;tv	10
 唐单于都护府城遗址	th;gk ij;ba yu;aa du;ev hu;fh fu;gf ig;ti yi;zg vi;tv	10
 堂子街太平天国壁画	th;tk zi;aa jx;xg tl;dd py;aa tm;ad go;ky bi;tb hw;ak	10
-特克斯和凯科斯群岛	te;ns ke;eg si;jq he;hk kl;jj ke;hd si;jq qp;yj dk;nu	10
 天将降大任于是人也	tm;ad jd;jc jd;ef da;ad rf;rr yu;aa ui;op rf;pd ye;gg	10
 天下没有白吃的午餐	tm;ad xw;ab mz;du yb;ou bl;pa ii;kq de;bu wu;ru cj;uy	10
 天下没有不散的筵席	tm;ad xw;ab mz;du yb;ou bu;ad sj;wo de;bu yj;vy xi;jc	10
 铁打的营盘流水的兵	tx;ju da;fd de;bu yy;cl pj;mv lq;di uv;ad de;bu by;qb	10
-通脉四逆加猪胆汁汤	ts;zy ml;oy si;aa ni;zn jw;lk vu;qv dj;od vi;du th;dy	10
 万军丛中取敌将首级	wj;ag jp;bi cs;ac vs;aa qu;ey di;wu jd;jc ub;qz ji;sj	10
 王子犯法与庶民同罪	wh;aa zi;aa fj;qe fa;dq yu;aa uu;gh mn;ag ts;kk zv;sf	10
 唯女子与小人难养也	wz;kv nv;aa zi;aa yu;aa xc;ad rf;pd nj;vy yh;ya ye;gg	10
 我不入地狱谁入地狱	wo;pd bu;ad ru;pd di;ty yu;qq uv;yv ru;pd di;ty yu;qq	1001
-武昌起义军政府旧址	wu;vy ih;oo qi;zj yi;id jp;bi vg;wv fu;gf jq;ao vi;tv	10
-西柏坡中共中央旧址	xi;aa bl;mb po;tp vs;aa gs;cb vs;aa yh;ad jq;ao vi;tv	10
 夏允彝夏完淳父子墓	xw;wz yp;se yi;jc xw;wz wj;by ip;dx fu;pd zi;aa mu;tm	10
 响堂铺伏击战纪念碑	xd;kx th;tk pu;jf fu;rq ji;fk vj;gv ji;sj nm;xj bz;ub	10
 小人之心度君子之腹	xc;ad rf;pd vi;dd xn;dd do;gy jp;ky zi;aa vi;dd fu;of	10
@@ -162035,12 +161295,9 @@ sort: by_weight
 质谱测定法质量传递	vi;bu pu;yp ce;dz dy;bp fa;dq vi;bu ld;ol ir;rv di;zd	10
 知其然不知其所以然	vi;ku qi;ba rj;hq bu;ad vi;ku qi;ba so;hj yi;rd rj;hq	10
 知其然而知其所以然	vi;ku qi;ba rj;hq er;aa vi;ku qi;ba so;hj yi;rd rj;hq	10
-周恩来在津活动旧址	vb;kt en;xy ll;am zl;ut jn;dy ho;du ds;ly jq;ao vi;tv	10
-自求恩模范病室旧址	zi;pa qq;ad en;xy mo;mm fj;ce by;bb ui;bv jq;ao vi;tv	10
 做一天和尚撞一天钟	zo;rg yi;aa tm;ad he;hk uh;xk vd;ft yi;aa tm;ad vs;jv	10
 渤海国上京龙泉府遗址	bo;db hl;dm go;ky uh;aa jy;wx ls;ad qr;ub fu;gf yi;zg vi;tv	10
 波斯尼亚和黑塞哥维那	bo;dp si;jq ni;ub ya;ay he;hk hz;ha sl;tb ge;kd wz;sv na;el	10
-柴胡去半夏加栝蒌根汤	il;mc hu;og qu;ts bj;bf xw;wz jw;lk gw;mu lb;cl gf;mg th;dy	10
 常在河边走哪有不湿鞋	ih;jk zl;ut he;dk bm;zl zb;tv na;kn yb;ou bu;ad ui;dx xx;gg	10
 撑死胆大的饿死胆小的	ig;fv si;db dj;od da;ad de;bu ee;uw si;db dj;od xc;ad de;bu	10
 丑媳妇早晚也得见公婆	ib;aa xi;nx fu;nx zk;ou wj;om ye;gg de;xc jm;ag gs;sb po;nb	10
@@ -162051,7 +161308,6 @@ sort: by_weight
 躲得了初一躲不过十五	do;ud de;xc lc;aa iu;yd yi;aa do;ud bu;ad go;zc ui;aa wu;aa	10
 过了这个村就没这个店	go;zc le;aa ve;zw ge;ra cp;mc jq;yj mz;du ve;zw ge;ra dm;gv	10
 好人不长命祸害遗千年	hk;nz rf;pd bu;ad ih;pd my;re ho;ug hl;bk yi;zg qm;pa nm;ra	10
-赫德岛和麦克唐纳群岛	he;ii de;xx dk;nu he;hk ml;fw ke;eg th;gk na;sn qp;yj dk;nu	10
 既想当婊子又要立牌坊	ji;gg xd;xx dh;xx bc;nb zi;aa yb;vd yk;xn li;da pl;pb fh;tf	10
 加州大学圣地亚哥分校	jw;lk vb;id da;ad xt;zb ug;ty di;ty ya;ay ge;kd ff;bd xc;mj	10
 克里斯蒂亚诺罗纳尔多	ke;eg li;aa si;jq di;cd ya;ay no;yr lo;sx na;sn er;dx do;xx	10
@@ -162074,25 +161330,13 @@ sort: by_weight
 一万五千一百四十四卷	yi;aa wj;ag wu;aa qm;pa yi;aa bl;ab si;aa ui;aa si;aa jr;ef	10
 一朝被蛇咬十年怕井绳	yi;aa vk;ou bz;yp ue;it yk;kj ui;aa nm;ra pa;xb jy;aa ug;sd	10
 紫外线分光光度测定法	zi;sc wl;xb xm;sj ff;bd gd;ea gd;ea du;gy ce;dz dy;bp fa;dq	10
-安源路矿工人俱乐部旧址	an;bn yr;dy lu;zg kd;ug gs;aa rf;pd ju;rj le;pd bu;ek jq;ao vi;tv	10
 褒斜道石门及其摩崖石刻	bk;wy xx;dy dk;zu ui;kp mf;dg ji;nd qi;ba mo;um ya;uy ui;kp ke;dh	10
-当归四逆加吴茱萸生姜汤	dh;xx gv;ax si;aa ni;zn jw;lk wu;kt vu;cv yu;cy ug;na jd;ny th;dy	10
 得克萨斯大学奥斯汀分校	de;xc ke;eg sa;ci si;jq da;ad xt;zb ao;dm si;jq ty;dd ff;bd xc;mj	10
 古建筑及历史纪念建筑物	gu;uk jm;zy vu;vg ji;nd li;il ui;ki ji;sj nm;xj jm;zy vu;vg wu;nw	10
-广州农民运动讲习所旧址	gd;dp vb;id ns;by mn;ag yp;zy ds;ly jd;yj xi;ga so;hj jq;ao vi;tv	10
 过了这个村就没这个店了	go;zc le;aa ve;zw ge;ra cp;mc jq;yj mz;du ve;zw ge;ra dm;gv le;aa	10
-厚朴生姜半夏甘草人参汤	hb;iz po;mb ug;na jd;ny bj;bf xw;wz gj;ca ck;cz rf;pd uf;sp th;dy	10
 明中都皇故城及皇陵石刻	my;oo vs;aa du;ev hd;bw gu;wg ig;ti ji;nd hd;bw ly;el ui;kp ke;dh	10
 你不说话没人把你当哑巴	ni;re bu;ad uo;yd hw;yu mz;du rf;pd ba;fb ni;re dh;xx ya;ky ba;ag	10
 你不说话没人当你是哑巴	ni;re bu;ad uo;yd hw;yu mz;du rf;pd dh;xx ni;re ui;op ya;ky ba;ag	10
-秋收起义文家市会师旧址	qq;hh ub;wj qi;zj yi;id wf;wi jw;bu ui;wj hv;ry ui;ab jq;ao vi;tv	10
 让暴风雨来得更猛烈些吧	rh;yu bk;ou fg;ji yu;ad ll;am de;xc gg;ad mg;qm lx;hl xx;ec ba;kb	10
-瓦利斯群岛和富图纳群岛	wa;ad li;hd si;jq qp;yj dk;nu he;hk fu;bf tu;kd na;sn qp;yj dk;nu	10
 压死骆驼的最后一根稻草	ya;id si;db lo;mg to;mt de;bu zv;oq hb;pk yi;aa gf;mg dk;hj ck;cz	10
 峨眉山圣寿万年寺铜铁佛像	ee;uw mz;om uj;aa ug;ty ub;cf wj;ag nm;ra si;ct ts;jt tx;ju fo;rf xd;rx	10
-革命遗址及革命纪念建筑物	ge;ca my;re yi;zg vi;tv ji;nd ge;ca my;re ji;sj nm;xj jm;zy vu;vg wu;nw	10
-苓甘五味加姜辛半夏杏仁汤	ly;cl gj;ca wu;aa wz;kw jw;lk jd;ny xn;lu bj;bf xw;wz xy;mk rf;re th;dy	10
-南乔治亚岛和南桑威奇群岛	nj;ua qc;ya vi;dt ya;ay dk;nu he;hk nj;ua sh;mr wz;gn qi;dk qp;yj dk;nu	10
-林则徐销烟池与虎门炮台旧址	ln;mm ze;bd xu;xy xc;jx yj;hy ii;dy yu;aa hu;hj mf;dg pk;hb tl;sk jq;ao vi;tv	10
-中国社会主义青年团中央机关旧址	vs;aa go;ky ue;ut hv;ry vu;dw yi;id qy;of nm;ra tr;kc vs;aa yh;ad ji;mj gr;qd jq;ao vi;tv	10
-中国共产党第一次全国代表大会会址	vs;aa go;ky gs;cb ij;wi dh;ek di;vp yi;aa ci;dq qr;rw go;ky dl;ry bc;fy da;ad hv;ry hv;ry vi;tv	10

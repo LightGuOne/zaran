@@ -9523,6 +9523,7 @@ sort: by_weight
 眉目在图	mz;om mu;aa zl;ut tu;kd	10
 每念斯耻	mz;rm nm;xj si;jq ii;ev	44
 美人分香	mz;dy rf;pd ff;bd xd;ho	10
+美人既醉	mz;dy rf;pd ji;gg zv;yz	20
 美人之贻	mz;dy rf;pd vi;dd yi;bt	44
 没身不殆	mz;du uf;pp bu;ad dl;dt	44
 美生其手	mz;dy ug;na qi;ba ub;pa	10
@@ -12852,7 +12853,7 @@ sort: by_weight
 岁亦莫止	sv;ux yi;wb mo;cd vi;aa	10
 岁亦阳止	sv;ux yi;wb yh;eo vi;aa	10
 虽有大知	sv;ki yb;ou da;ad vi;ku	10
-虽有槁暴	sv;ki yb;ou gk;mg bk;ou	44
+虽有槁暴	sv;ki yb;ou gk;mg pu;ou	44
 虽有鸣者	sv;ki yb;ou my;kn ve;ol	10
 虽有荣观	sv;ki yb;ou rs;cm gr;jy	44
 虽有寿夭	sv;ki yb;ou ub;cf yk;pd	10
@@ -17866,6 +17867,7 @@ sort: by_weight
 助我举柴	vu;lq wo;pd ju;df il;mc	10
 竹下把酒	vu;gg xw;ab ba;fb jq;dy	10
 渚崖之间	vu;dv ya;uy vi;dd jm;mo	10
+朱颜酡些	vu;pw yj;yy to;yt xx;ec	7
 烛映帘栊	vu;hi yy;oy lm;xj ls;ml	10
 珠铀翠盖	vu;wv yb;jy cv;yz gl;my	10
 珠玉不鲜	vu;wv yu;wd bu;ad xm;yy	10
@@ -24548,7 +24550,7 @@ sort: by_weight
 别智玄法师	bx;dl vi;ov xr;wy fa;dq ui;ab	10
 别种几株梅	bx;dl vs;hv ji;py vu;mv mz;mm	10
 别酌酣高堂	bx;dl vo;yu hj;yg gk;wk th;tk	10
-别酌劝行子	bx;dl vo;yu qr;ly hh;xi zi;aa	10
+别酌劝行子	bx;dl vo;yu qr;ly xy;xi zi;aa	10
 别自有仙家	bx;dl zi;pa yb;ou xm;ru jw;bu	10
 别作边城春	bx;dl zo;rv bm;zl ig;ti ip;of	10
 斌驳带深谿	bn;ww bo;my dl;jb uf;dm xi;gx	10
@@ -58262,7 +58264,7 @@ sort: by_weight
 夫吹万不同	fu;ad iv;kq wj;ag bu;ad ts;kk	10
 富春真古邑	fu;bf ip;of vf;uj gu;uk yi;kb	10
 复辍台衡老	fu;wo io;iu tl;sk hg;xd lk;lb	10
-复此悲行子	fu;wo ci;vb bz;xf hh;xi zi;aa	10
+复此悲行子	fu;wo ci;vb bz;xf xy;xi zi;aa	10
 复此鬓发玄	fu;wo ci;vb bn;ib fa;ay xr;wy	10
 复此池边地	fu;wo ci;vb ii;dy bm;zl di;ty	10
 复此出郊迎	fu;wo ci;vb iu;aa jc;ej yy;ze	10
@@ -68956,7 +68958,7 @@ sort: by_weight
 郭隗黄金峻	go;ex kv;eg hd;cb jn;ra jp;uj	10
 果媿一丘土	go;tm kv;ng yi;aa qq;pa tu;aa	10
 郭隗致乐毅	go;ex kv;eg vi;wv yt;pd yi;uu	10
-果来遗老叟	go;tm ll;am yi;zg lk;lb sb;yj	10
+果来遗老叟	go;tm ll;am wz;zg lk;lb sb;yj	10
 过懒从衣结	go;zc lj;xl cs;rr yi;dd jx;sj	10
 郭郎儿近拍	go;ex lh;el er;pg jn;zj pl;fb	10
 过老不悲伤	go;zc lk;lb bu;ad bz;xf uh;rl	10
@@ -71495,30 +71497,6 @@ sort: by_weight
 杭州苏小小	hh;mk vb;id su;cb xc;ad xc;ad	10
 杭州五千里	hh;mk vb;id wu;aa qm;pa li;aa	10
 杭州一望空	hh;mk vb;id yi;aa wh;wo ks;xg	10
-行子傍水餐	hh;xi zi;aa bh;rp uv;ad cj;uy	10
-行子悲且慕	hh;xi zi;aa bz;xf qx;aa mu;xm	10
-行子车下宿	hh;xi zi;aa ie;aa xw;ab su;bb	10
-行子驰出户	hh;xi zi;aa ii;my iu;aa hu;dp	10
-行子充夜饥	hh;xi zi;aa is;wy ye;wd ji;uj	10
-行子愁归旋	hh;xi zi;aa ib;xq gv;ax xr;fp	10
-行子但悲辛	hh;xi zi;aa dj;rd bz;xf xn;lu	10
-行子得良时	hh;xi zi;aa de;xc ld;dg ui;oc	10
-行子对飞蓬	hh;xi zi;aa dv;cy fz;yd pg;cf	10
-行子犯风烟	hh;xi zi;aa fj;qe fg;ji yj;hy	10
-行子复蹉跎	hh;xi zi;aa fu;wo co;zi to;zt	10
-行子孤灯店	hh;xi zi;aa gu;zg dg;hd dm;gv	10
-行子何独难	hh;xi zi;aa he;rk du;qi nj;vy	10
-行子倦风尘	hh;xi zi;aa jr;rj fg;ji if;tx	10
-行子郡城晓	hh;xi zi;aa jp;ej ig;ti xc;oy	10
-行子苦风潮	hh;xi zi;aa ku;cg fg;ji ik;di	10
-行子履胡霜	hh;xi zi;aa lv;uf hu;og ud;yx	10
-行子念明发	hh;xi zi;aa nm;xj my;oo fa;ay	10
-行子期晓发	hh;xi zi;aa qi;oq xc;oy fa;ay	10
-行子绕天北	hh;xi zi;aa rk;sy tm;ad bz;ag	10
-行子时一望	hh;xi zi;aa ui;oc yi;aa wh;wo	10
-行子未须归	hh;xi zi;aa wz;ex xu;py gv;ax	10
-行子心纡郁	hh;xi zi;aa xn;dd yu;sy yu;ey	10
-行子在万里	hh;xi zi;aa zl;ut wj;ag li;aa	10
 好被暂流连	hk;nz bz;yp zj;ov lq;di lm;zi	10
 好卜迎秋宴	hk;nz bo;ad yy;ze qq;hh yj;bn	10
 好采旧山薇	hk;nz cl;vm jq;ao uj;aa wz;cw	10
@@ -75784,7 +75762,7 @@ sort: by_weight
 胡尘高际天	hu;og if;tx gk;wk ji;eu tm;ad	10
 胡尘晦落日	hu;og if;tx hv;om lo;cl ri;aa	10
 胡尘昏坱莽	hu;og if;tx hp;ou yh;ty mh;cc	10
-虎臣皆被坚	hu;hj if;aa jx;bb bz;yp jm;ty	10
+虎臣皆被坚	hu;hj if;aa jx;bb pi;yp jm;ty	10
 胡尘净古塞	hu;og if;tx jy;dv gu;uk sl;tb	10
 胡尘清玉塞	hu;og if;tx qy;dq yu;wd sl;tb	10
 胡尘未北灭	hu;og if;tx wz;ex bz;ag mx;ah	10
@@ -102577,10 +102555,6 @@ sort: by_weight
 乐哉无一事	le;pd zl;kg wu;ag yi;aa ui;aa	10
 乐哉弦管客	le;pd zl;kg xm;gx gr;vg ke;bg	10
 乐张游子悲	le;pd vh;gi yb;dz zi;aa bz;xf	10
-了知明镜台	le;aa vi;ku my;oo jy;jj tl;sk	10
-了知人世空	le;aa vi;ku rf;pd ui;ca ks;xg	10
-了知是赤松	le;aa vi;ku ui;op ii;tb ss;mg	10
-了知通李释	le;aa vi;ku ts;zy li;mz ui;pf	10
 乐职在中和	le;pd vi;ev zl;ut vs;aa he;hk	10
 乐助长歌逸	le;pd vu;lq vh;pd ge;qg yi;zt	10
 了自不相顾	le;aa zi;pa bu;ad xd;mo gu;ye	10
@@ -105808,6 +105782,10 @@ sort: by_weight
 辽哉千载后	lc;zl zl;kg qm;pa zl;ig hb;pk	10
 撩摘芳情遍	lc;fl vl;fd fh;cf qy;xq bm;zb	10
 聊召六甲旬	lc;em vk;kd lq;wb jw;aa xp;go	10
+了知明镜台	lc;aa vi;ku my;oo jy;jj tl;sk	10
+了知人世空	lc;aa vi;ku rf;pd ui;ca ks;xg	10
+了知是赤松	lc;aa vi;ku ui;op ii;tb ss;mg	10
+了知通李释	lc;aa vi;ku ts;zy li;mz ui;pf	10
 料舟依岸曲	lc;md vb;pd yi;ry an;ug qu;aa	10
 聊助舟人唱	lc;em vu;lq vb;pd rf;pd ih;ki	10
 聊酌论心素	lc;em vo;yu lp;yl xn;dd su;sf	10
@@ -115111,7 +115089,7 @@ sort: by_weight
 冥寞岂复来	my;bl mo;bm qi;uj fu;wo ll;am	10
 冥漠无先后	my;bl mo;dm wu;ag xm;ne hb;pk	10
 瞑目归黄泥	my;om mu;aa gv;ax hd;cb ni;dn	10
-明牧念行子	my;oo mu;nw nm;xj hh;xi zi;aa	10
+明牧念行子	my;oo mu;nw nm;xj xy;xi zi;aa	10
 明目扫云烟	my;oo mu;aa sk;fx yp;es yj;hy	10
 冥目焉能攀	my;bl mu;aa yj;vh ng;sb pj;ud	10
 明目夜中书	my;oo mu;aa ye;wd vs;aa uu;ad	10
@@ -116172,8 +116150,8 @@ sort: by_weight
 末路遭邅回	mo;ad lu;zg zk;zc vj;zd hv;kk	10
 末路终离别	mo;ad lu;zg vs;sd li;ws bx;dl	10
 末路重依依	mo;ad lu;zg vs;pa yi;ry yi;ry	10
-莫论行子愁	mo;cd lp;yl hh;xi zi;aa ib;xq	10
 莫论身在日	mo;cd lp;yl uf;pp zl;ut ri;aa	10
+莫论行子愁	mo;cd lp;yl xy;xi zi;aa ib;xq	10
 莫虑当炎暑	mo;cd lv;hx dh;xx yj;hh uu;ov	10
 莫虑昆山暗	mo;cd lv;hx kp;ob uj;aa an;oy	10
 莫虑能骑马	mo;cd lv;hx ng;sb qi;mq ma;aa	10
@@ -126928,7 +126906,7 @@ sort: by_weight
 岂足歌唐虞	qi;uj zu;kv ge;qg th;gk yu;hw	10
 妻族更谁亲	qi;na zu;fu gg;ad uv;yv qn;lm	10
 岂足万里行	qi;uj zu;kv wj;ag li;aa xy;xi	10
-跂足望行子	qi;zv zu;kv wh;wo hh;xi zi;aa	10
+跂足望行子	qi;zv zu;kv wh;wo xy;xi zi;aa	10
 岂足议大政	qi;uj zu;kv yi;yy da;ad vg;wv	10
 其最鼻褰蛇	qi;ba zv;oq bi;zb qm;by ue;it	10
 其尊德乐道	qi;ba zp;cq de;xx le;pd dk;zu	10
@@ -133269,12 +133247,12 @@ sort: by_weight
 穷途多俊异	qs;xl tu;zy do;xx jp;rj yi;cs	10
 穷途方恸哭	qs;xl tu;zy fh;wd ts;xd ku;kq	10
 穷途非所恨	qs;xl tu;zy fz;aa so;hj hf;xg	10
-穷途行子惯	qs;xl tu;zy hh;xi zi;aa gr;xg	10
 穷途绝粮客	qs;xl tu;zy jt;ss ld;ml ke;bg	10
 穷途愧知己	qs;xl tu;zy kv;xg vi;ku ji;ag	10
 穷途衰谢意	qs;xl tu;zy uy;yv xx;yu yi;xy	10
 穷途唯有泪	qs;xl tu;zy wz;kv yb;ou lz;do	10
 穷途行泣玉	qs;xl tu;zy xy;xi qi;dl yu;wd	10
+穷途行子惯	qs;xl tu;zy xy;xi zi;aa gr;xg	10
 穷途仗神道	qs;xl tu;zy vh;rv uf;uu dk;zu	10
 穷无歌舞玩	qs;xl wu;ag ge;qg wu;rf wj;wy	10
 邛西今复悲	qs;eg xi;aa jn;ra fu;wo bz;xf	10
@@ -178341,7 +178319,6 @@ sort: by_weight
 无为歌苦辛	wu;ag wz;dd ge;qg ku;cg xn;lu	10
 勿谓公孙老	wu;gp wz;yw gs;sb sp;zx lk;lb	10
 勿谓孤寒弃	wu;gp wz;yw gu;zg hj;bd qi;cs	10
-无为行子辞	wu;ag wz;dd hh;xi zi;aa ci;ux	10
 勿谓祸无馀	wu;gp wz;yw ho;ug wu;ag yu;uy	10
 吾未见刚者	wu;kw wz;ex jm;ag gh;dg ve;ol	10
 无为嗟大耋	wu;ag wz;dd jx;ki da;ad dx;lv	10
@@ -178388,6 +178365,7 @@ sort: by_weight
 物微兴不浅	wu;nw wz;xw xy;ba bu;ad qm;dj	10
 勿谓行大道	wu;gp wz;yw xy;xi da;ad dk;zu	10
 勿为醒者传	wu;gp wz;dd xy;yx ve;ol ir;rv	10
+无为行子辞	wu;ag wz;dd xy;xi zi;aa ci;ux	10
 无为厌车辙	wu;ag wz;dd yj;qi ie;aa ve;iw	10
 无为掩扉卧	wu;ag wz;dd yj;fd fz;hf wo;ib	10
 无为也而尊	wu;ag wz;dd ye;gg er;aa zp;cq	10
@@ -190998,14 +190976,38 @@ sort: by_weight
 性拙偶从宦	xy;xu vo;fi ou;ry cs;rr hr;bi	10
 性拙身多暇	xy;xu vo;fi uf;pp do;xx xw;oj	10
 性拙易迟回	xy;xu vo;fi yi;ow ii;zi hv;kk	10
+行子傍水餐	xy;xi zi;aa bh;rp uv;ad cj;uy	10
+行子悲且慕	xy;xi zi;aa bz;xf qx;aa mu;xm	10
+行子车下宿	xy;xi zi;aa ie;aa xw;ab su;bb	10
+行子驰出户	xy;xi zi;aa ii;my iu;aa hu;dp	10
+行子充夜饥	xy;xi zi;aa is;wy ye;wd ji;uj	10
+行子愁归旋	xy;xi zi;aa ib;xq gv;ax xr;fp	10
+行子但悲辛	xy;xi zi;aa dj;rd bz;xf xn;lu	10
+行子得良时	xy;xi zi;aa de;xc ld;dg ui;oc	10
+行子对飞蓬	xy;xi zi;aa dv;cy fz;yd pg;cf	10
+行子犯风烟	xy;xi zi;aa fj;qe fg;ji yj;hy	10
 幸兹废弃余	xy;tu zi;qy fz;gf qi;cs yu;rb	10
+行子复蹉跎	xy;xi zi;aa fu;wo co;zi to;zt	10
+行子孤灯店	xy;xi zi;aa gu;zg dg;hd dm;gv	10
 邢子好少年	xy;ek zi;aa hk;nz uk;xp nm;ra	10
+行子何独难	xy;xi zi;aa he;rk du;qi nj;vy	10
+行子倦风尘	xy;xi zi;aa jr;rj fg;ji if;tx	10
+行子郡城晓	xy;xi zi;aa jp;ej ig;ti xc;oy	10
+行子苦风潮	xy;xi zi;aa ku;cg fg;ji ik;di	10
+行子履胡霜	xy;xi zi;aa lv;uf hu;og ud;yx	10
+行子念明发	xy;xi zi;aa nm;xj my;oo fa;ay	10
 幸兹陪宴喜	xy;tu zi;qy pz;ek yj;bn xi;uk	10
+行子期晓发	xy;xi zi;aa qi;oq xc;oy fa;ay	10
 行自丘山积	xy;xi zi;pa qq;pa uj;aa ji;hv	10
+行子绕天北	xy;xi zi;aa rk;sy tm;ad bz;ag	10
+行子时一望	xy;xi zi;aa ui;oc yi;aa wh;wo	10
+行子未须归	xy;xi zi;aa wz;ex xu;py gv;ax	10
 邢子卧北窗	xy;ek zi;aa wo;ib bz;ag id;xx	10
+行子心纡郁	xy;xi zi;aa xn;dd yu;sy yu;ey	10
 幸兹一日泽	xy;tu zi;qy yi;aa ri;aa ze;df	10
 邢子友会上	xy;ek zi;aa yb;yu hv;ry uh;aa	10
 幸子遇明主	xy;tu zi;aa yu;zy my;oo vu;dw	10
+行子在万里	xy;xi zi;aa zl;ut wj;ag li;aa	10
 幸兹尊俎末	xy;tu zi;qy zp;cq zu;qr mo;ad	10
 幸奏承云乐	xy;tu zb;tf ig;ad yp;es le;pd	10
 行走无拘挛	xy;xi zb;tv wu;ag ju;fj lr;uy	10
@@ -209627,7 +209629,6 @@ sort: by_weight
 悠悠酣且歌	yb;xw yb;xw hj;yg qx;aa ge;qg	10
 悠悠汉水波	yb;xw yb;xw hj;dy uv;ad bo;dp	10
 悠悠寒月辉	yb;xw yb;xw hj;bd yt;pa hv;gj	10
-悠悠行子远	yb;xw yb;xw hh;xi zi;aa yr;zy	10
 悠悠何处圆	yb;xw yb;xw he;rk iu;wb yr;ky	10
 油油禾黍积	yb;dy yb;dy he;pd uu;hu ji;hv	10
 悠悠湖上来	yb;xw yb;xw hu;dh uh;aa ll;am	10
@@ -209770,6 +209771,7 @@ sort: by_weight
 悠悠行旅中	yb;xw yb;xw xy;xi lv;fp vs;aa	10
 幽幽醒时闻	yb;uy yb;uy xy;yx ui;oc wf;em	10
 悠悠行远道	yb;xw yb;xw xy;xi yr;zy dk;zu	10
+悠悠行子远	yb;xw yb;xw xy;xi zi;aa yr;zy	10
 悠悠偃宵寂	yb;xw yb;xw yj;rn xc;bx ji;bu	10
 有游宴之盛	yb;ou yb;dz yj;bn vi;dd ug;mi	10
 犹有夜珠圆	yb;qy yb;ou ye;wd vu;wv yr;ky	10
@@ -218002,7 +218004,6 @@ sort: by_weight
 早寒青女至	zk;ou hj;bd qy;of nv;aa vi;tv	10
 早寒生锦衿	zk;ou hj;bd ug;na jn;jb jn;yj	10
 藻翰惟牵率	zk;cz hj;yu wz;xv qm;nb lv;wu	10
-早行子午关	zk;ou hh;xi zi;aa wu;ru gr;qd	10
 早荷承湛露	zk;ou he;ch ig;ad vj;du lu;yl	10
 早禾渡可斟	zk;ou he;pd du;dd ke;dk vf;du	10
 早禾黄错落	zk;ou he;pd hd;cb co;jx lo;cl	10
@@ -218320,6 +218321,7 @@ sort: by_weight
 早行石上水	zk;ou xy;xi ui;kp uh;aa uv;ad	10
 早行星尚在	zk;ou xy;xi xy;ou uh;xk zl;ut	10
 藻荇亦消沈	zk;cz xy;cx yi;wb xc;dx uf;dg	10
+早行子午关	zk;ou xy;xi zi;aa wu;ru gr;qd	10
 早须归天阶	zk;ou xu;py gv;ax tm;ad jx;ej	10
 早须清黠虏	zk;ou xu;py qy;dq xw;hj lu;hl	10
 澡雪而精神	zk;dz xt;yx er;aa jy;mq uf;uu	10
@@ -227419,7 +227421,7 @@ sort: by_weight
 转蓬忧悄悄	vr;iv pg;cf yb;xy qc;xx qc;xx	10
 转浦入芦花	vr;iv pu;df ru;pd lu;ch hw;ch	10
 转浦云壑媚	vr;iv pu;df yp;es he;ty mz;nm	10
-撰期行子赋	vr;fx qi;oq hh;xi zi;aa fu;bw	10
+撰期行子赋	vr;fx qi;oq xy;xi zi;aa fu;bw	10
 转曲随青嶂	vr;iv qu;aa sv;ey qy;of vh;uv	10
 转曲遥峰出	vr;iv qu;aa yk;zf fg;uf iu;aa	10
 专权本畏弹	vr;ad qr;my bf;aa wz;ty dj;gd	10
@@ -239671,7 +239673,7 @@ sort: by_weight
 安乐延年万事休	an;bn le;pd yj;zv nm;ra wj;ag ui;aa xq;rm	10
 暗里忽惊山鸟啼	an;oy li;aa hu;xw jy;xj uj;aa nc;pa ti;kd	10
 暗里依随马垛行	an;oy li;aa yi;ry sv;ey ma;aa do;td xy;xi	10
-安陆城边远行子	an;bn lu;ej ig;ti bm;zl yr;zy hh;xi zi;aa	10
+安陆城边远行子	an;bn lu;ej ig;ti bm;zl yr;zy xy;xi zi;aa	10
 暗落金乌山渐黑	an;oy lo;cl jn;ra wu;pa uj;aa jm;dv hz;ha	10
 鞍马东西鼓吹休	an;ga ma;aa ds;ad xi;aa gu;vd iv;kq xq;rm	10
 鞍马归兮佳人散	an;ga ma;aa gv;ax xi;bk jw;rg rf;pd sj;wo	10
@@ -251841,10 +251843,10 @@ sort: by_weight
 到而今春华落尽	dk;dv er;aa jn;ra ip;of hw;uh lo;cl jn;id	10
 祷尔于上下神祗	dk;uu er;dx yu;aa uh;aa xw;ab uf;uu vi;ud	10
 道非身外更何求	dk;zu fz;aa uf;pp wl;xb gg;ad he;rk qq;ad	10
-道逢行子不相识	dk;zu fg;zf hh;xi zi;aa bu;ad xd;mo ui;yv	10
 道逢耦耕试借问	dk;zu fg;zf ou;ly gg;lj ui;yu jx;rx wf;km	10
 道逢麹车口流涎	dk;zu fg;zf qu;mj ie;aa kb;aa lq;di xm;dy	10
 道逢使者汉郎官	dk;zu fg;zf ui;rl ve;ol hj;dy lh;el gr;bg	10
+道逢行子不相识	dk;zu fg;zf xy;xi zi;aa bu;ad xd;mo ui;yv	10
 道逢阳虎呼与言	dk;zu fg;zf yh;eo hu;hj hu;kh yu;aa yj;wk	10
 道逢醉叟卧黄昏	dk;zu fg;zf zv;yz sb;yj wo;ib hd;cb hp;ou	10
 道甫问信今何如	dk;zu fu;ad wf;km xn;ry jn;ra he;rk ru;nk	10
@@ -258862,7 +258864,6 @@ sort: by_weight
 公贵干蛊高巾冠	gs;sb gv;ba gj;aa gu;im gk;wk jn;aa gr;bc	10
 公归眠食重调护	gs;sb gv;ax mm;om ui;rl is;pa tc;yv hu;fh	10
 公果溺死流海湄	gs;sb go;tm ni;dr si;db lq;di hl;dm mz;dm	10
-公行子有子之丧	gs;sb hh;xi zi;aa yb;ou zi;aa vi;dd sh;ty	10
 共荷发生同雨露	gs;cb he;ch fa;ay ug;na ts;kk yu;ad lu;yl	10
 共荷神功万庾积	gs;cb he;ch uf;uu gs;lg wj;ag yu;gy ji;hv	10
 共贺新恩拜旧官	gs;cb he;bj xn;jq en;xy bl;uf jq;ao gr;bg	10
@@ -259153,6 +259154,7 @@ sort: by_weight
 共笑钟山说老鸦	gs;cb xc;vy vs;jv uj;aa uo;yd lk;lb ya;ny	10
 公心不以贵隔我	gs;sb xn;dd bu;ad yi;rd gv;ba ge;eg wo;pd	10
 公心底处有高下	gs;sb xn;dd di;gd iu;wb yb;ou gk;wk xw;ab	10
+公行子有子之丧	gs;sb xy;xi zi;aa yb;ou zi;aa vi;dd sh;ty	10
 共许陈琳工奏记	gs;cb xu;yw if;ed ln;wl gs;aa zb;tf ji;yj	10
 共许郤诜工射策	gs;cb xu;yw xi;eg uf;yx gs;aa ue;cu ce;vc	10
 宫悬彩仗俨然合	gs;bl xr;xx cl;pc vh;rv yj;ry rj;hq he;rk	10
@@ -262287,11 +262289,6 @@ sort: by_weight
 杭州潮水霜雪屯	hh;mk vb;id ik;di uv;ad ud;yx xt;yx tp;ag	10
 杭州老去被潮催	hh;mk vb;id lk;lb qu;ts bz;yp ik;di cv;rc	10
 杭州暮醉连床卧	hh;mk vb;id mu;om zv;yz lm;zi id;gm wo;ib	10
-行子不须愁夜泊	hh;xi zi;aa bu;ad xu;py ib;xq ye;wd po;db	10
-行子出门如转蓬	hh;xi zi;aa iu;aa mf;dg ru;nk vr;iv pg;cf	10
-行子东山起征思	hh;xi zi;aa ds;ad uj;aa qi;zj vg;xv si;xt	10
-行子隔手不相见	hh;xi zi;aa ge;eg ub;pa bu;ad xd;mo jm;ag	10
-行子迎霜未授衣	hh;xi zi;aa yy;ze ud;yx wz;ex ub;fu yi;dd	10
 好鞍好马乞与人	hk;nz an;ga hk;nz ma;aa qi;ry yu;aa rf;pd	10
 好把身心清净处	hk;nz ba;fb uf;pp xn;dd qy;dq jy;dv iu;wb	10
 好把音书凭过雁	hk;nz ba;fb yn;lo uu;ad py;jr go;zc yj;iv	10
@@ -279463,7 +279460,6 @@ sort: by_weight
 洛阳闺阁夜何央	lo;dg yh;eo gv;mg ge;mg ye;wd he;rk yh;ad	10
 洛阳归客明朝去	lo;dg yh;eo gv;ax ke;bg my;oo ik;ou qu;ts	10
 洛阳归客滞巴东	lo;dg yh;eo gv;ax ke;bg vi;dd ba;ag ds;ad	10
-洛阳行子空叹息	lo;dg yh;eo hh;xi zi;aa ks;xg tj;ky xi;xz	10
 洛阳禾稼如秋云	lo;dg yh;eo he;pd jw;hj ru;nk qq;hh yp;es	10
 洛阳花柳此时浓	lo;dg yh;eo hw;ch lq;mm ci;vb ui;oc ns;dn	10
 洛阳花雪梦随君	lo;dg yh;eo hw;ch xt;yx mg;mx sv;ey jp;ky	10
@@ -279510,6 +279506,7 @@ sort: by_weight
 洛阳闲客知无数	lo;dg yh;eo xm;mm ke;bg vi;ku wu;ag uu;wl	10
 洛阳相君忠孝家	lo;dg yh;eo xd;mo jp;ky vs;xv xc;zl jw;bu	10
 洛阳新月动秋砧	lo;dg yh;eo xn;jq yt;pa ds;ly qq;hh vf;uv	10
+洛阳行子空叹息	lo;dg yh;eo xy;xi zi;aa ks;xg tj;ky xi;xz	10
 洛阳堰上新晴日	lo;dg yh;eo yj;tn uh;aa xn;jq qy;oq ri;aa	10
 洛阳遥想桃源隔	lo;dg yh;eo yk;zf xd;xx tk;mv yr;dy ge;eg	10
 洛阳一别梨花新	lo;dg yh;eo yi;aa bx;dl li;ml hw;ch xn;jq	10
@@ -281064,7 +281061,7 @@ sort: by_weight
 梦惊波浪日无辉	mg;mx jy;xj bo;dp lh;dl ri;aa wu;ag hv;gj	10
 梦境此身能且在	mg;mx jy;tj ci;vb uf;pp ng;sb qx;aa zl;ut	10
 梦惊忽有穿窗片	mg;mx jy;xj hu;xw yb;ou ir;xy id;xx pm;pa	10
-梦境了知非有实	mg;mx jy;tj le;aa vi;ku fz;aa yb;ou ui;bt	10
+梦境了知非有实	mg;mx jy;tj lc;aa vi;ku fz;aa yb;ou ui;bt	10
 梦惊蛇咬慞惶走	mg;mx jy;xj ue;it yk;kj vh;xv hd;xh zb;tv	10
 梦惊松雪落空岩	mg;mx jy;xj ss;mg xt;yx lo;cl ks;xg yj;uu	10
 梦觉观空始自悲	mg;mx jt;jb gr;jy ks;xg ui;nt zi;pa bz;xf	10
@@ -283388,7 +283385,7 @@ sort: by_weight
 南面而征北狄怨	nj;ua mm;aa er;aa vg;xv bz;ag di;qh yr;xe	10
 难眠夏夜抵秋赊	nj;vy mm;om xw;wz ye;wd di;fd qq;hh ue;bu	10
 南陌北堂连北里	nj;ua mo;eb bz;ag th;tk lm;zi bz;ag li;aa	10
-南陌憧憧遍行子	nj;ua mo;eb is;xt is;xt bm;zb hh;xi zi;aa	10
+南陌憧憧遍行子	nj;ua mo;eb is;xt is;xt bm;zb xy;xi zi;aa	10
 南陌愁为落叶分	nj;ua mo;eb ib;xq wz;dd lo;cl ye;ku ff;bd	10
 南陌登临此日情	nj;ua mo;eb dg;dd ln;ao ci;vb ri;aa qy;xq	10
 南陌东城处处春	nj;ua mo;eb ds;ad ig;ti iu;wb iu;wb ip;of	10
@@ -313499,7 +313496,12 @@ sort: by_weight
 形之与形亦辟矣	xy;pk vi;dd yu;aa xy;pk yi;wb pi;xk yi;su	10
 行中第一争先舞	xy;xi vs;aa di;vp yi;aa vg;dy xm;ne wu;rf	10
 行追西路聊班草	xy;xi vv;zv xi;aa lu;zg lc;em bj;dw ck;cz	10
+行子不须愁夜泊	xy;xi zi;aa bu;ad xu;py ib;xq ye;wd po;db	10
+行子出门如转蓬	xy;xi zi;aa iu;aa mf;dg ru;nk vr;iv pg;cf	10
+行子东山起征思	xy;xi zi;aa ds;ad uj;aa qi;zj vg;xv si;xt	10
+行子隔手不相见	xy;xi zi;aa ge;eg ub;pa bu;ad xd;mo jm;ag	10
 姓字今为第几仙	xy;nu zi;bz jn;ra wz;dd di;vp ji;py xm;ru	10
+行子迎霜未授衣	xy;xi zi;aa yy;ze ud;yx wz;ex ub;fu yi;dd	10
 幸奏潇湘云壑意	xy;tu zb;tf xc;dx xd;dx yp;es he;ty yi;xy	10
 形阻江山想神遇	xy;pk zu;eq jd;dg uj;aa xd;xx uf;uu yu;zy	10
 星座通霄狼鬣暗	xy;ou zo;gz ts;zy xc;yx lh;ql lx;il an;oy	10
