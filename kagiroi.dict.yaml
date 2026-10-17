@@ -7,7 +7,7 @@ version: 20241204
 sort: by_weight
 use_preset_vocabulary: false
 import_tables:
-  - other_dicts/kagiroi_dicts/kagiroi.mozc
-  - other_dicts/kagiroi_dicts/kagiroi.nico
-  - other_dicts/kagiroi_dicts/kagiroi.manual
+  - dicts/kagiroi_dicts/kagiroi.mozc
+  - dicts/kagiroi_dicts/kagiroi.nico
+  - dicts/kagiroi_dicts/kagiroi.manual
 ...
