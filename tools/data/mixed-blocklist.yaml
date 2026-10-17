@@ -1,0 +1,696 @@
+# ============================================================
+# mixed 词库更新 · 删除候选表
+# ============================================================
+# 用途：以后把 mixed.dict.yaml（或同类词库）的新词合并进自己的词库前，
+#       先按本表剔除下列候选词条。
+# 说明：
+#   只列词头，不列注音；注音以被合并的词库为准。
+#   候选大类用注释标注，便于整类取舍。
+#   本表来自 cn&en.dict.yaml 与 mixed.dict.yaml 的差异分析，
+#     完整依据见同目录 E-删除清单.md。
+#   保留未列入的词：电商/会员类、AI 应用类（AI短剧/AI垃圾/即梦AI/AI大模型）、
+#     网络流行语、数码配件与系统参数、通信制式（4A/5G/6G）、R角、Be动词。
+# ============================================================
+
+# ============================================================
+# 通用排除模式（以后的词库更新同样适用，命中即剔除）
+# ============================================================
+#   军事装备       歼 / 轰 / 运/ 直/ 武直 / 空警 / 东风 / 红旗 / 红箭 / 鹰击 /
+#                  霹雳 / 巨浪 / 长剑 / 惊雷 / Type-数字 / MBT / 彩虹 / 翼龙 / 无侦 等
+#   汽车品牌与车型 奥迪 / 宝马 / 奔驰 / 蔚来 / 理想 / 小鹏 / 腾势 / 问界 / 智界 /
+#                  享界 / 尊界 / 仰望 / 智己 / 特斯拉 / 沃尔沃 / 凯迪拉克 /
+#                  雷克萨斯 / 保时捷 / 捷豹 / 大众 / 别克 / 比亚迪 等
+#   AI 模型名       GPT / Claude / Gemini / Grok / DeepSeek / Kimi / Qwen / GLM /
+#                  MiniMax / Mistral / Baichuan / LongCat / 混元 / SenseNova /
+#                  Seedance / Seedream / SkyReels / Muse / MAI 等版本变体
+#   苹果等产品      iPhone / iPad / iPod / Mac / MacBook / Apple / AirPods / Magic 系列
+#   报错说法        报XXX、会报XXX（HTTP 状态码口语）
+#   动漫与人物      D 之一族、海贼王人物、多边兽Z 等
+#   钓鱼 / 渔具     路亚竿调性（UL/MH/ML/XH/XXH 等 + 调）、8字环、FG结、PR结、
+#                  PE线、VIB、T尾 等
+#   字母数字类      车型代号（i3~i9、L6~L9）；通信制式（4A/5G/6G）与 R角 除外，保留
+# ============================================================
+
+
+# TODO 军事装备
+80式
+85式
+88式
+96式
+99式
+H-6
+K-8
+轰-6
+歼-5
+歼-6
+歼-7
+歼-8
+教-8
+教-9
+运-7
+运-8
+运-9
+直-8
+直-9
+96A式
+96B式
+99A式
+99B式
+彩虹-4
+彩虹-5
+东风-5
+高新-6
+高新-8
+攻击-2
+歼轰-7
+红箭-8
+红旗-9
+轰油-6
+轰-20
+轰-6J
+轰-6K
+轰-6N
+初教-6
+歼教-7
+歼-10
+歼-11
+歼-15
+歼-16
+歼-20
+歼-31
+歼-35
+教-10
+惊雷-1
+巨浪-1
+巨浪-2
+巨浪-3
+无侦-7
+无侦-8
+翼龙-2
+翼龙-3
+运-12
+运-20
+运-8Q
+直-10
+直-11
+直-15
+直-18
+直-19
+直-20
+长剑-10
+长剑-20
+东风-11
+东风-12
+东风-15
+东风-16
+东风-17
+东风-21
+东风-26
+东风-27
+东风-31
+东风-41
+东风-5C
+东风-61
+攻击-11
+红箭-10
+红箭-12
+歼轰-7A
+红旗-16
+红旗-19
+红旗-20
+红旗-22
+红旗-29
+歼-10B
+歼-10C
+歼-11B
+歼-15B
+歼-16D
+歼-20A
+歼-20S
+歼-35A
+歼-8II
+霹雳-10
+霹雳-15
+武直-10
+武直-19
+鹰击-12
+鹰击-18
+鹰击-21
+鹰击-83
+运油-20
+CJ-100
+HHQ-9C
+HQ-16C
+TB-001
+长剑-100
+东风-21D
+东风-26D
+东风-31A
+海红旗-9C
+红旗-16C
+空警-200
+空警-500
+BZK-005
+DF-31AG
+KJ-2000
+Type-59
+Type-69
+Type-79
+Type-80
+Type-88
+Type-96
+Type-99
+东风-31AG
+东风-31BJ
+空警-2000
+FTC-2000
+MBT-2000
+MBT-3000
+LY-1舰载激光武器
+59式坦克
+69式坦克
+79式坦克
+15式轻型坦克
+62式轻型坦克
+63式两栖坦克
+63A式两栖坦克
+05式两栖突击车
+Type-99A
+Type-99B
+CH-4
+CH-5
+CJ-10
+CJ-20
+CJ-6
+CZ-11
+CZ-2C
+CZ-2D
+CZ-3B
+CZ-3C
+CZ-4B
+CZ-4C
+CZ-5
+CZ-6
+CZ-7
+CZ-8
+DF-11
+DF-15
+DF-17
+DF-21
+DF-21D
+DF-26
+DF-26D
+DF-31
+DF-41
+DF-5C
+DF-61
+DF21
+DF26
+DF31
+DF41
+DF51
+DF61
+GJ-11
+GJ-2
+H-20
+H-6J
+H-6K
+H-6N
+HJ-10
+HJ-12
+HJ-8
+HQ-16
+HQ-19
+HQ-20
+HQ-22
+HQ-29
+HQ-9
+HY-6
+J-10
+J-10B
+J-10C
+J-11
+J-11B
+J-15
+J-15B
+J-16
+J-16D
+J-20
+J-20A
+J-20S
+J-31
+J-35
+J-35A
+J-5
+J-6
+J-7
+J-8
+J-8II
+JH-7
+JH-7A
+JL-10
+JL-2
+JL-3
+JL-8
+JL-9
+KJ-200
+KJ-500
+L-15
+LY-1
+PL-10
+PL-15
+VT-2
+VT-4
+VT-5
+WL-2
+WL-3
+WZ-7
+WZ-8
+Y-12
+Y-20
+Y-7
+Y-8
+Y-8Q
+Y-9
+YJ-12
+YJ-18
+YJ-21
+YJ-83
+YY-20
+Z-10
+Z-11
+Z-15
+Z-18
+Z-19
+Z-20
+Z-8
+Z-9
+ZTD-05
+ZTQ-15
+ZTS-63A
+ZTZ-59
+ZTZ-69
+ZTZ-79
+ZTZ-80
+ZTZ-85
+ZTZ-88
+ZTZ-96
+ZTZ-96A
+ZTZ-96B
+ZTZ-99
+ZTZ-99A
+ZTZ-99B
+
+# TODO 汽车品牌与车型
+奥迪A8
+奥迪A6
+奥迪A7
+奥迪A3
+奥迪A4
+奥迪A5
+奥迪Q8
+奥迪Q2
+奥迪Q7
+奥迪Q3
+奥迪Q5
+宝马X2
+宝马X6
+宝马X7
+宝马X3
+宝马X4
+宝马X5
+宝马X1
+宝马8系
+宝马2系
+宝马iX
+宝马i7
+宝马i3
+宝马i4
+宝马6系
+宝马7系
+宝马3系
+宝马4系
+宝马5系
+宝马1系
+奔驰A级
+奔驰B级
+奔驰C级
+奔驰E级
+奔驰S级
+奔驰V级
+理想L8
+理想L9
+理想L6
+理想L7
+理想i8
+理想i9
+理想i6
+理想i7
+尚界H5
+腾势D9
+腾势N9
+腾势N7
+问界M9
+问界M7
+问界M5
+享界S9
+小鹏G9
+小鹏G6
+小鹏G3
+小鹏P7
+小鹏P5
+仰望U8
+仰望U9
+仰望U7
+智己L6
+智己L7
+智界R7
+智界S7
+BMW宝马
+NIO蔚来
+奔驰EQB
+奔驰EQC
+奔驰EQE
+奔驰EQS
+奔驰GLA
+奔驰GLB
+奔驰GLC
+奔驰GLE
+奔驰GLS
+别克GL8
+捷豹XEL
+捷豹XFL
+乐道L90
+乐道L60
+秦L DM
+蔚来EC8
+蔚来EC6
+蔚来EC7
+蔚来EP9
+蔚来ES8
+蔚来ES6
+蔚来ES7
+蔚来ET9
+蔚来ET7
+蔚来ET5
+智己LS6
+智己LS7
+Audi奥迪
+Benz奔驰
+保时捷911
+保时捷718
+大众Polo
+雷克萨斯ES
+雷克萨斯LC
+雷克萨斯LM
+雷克萨斯LS
+雷克萨斯LX
+雷克萨斯NX
+雷克萨斯RX
+理想MEGA
+蔚来ET5T
+尊界S800
+凯迪拉克CT6
+凯迪拉克CT4
+凯迪拉克CT5
+凯迪拉克XT6
+凯迪拉克XT4
+凯迪拉克XT5
+秦L DM-i
+腾势D9 DM
+腾势D9 EV
+腾势N9 DM
+沃尔沃XC90
+沃尔沃XC60
+沃尔沃XC40
+仰望U7 EV
+LiAuto理想
+Tesla特斯拉
+奥迪e-tron
+保时捷Macan
+理想L8 Max
+理想L9 Max
+理想L9 Pro
+理想L6 Max
+理想L6 Pro
+理想L7 Max
+理想L7 Pro
+理想L8 Pro
+秦PLUS DM
+秦PLUS EV
+保时捷Taycan
+仰望U7 PHEV
+保时捷Cayenne
+理想L8 Ultra
+理想L9 Ultra
+理想L7 Ultra
+秦PLUS DM-i
+特斯拉Model S
+特斯拉Model X
+特斯拉Model Y
+特斯拉Model 3
+小鹏MONA M03
+奥迪e-tron GT
+保时捷Panamera
+特斯拉Model YL
+沃尔沃S90 PHEV
+特斯拉Cybertruck
+丰田AE86
+BYD比亚迪
+Model S
+Model X
+Model Y
+Model 3
+Model YL
+i8
+i9
+i6
+i7
+i3
+L8
+L9
+L6
+L7
+L6 Max
+L6 Pro
+L7 Max
+L7 Pro
+L7 Ultra
+L8 Max
+L8 Pro
+L8 Ultra
+L9 Max
+L9 Pro
+L9 Ultra
+XPeng小鹏
+捷豹E-PACE
+捷豹F-PACE
+捷豹I-PACE
+沃尔沃S60
+沃尔沃S90
+沃尔沃V60
+沃尔沃V90
+
+# TODO AI 模型名
+GPT-6
+GPT-7
+GLM-5.3
+影子API
+GPT-4o
+GLM-5.2
+GPT-5.4
+GPT-5.5
+kimi-k3
+Grok 4.0
+SkyReels
+Yi-Vision
+MiniMax-M3
+Muse Image
+Muse Spark
+GPT-5.6 Sol
+GPT-5.5 Pro
+Gemini Omni
+LongCat-2.0
+Qwen3.7-Max
+混元2.0 Think
+GPT-5.4 mini
+GPT-5.6 Luna
+Seedance 2.5
+SenseNova V6
+GPT-5.6 Terra
+MiMo-V2.5-Pro
+Claude Fable 5
+Gemini 3.1 Pro
+Gemini 3.5 Pro
+Kimi K2.7-Code
+Claude 4.6 Opus
+Claude Opus 4.8
+Claude Sonnet 5
+DeepSeek-V4-Pro
+GPT-5.5 Instant
+Mistral Large 2
+Baichuan-M3-Plus
+Claude Haiku 4.5
+GPT-5.5 Thinking
+Gemini 3.5 Flash
+Gemini 3.6 Flash
+MAI-Code-1-Flash
+Seedream 5.0 Pro
+Claude 4.6 Sonnet
+DeepSeek-V4-Flash
+GPT-5
+Qwen3
+GPT-5.1
+Qwen3-VL
+Claude Opus 4.5
+Claude Sonnet 4
+300w clips
+500w clips
+800w clips
+1000w clips
+
+# TODO 数码 / 苹果等产品
+iPhone 18 Pro
+iPhone 18 Pro Max
+iPhone Duo
+Apple Pencil Pro
+Magic Mouse
+Magic Keyboard
+Mac版
+Mac端
+Mac版本
+iPad平板
+iPad Air
+iPad Pro
+iPhone手机
+iPhone 4
+iPhone 5
+iPhone 6
+iPhone 7
+iPhone 8
+iPhone X
+iPad mini
+iPhone 11
+iPhone 12
+iPhone 13
+iPhone 14
+iPhone 15
+iPhone 16
+iPhone 17
+iPhone 3G
+iPhone 4S
+iPhone 5C
+iPhone 5S
+iPhone 6S
+iPhone SE
+iPhone XR
+iPhone XS
+MacBook电脑
+iPhone 3GS
+iPhone Air
+Apple MPEG-4
+iPhone 17 Pro
+iPhone 16 Pro
+iPhone 15 Pro
+iPhone 14 Pro
+iPhone 13 Pro
+iPhone 12 Pro
+iPhone 11 Pro
+iPhone 6 Plus
+iPhone 7 Plus
+iPhone 8 Plus
+iPhone XS Max
+iPhone 16 Plus
+iPhone 15 Plus
+iPhone 14 Plus
+iPhone 13 Mini
+iPhone 12 Mini
+iPhone 6S Plus
+iPhone 17 Pro Max
+iPhone 16 Pro Max
+iPhone 15 Pro Max
+iPhone 14 Pro Max
+iPhone 13 Pro Max
+iPhone 12 Pro Max
+iPhone 11 Pro Max
+
+# TODO 报错说法
+报303
+报404
+报500
+报503
+会报303
+会报404
+会报500
+会报503
+
+# TODO 动漫 / 文艺 / 人物 / 绰号
+D之一族
+多边兽Z
+X·德雷克
+宝石Gem
+PG One
+蒙奇·D·龙
+BrAnT.B
+哥尔·D·罗杰
+火箭少女101
+蒙奇·D·卡普
+蒙奇·D·路飞
+马歇尔·D·蒂奇
+藤子·F·不二雄
+J·R·R·托尔金
+波特卡斯·D·艾斯
+乔治·R·R·马丁
+三无Marblue
+特拉法尔加·D·瓦铁尔·罗
+藤子不二雄A
+
+# TODO 钓鱼 / 渔具
+FG结
+PE线
+PR结
+VIB
+8字环
+颤泳vib
+F调
+H调
+L调
+M调
+R调
+S调
+FF调
+MF调
+MH调
+ML调
+RF调
+UL调
+XF调
+XH调
+XXH调
+T尾
+
+# TODO 学科 / 概念术语
+L型文件夹
+RNA病毒
+负链RNA
+K12
+a11y
+
+# TODO 网络流行语
+芭比Q
+芭比Q了
+不OK
+O不OK
+M哥
+VIP中P
+
+# TODO 运动器材（羽毛球线等）
+BG65
+BG66
+BG70
+BG80
+BG85
+BG68Ti
+NBG95
+NBG98
+NBG99

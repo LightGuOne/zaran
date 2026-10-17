@@ -1,0 +1,10 @@
+# Rime dictionary
+# encoding: utf-8
+# 
+name: zaran_mixedcode
+version: "LTS"
+sort: by_weight  #字典初始排序，可選original或by_weight
+use_preset_vocabulary: false
+import_tables:
+  - dicts/mixed               # 中英文混合词库
+...

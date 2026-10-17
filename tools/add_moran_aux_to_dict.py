@@ -1,6 +1,6 @@
 import os, shutil,re, zipfile, tempfile
 from typing import Dict, List
-from zrmify import zrmify
+from zrmify import zrmify1
 from tqdm import tqdm
 
 
@@ -54,41 +54,43 @@ def getOnlyCharsTable(auxFilePath: str) -> dict:
 
     return aux_map
 
-def refresh_aux(cols: List[str], word: str, aux_map: Dict[str, str], userdb: bool, process_pinyin: bool=True):
-    """刷辅助码
 
-    :param cols: 待处理编码
+def to_zrm(seg: str) -> str:
+    """单段编码：去声调 → 自然码双拼；不是拼音（英文、缩写、符号等）就原样返回
+
+    :param seg: 以空格或撇号切分后的单个音节
+    :return: 自然码双拼，或原样返回
+    """
+    if not seg:
+        return seg
+    seg = seg.translate(声调表)
+    try:
+        return zrmify1(seg)
+    except ValueError:
+        return {'ng': 'eg', 'm': 'mm'}.get(seg, seg)   # 嗯→eg、呣/呒→mm（自然码零声母双写）
+
+
+def refresh_aux(code: str, word: str, aux_map: Dict[str, str], process_pinyin: bool=True) -> str:
+    """刷新一段编码列里的辅助码或拼音
+
+    :param code: 原始编码
     :param word: 候选文本
     :param aux_map: 辅助码表
-    :param userdb: 是否为userdb文件
-    :return: _description_
+    :param process_pinyin: 是否处理拼音
+    :return: 替换后的编码列
     """
-    seg_idx = 0 if userdb else 1
-    if not userdb and len(cols) == 1:
-        cols.insert(1, '')
-    if userdb and len(cols) < 2:
-        cols.append('')
-
-    raw_segs = cols[seg_idx].strip().split() if seg_idx < len(cols) else []
-    aux_segs = [aux_map.get(字, '') for 字 in word]  # 行级处理 
+    raw_segs = code.strip().split() #判断编码是否存在并提取原始编码
+    aux_segs = [aux_map.get(字, '') for 字 in word]  # 获取对应字的辅助码
 
     merged = []
     for i, py in enumerate(raw_segs):
         aux = aux_segs[i] if i < len(aux_segs) else ''
-        py=py.split(';')[0]
+        py = py.split(';')[0]
         if process_pinyin:
-            py=re.sub(pattern,lambda x:patternLsit[x.group(0)],py)
-            try:
-                py = zrmify(py)
-            except ValueError:
-                py = {'ng': 'eg', 'm': 'mm'}.get(py, py)   # 嗯→eg、呣/呒→mm（自然码零声母双写）
+            py = to_zrm(py)
         merged.append(f"{py};{aux}")
-    if userdb:
-        cols[0] = ' '.join(merged)
-    else:
-        cols[seg_idx] = ' '.join(merged)
-
-    return cols
+    # 返回替换编码后的编码列
+    return ' '.join(merged)
 
 
 # TODO: 词库处理 - 按策略配置批量处理词库
@@ -106,6 +108,9 @@ def process_single_file(src: str, dst: str, aux_map: Dict[str, str]):
                 break
 
 
+        # 列序：userdb 是「编码 词 …」，普通词库是「词 编码 …」
+        word_idx, code_idx = (1, 0) if userdb else (0, 1)
+
         for line in inputFile:
             if line.startswith('#') or not line.strip():
                 outputFile.write(line)
@@ -113,27 +118,66 @@ def process_single_file(src: str, dst: str, aux_map: Dict[str, str]):
 
             # 处理词条
             cols = line.rstrip('\n').split('\t')
-            word = cols[1] if userdb else cols[0]
-            cols = refresh_aux(cols, word, aux_map, userdb)
+            if len(cols) <= code_idx:          # 补齐缺失的编码列
+                cols.insert(code_idx, '')
+            word = cols[word_idx]
+            cols[code_idx] = refresh_aux(cols[code_idx], word, aux_map)
 
             # 去重：(候选词, 处理后的编码) 已出现过则丢弃，忽略权重
-            key = (word, cols[0 if userdb else 1])
+            key = (word, cols[code_idx])
             if key in seen:
                 continue
             seen.add(key)
 
             # 用户词典特殊处理
-            if userdb and not cols[0].endswith(' '):
-                cols[0] += ' '
+            if userdb and not cols[code_idx].endswith(' '):
+                cols[code_idx] += ' '
             
             outputFile.write('\t'.join(cols) + '\n')
 
+def refresh_mixed_code(code: str) -> str:
+    """把 mixed 的编码列刷成自然码双拼
 
+    原编码形如 "A'bān"，撇号是音节分隔符。speller 的 algebra 最后会
+    删掉输入里的撇号（xform/['<>]//），所以这里也输出无撇号的形式。
+
+    :param code: mixed 词库的编码列
+    :return: 去声调 + 自然码双拼、无撇号的编码列
+    """
+    return "'".join(seg if seg == 'n' else to_zrm(seg) for seg in code.split("'"))
+
+
+blockList=[]
+
+def mixed_process(src: str, dst: str,block_list_path: str):
+    """屏蔽mixed中部分候选，并把编码刷成自然码双拼"""
+    if blockList == []:
+        with open(block_list_path,'r',encoding='utf-8') as blockListFile :
+            for line in blockListFile:
+                line = line.strip().replace('\n','')
+                if line.startswith('#') or line == '':
+                    continue
+                blockList.append(line)
+    
+    with open(src,'r',encoding='utf-8') as inputFile ,\
+        open(dst,'w',encoding='utf-8') as outputFile:
+        for line in inputFile:
+            linesplit = line.strip().replace('\n','').split('\t')
+            # 不在del内就跳过
+            if linesplit[0] in blockList:
+                continue
+            # 数据行：把编码刷成自然码双拼；表头/注释行原样写出
+            if len(linesplit) >= 2 and not line.startswith('#'):
+                linesplit[1] = refresh_mixed_code(linesplit[1])
+                outputFile.write('\t'.join(linesplit) + '\n')
+            else:
+                outputFile.write(line)
 
 # ---- 操作类型常量 ----
 SKIP = 0      # 跳过，不处理
 PASS = 1      # 直接复制，不做转换
 PROCESS = 2   # 调用 process_single_file 处理
+MIXED_PROCESS = 3 # 调用 mixed_process 处理
 
 # ---- 词库处理配置 ----
 # 格式: 文件名 -> 操作类型
@@ -152,6 +196,7 @@ processDict = {
     'shici.pro.dict.yaml':            PROCESS,
     'mingren.pro.dict.yaml':           PROCESS,
     'zi.pro.dict.yaml':               PROCESS,
+    'mixed.dict.yaml':               MIXED_PROCESS,
 
     'cuoyin.dict.yaml':           PROCESS,
     'diming.dict.yaml':           SKIP,         # 加了奇怪的长词，故放弃追新
@@ -176,6 +221,9 @@ patternLsit={
     'ń':'n','ň':'n','ǹ':'n','ḿ':'m','\u0300': ''
     }
 pattern=re.compile('[āáǎàōóǒòēéěèīíǐìūúǔùǖǘǚǜüńňǹḿ\u0300]')
+
+# 声调字符 → 无调字母 的查表（translate 用，比逐音节 re.sub 快）
+声调表 = str.maketrans(patternLsit)
 
 # 未在字典中的文件默认操作
 DEFAULT_ACTION = SKIP   # 默认跳过
@@ -204,10 +252,14 @@ def myDictProcess(input_path, aux_map,
 
         action = processDict.get(fileName, DEFAULT_ACTION)
         dstPath = os.path.join(outputPath, os.path.basename(filePath))
+        del_list_path=os.path.join(os.path.dirname(__file__),'data','mixed-blocklist.yaml')
 
         try:
             if action == PROCESS:
                 process_single_file(filePath, dstPath, aux_map)
+                progress.set_postfix_str(f"已处理: {fileName}")
+            elif action == MIXED_PROCESS:
+                mixed_process(filePath, dstPath, del_list_path)
                 progress.set_postfix_str(f"已处理: {fileName}")
             elif action == PASS:
                 shutil.copy(filePath, dstPath)
@@ -234,7 +286,7 @@ if __name__ == "__main__":
     # 获取魔然单字表的相对路径
     auxFilePath = os.path.join(os.path.dirname(os.path.dirname(__file__)),'moran.chars.dict.yaml')
     if not zip_path:
-        input_path=r'dicts'   # 临时处理一下
+        input_path=r''   # 临时处理一下
         charsTable = getOnlyCharsTable(auxFilePath)  # 获取唯一辅助码
         myDictProcess(input_path, charsTable)        # 处理词库替换辅助码
     else:
