@@ -15,7 +15,7 @@ schema:
   description: |
     賦流形
   dependencies:
-    - wanxiang_mixedcode      # 中英混输
+    - zaran_mixedcode      # 中英混输
     - zaran_english           # 英文输入
     - moran_fixed             # 魔然字词
     - moran_charset           # 魔然过滤器
@@ -69,8 +69,8 @@ engine:
     - fallback_segmentor                  # 标识其他未标识段落，必须放在最后帮助tag模式切换后回退重新处理
   translators:
     - punct_translator                    # 配合 punct_segmentor 转换标点符号
-    - table_translator@wanxiang_mixedcode # 中英等混合词汇表导入
-    - table_translator@zaran_english       # 英文词典
+    - table_translator@zaran_mixedcode    # 中英等混合词汇表导入
+    - lua_translator@*moran.moran_english*translator                          # 英語混輸
     - lua_translator@*mylua.pseudo_moran@with_reorder                         # 伪·魔然翻譯器
     - table_translator@custom_phrase      # 自定义短语
     - lua_translator@*moran.moran_pin*panacea_translator                      # PIN
@@ -81,7 +81,7 @@ engine:
     - lua_filter@*moran.moran_ijrq_filter                                     # 魔然出简让全
     - lua_filter@*mylua.simple_comment    #  简易注释
     - lua_filter@*moran.moran_hint_filter                                     # 魔然简词提示
-    - lua_filter@*mylua.add_words         # 英文造词
+    - lua_filter@*moran.moran_english*add_word_filter                         # 魔然英文造词
     - simplifier@emoji
     - simplifier@std_s2tw                 # 台湾用字标准
     - simplifier@std_s2hk                 # 香港用字标准
@@ -131,7 +131,7 @@ fixed:                      # 固頂輸入模式設置，在 top_translator 中�
 
 
 # 次翻译器 英文
-zaran_english:
+english:
   dictionary: zaran_english # 挂载词库
   tag: english              # librime<=1.11 請在 custom 中置空
   initial_quality: 1.2      # 初始权重
@@ -141,9 +141,14 @@ zaran_english:
     - xform/.*//            # 清空提示码
 
 
+english_add_word:
+  dictionary: zaran_english
+  enable_user_dict: false
+
+
 # 中英混输
-wanxiang_mixedcode:
-  dictionary: wanxiang_mixedcode     # 挂载词库
+zaran_mixedcode:
+  dictionary: zaran_mixedcode     # 挂载词库
   tag: english              # librime<=1.11 請在 custom 中置空
   initial_quality: 1.1      # 初始权重
   enable_sentence: false    # 禁止造句
@@ -314,3 +319,9 @@ moran:
   shorthands: false   
   # 在輸入超過該長度前，禁止整句輸出。（若設爲 1，則在輸入 2 碼時才產生整句輸出。），默認爲：0
   disable_sentence_candidates_upto: 1
+  # 英語混輸相關設置
+  english:
+    add_word:
+      enable: true                  # 启用英文造词功能
+      indicator: "「加詞」"     # comment
+      trigger: "``"
