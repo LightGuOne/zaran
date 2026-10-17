@@ -10,6 +10,12 @@ except ImportError:
 # 定位到脚本自身所在目录（即 tools/），并确定模板文件夹
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(SCRIPT_DIR, 'data')          # tools/data/
+ERROR_LOG = os.path.join(SCRIPT_DIR, 'zrmdb错误信息.log')
+
+
+def log_skip(char, reason, target):
+    with open(ERROR_LOG, 'a', encoding='utf-8') as f:
+        f.write(f'[跳过] 字符 {char} (U+{ord(char):X}) 因{reason}未生成到 {target}\n')
 
 ## gen_chars.py 内容
 def getCharsFile(folder):
@@ -31,7 +37,11 @@ def getCharsFile(folder):
 def getZrmdbFile(folder):
     with open(os.path.join(folder, 'zrmdb.txt'), 'w', encoding='utf-8', newline='\n') as outfile:
         for (char, auxes) in aux_table.items():
-            print(f'{char}\t{" ".join(auxes)}', file=outfile)
+            valid = [a for a in auxes if a]
+            if not valid:
+                log_skip(char, '无有效辅助码', 'zrmdb.txt')
+                continue
+            print(f'{char}\t{" ".join(valid)}', file=outfile)
     logger.info('生成zrmdb：zrmdb.txt')
 
 ## gen_chaifen_filter.py 内容
@@ -60,4 +70,4 @@ if __name__ == '__main__':
 
     getCharsFile(userFolder)
     getZrmdbFile(os.path.join(userFolder, 'lua'))
-    getChaifenFile(os.path.join(userFolder, 'other_dicts', 'chaifen'))
+    getChaifenFile(os.path.join(userFolder, 'dicts', 'chaifen'))
