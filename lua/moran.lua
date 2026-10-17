@@ -35,7 +35,7 @@ function Module.open_rime_file(rel_path, pathsep)
 end
 
 ---Load zrmdb.txt bundled with the standard Moran distribution.
----@return table<integer,table<string>>
+---@return table<integer,table<string>>?
 function Module.load_zrmdb()
     if Module.aux_table then
         return Module.aux_table
@@ -430,9 +430,9 @@ function Module.segment_is_reverse_lookup(seg)
     --    or seg:has_tag("reverse_cangjie5")
     --    or seg:has_tag("reverse_stroke")
     --    or seg:has_tag("reverse_tick")
-    if seg:has_tag("kagiroi") then
+    if seg:has_tag("kagiroi") or seg:has_tag("mixed_V") then
         return true
-     end
+    end
 
     -- 所有反查都不過濾：
     for tag, _ in pairs(seg.tags) do
@@ -459,6 +459,24 @@ function Module.Thunk(functor)
         end
         return result
     end
+end
+
+function Module.all(list, pred)
+    for _, v in pairs(list) do
+        if not pred(v) then
+            return false
+        end
+    end
+    return true
+end
+
+function Module.any(list, pred)
+    for _, v in pairs(list) do
+        if pred(v) then
+            return true
+        end
+    end
+    return false
 end
 
 return Module

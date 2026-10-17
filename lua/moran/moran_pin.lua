@@ -485,6 +485,10 @@ function panacea_translator.init(env)
     user_db.acquire()
     local pattern = string.format("(.+)%s(.+)", env.escaped_infix)
     local function on_commit(ctx)
+        if not env.pin_enable or moran.is_reverse_lookup(env) then
+            return
+        end
+
         local selected_cand = ctx:get_selected_candidate()
         if selected_cand ~= nil then
             local gen_cand = selected_cand:get_genuine()
@@ -544,6 +548,9 @@ function panacea_translator.init(env)
     end
 
     local function on_update_or_select(ctx)
+        if not env.pin_enable or moran.is_reverse_lookup(env) then
+            return
+        end
         if not ctx.input then
             return
         end
@@ -582,11 +589,6 @@ function panacea_translator.func(input, seg, env)
     if not env.pin_enable or moran.is_reverse_lookup(env) then
         return
     end
-    
-    -- -- 在反查模式下禁用 panacea_translator
-    -- if moran.is_reverse_lookup(env) then
-    --     return
-    -- end
     
     local pattern = "[a-zA-Z]+" .. env.escaped_infix
     local match = input:match(pattern)
