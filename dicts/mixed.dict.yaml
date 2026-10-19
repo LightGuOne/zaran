@@ -16,9 +16,9 @@ sort: original  #字典初始排序，可選original或by_weight
 4H	4H
 4X	4X
 5G	5G
-6G	5G
-4A	5G
+6G	6G
 7z	7z
+AB胶	AB'jc
 A班	A'bj
 A杯	A'bz
 A档	A'dh
@@ -713,9 +713,7 @@ X战警	X'vj'jy
 Z世代	Z'ui'dl
 α粒子	aa'er'fa'li'zi
 艾AA	ai'AA
-芭比Q	ba'bi'Q
 β粒子	bz'ta'li'zi
-不OK	bu'OK
 查IP	ia'IP
 炒CP	ik'CP
 充Q币	is'Q'bi
@@ -787,7 +785,7 @@ Alt键	Alt'jm
 B话真多	B'hw'vf'do
 Be动词	Be'ds'ci
 Big胆	Big'dj
-C#语言	C'jy'yu'yj
+C#语言	C#'yu'yj
 CO气体	CO'qi'ti
 CT检查	CT'jm'ia
 CT扫描	CT'sk'mc
@@ -825,7 +823,6 @@ Low帧	Low'vf
 M3U8	M3U8
 Mi手环	Mi'ub'hr
 .NET	Net
-O不OK	O'bu'OK
 OK了吗	OK'le'ma
 OK手势	OK'ub'ui
 Opt键	Opt'jm
@@ -837,6 +834,7 @@ PPR管	PPR'gr
 PUK码	PUK'ma
 PVC管	PVC'gr
 Pro版	Pro'bj
+HANDOFF.md	HANDOFF.md
 Q群管家	Q'qp'gr'jw
 QQ表情	QQ'bc'qy
 QQ超会	QQ'ik'hv
@@ -895,7 +893,6 @@ YY语音	YY'yu'yn
 阿Q精神	aa'Q'jy'uf
 阿Q正传	aa'Q'vg'vr
 阿Sir	aa'Sir
-芭比Q了	ba'bi'Q'le
 Byte	bi'te
 查bug	ia'bug
 吃KFC	ii'KFC
@@ -1096,7 +1093,6 @@ UU加速器	UU'jw'su'qi
 V字仇杀队	V'zi'ib'ua'dv
 VGA接口	VGA'jx'kb
 VIP会员	VIP'hv'yr
-VIP中P	VIP'vs'P
 VPN连接	VPN'lm'jx
 Veo 3	Veo3
 Web版本	Web'bj'bf

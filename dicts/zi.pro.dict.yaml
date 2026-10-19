@@ -1,6 +1,6 @@
 # Rime dictionary
 # encoding: utf-8
-#https://github.com/amzxyz/RIME-LMDG
+#https://github.com/amzxyz/rime-wanxiang-data
 ---
 name: zi
 version: "LTS"
@@ -12537,10 +12537,10 @@ sort: by_weight
 䓳	hf;ch	1
 𦚣	hf;og	1
 哼	hg;kh	9137
-衡	hg;xd	2974
-横	hg;mh	2677
+横	hg;mh	2974
+衡	hg;xd	2677
 恒	hg;xg	2409
-亨	hg;wl	2065
+亨	hg;wl	1465
 桁	hg;mx	440
 蘅	hg;ch	370
 橫	hg;mh	348
