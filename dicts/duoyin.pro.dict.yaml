@@ -32,7 +32,9 @@ sort: by_weight
 行行	hh;xi hh;xi	300
 行子	xy;xi zi;aa	10
 行子	hh;xi zi;aa	54
+系着	ji;ps ve;yo	686
 满血	mj;dl xx;pa	386
+校时	xc;mj ui;oc	76
 血肠	xx;pa ih;oy	226
 给付	ji;sh fu;rc	277
 水磨	uv;ad mo;um	100
@@ -42,6 +44,7 @@ sort: by_weight
 一场	yi;aa ih;ty	17575
 事了	ui;aa lc;aa	337
 会得	hv;ry de;xc	554
+小种	xc;ad vs;hv	34
 越长越	yt;zy vh;pd yt;zy	211
 哦哦	oo;kw oo;kw	1080
 吱吱	zi;kv zi;kv	100
@@ -262,13 +265,13 @@ sort: by_weight
 忒长了	tz;xy vh;pd le;aa	60
 没落到	mz;du lo;cl dk;dv	220
 没落地	mo;du lo;cl de;ty	310
-血债血还	xt;pa vl;rz xx;pa hr;zb
-血债血偿	xt;pa vl;rz xx;pa ih;ri
+血债血还	xt;pa vl;rz xx;pa hr;zb	71
+血债血偿	xt;pa vl;rz xx;pa ih;ri	71
 难兄难弟	nj;vy xs;ke nj;vy di;bp	717
 卡在那里	qw;ub zl;ut na;el li;aa	39
 卡在哪里	qw;ub zl;ut na;kn li;aa	32
 就卡在那里了	jq;yj qw;ub zl;ut na;el li;aa le;aa	1
-碍着您了	ai;uc vk;yo nn;xn le;aa
+碍着您了	ai;uc vk;yo nn;xn le;aa	4
 忒矮了吧	tz;xy ai;uw le;aa ba;kb	43
 忒白了吧	tz;xy bl;pa le;aa ba;kb	60
 忒薄了吧	tz;xy bk;cc le;aa ba;kb	60
@@ -344,7 +347,7 @@ sort: by_weight
 看不了	kj;ou bu;ad le;aa	260
 卡住	qw;ub vu;rv	3355
 睡着	uv;oi ve;yo	664
-没地	mo;du di;ty
+没地	mo;du di;ty	12
 办不了	bj;lb bu;ad le;aa	1213
 报不了	bk;fy bu;ad le;aa	180
 软弹	rr;iq tj;gd	55
@@ -357,9 +360,9 @@ sort: by_weight
 不干	bu;ad gj;aa	4362
 大夫	da;ad fu;ad	1191
 薄膜	bo;cc mo;om	858
-没过了	mo;du go;zc le;aa
-没过我	mo;du go;zc wo;pd
-没过线	mo;du go;zc xm;sj
+没过了	mo;du go;zc le;aa	121
+没过我	mo;du go;zc wo;pd	41
+没过线	mo;du go;zc xm;sj	12
 没过	mo;du go;zc	1291
 摩挲	mo;um so;uu	14040
 公差	gs;sb ia;yg	853
@@ -405,9 +408,12 @@ sort: by_weight
 多行	do;xx hh;xi	1490
 不了了	bu;ad lc;aa lc;aa	1622
 不了了	bu;ad lc;aa le;aa	1081
-爿字旁	id;aa zi;bz ph;wf
-爿字旁	pj;aa zi;bz ph;wf
+爿字旁	id;aa zi;bz ph;wf	13
+爿字旁	pj;aa zi;bz ph;wf	13
+钉死	dy;jd si;db	126
 肚子	du;ot zi;aa	13420
+躯壳	qu;uq ke;uj	93
+姓种	xy;nu is;hv	3
 落了	la;cl le;aa	6074
 落了	lo;cl le;aa	4731
 迫降	po;zb xd;ef	290
@@ -470,6 +476,7 @@ sort: by_weight
 什么时候还	uf;ru me;ps ui;oc hb;ru hr;zb	1
 下次一定还	xw;ab ci;dq yi;aa dy;bp hr;zb	1
 还都	hr;zb du;ev	95
+弹弹	tj;gd tj;gd	163
 还都	hl;zb db;ev	2580
 重载	vs;pa zl;ig	472
 重载	is;pa zl;ig	808

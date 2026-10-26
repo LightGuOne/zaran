@@ -1806,6 +1806,7 @@ sort: by_weight
 王澍	wh;aa uu;dc	449
 王朔	wh;aa uo;on	996
 王肃	wh;aa su;ad	77
+王涛	wh;aa tk;du	893
 王伟	wh;aa wz;rw	3196
 王维	wh;aa wz;sv	579
 王微	wh;aa wz;xw	48
@@ -2437,6 +2438,7 @@ sort: by_weight
 赵普	vk;zi pu;ob	697
 赵强	vk;zi qd;gs	946
 赵奢	vk;zi ue;dv	1394
+赵昚	vk;zi uf;do	53
 赵佗	vk;zi to;rt	742
 赵王	vk;zi wh;aa	2528
 赵伟	vk;zi wz;rw	2476
@@ -2464,6 +2466,7 @@ sort: by_weight
 郑敏	vg;eg mn;wm	112
 郑强	vg;eg qd;gs	613
 郑獬	vg;eg xx;qj	240
+郑燮	vg;eg xx;hy	63
 郑信	vg;eg xn;ry	60
 郑袖	vg;eg xq;yy	339
 郑玄	vg;eg xr;wy	238
@@ -2661,6 +2664,7 @@ sort: by_weight
 埃尔莎	ai;tu er;dx ua;cu	466
 艾尔文	ai;ci er;dx wf;wi	408
 埃弗拉	ai;tu fu;aa la;fl	264
+艾弗森	ai;ci fu;aa sf;ml	18
 埃格努	ai;tu ge;mg nu;ln	69
 矮脚虎	ai;uw jc;oq hu;hj	518
 埃克曼	ai;tu ke;eg mj;oy	170
@@ -2766,6 +2770,7 @@ sort: by_weight
 奥维尔	ao;dm wz;sv er;dx	832
 奥威尔	ao;dm wz;gn er;dx	612
 敖幼祥	ao;wd yb;ly xd;uy	6
+芭芭拉	ba;cb ba;cb la;fl	18
 八重樱	ba;pd is;pa yy;my	63
 八村垒	ba;pd cp;mc lz;tl	283
 拔刀斋	ba;fb dk;gp vl;we	410
@@ -3088,6 +3093,7 @@ sort: by_weight
 布鲁姆	bu;ju lu;yo mu;nm	518
 布卢姆	bu;ju lu;bu mu;nm	466
 布鲁诺	bu;ju lu;yo no;yr	892
+布迈丁	bu;ju ml;zw dy;aa	18
 步鑫生	bu;vx xn;jj ug;na	3
 不知火	bu;ad vi;ku ho;dd	837
 蔡哀侯	cl;cj ai;wy hb;ru	82
@@ -3324,6 +3330,7 @@ sort: by_weight
 陈白露	if;ed bl;pa lu;yl	16
 陈宝生	if;ed bk;by ug;na	22
 陈璧君	if;ed bi;yb jp;ky	113
+陈伯吹	if;ed bo;rb iv;kq	18
 陈伯达	if;ed bo;rb da;zd	44
 陈布雷	if;ed bu;ju lz;yt	63
 陈昌浩	if;ed ih;oo hk;dg	25
@@ -3647,7 +3654,6 @@ sort: by_weight
 戴建业	dl;gg jm;zy ye;aa	4
 戴锦华	dl;gg jn;jb hw;uh	540
 戴克林	dl;gg ke;eg ln;mm	238
-呆妹儿	dl;km mz;nw er;pg	3
 戴名世	dl;gg my;xk ui;ca	6
 戴乃迭	dl;gg nl;pg dx;zu	63
 黛绮丝	dl;hd qi;sq si;aa	129
@@ -7136,6 +7142,7 @@ sort: by_weight
 卡德加	ka;ub de;xx jw;lk	999
 卡尔玛	ka;ub er;dx ma;wm	129
 卡尔曼	ka;ub er;dx mj;oy	50
+卡尔森	ka;ub er;dx sf;ml	18
 卡夫卡	ka;ub fu;ad ka;ub	7994
 卡哈尔	ka;ub ha;kh er;dx	9
 卡拉斯	ka;ub la;fl si;jq	273
@@ -7158,8 +7165,10 @@ sort: by_weight
 卡舒吉	ka;ub uu;yu ji;ku	31
 卡特曼	ka;ub te;ns mj;oy	3
 卡维尔	ka;ub wz;sv er;dx	220
+卡翁达	ka;ub wg;yg da;zd	18
 卡希尔	ka;ub xi;ib er;dx	261
 卡西尼	ka;ub xi;aa ni;ub	317
+卡耶夫	ka;ub ye;ee fu;ad	18
 卡扎菲	ka;ub va;fg fz;cf	320
 卡卓儿	ka;ub vo;uo er;pg	9
 凯恩斯	kl;jj en;xy si;jq	4082
@@ -9196,6 +9205,7 @@ sort: by_weight
 尼克森	ni;ub ke;eg sf;ml	53
 尼克松	ni;ub ke;eg ss;mg	1444
 尼克扬	ni;ub ke;eg yh;fy	477
+尼雷尔	ni;ub lz;yt er;dx	18
 倪梁康	ni;re ld;md kh;gl	31
 霓漫天	ni;ye mj;dm tm;ad	346
 尼米兹	ni;ub mi;dd zi;qy	135
@@ -15442,7 +15452,7 @@ sort: by_weight
 祝英台	vu;ux yy;cy tl;sk	119
 朱永新	vu;pw ys;dd xn;jq	28
 朱由检	vu;pw yb;aa jm;ma	317
-朱祐樘	vu;pw yb;uy th;mt	52
+朱佑樘	vu;pw yb;ry th;mt	43
 朱由校	vu;pw yb;aa xc;mj	132
 朱玉辰	vu;pw yu;wd if;iy	12
 朱聿键	vu;pw yu;aa jm;jj	526
@@ -19880,15 +19890,15 @@ sort: by_weight
 森泽晴行	sf;ml ze;df qy;oq xy;xi	252
 僧格林沁	sg;rc ge;mg ln;mm qn;dx	210
 僧格仁钦	sg;rc ge;mg rf;re qn;jq	0
-僧伽跋澄	sg;rc jw;rj ba;zb ig;dd	270
-僧伽跋摩	sg;rc jw;rj ba;zb mo;um	387
-僧伽蓝摩	sg;rc jw;rj lj;cj mo;um	202
-僧伽罗刹	sg;rc jw;rj lo;sx ia;du	230
-僧伽蜜多	sg;rc jw;rj mi;ib do;xx	261
-僧伽难提	sg;rc jw;rj nj;vy ti;fu	99
-僧伽婆罗	sg;rc jw;rj po;nb lo;sx	320
-僧伽斯那	sg;rc jw;rj si;jq na;el	234
-僧伽提婆	sg;rc jw;rj ti;fu po;nb	364
+僧伽跋澄	sg;rc qx;rj ba;zb ig;dd	270
+僧伽跋摩	sg;rc qx;rj ba;zb mo;um	387
+僧伽蓝摩	sg;rc qx;rj lj;cj mo;um	202
+僧伽罗刹	sg;rc qx;rj lo;sx ia;du	230
+僧伽蜜多	sg;rc qx;rj mi;ib do;xx	261
+僧伽难提	sg;rc qx;rj nj;vy ti;fu	99
+僧伽婆罗	sg;rc qx;rj po;nb lo;sx	320
+僧伽斯那	sg;rc qx;rj si;jq na;el	234
+僧伽提婆	sg;rc qx;rj ti;fu po;nb	364
 砂川启介	ua;uu ir;pa qi;hk jx;ra	225
 沙茨基赫	ua;du ci;cc ji;tq he;ii	130
 沙克尔顿	ua;du ke;eg er;dx dp;yt	720

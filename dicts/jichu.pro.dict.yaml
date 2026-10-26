@@ -6102,7 +6102,6 @@ sort: by_weight
 必死	bi;dd si;db	2254
 鼻饲	bi;zb si;us	178
 鄙俗	bi;eh su;rg	100
-毕宿	bi;bu su;bb	81
 鼻酸	bi;zb sr;yj	144
 笔算	bi;vm sr;vc	119
 铋酸	bi;jb sr;yj	117
@@ -6203,6 +6202,7 @@ sort: by_weight
 避凶	bi;zb xs;ik	37
 必修	bi;dd xq;rp	3319
 壁宿	bi;tb xq;bb	90
+毕宿	bi;bu xq;bb	81
 必须	bi;dd xu;py	161754
 必需	bi;dd xu;ye	2527
 碧虚	bi;ub xu;hy	277
@@ -15460,7 +15460,6 @@ sort: by_weight
 崇信	is;uz xn;ry	430
 宠信	is;bl xn;ry	344
 宠幸	is;bl xy;tu	835
-种姓	is;hv xy;nu	753
 重行	is;pa xy;xi	752
 重修	is;pa xq;rp	2842
 重续	is;pa xu;sm	41
@@ -16599,6 +16598,7 @@ sort: by_weight
 传报	ir;rv bk;fy	35
 川贝	ir;pa bz;ad	157
 川北	ir;pa bz;ag	149
+传本	ir;rv bf;aa	859
 传遍	ir;rv bm;zb	1727
 传变	ir;rv bm;wy	819
 川边	ir;pa bm;zl	731
@@ -21412,7 +21412,6 @@ sort: by_weight
 氮芥	dj;qy jx;cj	256
 但仅	dj;rd jn;ry	418
 丹津	dj;pd jn;dy	397
-弹进	dj;gd jn;zj	376
 但经	dj;rd jy;sg	458
 单晶	dj;ba jy;oo	194
 胆经	dj;od jy;sg	155
@@ -21598,7 +21597,6 @@ sort: by_weight
 单设	dj;ba ue;yu	229
 单射	dj;ba ue;cu	218
 单摄	dj;ba ue;fn	206
-弹舌	dj;gd ue;kq	62
 单身	dj;ba uf;pp	7244
 丹参	dj;pd uf;sp	310
 单肾	dj;ba uf;oy	248
@@ -21634,7 +21632,6 @@ sort: by_weight
 氮素	dj;qy su;sf	254
 单速	dj;ba su;zu	241
 弹速	dj;gd su;zu	229
-弹塑	dj;gd su;to	185
 单算	dj;ba sr;vc	850
 胆酸	dj;od sr;yj	808
 但他	dj;rd ta;ry	49380
@@ -30923,6 +30920,7 @@ sort: by_weight
 放笔	fh;wf bi;vm	662
 方笔	fh;wd bi;vm	629
 方便	fh;wd bm;rg	87198
+方边	fh;wd bm;zl	511
 访遍	fh;yf bm;zb	436
 防病	fh;ef by;bb	236
 防冰	fh;ef by;du	212
@@ -31392,7 +31390,6 @@ sort: by_weight
 放送	fh;wf ss;zg	1243
 仿宋	fh;rf ss;bm	788
 访苏	fh;yf su;cb	38
-房宿	fh;hf su;bb	36
 放蒜	fh;wf sr;cs	724
 防酸	fh;ef sr;yj	688
 防碎	fh;ef sv;uz	35
@@ -31476,6 +31473,7 @@ sort: by_weight
 房性	fh;hf xy;xu	350
 防锈	fh;ef xq;jx	669
 方休	fh;wd xq;rm	602
+房宿	fh;hf xq;bb	36
 放学	fh;wf xt;zb	3244
 访学	fh;yf xt;zb	1598
 防雪	fh;ef xt;yx	568
@@ -37214,7 +37212,6 @@ sort: by_weight
 隔墙	ge;eg qd;th	741
 割切	ge;dh qx;dq	6
 咯嗪	ge;kg qn;kq	342
-葛覃	ge;ch qn;xz	325
 个球	ge;ra qq;wq	2044
 歌曲	ge;qg qu;aa	57110
 各区	ge;wk qu;ki	772
@@ -37291,6 +37288,7 @@ sort: by_weight
 歌台	ge;qg tl;sk	739
 歌坛	ge;qg tj;ty	6588
 哥谭	ge;kd tj;yt	1296
+葛覃	ge;ch tj;xz	325
 葛塘	ge;ch th;tt	464
 各套	ge;wk tk;di	38
 哥特	ge;kd te;ns	2848
@@ -38571,7 +38569,8 @@ sort: by_weight
 公羊	gs;sb yh;da	599
 供氧	gs;rg yh;qy	568
 公钥	gs;sb yk;jo	2207
-弓腰	gs;vg yk;oy	254
+弓腰	gs;vg yk;oy	394
+共邀	gs;cb yk;zj	254
 工业	gs;aa ye;aa	24501
 功业	gs;lg ye;aa	1441
 宫野	gs;bl ye;ly	932
@@ -42500,6 +42499,7 @@ sort: by_weight
 海北	hl;dm bz;ag	240
 还背	hl;zb bz;ob	192
 还笨	hl;zb bf;vb	44
+还比	hl;zb bi;bb	202
 海边	hl;dm bm;zl	4173
 还编	hl;zb bm;sb	778
 海滨	hl;dm bn;db	939
@@ -43962,6 +43962,7 @@ sort: by_weight
 郝经	hk;ei jy;sg	83
 豪景	hk;ub jy;oj	66
 好久	hk;nz jq;pd	12014
+好旧	hk;nz jq;ao	4433
 好就	hk;nz jq;yj	2559
 好酒	hk;nz jq;dy	888
 好剧	hk;nz ju;dj	637
@@ -44740,6 +44741,7 @@ sort: by_weight
 贺某	he;bj mb;mg	77
 和睦	he;hk mu;ot	1225
 喝奶	he;kh nl;nn	838
+河南	he;dk nj;ua	16221
 何难	he;rk nj;vy	958
 盒内	he;mh nz;ad	1608
 河内	he;dk nz;ad	260
@@ -46344,6 +46346,7 @@ sort: by_weight
 红绿	hs;sg lv;sl	1444
 红码	hs;sg ma;um	276
 红马	hs;sg ma;aa	160
+红吗	hs;sg ma;km	124
 红帽	hs;sg mk;jm	845
 红毛	hs;sg mk;pg	580
 鸿毛	hs;nj mk;pg	392
@@ -46485,8 +46488,8 @@ sort: by_weight
 红塔	hs;sg ta;td	276
 哄他	hs;kg ta;ry	113
 宏塔	hs;bh ta;td	90
-哄抬	hs;kg tl;ft	449
-鸿泰	hs;nj tl;uf	355
+鸿泰	hs;nj tl;uf	449
+哄抬	hs;kg tl;ft	355
 洪泰	hs;dg tl;uf	314
 宏泰	hs;bh tl;uf	283
 弘泰	hs;gs tl;uf	230
@@ -46950,7 +46953,8 @@ sort: by_weight
 后上	hb;pk uh;aa	1678
 后晌	hb;pk uh;ox	1594
 厚烧	hb;iz uk;hy	522
-喉舌	hb;kh ue;kq	600
+后摄	hb;pk ue;fn	600
+喉舌	hb;kh ue;kq	300
 后设	hb;pk ue;yu	172
 后身	hb;pk uf;pp	132
 候审	hb;ru uf;bu	125
@@ -52163,6 +52167,7 @@ sort: by_weight
 集卡	ji;vm ka;ub	183
 挤开	ji;fq kl;ac	261
 即开	ji;eg kl;ac	131
+机铠	ji;mj kl;jj	126
 季刊	ji;hz kj;dg	301
 集刊	ji;vm kj;dg	113
 机考	ji;mj kk;lk	2525
@@ -52248,7 +52253,6 @@ sort: by_weight
 蒺藜	ji;cj li;cl	48
 计利	ji;yu li;hd	38
 技力	ji;fv li;gp	30
-技俩	ji;fv lw;rl	549
 忌廉	ji;xj lm;gj	593
 级联	ji;sj lm;eg	563
 吉连	ji;ku lm;zi	481
@@ -52258,6 +52262,7 @@ sort: by_weight
 伎俩	ji;rv ld;rl	1340
 几两	ji;py ld;ad	998
 几辆	ji;py ld;il	800
+技俩	ji;fv ld;rl	549
 脊梁	ji;od ld;md	216
 吉良	ji;ku ld;dg	205
 极量	ji;mj ld;ol	89
@@ -53206,8 +53211,8 @@ sort: by_weight
 记者	ji;yj ve;ol	22947
 急着	ji;xi ve;yo	6273
 记着	ji;yj ve;yo	3030
-挤着	ji;fq ve;yo	731
-几折	ji;py ve;fj	414
+几折	ji;py ve;fj	731
+挤着	ji;fq ve;yo	414
 吉喆	ji;ku ve;jj	97
 妓者	ji;nv ve;ol	77
 急诊	ji;xi vf;yp	4402
@@ -53750,6 +53755,7 @@ sort: by_weight
 家康	jw;bu kh;gl	1102
 驾考	jw;mj kk;lk	619
 加考	jw;lk kk;lk	354
+茄克	jw;cj ke;eg	1786
 夹克	jw;fb ke;eg	1683
 加课	jw;lk ke;yg	295
 加壳	jw;lk ke;uj	135
@@ -53782,8 +53788,8 @@ sort: by_weight
 迦勒	jw;zj le;lg	147
 架了	jw;mj le;aa	117
 驾了	jw;mj le;aa	93
-假嘞	jw;rj lz;kl	868
-甲类	jw;aa lz;md	825
+甲类	jw;aa lz;md	868
+假嘞	jw;rj lz;kl	525
 家累	jw;bu lz;st	281
 家里	jw;bu li;aa	98031
 加里	jw;lk li;aa	1507
@@ -56754,7 +56760,6 @@ sort: by_weight
 校释	jc;mj ui;pf	119
 角式	jc;dy ui;gy	95
 角石	jc;dy ui;kp	76
-校时	jc;mj ui;oc	76
 浇湿	jc;dy ui;dx	60
 教授	jc;wx ub;fu	90771
 交手	jc;li ub;pa	3576
@@ -56783,7 +56788,6 @@ sort: by_weight
 较松	jc;ij ss;mg	1004
 交送	jc;li ss;zg	954
 酵素	jc;yx su;sf	923
-角宿	jc;dy su;bb	639
 脚酸	jc;oq sr;yj	652
 焦酸	jc;hv sr;yj	619
 嚼碎	jc;kc sv;uz	531
@@ -56926,6 +56930,7 @@ sort: by_weight
 脚行	jc;oq xy;xi	84
 胶性	jc;oj xy;xu	67
 娇杏	jc;nq xy;mk	53
+角宿	jc;dy xq;bb	639
 娇羞	jc;nq xq;yi	556
 姣羞	jc;nj xq;yi	76
 脚癣	jc;oq xr;bx	16
@@ -58278,9 +58283,9 @@ sort: by_weight
 金盾	jn;ra dp;po	176
 晋铎	jn;oy do;jf	738
 金额	jn;ra ee;yk	25202
-今儿	jn;ra er;pg	34157
-进而	jn;zj er;aa	3425
-劲儿	jn;lg er;pg	1563
+进而	jn;zj er;aa	34157
+劲儿	jn;lg er;pg	3425
+今儿	jn;ra er;pg	1563
 锦儿	jn;jb er;pg	1250
 筋儿	jn;vl er;pg	536
 金发	jn;ra fa;ay	1906
@@ -59997,7 +60002,6 @@ sort: by_weight
 惊悚	jy;xj ss;xu	3394
 竞速	jy;lx su;zu	1677
 净素	jy;dv su;sf	662
-井宿	jy;aa su;bb	525
 精算	jy;mq sr;vc	5734
 精髓	jy;mq sv;gs	11012
 精索	jy;mq so;sb	60
@@ -60141,6 +60145,7 @@ sort: by_weight
 径行	jy;xg xy;xi	69
 晶形	jy;oo xy;pk	55
 精修	jy;mq xq;rp	1187
+井宿	jy;aa xq;bb	525
 静修	jy;qv xq;rp	113
 竞秀	jy;lx xq;hn	90
 景秀	jy;oj xq;hn	72
@@ -60217,7 +60222,8 @@ sort: by_weight
 镜音	jy;jj yn;lo	630
 经营	jy;sg yy;cl	32480
 精英	jy;mq yy;cy	17398
-晶莹	jy;oo yy;cy	552
+晶莹	jy;oo yy;cy	1552
+净赢	jy;dv yy;bk	300
 菁英	jy;cq yy;cy	251
 警营	jy;yj yy;cl	200
 经用	jy;sg ys;kf	402
@@ -62877,6 +62883,7 @@ sort: by_weight
 开国	kl;ac go;ky	2223
 开锅	kl;ac go;jg	1912
 开海	kl;ac hl;dm	981
+开行	kl;ac hh;xi	581
 开航	kl;ac hh;vk	78
 开好	kl;ac hk;nz	1024
 开号	kl;ac hk;kk	973
@@ -63124,7 +63131,6 @@ sort: by_weight
 开心	kl;ac xn;dd	29905
 开新	kl;ac xn;jq	1449
 开薪	kl;ac xn;cx	391
-开行	kl;ac xy;xi	581
 开胸	kl;ac xs;ox	468
 凯旋	kl;jj xr;fp	1112
 开轩	kl;ac xr;ig	536
@@ -74449,6 +74455,7 @@ sort: by_weight
 乱清	lr;ug qy;dq	331
 栾清	lr;my qy;dq	4
 乱拳	lr;ug qr;uf	594
+乱认	lr;ug rf;yr	411
 乱扔	lr;ug rg;fn	424
 乱入	lr;ug ru;pd	1812
 乱塞	lr;ug sl;tb	91
@@ -74458,8 +74465,8 @@ sort: by_weight
 乱射	lr;ug ue;cu	720
 乱设	lr;ug ue;yu	517
 乱神	lr;ug uf;uu	91
-卵生	lr;pd ug;na	386
-孪生	lr;zy ug;na	160
+孪生	lr;zy ug;na	386
+卵生	lr;pd ug;na	160
 乱世	lr;ug ui;ca	5752
 卵石	lr;pd ui;kp	326
 乱石	lr;ug ui;kp	282
@@ -74801,11 +74808,12 @@ sort: by_weight
 洛卡	lo;dg ka;ub	44
 罗卡	lo;sx ka;ub	42
 裸考	lo;yg kk;lk	3482
-罗克	lo;sx ke;eg	1274
-落客	lo;cl ke;bg	1210
-罗科	lo;sx ke;hd	1147
-螺壳	lo;il ke;uj	1057
-螺科	lo;il ke;hd	866
+洛克	lo;dg ke;eg	1274
+落客	lo;cl ke;bg	910
+罗科	lo;sx ke;hd	413
+罗克	lo;sx ke;eg	232
+螺壳	lo;il ke;uj	105
+螺科	lo;il ke;hd	66
 落空	lo;cl ks;xg	1265
 螺孔	lo;il ks;zg	486
 螺口	lo;il kb;aa	598
@@ -76486,6 +76494,7 @@ sort: by_weight
 满阱	mj;dl jy;ej	140
 蛮久	mj;iy jq;pd	1076
 漫剧	mj;dm ju;dj	698
+槾橘	mj;mm ju;mk	302
 漫卷	mj;dm jr;ef	44
 慢烤	mj;xm kk;hk	747
 满客	mj;dl ke;bg	742
@@ -77492,6 +77501,7 @@ sort: by_weight
 美化	mz;dy hw;rb	7611
 梅花	mz;mm hw;ch	4182
 没话	mz;du hw;yu	524
+没画	mz;du hw;ak	383
 没花	mz;du hw;ch	376
 美华	mz;dy hw;uh	285
 煤化	mz;hm hw;rb	228
@@ -77607,13 +77617,13 @@ sort: by_weight
 美考	mz;dy kk;lk	740
 没烤	mz;du kk;hk	701
 没靠	mz;du kk;fg	560
+没课	mz;du ke;yg	1770
 每克	mz;rm ke;eg	1680
 每科	mz;rm ke;hd	1281
-魅可	mz;gw ke;dk	734
 每颗	mz;rm ke;yg	675
 每刻	mz;rm ke;dh	565
+魅可	mz;gw ke;dk	334
 每课	mz;rm ke;yg	100
-没课	mz;du ke;yg	80
 每棵	mz;rm ke;mg	64
 每客	mz;rm ke;bg	51
 梅科	mz;mm ke;hd	40
@@ -81989,8 +81999,8 @@ sort: by_weight
 纳秒	na;sn mc;hu	305
 那敏	na;el mn;wm	716
 纳闽	na;sn mn;im	680
-那名	na;el my;xk	1190
-拿命	na;uh my;re	587
+拿命	na;uh my;re	1190
+那名	na;el my;xk	587
 哪名	na;kn my;xk	433
 那末	na;el mo;ad	1184
 南无	na;ua mo;ag	1125
@@ -91641,8 +91651,9 @@ sort: by_weight
 钱少	qm;jj uk;xp	2236
 前哨	qm;qd uk;kx	464
 牵涉	qm;nb ue;db	1228
-前设	qm;qd ue;yu	1105
-潜射	qm;dt ue;cu	769
+前摄	qm;qd ue;fn	819
+前设	qm;qd ue;yu	769
+潜射	qm;dt ue;cu	511
 前身	qm;qd uf;pp	8387
 欠身	qm;dr uf;pp	1108
 前伸	qm;qd uf;ru	188
@@ -92792,7 +92803,6 @@ sort: by_weight
 窃据	qx;xq ju;fj	132
 切开	qx;dq kl;ac	3950
 且看	qx;aa kj;ou	1620
-茄克	qx;cj ke;eg	1786
 茄科	qx;cj ke;hd	1697
 且可	qx;aa ke;dk	574
 切客	qx;dq ke;bg	346
@@ -94931,6 +94941,7 @@ sort: by_weight
 区号	qu;ki hk;kk	1193
 取好	qu;ey hk;nz	543
 趋好	qu;zi hk;nz	336
+去和	qu;ts he;hk	4566
 去喝	qu;ts he;kh	571
 去核	qu;ts he;mh	314
 曲河	qu;aa he;dk	251
@@ -95006,7 +95017,6 @@ sort: by_weight
 去看	qu;ts kj;ou	48868
 去考	qu;ts kk;lk	1516
 去壳	qu;ts ke;uj	1457
-躯壳	qu;uq ke;uj	1353
 渠口	qu;mj kb;aa	522
 曲库	qu;aa ku;gi	2484
 去哭	qu;ts ku;kq	106
@@ -95101,6 +95111,7 @@ sort: by_weight
 去抢	qu;ts qd;fc	2569
 趋强	qu;zi qd;gs	630
 取巧	qu;ey qc;gk	1457
+躯壳	qu;uq qc;uj	1353
 曲桥	qu;aa qc;mq	697
 去切	qu;ts qx;dq	135
 娶亲	qu;nq qn;lm	223
@@ -95484,13 +95495,13 @@ sort: by_weight
 全钢	qr;rw gh;jg	1148
 泉港	qr;ub gh;dx	1091
 全港	qr;rw gh;dx	657
-全搞	qr;rw gk;fg	1287
-劝告	qr;ly gk;kn	1223
-全高	qr;rw gk;wk	984
+劝告	qr;ly gk;kn	1287
+全搞	qr;rw gk;fg	923
+全高	qr;rw gk;wk	384
 全哥	qr;rw ge;kd	554
 全给	qr;rw gz;sh	1328
 全攻	qr;rw gs;wg	1156
-颧弓	qr;yv gs;vg	1098
+颧弓	qr;yv gs;vg	98
 泉沟	qr;ub gb;dg	580
 颧骨	qr;yv gu;go	1705
 全谷	qr;rw gu;bk	1156
@@ -98751,6 +98762,7 @@ sort: by_weight
 瑞丽	rv;we li;ad	1812
 锐利	rv;jd li;hd	408
 瑞利	rv;we li;hd	326
+睿励	rv;or li;ll	182
 瑞联	rv;we lm;eg	657
 瑞林	rv;we ln;mm	88
 瑞麟	rv;we ln;ll	84
@@ -99364,7 +99376,8 @@ sort: by_weight
 三队	sj;aa dv;er	370
 三堆	sj;aa dv;tv	296
 三顿	sj;aa dp;yt	575
-三墩	sj;aa dp;td	518
+三吨	sj;aa dp;kt	512
+三墩	sj;aa dp;td	141
 三多	sj;aa do;xx	148
 三朵	sj;aa do;mj	116
 三恶	sj;aa ee;xy	720
@@ -100368,12 +100381,12 @@ sort: by_weight
 僧道	sg;rc dk;zu	141
 僧房	sg;rc fh;hf	585
 僧服	sg;rc fu;oy	450
-僧伽	sg;rc jw;rj	896
 僧庐	sg;rc lu;gh	407
 僧侣	sg;rc lv;rl	1184
 僧帽	sg;rc mk;jm	35
 僧尼	sg;rc ni;ub	166
 僧袍	sg;rc pk;yb	644
+僧伽	sg;rc qx;rj	896
 僧人	sg;rc rf;pd	1928
 僧舍	sg;rc ue;ru	648
 僧寺	sg;rc si;ct	6
@@ -100405,7 +100418,8 @@ sort: by_weight
 沙冰	ua;du by;du	1184
 啥病	ua;ku by;bb	581
 纱布	ua;su bu;ju	2917
-傻不	ua;rw bu;ad	990
+啥不	ua;ku bu;ad	981
+傻不	ua;rw bu;ad	490
 砂布	ua;uu bu;ju	420
 沙埠	ua;du bu;tf	376
 杀才	ua;mi cl;ap	101
@@ -101598,9 +101612,10 @@ sort: by_weight
 上额	uh;aa ee;yk	73
 商法	uh;wk fa;dq	1733
 赏罚	uh;bk fa;sd	621
-上饭	uh;aa fj;uf	1246
-商贩	uh;wk fj;bf	257
-赏饭	uh;bk fj;uf	205
+上翻	uh;aa fj;yf	1246
+商贩	uh;wk fj;bf	449
+赏饭	uh;bk fj;uf	256
+上饭	uh;aa fj;uf	205
 上方	uh;aa fh;wd	14972
 上访	uh;aa fh;yf	854
 上放	uh;aa fh;wf	753
@@ -105046,7 +105061,8 @@ sort: by_weight
 失当	ui;pf dh;xx	486
 时当	ui;oc dh;xx	388
 实到	ui;bt dk;dv	1670
-食道	ui;rl dk;zu	1422
+是到	ui;op dk;dv	1422
+食道	ui;rl dk;zu	555
 世道	ui;ca dk;zu	254
 释道	ui;pf dk;zu	178
 拾到	ui;fh dk;dv	147
@@ -108350,9 +108366,9 @@ sort: by_weight
 舒朗	uu;yu lh;ol	774
 疏朗	uu;pi lh;ol	735
 输了	uu;iy le;aa	16620
-疏勒	uu;pi le;lg	4003
-熟了	uu;hu le;aa	1400
-数了	uu;wl le;aa	244
+熟了	uu;hu le;aa	4003
+数了	uu;wl le;aa	1400
+疏勒	uu;pi le;lg	244
 舒了	uu;yu le;aa	128
 梳了	uu;mi le;aa	102
 薯类	uu;cu lz;md	685
@@ -110197,6 +110213,7 @@ sort: by_weight
 水巷	uv;ad xd;sg	61
 水香	uv;ad xd;ho	48
 水效	uv;ad xc;wj	1076
+税校	uv;hd xc;mj	97
 水榭	uv;ad xx;mu	107
 水蟹	uv;ad xx;ij	96
 水泻	uv;ad xx;dx	86
@@ -111389,7 +111406,6 @@ sort: by_weight
 四校	si;aa xc;mj	329
 私校	si;hs xc;mj	263
 似笑	si;ry xc;vy	210
-丝血	si;aa xx;pa	276
 死蟹	si;db xx;ij	248
 私信	si;hs xn;ry	26282
 死心	si;db xn;dd	4593
@@ -111413,6 +111429,7 @@ sort: by_weight
 斯须	si;jq xu;py	446
 四选	si;aa xr;zx	75
 死穴	si;db xt;bb	766
+丝血	si;aa xt;pa	276
 思学	si;xt xt;zb	276
 似雪	si;ry xt;yx	191
 私学	si;hs xt;zb	152
@@ -114639,6 +114656,7 @@ sort: by_weight
 谭家	tj;yt jw;bu	104
 探监	tj;fm jm;mv	223
 谭姐	tj;yt jx;nq	487
+弹进	tj;gd jn;zj	376
 探进	tj;fm jn;zj	151
 坛经	tj;ty jy;sg	800
 探井	tj;fm jy;aa	758
@@ -114749,6 +114767,7 @@ sort: by_weight
 炭烧	tj;uh uk;hy	173
 碳烧	tj;ut uk;hy	156
 弹射	tj;gd ue;cu	1840
+弹舌	tj;gd ue;kq	62
 探身	tj;fm uf;pp	166
 贪生	tj;bj ug;na	110
 叹声	tj;ky ug;um	104
@@ -115870,6 +115889,7 @@ sort: by_weight
 特事	te;ns ui;aa	384
 特师	te;ns ui;ab	346
 特首	te;ns ub;qz	364
+特授	te;ns ub;fu	274
 特殊	te;ns uu;dv	59032
 特帅	te;ns uy;aj	22
 特爽	te;ns ud;dy	63
@@ -125795,12 +125815,12 @@ sort: by_weight
 无尽	wu;ag jn;id	3511
 五金	wu;aa jn;ra	2499
 捂紧	wu;fw jn;sy	753
+勿进	wu;gp jn;zj	143
 五斤	wu;aa jn;pa	135
 武进	wu;vy jn;zj	108
 乌金	wu;pa jn;ra	86
 五进	wu;aa jn;zj	68
 勿近	wu;gp jn;zj	54
-勿进	wu;gp jn;zj	43
 武警	wu;vy jy;yj	1416
 五经	wu;aa jy;sg	549
 物镜	wu;nw jy;jj	527
@@ -126525,8 +126545,8 @@ sort: by_weight
 无臭	wu;ag xq;zq	135
 无修	wu;ag xq;rp	108
 无锈	wu;ag xq;jx	86
-无需	wu;ag xu;ye	23515
-无须	wu;ag xu;py	3855
+无须	wu;ag xu;py	23515
+无需	wu;ag xu;ye	3855
 无序	wu;ag xu;gy	3372
 戊戌	wu;gp xu;ga	656
 务虚	wu;wl xu;hy	232
@@ -127973,8 +127993,8 @@ sort: by_weight
 西寨	xi;aa vl;mb	531
 西斋	xi;aa vl;we	504
 西站	xi;aa vj;lv	157
-夕张	xi;pd vh;gi	900
-细账	xi;st vh;bi	855
+细账	xi;st vh;bi	900
+夕张	xi;pd vh;gi	855
 锡杖	xi;jy vh;mv	810
 西张	xi;aa vh;gi	411
 夕照	xi;pd vk;hv	132
@@ -131255,8 +131275,9 @@ sort: by_weight
 笑点	xc;vy dm;hv	3457
 小电	xc;ad dm;ag	1088
 小淀	xc;ad dm;dd	312
-小调	xc;ad dc;yv	5982
-消掉	xc;dx dc;fv	697
+消掉	xc;dx dc;fv	5982
+笑掉	xc;vy dc;fv	697
+小调	xc;ad dc;yv	682
 销掉	xc;jx dc;fv	433
 小碟	xc;ad dx;um	220
 小蝶	xc;ad dx;im	144
@@ -132412,10 +132433,10 @@ sort: by_weight
 晓莹	xc;oy yy;cy	58
 小赢	xc;ad yy;bk	46
 小瑛	xc;ad yy;wy	36
-小勇	xc;ad ys;ly	5567
-效用	xc;wj ys;kf	445
+效用	xc;wj ys;kf	5567
+骁勇	xc;my ys;ly	445
 小用	xc;ad ys;kf	367
-骁勇	xc;my ys;ly	293
+小勇	xc;ad ys;ly	293
 晓勇	xc;oy ys;ly	234
 啸咏	xc;ks ys;ky	118
 校友	xc;mj yb;yu	15483
@@ -133733,7 +133754,6 @@ sort: by_weight
 新宋	xn;jq ss;bm	45
 新宿	xn;jq su;bb	766
 心素	xn;dd su;sf	689
-心宿	xn;dd su;bb	620
 信宿	xn;ry su;bb	496
 心酸	xn;dd sr;yj	4622
 辛酸	xn;lu sr;yj	1934
@@ -133880,6 +133900,7 @@ sort: by_weight
 信行	xn;ry xy;xi	212
 心胸	xn;dd xs;ox	1385
 新秀	xn;jq xq;hn	3545
+心宿	xn;dd xq;bb	620
 新修	xn;jq xq;rp	565
 心虚	xn;dd xu;hy	3413
 心绪	xn;dd xu;sv	1099
@@ -140005,6 +140026,7 @@ sort: by_weight
 要养	yk;xn yh;ya	1364
 瑶瑶	yk;wf yk;wf	593
 摇摇	yk;ff yk;ff	555
+要要	yk;xn yk;xn	510
 遥遥	yk;zf yk;zf	436
 夭夭	yk;pd yk;pd	106
 咬咬	yk;kj yk;kj	84
@@ -143354,6 +143376,7 @@ sort: by_weight
 音带	yn;lo dl;jb	19
 银带	yn;jg dl;jb	18
 银弹	yn;jg dj;gd	229
+饮弹	yn;uq dj;gd	25
 淫荡	yn;dr dh;ct	301
 引导	yn;ga dk;cs	40930
 阴道	yn;eo dk;zu	3077
@@ -143867,7 +143890,6 @@ sort: by_weight
 银台	yn;jg tl;sk	543
 印台	yn;ey tl;sk	489
 银滩	yn;jg tj;dn	28
-饮弹	yn;uq tj;gd	25
 印坛	yn;ey tj;ty	22
 印堂	yn;ey th;tk	119
 饮汤	yn;uq th;dy	107
@@ -148251,7 +148273,7 @@ sort: by_weight
 远避	yr;zy bi;zb	106
 猿臂	yr;qy bi;ob	84
 圆笔	yr;ky bi;vm	67
-缘边	yr;st bm;zl	576
+圆边	yr;ky bm;zl	576
 原表	yr;ix bc;fy	126
 援兵	yr;fy by;qb	936
 圆饼	yr;ky by;ub	241
@@ -151377,7 +151399,6 @@ sort: by_weight
 责备	ze;bf bz;wt	2408
 则被	ze;bd bz;yp	2235
 泽北	ze;df bz;ag	785
-泽被	ze;df bz;yp	706
 泽陂	ze;df bz;ep	220
 责编	ze;bf bm;sb	725
 则不	ze;bd bu;ad	641
@@ -151418,6 +151439,7 @@ sort: by_weight
 责难	ze;bf nj;vy	659
 则能	ze;bd ng;sb	1303
 择偶	ze;ff ou;ry	1378
+泽被	ze;df pi;yp	706
 泽平	ze;df py;aa	41
 仄平	ze;ir py;aa	39
 泽普	ze;df pu;ob	25
@@ -153083,7 +153105,7 @@ sort: by_weight
 招谁	vk;fv uv;yv	142
 照水	vk;hv uv;ad	113
 照说	vk;hv uo;yd	110
-找死	vk;fg si;db	455
+找死	vk;fg si;db	1441
 昭苏	vk;ov su;cb	179
 照算	vk;hv sr;vc	648
 找他	vk;fg ta;ry	6176
@@ -156259,6 +156281,7 @@ sort: by_weight
 值钱	vi;rv qm;jj	4016
 纸钱	vi;su qm;jj	1117
 致歉	vi;wv qm;qj	744
+置前	vi;sv qm;qd	300
 职前	vi;ev qm;qd	213
 制钱	vi;dg qm;jj	170
 至前	vi;tv qm;qd	136
@@ -156394,6 +156417,7 @@ sort: by_weight
 只上	vi;kb uh;aa	555
 指上	vi;fv uh;aa	430
 直上	vi;uq uh;aa	398
+置上	vi;sv uh;aa	266
 之殇	vi;dd uh;dy	241
 致尚	vi;wv uh;xk	197
 枝上	vi;mv uh;aa	157
@@ -156420,6 +156444,7 @@ sort: by_weight
 直升	vi;uq ug;pc	2263
 之声	vi;dd ug;um	1089
 只生	vi;kb ug;na	433
+吱声	vi;kv ug;um	367
 至圣	vi;tv ug;ty	157
 之盛	vi;dd ug;mi	147
 智胜	vi;ov ug;ou	135
@@ -156689,9 +156714,10 @@ sort: by_weight
 之下	vi;dd xw;ab	50720
 治下	vi;dt xw;ab	2091
 直辖	vi;uq xw;ih	907
+直下	vi;uq xw;ab	653
+置下	vi;sv xw;ab	382
 之夏	vi;dd xw;wz	379
 制下	vi;dg xw;ab	317
-直下	vi;uq xw;ab	253
 掷下	vi;fv xw;ab	147
 之匣	vi;dd xw;kj	127
 直线	vi;uq xm;sj	11031
@@ -157976,6 +158002,7 @@ sort: by_weight
 中型	vs;aa xy;tx	4499
 重型	vs;pa xy;tx	3516
 中兴	vs;aa xy;ba	3218
+种姓	vs;hv xy;nu	753
 钟形	vs;jv xy;pk	292
 众星	vs;rc xy;ou	248
 重刑	vs;pa xy;dk	163
@@ -158178,6 +158205,7 @@ sort: by_weight
 重罪	vs;pa zv;sf	873
 重作	vs;pa zo;rv	999
 中佐	vs;aa zo;rz	949
+周版	vb;kt bj;pf	91
 皱瓣	vb;ip bj;gx	62
 周报	vb;kt bk;fy	1994
 皱襞	vb;ip bi;yb	104
@@ -159620,7 +159648,6 @@ sort: by_weight
 转报	vr;iv bk;fy	314
 专报	vr;ad bk;fy	283
 转本	vr;iv bf;aa	904
-传本	vr;rv bf;aa	859
 转笔	vr;iv bi;vm	220
 转变	vr;iv bm;wy	21195
 转遍	vr;iv bm;zb	603
@@ -160604,10 +160631,12 @@ sort: by_weight
 桌布	vo;mo bu;ju	882
 桌菜	vo;mo cl;cc	1048
 桌餐	vo;mo cj;uy	28
+桌长	vo;mo ih;pd	122
 琢成	vo;wd ig;gg	16
 捉虫	vo;fz is;ad	264
 着床	vo;yo id;gm	204
 卓创	vo;uo id;dc	194
+桌搭	vo;mo da;fd	14
 捉到	vo;fz dk;dv	515
 捉刀	vo;fz dk;gp	489
 桌凳	vo;mo dg;jd	662
@@ -161212,7 +161241,6 @@ sort: by_weight
 自审	zi;pa uf;bu	103
 滋肾	zi;dz uf;oy	82
 滋生	zi;dz ug;na	3583
-吱声	zi;kv ug;um	367
 孳生	zi;zz ug;na	364
 自生	zi;pa ug;na	291
 姿势	zi;nc ui;lv	26784
@@ -162985,6 +163013,7 @@ sort: by_weight
 作于	zo;rv yu;aa	191
 左云	zo;ug yp;es	6
 坐在	zo;tc zl;ut	34540
+做在	zo;rg zl;ut	511
 做贼	zo;rg zz;br	305
 左闸	zo;ug va;mj	594
 作战	zo;rv vj;gv	15370
@@ -163981,6 +164010,7 @@ sort: by_weight
 爱撒娇	ai;vy sa;fs jc;nq	129
 艾萨克	ai;ci sa;ci ke;eg	565
 埃塞尔	ai;tu sl;tb er;dx	774
+埃塞萨	ai;tu sl;tb sa;ci	32
 爱色丽	ai;vy se;db li;ad	256
 爱森斯	ai;vy sf;ml si;jq	43
 埃森哲	ai;tu sf;ml ve;kv	449
@@ -165791,6 +165821,7 @@ sort: by_weight
 安全型	an;bn qr;rw xy;tx	559
 安全靴	an;bn qr;rw xt;gh	171
 安全椅	an;bn qr;rw yi;mq	9
+按权益	an;fa qr;my yi;mb	8
 安全域	an;bn qr;rw yu;th	22
 安全员	an;bn qr;rw yr;kb	1740
 安全月	an;bn qr;rw yt;pa	621
@@ -165820,6 +165851,7 @@ sort: by_weight
 按人群	an;fa rf;pd qp;yj	346
 按人数	an;fa rf;pd uu;wl	675
 按人算	an;fa rf;pd sr;vc	459
+按人体	an;fa rf;pd ti;rb	387
 按人头	an;fa rf;pd tb;dd	358
 按任务	an;fa rf;rr wu;wl	472
 安仁溪	an;bn rf;re xi;dx	180
@@ -166228,11 +166260,15 @@ sort: by_weight
 按下载	an;fa xw;ab zl;ig	459
 按现场	an;fa xm;wj ih;ty	891
 安鲜达	an;bn xm;yy da;zd	38
+安县的	an;bn xm;sq de;bu	729
 安闲地	an;bn xm;mm di;ty	364
+按宪法	an;fa xm;bx fa;dq	356
 按先后	an;fa xm;ne hb;pk	540
 按现价	an;fa xm;wj jw;rj	400
 按现金	an;fa xm;wj jn;ra	549
 按线路	an;fa xm;sj lu;zg	324
+安县人	an;bn xm;sq rf;pd	855
+安先生	an;bn xm;ne ug;na	796
 按显示	an;fa xm;oy ui;ex	441
 按现时	an;fa xm;wj ui;oc	315
 按现行	an;fa xm;wj xy;xi	148
@@ -166256,6 +166292,7 @@ sort: by_weight
 俺想要	an;rd xd;xx yk;xn	288
 按消费	an;fa xc;dx fz;bf	544
 按效果	an;fa xc;wj go;tm	567
+安小姐	an;bn xc;ad jx;nq	788
 按销量	an;fa xc;jx ld;ol	562
 按小时	an;fa xc;ad ui;oc	810
 按销售	an;fa xc;jx ub;kv	734
@@ -166344,6 +166381,7 @@ sort: by_weight
 按压到	an;fa ya;id dk;dv	423
 按压法	an;fa ya;id fa;dq	342
 按压后	an;fa ya;id hb;pk	518
+按压会	an;fa ya;id hv;ry	428
 按压就	an;fa ya;id jq;yj	477
 按压了	an;fa ya;id le;aa	504
 按压瓶	an;fa ya;id py;wb	392
@@ -166502,6 +166540,7 @@ sort: by_weight
 按月交	an;fa yt;pa jc;li	22
 按月龄	an;fa yt;pa ly;il	702
 按月领	an;fa yt;pa ly;yl	293
+按月日	an;fa yt;pa ri;aa	608
 暗月石	an;oy yt;pa ui;kp	320
 按月算	an;fa yt;pa sr;vc	75
 按月向	an;fa yt;pa xd;pk	418
@@ -166520,6 +166559,7 @@ sort: by_weight
 安葬费	an;bn zh;cc fz;bf	38
 安葬了	an;bn zh;cc le;aa	621
 安葬时	an;bn zh;cc ui;oc	374
+安藏王	an;bn zh;cz wh;aa	234
 安葬在	an;bn zh;cc zl;ut	166
 安葬着	an;bn zh;cc ve;yo	13
 暗噪声	an;oy zk;kz ug;um	45
@@ -166538,7 +166578,9 @@ sort: by_weight
 按账户	an;fa vh;bi hu;dp	9
 按章节	an;fa vh;lz jx;ce	580
 按账龄	an;fa vh;bi ly;il	585
+安掌门	an;bn vh;uk mf;dg	13
 按账面	an;fa vh;bi mm;aa	428
+按照表	an;fa vk;hv bc;fy	594
 按招标	an;fa vk;fv bc;mu	350
 按照每	an;fa vk;hv mz;rm	1022
 按照某	an;fa vk;hv mb;mg	922
@@ -166547,9 +166589,11 @@ sort: by_weight
 按照你	an;fa vk;hv ni;re	1112
 按照年	an;fa vk;hv nm;ra	1094
 按照您	an;fa vk;hv nn;xn	796
+按照谁	an;fa vk;hv uv;yv	675
 按照这	an;fa vk;hv ve;zw	411
 按着打	an;fa ve;yo da;fd	148
 按着点	an;fa ve;yo dm;hv	526
+按这对	an;fa ve;zw dv;cy	454
 俺这儿	an;rd ve;zw er;pg	302
 按这个	an;fa ve;zw ge;ra	2452
 俺这个	an;rd ve;zw ge;ra	585
@@ -166563,6 +166607,7 @@ sort: by_weight
 按这位	an;fa ve;zw wz;rl	418
 按着我	an;fa ve;yo wo;pd	648
 按这样	an;fa ve;zw yh;my	110
+按这一	an;fa ve;zw yi;aa	468
 按这种	an;fa ve;zw vs;hv	305
 安贞店	an;bn vf;bb dm;gv	567
 安贞里	an;bn vf;bb li;aa	13
@@ -166644,6 +166689,7 @@ sort: by_weight
 按住他	an;fa vu;rv ta;ry	720
 按住它	an;fa vu;rv ta;bb	429
 按主题	an;fa vu;dw ti;uy	706
+按住图	an;fa vu;rv tu;kd	616
 按住我	an;fa vu;rv wo;pd	626
 按转让	an;fa vr;iv rh;yu	360
 按专题	an;fa vr;ad ti;uy	396
@@ -166841,6 +166887,7 @@ sort: by_weight
 熬得过	ao;ha de;xc go;zc	38
 奥得河	ao;dm de;xc he;dk	31
 傲得很	ao;ra de;xc hf;xg	9
+敖德萨	ao;wd de;xx sa;ci	32
 奥德赛	ao;dm de;xx sl;bb	4000
 奥的斯	ao;dm de;bu si;jq	675
 熬的夜	ao;ha de;bu ye;wd	441
@@ -167965,6 +168012,11 @@ sort: by_weight
 把此项	ba;fb ci;vb xd;gy	428
 把刺绣	ba;fb ci;dc xq;sx	374
 把词语	ba;fb ci;ys yu;yw	356
+把瓷砖	ba;fb ci;wc vr;uv	396
+把葱白	ba;fb cs;cc bl;pa	356
+把葱段	ba;fb cs;cc dr;ud	338
+把葱花	ba;fb cs;cc hw;ch	536
+把葱姜	ba;fb cs;cc jd;ny	612
 把从前	ba;fb cs;rr qm;qd	585
 把葱切	ba;fb cs;cc qx;dq	396
 把从事	ba;fb cs;rr ui;aa	378
@@ -168879,6 +168931,7 @@ sort: by_weight
 把高中	ba;fb gk;wk vs;aa	688
 把稿子	ba;fb gk;hg zi;aa	598
 八个吧	ba;pd ge;ra ba;kb	410
+八个八	ba;pd ge;ra ba;pd	300
 八个半	ba;pd ge;ra bj;bf	25
 八个班	ba;pd ge;ra bj;dw	22
 把隔壁	ba;fb ge;eg bi;tb	657
@@ -168943,6 +168996,7 @@ sort: by_weight
 把给我	ba;fb gz;sh wo;pd	567
 把根部	ba;fb gf;mg bu;ek	364
 把根据	ba;fb gf;mg ju;fj	378
+拔根烟	ba;fb gf;mg yj;hy	4
 把根扎	ba;fb gf;mg va;fg	356
 把耕地	ba;fb gg;lj di;ty	346
 把更多	ba;fb gg;ad do;xx	355
@@ -170143,6 +170197,7 @@ sort: by_weight
 八九月	ba;pd jq;py yt;pa	195
 八九只	ba;pd jq;py vi;kb	356
 把九州	ba;fb jq;py vb;id	346
+八九周	ba;pd jq;py vb;kt	23
 把救助	ba;fb jq;wq vu;lq	187
 把举报	ba;fb ju;df bk;fy	400
 把具备	ba;fb ju;ba bz;wt	315
@@ -171716,6 +171771,7 @@ sort: by_weight
 八千点	ba;pd qm;pa dm;hv	6
 把钱都	ba;fb qm;jj db;ev	846
 把前端	ba;fb qm;qd dr;le	472
+把前段	ba;fb qm;qd dr;ud	296
 八千多	ba;pd qm;pa do;xx	405
 八千二	ba;pd qm;pa er;aa	806
 把钱放	ba;fb qm;jj fh;wf	864
@@ -174000,6 +174056,7 @@ sort: by_weight
 把五四	ba;fb wu;aa si;aa	315
 把舞台	ba;fb wu;rf tl;sk	572
 把物体	ba;fb wu;nw ti;rb	572
+八五五	ba;pd wu;aa wu;aa	72
 把武侠	ba;fb wu;vy xw;rj	423
 巴雾峡	ba;ag wu;yw xw;uj	217
 把无线	ba;fb wu;ag xm;sj	558
@@ -177382,10 +177439,10 @@ sort: by_weight
 白扔了	bl;pa rg;fn le;aa	38
 白扔钱	bl;pa rg;fn qm;jj	22
 百日草	bl;ab ri;aa ck;cz	495
-百日咳	bl;ab ri;aa hl;kh	855
 百日红	bl;ab ri;aa hs;sg	19
 白日化	bl;pa ri;aa hw;rb	328
 百日菊	bl;ab ri;aa ju;cj	392
+百日咳	bl;ab ri;aa ke;kh	855
 白日里	bl;pa ri;aa li;aa	792
 白日门	bl;pa ri;aa mf;dg	634
 白日梦	bl;pa ri;aa mg;mx	1083
@@ -185459,6 +185516,7 @@ sort: by_weight
 被家暴	bz;yp jw;bu bk;ou	801
 北甲地	bz;ag jw;aa di;ty	144
 被假定	bz;yp jw;rj dy;bp	531
+贝加尔	bz;ad jw;lk er;dx	32
 倍加福	bz;rk jw;lk fu;uf	144
 被加工	bz;yp jw;lk gs;aa	104
 贝加河	bz;ad jw;lk he;dk	180
@@ -190902,7 +190960,6 @@ sort: by_weight
 必嗽平	bi;dd sb;kq py;aa	378
 比速度	bi;bb su;zu du;gy	166
 比苏联	bi;bb su;cb lm;eg	603
-毕宿五	bi;bu su;bb wu;aa	612
 毕苏语	bi;bu su;cb yu;yw	364
 闭算子	bi;mc sr;vc zi;aa	144
 闭锁槽	bi;mc so;jb ck;mc	261
@@ -191093,6 +191150,7 @@ sort: by_weight
 必修了	bi;dd xq;rp le;aa	234
 必修三	bi;dd xq;rp sj;aa	522
 必修四	bi;dd xq;rp si;aa	428
+毕宿五	bi;bu xq;bb wu;aa	612
 必修五	bi;dd xq;rp wu;aa	356
 必修一	bi;dd xq;rp yi;aa	684
 比秀玉	bi;bb xq;hn yu;wd	315
@@ -194819,6 +194877,7 @@ sort: by_weight
 别致感	bx;dl vi;wv gj;xx	396
 别知己	bx;dl vi;ku ji;ag	130
 别直接	bx;dl vi;uq jx;fq	720
+别吱声	bx;dl vi;kv ug;um	346
 别指望	bx;dl vi;fv wh;wo	2823
 别质疑	bx;dl vi;bu yi;bp	418
 别指着	bx;dl vi;fv ve;yo	418
@@ -194843,7 +194902,6 @@ sort: by_weight
 别追我	bx;dl vv;zv wo;pd	346
 别捉急	bx;dl vo;fz ji;xi	387
 别自己	bx;dl zi;pa ji;ag	936
-别吱声	bx;dl zi;kv ug;um	346
 别自责	bx;dl zi;pa ze;bf	526
 别总是	bx;dl zs;xk ui;op	276
 别走啊	bx;dl zb;tv aa;ka	716
@@ -200090,6 +200148,8 @@ sort: by_weight
 不挂失	bu;ad gw;fg ui;pf	450
 卜卦师	bu;ad gw;bg ui;ab	179
 不挂水	bu;ad gw;fg uv;ad	310
+不挂在	bu;ad gw;fg zl;ut	211
+不挂载	bu;ad gw;fg zl;ig	167
 不怪吧	bu;ad gy;xu ba;kb	266
 不乖乖	bu;ad gy;pb gy;pb	616
 不乖了	bu;ad gy;pb le;aa	940
@@ -200671,7 +200731,7 @@ sort: by_weight
 不回调	bu;ad hv;kk dc;yv	432
 不会跌	bu;ad hv;ry dx;zu	144
 不会丢	bu;ad hv;ry dq;pq	990
-不会懂	bu;ad hv;ry ds;xd	506
+不会懂	bu;ad hv;ry ds;xd	477
 不会动	bu;ad hv;ry ds;ly	392
 不会抖	bu;ad hv;ry db;fd	454
 不会读	bu;ad hv;ry du;ym	842
@@ -200850,6 +200910,7 @@ sort: by_weight
 不会亡	bu;ad hv;ry wh;da	422
 不回位	bu;ad hv;kk wz;rl	9
 不会问	bu;ad hv;ry wf;km	986
+不回我	bu;ad hv;kk wo;pd	66
 不会洗	bu;ad hv;ry xi;dx	698
 不会像	bu;ad hv;ry xd;rx	7253
 不回乡	bu;ad hv;kk xd;ap	7251
@@ -203875,6 +203936,7 @@ sort: by_weight
 不少天	bu;ad uk;xp tm;ad	634
 不少线	bu;ad uk;xp xm;sj	500
 不烧香	bu;ad uk;hy xd;ho	508
+不烧心	bu;ad uk;hy xn;dd	86
 不烧油	bu;ad uk;hy yb;dy	356
 不少于	bu;ad uk;xp yu;aa	4126
 不少站	bu;ad uk;xp vj;lv	454
@@ -213308,8 +213370,12 @@ sort: by_weight
 长安杯	ih;pd an;bn bz;mb	310
 长安城	ih;pd an;bn ig;ti	1476
 长安春	ih;pd an;bn ip;of	306
+长安邨	ih;pd an;bn cp;et	500
+长安道	ih;pd an;bn dk;zu	44
 长安的	ih;pd an;bn de;bu	990
+长安店	ih;pd an;bn dm;gv	446
 长安东	ih;pd an;bn ds;ad	3
+长安府	ih;pd an;bn fu;gf	6
 长安号	ih;pd an;bn hk;kk	3
 长安和	ih;pd an;bn he;hk	657
 长安后	ih;pd an;bn hb;pk	644
@@ -213318,8 +213384,11 @@ sort: by_weight
 长安居	ih;pd an;bn ju;ug	418
 长安客	ih;pd an;bn ke;bg	3
 长安了	ih;pd an;bn le;aa	400
+长安里	ih;pd an;bn li;aa	436
+长安岭	ih;pd an;bn ly;ul	180
 长安路	ih;pd an;bn lu;zg	3
 长安乱	ih;pd an;bn lr;ug	60
+长安门	ih;pd an;bn mf;dg	446
 常按摩	ih;jk an;fa mo;um	724
 长安呢	ih;pd an;bn ne;kn	288
 长安宁	ih;pd an;bn ny;bd	72
@@ -213335,6 +213404,8 @@ sort: by_weight
 长安行	ih;pd an;bn xy;xi	315
 长安夜	ih;pd an;bn ye;wd	6
 长安一	ih;pd an;bn yi;aa	16
+长安驿	ih;pd an;bn yi;mf	14
+长安营	ih;pd an;bn yy;cl	342
 长安远	ih;pd an;bn yr;zy	306
 长按住	ih;pd an;fa vu;rv	320
 长安组	ih;pd an;bn zu;sq	130
@@ -221847,7 +221918,6 @@ sort: by_weight
 冲杯茶	is;dv bz;mb ia;cm	220
 冲北岩	is;dv bz;ag yj;uu	220
 崇本堂	is;uz bf;aa th;tk	333
-重本线	is;pa bf;aa xm;sj	608
 冲鼻器	is;dv bi;zb qi;kk	50
 重比翼	is;pa bi;bb yi;yg	302
 冲鼻子	is;dv bi;zb zi;aa	57
@@ -223072,6 +223142,7 @@ sort: by_weight
 臭哭了	ib;zq ku;kq le;aa	52
 筹款人	ib;vu kr;qu rf;pd	428
 稠矿泥	ib;hv kd;ug ni;dn	45
+抽拉柜	ib;fy la;fl gv;mj	70
 丑剌剌	ib;aa la;du la;du	45
 抽拉式	ib;fy la;fl ui;gy	201
 臭老公	ib;zq lk;lb gs;sb	194
@@ -225411,6 +225482,7 @@ sort: by_weight
 出效率	iu;aa xc;wj lv;wu	666
 出校门	iu;aa xc;mj mf;dg	892
 出小区	iu;aa xc;ad qu;ki	828
+出校时	iu;aa xc;mj ui;oc	60
 初校样	iu;yd xc;mj yh;my	4
 出效益	iu;aa xc;wj yi;mb	612
 出校园	iu;aa xc;mj yr;ky	113
@@ -243893,6 +243965,7 @@ sort: by_weight
 大馅饼	da;ad xm;uj by;ub	544
 大弦长	da;ad xm;gx ih;pd	153
 大县城	da;ad xm;sq ig;ti	468
+大显存	da;ad xm;oy cp;uz	23
 大仙儿	da;ad xm;ru er;pg	526
 打先发	da;fd xm;ne fa;ay	16
 大宪法	da;ad xm;bx fa;dq	14
@@ -245085,6 +245158,7 @@ sort: by_weight
 大月湖	da;ad yt;pa hu;dh	130
 大月季	da;ad yt;pa ji;hz	248
 大跃进	da;ad yt;zy jn;zj	923
+大月卡	da;ad yt;pa ka;ub	8
 大约克	da;ad yt;su ke;eg	711
 大月亮	da;ad yt;pa ld;wj	122
 打越南	da;fd yt;zy nj;ua	594
@@ -246608,6 +246682,7 @@ sort: by_weight
 呆毛王	dl;km mk;pg wh;aa	351
 戴帽子	dl;gg mk;jm zi;aa	1209
 傣妹吧	dl;rt mz;nw ba;kb	256
+呆妹儿	dl;km mz;nw er;pg	3
 带妹妹	dl;jb mz;nw mz;nw	630
 黛眉浅	dl;hd mz;om qm;dj	207
 黛眉轻	dl;hd mz;om qy;ig	446
@@ -248547,6 +248622,7 @@ sort: by_weight
 但调查	dj;rd dc;yv ia;md	630
 单调的	dj;ba dc;yv de;bu	1062
 单调感	dj;ba dc;yv gj;xx	44
+单调减	dj;ba dc;yv jm;dx	26
 单调了	dj;ba dc;yv le;aa	832
 单调性	dj;ba dc;yv xy;xu	418
 单调栈	dj;ba dc;yv vj;mj	60
@@ -248929,8 +249005,6 @@ sort: by_weight
 但飞机	dj;rd fz;yd ji;mj	626
 胆肥了	dj;od fz;ob le;aa	104
 单飞了	dj;ba fz;yd le;aa	94
-弹飞了	dj;gd fz;yd le;aa	85
-弹飞你	dj;gd fz;yd ni;re	266
 但肥牛	dj;rd fz;ob nq;pa	342
 但肥胖	dj;rd fz;ob ph;ob	360
 但肥肉	dj;rd fz;ob rb;ad	351
@@ -249343,7 +249417,6 @@ sort: by_weight
 但姑娘	dj;rd gu;ng nd;nl	522
 但股票	dj;rd gu;ou pc;xu	626
 但姑且	dj;rd gu;ng qx;aa	387
-弹古琴	dj;gd gu;uk qn;wj	490
 但股权	dj;rd gu;ou qr;my	472
 但古人	dj;rd gu;uk rf;pd	495
 但故事	dj;rd gu;wg ui;aa	855
@@ -250590,7 +250663,6 @@ sort: by_weight
 但李某	dj;rd li;mz mb;mg	482
 但理念	dj;rd li;wl nm;xj	364
 但力气	dj;rd li;gp qi;py	454
-弹沥青	dj;gd li;dl qy;of	230
 单李群	dj;ba li;mz qp;yj	328
 单立人	dj;ba li;da rf;pd	25
 但例如	dj;rd li;rl ru;nk	342
@@ -251672,7 +251744,6 @@ sort: by_weight
 但求你	dj;rd qq;ad ni;re	428
 但求其	dj;rd qq;ad qi;ba	351
 丹丘生	dj;pd qq;pa ug;na	472
-弹秋思	dj;gd qq;hh si;xt	4
 但求所	dj;rd qq;ad so;hj	387
 但秋天	dj;rd qq;hh tm;ad	410
 但求无	dj;rd qq;ad wu;ag	720
@@ -252165,7 +252236,6 @@ sort: by_weight
 但设施	dj;rd ue;yu ui;fy	608
 但射速	dj;rd ue;cu su;zu	328
 但舌头	dj;rd ue;kq tb;dd	346
-弹舌音	dj;gd ue;kq yn;lo	52
 但摄影	dj;rd ue;fn yy;pj	518
 但舍友	dj;rd ue;ru yb;yu	482
 但设有	dj;rd ue;yu yb;ou	289
@@ -254611,7 +254681,6 @@ sort: by_weight
 但以他	dj;rd yi;rd ta;ry	540
 但以她	dj;rd yi;rd ta;ny	357
 但一台	dj;rd yi;aa tl;sk	369
-弹一弹	dj;gd yi;aa tj;gd	504
 但一套	dj;rd yi;aa tk;di	338
 单一体	dj;ba yi;aa ti;rb	41
 但一天	dj;rd yi;aa tm;ad	644
@@ -257160,6 +257229,7 @@ sort: by_weight
 倒出的	dk;rd iu;aa de;bu	299
 到处都	dk;dv iu;wb db;ev	1470
 到处堵	dk;dv iu;wb du;tv	16
+到处发	dk;dv iu;wb fa;ay	72
 到厨房	dk;dv iu;ic fh;hf	1152
 到处飞	dk;dv iu;wb fz;yd	756
 到处逛	dk;dv iu;wb gd;zk	752
@@ -257725,10 +257795,8 @@ sort: by_weight
 到和谐	dk;dv he;hk xx;yj	684
 导荷载	dk;cs he;ch zl;ig	4
 到合作	dk;dv he;rk zo;rv	814
-道行军	dk;zu hg;xi jp;bi	675
 道行深	dk;zu hg;xi uf;dm	19
 到红光	dk;dv hs;sg gd;ea	626
-道红光	dk;zu hs;sg gd;ea	312
 倒虹井	dk;rd hs;ig jy;aa	4
 倒红酒	dk;rd hs;sg jq;dy	454
 到红色	dk;dv hs;sg se;db	832
@@ -265314,6 +265382,7 @@ sort: by_weight
 点不点	dm;hv bu;ad dm;hv	78
 点不掉	dm;hv bu;ad dc;fv	306
 点不动	dm;hv bu;ad ds;ly	25
+点不对	dm;hv bu;ad dv;cy	90
 店埠河	dm;gv bu;tf he;dk	288
 点不开	dm;hv bu;ad kl;ac	88
 点不亮	dm;hv bu;ad ld;wj	63
@@ -265510,13 +265579,13 @@ sort: by_weight
 点单式	dm;hv dj;ba ui;gy	391
 电单位	dm;ag dj;ba wz;rl	522
 碘单质	dm;ud dj;ba vi;bu	446
+典当行	dm;ba dh;xx hh;xi	850
 典当了	dm;ba dh;xx le;aa	436
 典当铺	dm;ba dh;xx pu;jf	382
 点当时	dm;hv dh;xx ui;oc	814
 店当时	dm;gv dh;xx ui;oc	680
 典当史	dm;ba dh;xx ui;ki	99
 典当物	dm;ba dh;xx wu;nw	135
-典当行	dm;ba dh;xx xy;xi	850
 典当业	dm;ba dh;xx ye;aa	85
 点到吧	dm;hv dk;dv ba;kb	364
 电刀笔	dm;ag dk;gp bi;vm	43
@@ -273744,7 +273813,7 @@ sort: by_weight
 都要做	db;ev yk;xn zo;rg	1407
 豆叶黄	db;aa ye;ku hd;cb	207
 都也是	db;ev ye;gg ui;op	850
-都一处	db;ev yi;aa iu;wb	25
+都移除	db;ev yi;hd iu;ey	125
 都一点	db;ev yi;aa dm;hv	770
 抖一抖	db;fd yi;aa db;fd	245
 逗一逗	db;zd yi;aa db;zd	220
@@ -274995,6 +275064,7 @@ sort: by_weight
 赌一把	du;bv yi;aa ba;fb	1313
 读一遍	du;ym yi;aa bm;zb	1966
 独一处	du;qi yi;aa iu;wb	477
+都一处	du;ev yi;aa iu;wb	25
 赌一次	du;bv yi;aa ci;dq	711
 读一次	du;ym yi;aa ci;dq	437
 独一档	du;qi yi;aa dh;md	1300
@@ -284319,6 +284389,7 @@ sort: by_weight
 反包板	fj;py bk;gs bj;mf	297
 反暴恐	fj;py bk;ou ks;xg	3
 反暴力	fj;py bk;ou li;gp	590
+范堡罗	fj;ce bk;tb lo;sx	32
 反包围	fj;py bk;gs wz;kw	63
 反爆炸	fj;py bk;hb va;hv	248
 翻倍吧	fj;yf bz;rk ba;kb	315
@@ -284987,7 +285058,6 @@ sort: by_weight
 反交错	fj;py jc;li co;jx	16
 反交点	fj;py jc;li dm;hv	90
 反交换	fj;py jc;li hr;fh	392
-返校时	fj;zf jc;mj ui;oc	57
 反教育	fj;py jc;wx yu;os	508
 反角柱	fj;py jc;dy vu;mv	513
 反阶步	fj;py jx;ej bu;vx	45
@@ -285771,6 +285841,7 @@ sort: by_weight
 返校前	fj;zf xc;mj qm;qd	47
 犯小人	fj;qe xc;ad rf;pd	612
 返校日	fj;zf xc;mj ri;aa	44
+返校时	fj;zf xc;mj ui;oc	57
 反斜杠	fj;py xx;dy gh;mg	107
 反邪教	fj;py xx;ey jc;wx	19
 反斜面	fj;py xx;dy mm;aa	495
@@ -296139,6 +296210,7 @@ sort: by_weight
 福伦达	fu;uf lp;rl da;zd	427
 富伦湖	fu;bf lp;rl hu;dh	99
 扶轮社	fu;ff lp;il ue;ut	9
+拂罗裳	fu;ff lo;sx ih;yk	45
 浮罗池	fu;df lo;sx ii;dy	338
 弗罗多	fu;aa lo;sx do;xx	1937
 扶罗韩	fu;ff lo;sx hj;uw	202
@@ -296148,7 +296220,6 @@ sort: by_weight
 芙萝蕾	fu;cf lo;cl lz;cl	306
 弗洛蒙	fu;aa lo;dg mg;cm	266
 富洛普	fu;bf lo;dg pu;ob	238
-拂罗裳	fu;ff lo;sx uh;yk	45
 芙洛雅	fu;cf lo;dg ya;vy	670
 氟氯昂	fu;qf lv;ql ah;oe	99
 氟氯烃	fu;qf lv;ql ty;hg	513
@@ -300523,6 +300594,8 @@ sort: by_weight
 盖髓术	gl;my sv;gs uu;md	266
 该损失	gl;yh sp;fy ui;pf	531
 该索引	gl;yh so;sb yn;ga	441
+该他的	gl;yh ta;ry de;bu	61
+改它的	gl;wj ta;bb de;bu	43
 该她了	gl;yh ta;ny le;aa	52
 改台词	gl;wj tl;sk ci;ys	410
 该台风	gl;yh tl;sk fg;ji	441
@@ -306081,6 +306154,7 @@ sort: by_weight
 高钛渣	gk;wk tl;jt va;di	207
 高台子	gk;wk tl;sk zi;aa	6
 高碳布	gk;wk tj;ut bu;ju	68
+高碳醇	gk;wk tj;ut ip;yx	21
 高碳钢	gk;wk tj;ut gh;jg	126
 高弹力	gk;wk tj;gd li;gp	78
 高碳水	gk;wk tj;ut uv;ad	506
@@ -306606,6 +306680,7 @@ sort: by_weight
 高一些	gk;wk yi;aa xx;ec	1331
 高一一	gk;wk yi;aa yi;aa	630
 高一丈	gk;wk yi;aa vh;ad	28
+搞一种	gk;fg yi;aa vs;hv	237
 高音吧	gk;wk yn;lo ba;kb	320
 高音部	gk;wk yn;lo bu;ek	72
 高音调	gk;wk yn;lo dc;yv	53
@@ -317264,6 +317339,7 @@ sort: by_weight
 挂床帘	gw;fg id;gm lm;xj	300
 挂错了	gw;fg co;jx le;aa	423
 刮大白	gw;du da;ad bl;pa	468
+瓜达尔	gw;pd da;zd er;dx	32
 刮大风	gw;du da;ad fg;ji	179
 瓜达区	gw;pd da;zd qu;ki	279
 呱嗒子	gw;kg da;kd zi;aa	50
@@ -322721,9 +322797,9 @@ sort: by_weight
 国军战	go;ky jp;bi vj;gv	621
 国军之	go;ky jp;bi vi;dd	495
 国军中	go;ky jp;bi vs;aa	639
+国开行	go;ky kl;ac hh;xi	1906
 锅开了	go;jg kl;ac le;aa	576
 过开了	go;zc kl;ac le;aa	460
-国开行	go;ky kl;ac xy;xi	1906
 过看了	go;zc kj;ou le;aa	963
 过考试	go;zc kk;lk ui;yu	1220
 国考题	go;ky kk;lk ti;uy	13
@@ -327951,7 +328027,6 @@ sort: by_weight
 航程短	hh;vk ig;hi dr;ud	387
 航程为	hh;vk ig;hi wz;dd	549
 航程远	hh;vk ig;hi yr;zy	450
-吭哧地	hh;kk ii;ki de;ty	500
 杭大路	hh;mk da;ad lu;zg	423
 行当吧	hh;xi dh;xx ba;kb	234
 行当时	hh;xi dh;xx ui;oc	806
@@ -329902,6 +329977,7 @@ sort: by_weight
 好牛肉	hk;nz nq;pa rb;ad	814
 豪牛士	hk;ub nq;pa ui;aa	279
 好浓啊	hk;nz ns;dn aa;ka	477
+好弄不	hk;nz ns;cw bu;ad	64
 好农民	hk;nz ns;by mn;ag	544
 好奴才	hk;nz nu;ny cl;ap	16
 好努力	hk;nz nu;ln li;gp	1071
@@ -332666,17 +332742,47 @@ sort: by_weight
 喝奶时	he;kh nl;nn ui;oc	504
 河南啊	he;dk nj;ua aa;ka	315
 河南岸	he;dk nj;ua an;ug	47
+河南吧	he;dk nj;ua ba;kb	234
+河南版	he;dk nj;ua bj;pf	328
+河南办	he;dk nj;ua bj;lb	277
+河南北	he;dk nj;ua bz;ag	756
+河南兵	he;dk nj;ua by;qb	315
 和南部	he;hk nj;ua bu;ek	1012
+河南菜	he;dk nj;ua cl;cc	652
 河南道	he;dk nj;ua dk;zu	28
+河南的	he;dk nj;ua de;bu	1120
+河南东	he;dk nj;ua ds;ad	684
+河南段	he;dk nj;ua dr;ud	576
+河南队	he;dk nj;ua dv;er	16
+河南分	he;dk nj;ua ff;bd	706
 河南府	he;dk nj;ua fu;gf	724
+河南高	he;dk nj;ua gk;wk	702
+河南好	he;dk nj;ua hk;nz	436
+河南话	he;dk nj;ua hw;yu	336
+河南籍	he;dk nj;ua ji;vx	666
 河南街	he;dk nj;ua jx;xg	540
 河南郡	he;dk nj;ua jp;ej	50
 河南里	he;dk nj;ua li;aa	306
 河南路	he;dk nj;ua lu;zg	9
+河南面	he;dk nj;ua mm;aa	450
+河南区	he;dk nj;ua qu;ki	522
+河南人	he;dk nj;ua rf;pd	1784
+河南赛	he;dk nj;ua sl;bb	454
+河南山	he;dk nj;ua uj;aa	882
+河南上	he;dk nj;ua uh;aa	580
 河南省	he;dk nj;ua ug;ou	1080
 和男生	he;hk nj;tl ug;na	43
+河南台	he;dk nj;ua tl;sk	396
+河南町	he;dk nj;ua ty;td	270
+河南王	he;dk nj;ua wh;aa	452
+河南西	he;dk nj;ua xi;aa	648
+河南也	he;dk nj;ua ye;gg	598
 和男友	he;hk nj;tl yb;yu	703
+河南站	he;dk nj;ua vj;lv	29
 和南站	he;hk nj;ua vj;lv	8
+河南张	he;dk nj;ua vh;gi	328
+河南这	he;dk nj;ua ve;zw	652
+河南中	he;dk nj;ua vs;aa	878
 和内存	he;hk nz;ad cp;uz	1084
 和内地	he;hk nz;ad di;ty	918
 河内郡	he;dk nz;ad jp;ej	107
@@ -335722,7 +335828,6 @@ sort: by_weight
 很多病	hf;xg do;xx by;bb	623
 很多饼	hf;xg do;xx by;ub	296
 很多不	hf;xg do;xx bu;ad	1719
-很多补	hf;xg do;xx bu;yb	570
 很多步	hf;xg do;xx bu;vx	364
 很多菜	hf;xg do;xx cl;cc	1346
 很多草	hf;xg do;xx ck;cz	648
@@ -335738,6 +335843,7 @@ sort: by_weight
 很多床	hf;xg do;xx id;gm	405
 很多次	hf;xg do;xx ci;dq	10852
 很多刺	hf;xg do;xx ci;dc	680
+很多词	hf;xg do;xx ci;ys	210
 很多葱	hf;xg do;xx cs;cc	554
 很多醋	hf;xg do;xx cu;yx	585
 很多村	hf;xg do;xx cp;mc	756
@@ -347824,6 +347930,7 @@ sort: by_weight
 缓速器	hr;sy su;zu qi;kk	6
 换宿舍	hr;fh su;bb ue;ru	229
 缓速术	hr;sy su;zu uu;md	248
+缓速酸	hr;sy su;zu sr;yj	12
 换苏伟	hr;fh su;cb wz;rw	351
 换算吧	hr;fh sr;vc ba;kb	387
 换算表	hr;fh sr;vc bc;fy	44
@@ -354279,6 +354386,7 @@ sort: by_weight
 会开个	hv;ry kl;ac ge;ra	567
 会开工	hv;ry kl;ac gs;aa	400
 会开挂	hv;ry kl;ac gw;fg	396
+会开行	hv;ry kl;ac hh;xi	374
 会开花	hv;ry kl;ac hw;ch	742
 会开怀	hv;ry kl;ac hy;xb	387
 会开机	hv;ry kl;ac ji;mj	477
@@ -354306,7 +354414,6 @@ sort: by_weight
 会开挖	hv;ry kl;ac wa;fw	369
 会开完	hv;ry kl;ac wj;by	616
 会开心	hv;ry kl;ac xn;dd	1017
-会开行	hv;ry kl;ac xy;xi	374
 会开业	hv;ry kl;ac ye;aa	436
 会开源	hv;ry kl;ac yr;dy	472
 回开原	hv;kk kl;ac yr;ix	171
@@ -362260,7 +362367,7 @@ sort: by_weight
 活字版	ho;du zi;bz bj;pf	22
 活字本	ho;du zi;bz bf;aa	19
 活字典	ho;du zi;bz dm;ba	44
-和子饭	ho;hk zi;aa fa;uf	225
+和子饭	ho;hk zi;aa fj;uf	225
 火字旁	ho;dd zi;bz ph;wf	50
 活字铅	ho;du zi;bz qm;jk	153
 或子区	ho;gk zi;aa qu;ki	338
@@ -362909,6 +363016,7 @@ sort: by_weight
 极大点	ji;mj da;ad dm;hv	13
 几大点	ji;py da;ad dm;hv	12
 级大风	ji;sj da;ad fg;ji	855
+吉大港	ji;ku da;ad gh;dx	32
 记大功	ji;yj da;ad gs;lg	9
 记大过	ji;yj da;ad go;zc	110
 极大化	ji;mj da;ad hw;rb	104
@@ -366277,7 +366385,6 @@ sort: by_weight
 吉他班	ji;ku ta;ry bj;dw	508
 吉他版	ji;ku ta;ry bj;pf	380
 吉他包	ji;ku ta;ry bk;gs	342
-吉他弹	ji;ku ta;ry dj;gd	896
 吉他课	ji;ku ta;ry ke;yg	540
 吉他谱	ji;ku ta;ry pu;yp	842
 吉他曲	ji;ku ta;ry qu;aa	85
@@ -366285,6 +366392,7 @@ sort: by_weight
 吉他声	ji;ku ta;ry ug;um	666
 吉他手	ji;ku ta;ry ub;pa	5674
 吉他书	ji;ku ta;ry uu;ad	428
+吉他弹	ji;ku ta;ry tj;gd	896
 吉他网	ji;ku ta;ry wh;ki	47
 吉他弦	ji;ku ta;ry xm;gx	544
 记台词	ji;yj tl;sk ci;ys	410
@@ -366952,7 +367060,6 @@ sort: by_weight
 继续创	ji;sa xu;sm id;dc	909
 继续吹	ji;sa xu;sm iv;kq	774
 继续打	ji;sa xu;sm da;fd	1138
-继续弹	ji;sa xu;sm dj;gd	513
 继续道	ji;sa xu;sm dk;zu	424
 继续调	ji;sa xu;sm dc;yv	922
 继续跌	ji;sa xu;sm dx;zu	242
@@ -367019,6 +367126,7 @@ sort: by_weight
 继续睡	ji;sa xu;sm uv;oi	546
 继续说	ji;sa xu;sm uo;yd	3149
 继续送	ji;sa xu;sm ss;zg	652
+继续弹	ji;sa xu;sm tj;gd	513
 继续谈	ji;sa xu;sm tj;yy	126
 继续跳	ji;sa xu;sm tc;zv	680
 继续听	ji;sa xu;sm ty;kj	810
@@ -369711,6 +369819,7 @@ sort: by_weight
 架桥梁	jw;mj qc;mq ld;md	472
 甲壳龙	jw;aa qc;uj ls;ad	162
 甲壳素	jw;aa qc;uj su;sf	22
+甲壳质	jw;aa qc;uj vi;bu	428
 假勤奋	jw;rj qn;lj ff;dt	243
 家禽类	jw;bu qn;rl lz;md	47
 家禽肉	jw;bu qn;rl rb;ad	19
@@ -372279,7 +372388,6 @@ sort: by_weight
 监交人	jm;mv jc;li rf;pd	360
 尖角煞	jm;xd jc;dy ua;hw	315
 尖叫声	jm;xd jc;kj ug;um	769
-建校时	jm;zy jc;mj ui;oc	422
 尖叫时	jm;xd jc;kj ui;oc	410
 建交时	jm;zy jc;li ui;oc	346
 尖椒丝	jm;xd jc;mu si;aa	387
@@ -373574,6 +373682,7 @@ sort: by_weight
 建小区	jm;zy xc;ad qu;ki	770
 尖啸声	jm;xd xc;ks ug;um	38
 减小时	jm;dx xc;ad ui;oc	634
+建校时	jm;zy xc;mj ui;oc	422
 渐消失	jm;dv xc;dx ui;pf	43
 减小腿	jm;dx xc;ad tv;ot	518
 建小学	jm;zy xc;ad xt;zb	522
@@ -377749,6 +377858,7 @@ sort: by_weight
 将开发	jd;jc kl;ac fa;ay	828
 将开工	jd;jc kl;ac gs;aa	724
 将开关	jd;jc kl;ac gr;qd	464
+将开行	jd;jc kl;ac hh;xi	504
 将开户	jd;jc kl;ac hu;dp	374
 将开会	jd;jc kl;ac hv;ry	364
 将开机	jd;jc kl;ac ji;mj	486
@@ -377768,7 +377878,6 @@ sort: by_weight
 将开通	jd;jc kl;ac ts;zy	950
 将开拓	jd;jc kl;ac to;fu	477
 将开挖	jd;jc kl;ac wa;fw	342
-将开行	jd;jc kl;ac xy;xi	504
 将开业	jd;jc kl;ac ye;aa	792
 将开源	jd;jc kl;ac yr;dy	436
 将开展	jd;jc kl;ac vj;uy	1089
@@ -385088,7 +385197,6 @@ sort: by_weight
 酵素菌	jc;yx su;sf jp;ch	261
 角速率	jc;dy su;zu lv;wu	360
 酵素梅	jc;yx su;sf mz;mm	346
-角宿一	jc;dy su;bb yi;aa	508
 搅碎机	jc;fj sv;uz ji;mj	360
 嚼碎了	jc;kc sv;uz le;aa	562
 搅碎了	jc;fj sv;uz le;aa	388
@@ -385410,6 +385518,7 @@ sort: by_weight
 娇羞地	jc;nq xq;yi di;ty	662
 娇羞感	jc;nq xq;yi gj;xx	266
 娇羞了	jc;nq xq;yi le;aa	382
+角宿一	jc;dy xq;bb yi;aa	508
 娇羞状	jc;nq xq;yi vd;qp	405
 焦虚寒	jc;hv xu;hy hj;bd	400
 脚悬在	jc;oq xr;xx zl;ut	342
@@ -389035,7 +389144,6 @@ sort: by_weight
 金丹了	jn;ra dj;pd le;aa	310
 金丹派	jn;ra dj;pd pl;dp	306
 金丹期	jn;ra dj;pd qi;oq	38
-金弹子	jn;ra dj;gd zi;aa	6
 近当代	jn;zj dh;xx dl;ry	522
 近当时	jn;zj dh;xx ui;oc	648
 劲道啊	jn;lg dk;zu aa;ka	396
@@ -389798,7 +389906,6 @@ sort: by_weight
 金教练	jn;ra jc;wx lm;sd	338
 近郊区	jn;zj jc;ej qu;ki	91
 进教室	jn;zj jc;wx ui;bv	972
-进校时	jn;zj jc;mj ui;oc	418
 金教授	jn;ra jc;wx ub;fu	662
 金交所	jn;ra jc;li so;hj	496
 进教堂	jn;zj jc;wx th;tk	626
@@ -390433,6 +390540,7 @@ sort: by_weight
 今年了	jn;ra nm;ra le;aa	914
 今年内	jn;ra nm;ra nz;ad	116
 今年起	jn;ra nm;ra qi;zj	63
+今年前	jn;ra nm;ra qm;qd	72
 今年秋	jn;ra nm;ra qq;hh	13
 今年赛	jn;ra nm;ra sl;bb	580
 今年题	jn;ra nm;ra ti;uy	41
@@ -391788,6 +391896,7 @@ sort: by_weight
 进校门	jn;zj xc;mj mf;dg	188
 进小区	jn;zj xc;ad qu;ki	846
 近小时	jn;zj xc;ad ui;oc	954
+进校时	jn;zj xc;mj ui;oc	418
 尽孝心	jn;id xc;zl xn;dd	47
 进小学	jn;zj xc;ad xt;zb	608
 金小鱼	jn;ra xc;ad yu;da	3
@@ -396017,6 +396126,8 @@ sort: by_weight
 就很多	jq;yj hf;xg do;xx	1058
 就很烦	jq;yj hf;xg fj;hy	364
 就很尬	jq;yj hf;xg ga;yj	52
+就很怪	jq;yj hf;xg gy;xu	229
+就很乖	jq;yj hf;xg gy;pb	134
 就很好	jq;yj hf;xg hk;nz	5994
 就很快	jq;yj hf;xg ky;xd	936
 就很慢	jq;yj hf;xg mj;xm	662
@@ -400394,8 +400505,8 @@ sort: by_weight
 嚼起来	jt;kc qi;zj ll;am	32
 倔起来	jt;rq qi;zj ll;am	29
 掘起来	jt;fq qi;zj ll;am	26
-撅起了	jt;fj qi;zj le;aa	806
-崛起了	jt;uq qi;zj le;aa	471
+崛起了	jt;uq qi;zj le;aa	806
+撅起了	jt;fj qi;zj le;aa	471
 崛起时	jt;uq qi;zj ui;oc	616
 掘砌图	jt;fq qi;uq tu;kd	45
 崛起中	jt;uq qi;zj vs;aa	814
@@ -402224,6 +402335,7 @@ sort: by_weight
 开国时	kl;ac go;ky ui;oc	372
 开过头	kl;ac go;zc tb;dd	513
 开国者	kl;ac go;ky ve;ol	464
+开行吗	kl;ac hh;xi ma;km	261
 开航母	kl;ac hh;vk mu;vd	52
 开航前	kl;ac hh;vk qm;qd	324
 开好车	kl;ac hk;nz ie;aa	436
@@ -403166,7 +403278,6 @@ sort: by_weight
 开心笑	kl;ac xn;dd xc;vy	688
 开心呀	kl;ac xn;dd ya;ky	864
 开心早	kl;ac xn;dd zk;ou	513
-开行吗	kl;ac xy;xi ma;km	261
 开星形	kl;ac xy;ou xy;pk	50
 凯旋城	kl;jj xr;fp ig;ti	6
 凯旋歌	kl;jj xr;fp ge;qg	279
@@ -405765,7 +405876,6 @@ sort: by_weight
 康纳德	kh;gl na;sn de;xx	0
 康纳尔	kh;gl na;sn er;dx	66
 康耐登	kh;gl nl;ce dg;dd	13
-康乃尔	kh;gl nl;pg er;dx	1887
 康奈尔	kh;gl nl;du er;dx	810
 康奈利	kh;gl nl;du li;hd	41
 康耐视	kh;gl nl;ce ui;ju	13
@@ -408332,6 +408442,7 @@ sort: by_weight
 可解析	ke;dk jx;jn xi;mj	43
 可解性	ke;dk jx;jn xy;xu	369
 氪金吧	ke;qk jn;ra ba;kb	248
+可劲吹	ke;dk jn;lg iv;kq	234
 氪金党	ke;qk jn;ra dh;ek	284
 氪金点	ke;qk jn;ra dm;hv	432
 可劲儿	ke;dk jn;lg er;pg	449
@@ -408350,7 +408461,6 @@ sort: by_weight
 可进行	ke;dk jn;zj xy;xi	1282
 可劲造	ke;dk jn;lg zk;zg	72
 可紧张	ke;dk jn;sy vh;gi	428
-可劲吹	ke;dk jy;lg iv;kq	234
 可经济	ke;dk jy;sg ji;dq	432
 可竟然	ke;dk jy;le rj;hq	490
 可精神	ke;dk jy;mq uf;uu	441
@@ -408386,10 +408496,10 @@ sort: by_weight
 可开发	ke;dk kl;ac fa;ay	778
 可开放	ke;dk kl;ac fh;wf	504
 可开盖	ke;dk kl;ac gl;my	324
+可开行	ke;dk kl;ac hh;xi	306
 可开合	ke;dk kl;ac he;rk	382
 可开启	ke;dk kl;ac qi;hk	806
 可开心	ke;dk kl;ac xn;dd	778
-可开行	ke;dk kl;ac xy;xi	306
 可开展	ke;dk kl;ac vj;uy	760
 可看出	ke;dk kj;ou iu;aa	1102
 可看到	ke;dk kj;ou dk;dv	521
@@ -410877,6 +410987,7 @@ sort: by_weight
 坑别人	kg;tk bx;dl rf;pd	119
 坑不坑	kg;tk bu;ad kg;tk	261
 坑惨了	kg;tk cj;xc le;aa	254
+吭哧地	kg;kk ii;ki de;ty	500
 坑道虫	kg;tk dk;zu is;ad	238
 坑道口	kg;tk dk;zu kb;aa	338
 坑道里	kg;tk dk;zu li;aa	500
@@ -417881,6 +417992,7 @@ sort: by_weight
 来私聊	ll;am si;hs lc;em	35
 来四平	ll;am si;aa py;aa	324
 赖斯说	ll;uf si;jq uo;yd	346
+莱斯特	ll;cl si;jq te;ns	32
 赖斯翔	ll;uf si;jq xd;yy	526
 来送的	ll;am ss;zg de;bu	13
 来送了	ll;am ss;zg le;aa	657
@@ -418562,6 +418674,7 @@ sort: by_weight
 烂得像	lj;hl de;xc xd;rx	99
 懒得写	lj;xl de;xc xx;by	760
 懒得学	lj;xl de;xc xt;zb	138
+懒得养	lj;xl de;xc yh;ya	102
 懒得用	lj;xl de;xc ys;kf	148
 懒得找	lj;xl de;xc vk;fg	487
 拦得住	lj;fl de;xc vu;rv	138
@@ -424084,7 +424197,6 @@ sort: by_weight
 李教练	li;mz jc;wx lm;sd	382
 立交路	li;da jc;li lu;zg	472
 立交桥	li;da jc;li qc;mq	562
-离校时	li;ws jc;mj ui;oc	53
 李教授	li;mz jc;wx ub;fu	226
 力较小	li;gp jc;ij xc;ad	850
 理解啊	li;wl jx;jn aa;ka	832
@@ -425275,6 +425387,7 @@ sort: by_weight
 粒小麦	li;ml xc;ad ml;fw	540
 离校前	li;ws xc;mj qm;qd	69
 立消散	li;da xc;dx sj;wo	38
+离校时	li;ws xc;mj ui;oc	53
 李校长	li;mz xc;mj vh;pd	82
 里写了	li;aa xx;by le;aa	850
 砾屑岩	li;ul xx;ux yj;uu	45
@@ -426425,9 +426538,9 @@ sort: by_weight
 廉价版	lm;gj jw;rj bj;pf	270
 廉价车	lm;gj jw;rj ie;aa	657
 脸颊处	lm;oa jw;yj iu;wb	558
-链家的	lm;jl jw;bu de;bu	634
+廉价的	lm;gj jw;rj de;bu	634
 连加的	lm;zi jw;lk de;bu	205
-廉价地	lm;gj jw;rj di;ty	50
+廉价地	lm;gj jw;rj de;ty	50
 廉价房	lm;gj jw;rj fh;hf	405
 廉价感	lm;gj jw;rj gj;xx	747
 连加号	lm;zi jw;lk hk;kk	130
@@ -427658,6 +427771,7 @@ sort: by_weight
 亮出来	ld;wj iu;aa ll;am	490
 量出来	ld;ol iu;aa ll;am	441
 亮出了	ld;wj iu;aa le;aa	270
+晾出去	ld;oj iu;aa qu;ts	92
 量出式	ld;ol iu;aa ui;gy	50
 梁椽栿	ld;md ir;mt fu;mf	90
 两椽栿	ld;ad ir;mt fu;mf	38
@@ -430858,6 +430972,7 @@ sort: by_weight
 领读人	ly;yl du;ym rf;pd	328
 零度时	ly;yl du;gy ui;oc	464
 领读者	ly;yl du;ym ve;ol	648
+令读者	ly;rs du;ym ve;ol	108
 零对策	ly;yl dv;cy ce;vc	45
 领队会	ly;yl dv;er hv;ry	536
 岭对峦	ly;ul dv;cy lr;uy	4
@@ -433074,6 +433189,7 @@ sort: by_weight
 六七丈	lq;wb qi;ag vh;ad	369
 六七只	lq;wb qi;ag vi;kb	22
 六七种	lq;wb qi;ag vs;hv	41
+六七周	lq;wb qi;ag vb;kt	28
 六千吧	lq;wb qm;pa ba;kb	310
 六千倍	lq;wb qm;pa bz;rk	52
 六千点	lq;wb qm;pa dm;hv	25
@@ -433888,6 +434004,7 @@ sort: by_weight
 龙宝宝	ls;ad bk;by bk;by	760
 龙宝区	ls;ad bk;by qu;ki	162
 龙宝山	ls;ad bk;by uj;aa	328
+隆宝滩	ls;eu bk;by tj;dn	32
 龙贝格	ls;ad bz;ad ge;mg	378
 龙背岭	ls;ad bz;ob ly;ul	225
 龙北路	ls;ad bz;ag lu;zg	288
@@ -439303,6 +439420,7 @@ sort: by_weight
 骂哪个	ma;km na;kn ge;ra	297
 马纳河	ma;aa na;sn he;dk	230
 玛纳斯	ma;wm na;sn si;jq	94
+马纳斯	ma;aa na;sn si;jq	32
 马纳特	ma;aa na;sn te;ns	477
 马奶酒	ma;aa nl;nn jq;dy	44
 马奶奶	ma;aa nl;nn nl;nn	450
@@ -439569,6 +439687,7 @@ sort: by_weight
 马圩河	ma;aa wz;ty he;dk	65
 妈为了	ma;nm wz;dd le;aa	909
 马尾筛	ma;aa wz;um ul;vu	45
+马尾松	ma;aa wz;um ss;mg	608
 马文化	ma;aa wf;wi hw;rb	896
 马文路	ma;aa wf;wi lu;zg	4
 麻温其	ma;gl wf;dm qi;ba	4
@@ -439640,7 +439759,6 @@ sort: by_weight
 马医生	ma;aa yi;ku ug;na	522
 嘛意思	ma;km yi;xy si;xt	53
 马伊斯	ma;aa yi;ry si;jq	43
-马尾松	ma;aa yi;um ss;mg	608
 蚂蚁腿	ma;im yi;iy tv;ot	284
 蚂蚁网	ma;im yi;iy wh;ki	338
 蚂蚁窝	ma;im yi;iy wo;xn	107
@@ -441072,10 +441190,10 @@ sort: by_weight
 买通了	ml;at ts;zy le;aa	747
 卖童装	ml;um ts;ll vd;yv	459
 埋头吃	ml;tl tb;dd ii;kq	756
-埋头弹	ml;tl tb;dd dj;gd	279
 埋头干	ml;tl tb;dd gj;aa	608
 卖头盔	ml;um tb;dd kv;mh	346
 买头盔	ml;at tb;dd kv;mh	163
+埋头弹	ml;tl tb;dd tj;gd	279
 埋头于	ml;tl tb;dd yu;aa	173
 买土地	ml;at tu;aa di;ty	31
 卖土地	ml;um tu;aa di;ty	28
@@ -444372,9 +444490,9 @@ sort: by_weight
 没法变	mz;du fa;dq bm;wy	504
 没发表	mz;du fa;ay bc;fy	612
 没发病	mz;du fa;ay by;bb	400
-没法不	mz;du fa;dq bu;ad	738
-没发布	mz;du fa;ay bu;ju	517
-没法补	mz;du fa;dq bu;yb	286
+没发布	mz;du fa;ay bu;ju	738
+没法补	mz;du fa;dq bu;yb	517
+没法不	mz;du fa;dq bu;ad	286
 没发财	mz;du fa;ay cl;bc	387
 没法查	mz;du fa;dq ia;md	69
 没法吃	mz;du fa;dq ii;kq	226
@@ -447714,6 +447832,7 @@ sort: by_weight
 没深度	mz;du uf;dm du;gy	185
 没身份	mz;du uf;pp ff;rf	57
 没身高	mz;du uf;pp gk;wk	31
+没审好	mz;du uf;bu hk;nz	128
 没审核	mz;du uf;bu he;mh	16
 没深究	mz;du uf;dm jq;xj	504
 没深刻	mz;du uf;dm ke;dh	346
@@ -448271,7 +448390,8 @@ sort: by_weight
 媒体评	mz;nm ti;rb py;yp	1080
 没提起	mz;du ti;fu qi;zj	6
 没提前	mz;du ti;fu qm;qd	752
-媒体区	mz;nm ti;rb qu;ki	504
+没提取	mz;du ti;fu qu;ey	504
+媒体区	mz;nm ti;rb qu;ki	369
 媒体圈	mz;nm ti;rb qr;kj	752
 媒体群	mz;nm ti;rb qp;yj	801
 媒体人	mz;nm ti;rb rf;pd	1359
@@ -450320,6 +450440,7 @@ sort: by_weight
 煤制氢	mz;hm vi;dg qy;qg	252
 妹纸求	mz;nw vi;su qq;ad	306
 没智商	mz;du vi;ov uh;wk	122
+没吱声	mz;du vi;kv ug;um	684
 美之声	mz;dy vi;dd ug;um	436
 没指示	mz;du vi;fv ui;ex	392
 没芝士	mz;du vi;cv ui;aa	323
@@ -450518,7 +450639,6 @@ sort: by_weight
 没自杀	mz;du zi;pa ua;mi	436
 梅子山	mz;mm zi;aa uj;aa	297
 妹子少	mz;nw zi;aa uk;xp	418
-没吱声	mz;du zi;kv ug;um	684
 妹子说	mz;nw zi;aa uo;yd	972
 妹子图	mz;nw zi;aa tu;kd	446
 妹子玩	mz;nw zi;aa wj;wy	666
@@ -459282,6 +459402,9 @@ sort: by_weight
 那么跩	na;el me;ps vy;zy	52
 那么做	na;el me;ps zo;rg	958
 那没错	na;el mz;du co;jx	346
+那没了	na;el mz;du le;aa	511
+拿没了	na;uh mz;du le;aa	309
+哪没了	na;kn mz;du le;aa	288
 那美丽	na;el mz;dy li;ad	770
 那眉毛	na;el mz;om mk;pg	396
 纳美人	na;sn mz;dy rf;pd	361
@@ -460055,8 +460178,8 @@ sort: by_weight
 那一柄	na;el yi;aa by;mb	351
 那一波	na;el yi;aa bo;dp	832
 那一拨	na;el yi;aa bo;ff	257
-哪一部	na;kn yi;aa bu;ek	1272
-哪一步	na;kn yi;aa bu;vx	1155
+哪一步	na;kn yi;aa bu;vx	1272
+哪一部	na;kn yi;aa bu;ek	1155
 那一部	na;el yi;aa bu;ek	568
 那一步	na;el yi;aa bu;vx	188
 那一侧	na;el yi;aa ce;rz	720
@@ -463825,6 +463948,7 @@ sort: by_weight
 内结构	nz;ad jx;sj gb;mg	657
 内界膜	nz;ad jx;tj mo;om	100
 内接形	nz;ad jx;fq xy;pk	4
+内接圆	nz;ad jx;fq yr;ky	14
 内筋膜	nz;ad jn;vl mo;om	243
 内静脉	nz;ad jy;qv ml;oy	612
 内镜室	nz;ad jy;jj ui;bv	324
@@ -464594,13 +464718,13 @@ sort: by_weight
 能懂吧	ng;sb ds;xd ba;kb	396
 能懂不	ng;sb ds;xd bu;ad	612
 能动不	ng;sb ds;ly bu;ad	308
-能动弹	ng;sb ds;ly dj;gd	860
 能懂得	ng;sb ds;xd de;xc	236
 能动了	ng;sb ds;ly le;aa	85
 能懂了	ng;sb ds;xd le;aa	76
 能动力	ng;sb ds;ly li;gp	765
 能动手	ng;sb ds;ly ub;pa	842
 能动态	ng;sb ds;ly tl;xt	580
+能动弹	ng;sb ds;ly tj;gd	860
 能动性	ng;sb ds;ly xy;xu	788
 能读到	ng;sb du;ym dk;dv	810
 能读懂	ng;sb du;ym ds;xd	994
@@ -468028,7 +468152,6 @@ sort: by_weight
 你担待	ni;re dj;fd dl;xs	378
 你单单	ni;re dj;ba dj;ba	531
 你担当	ni;re dj;fd dh;xx	432
-你弹的	ni;re dj;gd de;bu	500
 你淡定	ni;re dj;dy dy;bp	446
 你单独	ni;re dj;ba du;qi	173
 你胆儿	ni;re dj;od er;pg	288
@@ -470890,7 +471013,6 @@ sort: by_weight
 你回答	ni;re hv;kk da;vh	574
 你会带	ni;re hv;ry dl;jb	675
 你会待	ni;re hv;ry dl;xs	391
-你会弹	ni;re hv;ry dj;gd	495
 你会当	ni;re hv;ry dh;xx	414
 你回到	ni;re hv;kk dk;dv	914
 你会到	ni;re hv;ry dk;dv	388
@@ -471015,6 +471137,7 @@ sort: by_weight
 你会说	ni;re hv;ry uo;yd	2233
 你会死	ni;re hv;ry si;db	724
 你会送	ni;re hv;ry ss;zg	477
+你会弹	ni;re hv;ry tj;gd	495
 你会疼	ni;re hv;ry tg;bd	324
 你会跳	ni;re hv;ry tc;zv	436
 你会听	ni;re hv;ry ty;kj	738
@@ -477261,6 +477384,7 @@ sort: by_weight
 你坦诚	ni;re tj;td ig;yi	472
 你谈到	ni;re tj;yy dk;dv	495
 你谈得	ni;re tj;yy de;xc	562
+你弹的	ni;re tj;gd de;bu	500
 你谈的	ni;re tj;yy de;bu	346
 你弹得	ni;re tj;gd de;xc	195
 泥炭的	ni;dn tj;uh de;bu	166
@@ -489109,6 +489233,7 @@ sort: by_weight
 胖大姐	ph;ob da;ad jx;nq	374
 庞大了	ph;gl da;ad le;aa	639
 胖大妈	ph;ob da;ad ma;nm	504
+庞大吗	ph;gl da;ad ma;km	101
 胖达人	ph;ob da;zd rf;pd	6
 胖大嫂	ph;ob da;ad sk;ns	288
 胖大舌	ph;ob da;ad ue;kq	315
@@ -489124,8 +489249,6 @@ sort: by_weight
 胖得生	ph;ob de;xc ug;na	238
 胖得像	ph;ob de;xc xd;rx	25
 庞蒂克	ph;gl di;cd ke;eg	28
-庞帝克	ph;gl di;jb ke;eg	25
-旁蒂克	ph;wf di;cd ke;eg	22
 胖点儿	ph;ob dm;hv er;pg	396
 胖点好	ph;ob dm;hv hk;nz	392
 胖东来	ph;ob ds;ad ll;am	657
@@ -489825,6 +489948,7 @@ sort: by_weight
 泡妞时	pk;db nq;ni ui;oc	360
 泡女人	pk;db nv;aa rf;pd	400
 泡藕带	pk;db ou;co dl;jb	207
+泡排剂	pk;db pl;ff ji;dq	32
 跑跑啊	pk;zb pk;zb aa;ka	9
 泡泡吧	pk;db pk;db ba;kb	13
 跑跑吧	pk;zb pk;zb ba;kb	12
@@ -491859,6 +491983,7 @@ sort: by_weight
 皮几万	pi;ad ji;py wj;ag	324
 皮肌炎	pi;ad ji;oj yj;hh	160
 芘甲胺	pi;cb jw;aa an;oa	76
+皮茄克	pi;ad jw;cj ke;eg	310
 皮夹克	pi;ad jw;fb ke;eg	276
 披甲人	pi;fp jw;aa rf;pd	356
 披甲熊	pi;fp jw;aa xs;hn	162
@@ -492191,7 +492316,6 @@ sort: by_weight
 批签发	pi;fb qm;va fa;ay	441
 脾切除	pi;ob qx;dq iu;ey	522
 脾切迹	pi;ob qx;dq ji;zy	45
-皮茄克	pi;ad qx;cj ke;eg	310
 皮钦查	pi;ad qn;jq ia;md	369
 皮钦语	pi;ad qn;jq yu;yw	38
 劈情操	pi;db qy;xq ck;fz	38
@@ -493422,6 +493546,7 @@ sort: by_weight
 拼命追	pn;fb my;re vv;zv	644
 拼命做	pn;fb my;re zo;rg	612
 拼模型	pn;fb mo;mm xy;tx	16
+品目号	pn;kk mu;aa hk;kk	13
 频幕上	pn;yb mu;jm uh;aa	266
 拼能力	pn;fb ng;sb li;gp	369
 品尼高	pn;kk ni;ub gk;wk	338
@@ -496266,6 +496391,7 @@ sort: by_weight
 七八丈	qi;ag ba;pd vh;ad	48
 七八只	qi;ag ba;pd vi;kb	44
 七八种	qi;ag ba;pd vs;hv	154
+七八周	qi;ag ba;pd vb;kt	42
 七百倍	qi;ag bl;ab bz;rk	52
 七百多	qi;ag bl;ab do;xx	392
 七百分	qi;ag bl;ab ff;bd	88
@@ -499791,7 +499917,6 @@ sort: by_weight
 恰恰是	qw;xh qw;xh ui;op	12453
 恰恰舞	qw;xh qw;xh wu;rf	47
 恰巧是	qw;xh qc;gk ui;op	471
-甲壳质	qw;aa qc;uj vi;bu	428
 掐人中	qw;fj rf;pd vs;aa	621
 掐上了	qw;fj uh;aa le;aa	418
 掐时间	qw;fj ui;oc jm;mo	572
@@ -502202,9 +502327,9 @@ sort: by_weight
 牵着你	qm;nb ve;yo ni;re	97
 牵着牛	qm;nb ve;yo nq;pa	53
 欠着钱	qm;dr ve;yo qm;jj	1503
-钱这是	qm;jj ve;zw ui;op	1192
-前者是	qm;qd ve;ol ui;op	756
+前者是	qm;qd ve;ol ui;op	1192
 钱这时	qm;jj ve;zw ui;oc	312
+钱这事	qm;jj ve;zw ui;aa	156
 牵着手	qm;nb ve;yo ub;pa	990
 牵着我	qm;nb ve;yo wo;pd	163
 牵着走	qm;nb ve;yo zb;tv	424
@@ -502558,8 +502683,8 @@ sort: by_weight
 枪法准	qd;mc fa;dq vp;dv	378
 强反差	qd;gs fj;py ia;yg	324
 抢饭吃	qd;fc fj;uf ii;kq	522
-抢反弹	qd;fc fj;py tj;gd	138
-强反弹	qd;gs fj;py tj;gd	124
+强反弹	qd;gs fj;py tj;gd	138
+抢反弹	qd;fc fj;py tj;gd	124
 抢饭碗	qd;fc fj;uf wj;uw	411
 抢房潮	qd;fc fh;hf ik;di	364
 抢房子	qd;fc fh;hf zi;aa	526
@@ -502846,6 +502971,7 @@ sort: by_weight
 强流水	qd;gs lq;di uv;ad	52
 强龙头	qd;gs ls;ad tb;dd	396
 强逻辑	qd;gs lo;zl ji;ie	621
+强氯精	qd;gs lv;ql jy;mq	42
 羟氯喹	qd;yg lv;ql kv;kk	580
 抢茅台	qd;fc mk;cm tl;sk	107
 抢帽子	qd;fc mk;jm zi;aa	19
@@ -505241,6 +505367,7 @@ sort: by_weight
 清大肠	qy;dq da;ad ih;oy	310
 请答复	qy;yq da;vh fu;wo	549
 青大附	qy;of da;ad fu;ef	342
+卿大夫	qy;mg da;ad fu;ad	82
 请大哥	qy;yq da;ad ge;kd	35
 庆达河	qy;gd da;zd he;dk	50
 请大家	qy;yq da;ad jw;bu	10751
@@ -505252,7 +505379,6 @@ sort: by_weight
 请打印	qy;yq da;fd yn;ey	9
 青黛粉	qy;of dl;hd ff;mf	288
 请大夫	qy;yq dl;ad fu;ad	91
-卿大夫	qy;mg dl;ad fu;ad	82
 请带好	qy;yq dl;jb hk;nz	72
 请戴好	qy;yq dl;gg hk;nz	65
 请代练	qy;yq dl;ry lm;sd	310
@@ -506170,8 +506296,8 @@ sort: by_weight
 清凉吧	qy;dq ld;dj ba;kb	328
 轻量版	qy;ig ld;ol bj;pf	410
 清凉处	qy;dq ld;dj iu;wb	202
-清凉的	qy;dq ld;dj de;bu	496
-清凉地	qy;dq ld;dj de;ty	396
+轻量的	qy;ig ld;ol de;bu	496
+清凉的	qy;dq ld;dj de;bu	396
 清凉店	qy;dq ld;dj dm;gv	162
 清凉洞	qy;dq ld;dj ds;dt	292
 清凉度	qy;dq ld;dj du;gy	16
@@ -511873,6 +511999,7 @@ sort: by_weight
 曲游春	qu;aa yb;dz ip;of	45
 去优化	qu;ts yb;ry hw;rb	711
 去油剂	qu;ts yb;dy ji;dq	297
+驱油剂	qu;mq yb;dy ji;dq	21
 去邮局	qu;ts yb;ey ju;uk	157
 去游览	qu;ts yb;dz lj;jv	711
 去游了	qu;ts yb;dz le;aa	504
@@ -520300,7 +520427,6 @@ sort: by_weight
 如焦虑	ru;nk jc;hv lv;hx	810
 乳胶漆	ru;gf jc;oj qi;dq	2085
 如教师	ru;nk jc;wx ui;ab	742
-入校时	ru;pd jc;mj ui;oc	107
 乳胶室	ru;gf jc;oj ui;bv	42
 乳胶头	ru;gf jc;oj tb;dd	99
 乳胶衣	ru;gf jc;oj yi;dd	310
@@ -520950,6 +521076,7 @@ sort: by_weight
 入校前	ru;pd xc;mj qm;qd	44
 如小区	ru;nk xc;ad qu;ki	788
 入小区	ru;pd xc;ad qu;ki	475
+入校时	ru;pd xc;mj ui;oc	107
 如销售	ru;nk xc;jx ub;kv	1008
 如硝酸	ru;nk xc;ux sr;yj	549
 入小学	ru;pd xc;ad xt;zb	806
@@ -525000,6 +525127,7 @@ sort: by_weight
 三四章	sj;aa si;aa vh;lz	76
 三四只	sj;aa si;aa vi;kb	72
 三四种	sj;aa si;aa vs;hv	154
+三四周	sj;aa si;aa vb;kt	20
 三四组	sj;aa si;aa zu;sq	346
 三艘船	sj;aa sb;vs ir;vk	60
 三苏祠	sj;aa su;cb ci;us	410
@@ -525894,6 +526022,7 @@ sort: by_weight
 桑索斯	sh;mr so;sb si;jq	162
 桑塔河	sh;mr ta;td he;dk	171
 桑塔纳	sh;mr ta;td na;sn	1036
+桑坦德	sh;mr tj;td de;xx	32
 丧天良	sh;ty tm;ad ld;dg	382
 桑田路	sh;mr tm;aa lu;zg	306
 桑土公	sh;mr tu;aa gs;sb	47
@@ -526433,18 +526562,18 @@ sort: by_weight
 森永制	sf;ml ys;dd vi;dg	518
 森之宫	sf;ml vi;dd gs;bl	504
 森茱莉	sf;ml vu;cv li;cl	225
-僧伽歌	sg;rc jw;rj ge;qg	76
-僧伽蓝	sg;rc jw;rj lj;cj	346
-僧伽梨	sg;rc jw;rj li;ml	220
-僧伽罗	sg;rc jw;rj lo;sx	752
-僧伽咤	sg;rc jw;rj va;kv	418
-僧伽证	sg;rc jw;rj vg;yv	4
 僧录司	sg;rc lu;au si;gk	400
 僧侣们	sg;rc lv;rl mf;rm	608
 僧帽壶	sg;rc mk;jm hu;uy	351
 僧祇劫	sg;rc qi;uu jx;lq	43
 僧祇律	sg;rc qi;uu lv;xy	428
 僧祇奴	sg;rc qi;uu nu;ny	99
+僧伽歌	sg;rc qx;rj ge;qg	76
+僧伽蓝	sg;rc qx;rj lj;cj	346
+僧伽梨	sg;rc qx;rj li;ml	220
+僧伽罗	sg;rc qx;rj lo;sx	752
+僧伽咤	sg;rc qx;rj va;kv	418
+僧伽证	sg;rc qx;rj vg;yv	4
 僧佉论	sg;rc qu;rq lp;yl	45
 僧人们	sg;rc rf;pd mf;rm	598
 僧王府	sg;rc wh;aa fu;gf	171
@@ -528128,10 +528257,8 @@ sort: by_weight
 煽动性	uj;hu ds;ly xy;xu	556
 山东行	uj;aa ds;ad xy;xi	500
 山东一	uj;aa ds;ad yi;aa	900
-山东银	uj;aa ds;ad yn;jg	531
 山东于	uj;aa ds;ad yu;aa	338
 山东院	uj;aa ds;ad yr;ew	117
-山东张	uj;aa ds;ad vh;gi	392
 闪动着	uj;mr ds;ly ve;yo	151
 煽动者	uj;hu ds;ly ve;ol	136
 扇动着	uj;hy ds;ly ve;yo	122
@@ -539792,6 +539919,8 @@ sort: by_weight
 十多节	ui;aa do;xx jx;ce	13
 十多斤	ui;aa do;xx jn;pa	126
 十多块	ui;aa do;xx ky;td	160
+十多款	ui;aa do;xx kr;qu	176
+是多宽	ui;op do;xx kr;bj	43
 事多了	ui;aa do;xx le;aa	788
 拾掇了	ui;fh do;fu le;aa	365
 十多里	ui;aa do;xx li;aa	25
@@ -542992,6 +543121,7 @@ sort: by_weight
 室内景	ui;bv nz;ad jy;oj	567
 室内剧	ui;bv nz;ad ju;dj	35
 室内看	ui;bv nz;ad kj;ou	549
+室内课	ui;bv nz;ad ke;yg	52
 室内猫	ui;bv nz;ad mk;qm	302
 室内门	ui;bv nz;ad mf;dg	630
 室内墙	ui;bv nz;ad qd;th	616
@@ -544904,6 +545034,7 @@ sort: by_weight
 室外机	ui;bv wl;xb ji;mj	75
 室外景	ui;bv wl;xb jy;oj	508
 室外看	ui;bv wl;xb kj;ou	477
+室外课	ui;bv wl;xb ke;yg	52
 室外跑	ui;bv wl;xb pk;zb	603
 室外时	ui;bv wl;xb ui;oc	436
 室外型	ui;bv wl;xb xy;tx	288
@@ -549466,6 +549597,7 @@ sort: by_weight
 守卫战	ub;bc wz;ga vj;gv	554
 守卫着	ub;bc wz;ga ve;yo	546
 守卫者	ub;bc wz;ga ve;ol	141
+首尾帧	ub;qz wz;um vf;jv	103
 收文件	ub;wj wf;wi jm;rn	6
 收文日	ub;wj wf;wi ri;aa	4
 手握了	ub;pa wo;fw le;aa	544
@@ -550277,7 +550409,8 @@ sort: by_weight
 输出品	uu;iy iu;aa pn;kk	9
 输出区	uu;iy iu;aa qu;ki	9
 输出入	uu;iy iu;aa ru;pd	19
-输出时	uu;iy iu;aa ui;oc	693
+输出是	uu;iy iu;aa ui;op	693
+输出时	uu;iy iu;aa ui;oc	406
 输出为	uu;iy iu;aa wz;dd	990
 输出位	uu;iy iu;aa wz;rl	536
 输出物	uu;iy iu;aa wu;nw	63
@@ -553187,7 +553320,6 @@ sort: by_weight
 爽快啊	ud;dy ky;xd aa;ka	428
 爽快吧	ud;dy ky;xd ba;kb	256
 爽快地	ud;dy ky;xd de;ty	678
-爽快的	ud;dy ky;xd de;bu	266
 爽快点	ud;dy ky;xd dm;hv	446
 爽快感	ud;dy ky;xd gj;xx	706
 爽快了	ud;dy ky;xd le;aa	522
@@ -554570,6 +554702,7 @@ sort: by_weight
 睡个够	uv;oi ge;ra gb;xj	6
 睡个觉	uv;oi ge;ra jc;jb	270
 水阁路	uv;ad ge;mg lu;zg	43
+水个群	uv;ad ge;ra qp;yj	30
 谁给的	uv;yv gz;sh de;bu	734
 谁给个	uv;yv gz;sh ge;ra	580
 谁给了	uv;yv gz;sh le;aa	60
@@ -561261,6 +561394,7 @@ sort: by_weight
 四五折	si;aa wu;aa ve;fj	338
 四五只	si;aa wu;aa vi;kb	94
 四五种	si;aa wu;aa vs;hv	141
+四五周	si;aa wu;aa vb;kt	35
 四五桌	si;aa wu;aa vo;mo	590
 四喜班	si;aa xi;uk bj;dw	315
 死细胞	si;db xi;st bk;ob	706
@@ -586245,6 +586379,8 @@ sort: by_weight
 探芳讯	tj;fm fh;cf xp;yu	4
 探访者	tj;fm fh;yf ve;ol	346
 探访中	tj;fm fh;yf vs;aa	590
+弹飞了	tj;gd fz;yd le;aa	85
+弹飞你	tj;gd fz;yd ni;re	266
 碳粉盒	tj;ut ff;mf he;mh	405
 谈分手	tj;yy ff;bd ub;pa	531
 碳分子	tj;ut ff;bd zi;aa	35
@@ -586274,6 +586410,7 @@ sort: by_weight
 谈工资	tj;yy gs;aa zi;bc	662
 谈工作	tj;yy gs;aa zo;rv	882
 谈股票	tj;yy gu;ou pc;xu	486
+弹古琴	tj;gd gu;uk qn;wj	490
 弹古筝	tj;gd gu;uk vg;vv	144
 贪官啊	tj;bj gr;bg aa;ka	369
 贪官吧	tj;bj gr;bg ba;kb	207
@@ -586632,6 +586769,7 @@ sort: by_weight
 谈情怀	tj;yy qy;xq hy;xb	724
 碳氢键	tj;ut qy;qg jm;jj	504
 碳氢氧	tj;ut qy;qg yh;qy	562
+弹秋思	tj;gd qq;hh si;xt	4
 探求者	tj;fm qq;ad ve;ol	423
 谈泉庆	tj;yy qr;ub qy;gd	459
 坦然吧	tj;td rj;hq ba;kb	266
@@ -586669,6 +586807,7 @@ sort: by_weight
 弹射时	tj;gd ue;cu ui;oc	472
 弹射式	tj;gd ue;cu ui;gy	319
 弹射型	tj;gd ue;cu xy;tx	3
+弹舌音	tj;gd ue;kq yn;lo	52
 谈什么	tj;yy uf;ru me;ps	3052
 探身子	tj;fm uf;pp zi;aa	410
 谈生活	tj;yy ug;na ho;du	652
@@ -586978,6 +587117,7 @@ sort: by_weight
 谭医生	tj;yt yi;ku ug;na	308
 谈艺术	tj;yy yi;cy uu;md	594
 谈一谈	tj;yy yi;aa tj;yy	4588
+弹一弹	tj;gd yi;aa tj;gd	504
 探一探	tj;fm yi;aa tj;fm	131
 谈一下	tj;yy yi;aa xw;ab	3903
 弹一下	tj;gd yi;aa xw;ab	232
@@ -588662,6 +588802,8 @@ sort: by_weight
 套衣服	tk;di yi;dd fu;oy	1156
 淘衣服	tk;dt yi;dd fu;oy	471
 套一个	tk;di yi;aa ge;ra	377
+淘一个	tk;dt yi;aa ge;ra	139
+掏一个	tk;ft yi;aa ge;ra	91
 陶伊河	tk;et yi;ry he;dk	117
 陶艺家	tk;et yi;cy jw;bu	50
 陶艺品	tk;et yi;cy pn;kk	382
@@ -593974,6 +594116,8 @@ sort: by_weight
 挑字眼	tc;fv zi;bz yj;og	16
 挑走啦	tc;fv zb;tv la;kl	288
 挑走了	tc;fv zb;tv le;aa	549
+调最大	tc;yv zv;oq da;ad	109
+挑最大	tc;fv zv;oq da;ad	43
 调最高	tc;yv zv;oq gk;wk	531
 调座位	tc;yv zo;gz wz;rl	536
 贴吧啊	tx;bv ba;kb aa;ka	378
@@ -595160,6 +595304,7 @@ sort: by_weight
 听觉阈	ty;kj jt;jb yu;mh	6
 听君歌	ty;kj jp;ky ge;qg	266
 挺均衡	ty;ft jp;ty hg;xd	52
+挺卡的	ty;ft ka;ub de;bu	42
 挺开心	ty;ft kl;ac xn;dd	634
 停刊了	ty;rt kj;dg le;aa	522
 停靠点	ty;rt kk;fg dm;hv	57
@@ -605048,7 +605193,6 @@ sort: by_weight
 晚韶华	wj;om uk;yv hw;uh	248
 玩勺子	wj;wy uk;gd zi;aa	284
 万蛇岛	wj;ag ue;it dk;nu	374
-弯折点	wj;gy ue;fj dm;hv	225
 玩射击	wj;wy ue;cu ji;fk	518
 玩社交	wj;wy ue;ut jc;li	536
 玩射手	wj;wy ue;cu ub;pa	369
@@ -605557,6 +605701,7 @@ sort: by_weight
 万丈窟	wj;ag vh;ad ku;xq	230
 万章上	wj;ag vh;lz uh;aa	302
 玩着吧	wj;wy ve;yo ba;kb	292
+弯折点	wj;gy ve;fj dm;hv	225
 玩这个	wj;wy ve;zw ge;ra	1369
 玩着没	wj;wy ve;yo mz;du	315
 玩着呢	wj;wy ve;yo ne;kn	13
@@ -606323,6 +606468,7 @@ sort: by_weight
 王莽岭	wh;aa mh;cc ly;ul	311
 往美国	wh;xv mz;dy go;ky	1166
 望梅花	wh;wo mz;mm hw;ch	202
+忘没了	wh;xw mz;du le;aa	266
 王美丽	wh;aa mz;dy li;ad	652
 望梅路	wh;wo mz;mm lu;zg	274
 王妹妹	wh;aa mz;nw mz;nw	32
@@ -606862,7 +607008,6 @@ sort: by_weight
 旺一些	wh;ow yi;aa xx;ec	477
 望一眼	wh;wo yi;aa yj;og	814
 网易云	wh;ki yi;ow yp;es	8396
-网抑云	wh;ki yi;fe yp;es	411
 网银吧	wh;ki yn;jg ba;kb	189
 网银盾	wh;ki yn;jg dp;po	72
 网印机	wh;ki yn;ey ji;mj	4
@@ -608413,6 +608558,7 @@ sort: by_weight
 胃扩张	wz;ot ko;fg vh;gi	13
 微辣吧	wz;xw la;xu ba;kb	464
 微喇叭	wz;xw la;kd ba;kb	384
+维拉港	wz;sv la;fl gh;dx	32
 微喇裤	wz;xw la;kd ku;yk	6
 维拉尼	wz;sv la;fl ni;ub	52
 未来啊	wz;ex ll;am aa;ka	616
@@ -613178,6 +613324,7 @@ sort: by_weight
 我变心	wo;pd bm;wy xn;dd	418
 我便要	wo;pd bm;rg yk;xn	585
 我便以	wo;pd bm;rg yi;rd	450
+我编译	wo;pd bm;sb yi;yf	131
 我便应	wo;pd bm;rg yy;ga	288
 我便用	wo;pd bm;rg ys;kf	428
 我便有	wo;pd bm;rg yb;ou	554
@@ -618266,7 +618413,6 @@ sort: by_weight
 我回答	wo;pd hv;kk da;vh	4657
 我会打	wo;pd hv;ry da;fd	752
 我会带	wo;pd hv;ry dl;jb	900
-我会弹	wo;pd hv;ry dj;gd	459
 我会当	wo;pd hv;ry dh;xx	567
 我回到	wo;pd hv;kk dk;dv	706
 我会到	wo;pd hv;ry dk;dv	608
@@ -618410,6 +618556,7 @@ sort: by_weight
 我会算	wo;pd hv;ry sr;vc	410
 我回他	wo;pd hv;kk ta;ry	554
 我回她	wo;pd hv;kk ta;ny	357
+我会弹	wo;pd hv;ry tj;gd	459
 我会谈	wo;pd hv;ry tj;yy	369
 我回趟	wo;pd hv;kk th;zu	360
 我会疼	wo;pd hv;ry tg;bd	342
@@ -634078,6 +634225,7 @@ sort: by_weight
 五六丈	wu;aa lq;wb vh;ad	16
 五六只	wu;aa lq;wb vi;kb	63
 五六种	wu;aa lq;wb vs;hv	91
+五六周	wu;aa lq;wb vb;kt	17
 五六桌	wu;aa lq;wb vo;mo	9
 乌龙吧	wu;pa ls;ad ba;kb	220
 五龙背	wu;aa ls;ad bz;ob	378
@@ -658267,7 +658415,8 @@ sort: by_weight
 写老师	xx;by lk;lb ui;ab	441
 蟹老宋	xx;ij lk;lb ss;bm	554
 谢老爷	xx;yu lk;lb ye;fe	6
-谢了啊	xx;yu le;aa aa;ka	16
+谢了啊	xx;yu le;aa aa;ka	91
+写了啊	xx;by le;aa aa;ka	16
 歇了吧	xx;qh le;aa ba;kb	634
 些了吧	xx;ec le;aa ba;kb	486
 鞋了吧	xx;gg le;aa ba;kb	299
@@ -660566,6 +660715,7 @@ sort: by_weight
 新建立	xn;jq jm;zy li;da	220
 新建楼	xn;jq jm;zy lb;ml	576
 新建路	xn;jq jm;zy lu;zg	711
+新键帽	xn;jq jm;jj mk;jm	45
 新键盘	xn;jq jm;jj pj;mv	504
 新建桥	xn;jq jm;zy qc;mq	459
 心尖上	xn;dd jm;xd uh;aa	774
@@ -662215,7 +662365,6 @@ sort: by_weight
 新搜索	xn;jq sb;fs so;sb	572
 新素材	xn;jq su;sf cl;mc	526
 新速度	xn;jq su;zu du;gy	25
-心宿二	xn;dd su;bb er;aa	598
 新塑料	xn;jq su;to lc;md	464
 新宿区	xn;jq su;bb qu;ki	60
 新宿舍	xn;jq su;bb ue;ru	364
@@ -662936,6 +663085,7 @@ sort: by_weight
 新秀杯	xn;jq xq;hn bz;mb	207
 新秀场	xn;jq xq;hn ih;ty	279
 新修订	xn;jq xq;rp dy;yd	254
+心宿二	xn;dd xq;bb er;aa	598
 新修复	xn;jq xq;rp fu;wo	724
 新修改	xn;jq xq;rp gl;wj	886
 辛修己	xn;lu xq;rp ji;ag	45
@@ -663621,6 +663771,7 @@ sort: by_weight
 新周期	xn;jq vb;kt qi;oq	756
 新洲人	xn;jq vb;dv rf;pd	432
 忻州人	xn;xj vb;id rf;pd	304
+新轴体	xn;jq vb;iy ti;rb	45
 新主板	xn;jq vu;dw bj;mf	504
 新主播	xn;jq vu;dw bo;ff	129
 新竹仓	xn;jq vu;gg ch;re	4
@@ -668184,7 +668335,6 @@ sort: by_weight
 宣教科	xr;bg jc;wx ke;hd	454
 宣教室	xr;bg jc;wx ui;bv	706
 宣教士	xr;bg jc;wx ui;aa	441
-选校时	xr;zx jc;mj ui;oc	338
 选角时	xr;zx jc;dy ui;oc	200
 旋节线	xr;fp jx;ce xm;sj	50
 旋进角	xr;fp jn;zj jc;dy	45
@@ -668516,6 +668666,7 @@ sort: by_weight
 喧嚣的	xr;kx xc;kk de;bu	550
 喧嚣声	xr;kx xc;kk ug;um	53
 喧嚣时	xr;kx xc;kk ui;oc	500
+选校时	xr;zx xc;mj ui;oc	338
 喧嚣中	xr;kx xc;kk vs;aa	670
 宣泄吧	xr;bg xx;du ba;kb	320
 宣泄口	xr;bg xx;du kb;aa	585
@@ -671404,7 +671555,8 @@ sort: by_weight
 亚军队	ya;ay jp;bi dv;er	28
 亚军奖	ya;ay jp;bi jd;dx	9
 牙菌膜	ya;ap jp;ch mo;om	279
-亚开行	ya;ay kl;ac xy;xi	44
+亚喀巴	ya;ay ka;kk ba;ag	32
+亚开行	ya;ay kl;ac hh;xi	44
 呀看了	ya;ky kj;ou le;aa	540
 亚考兰	ya;ay kk;lk lj;qe	212
 雅可布	ya;vy ke;dk bu;ju	562
@@ -682315,8 +682467,8 @@ sort: by_weight
 一点来	yi;aa dm;hv ll;am	1084
 一点了	yi;aa dm;hv le;aa	1238
 已点了	yi;vg dm;hv le;aa	350
-一点利	yi;aa dm;hv li;hd	914
-一点力	yi;aa dm;hv li;gp	585
+一点力	yi;aa dm;hv li;gp	914
+一点利	yi;aa dm;hv li;hd	585
 一点脸	yi;aa dm;hv lm;oa	621
 一点亮	yi;aa dm;hv ld;wj	626
 一点论	yi;aa dm;hv lp;yl	400
@@ -684922,6 +685074,7 @@ sort: by_weight
 易开罐	yi;ow kl;ac gr;fv	302
 已开光	yi;vg kl;ac gd;ea	405
 已开过	yi;vg kl;ac go;zc	369
+已开行	yi;vg kl;ac hh;xi	369
 移开后	yi;hd kl;ac hb;pk	423
 已开户	yi;vg kl;ac hu;dp	248
 一开会	yi;aa kl;ac hv;ry	72
@@ -684959,7 +685112,6 @@ sort: by_weight
 一开通	yi;aa kl;ac ts;zy	433
 一开头	yi;aa kl;ac tb;dd	868
 已开挖	yi;vg kl;ac wa;fw	333
-已开行	yi;vg kl;ac xy;xi	369
 已开学	yi;vg kl;ac xt;zb	873
 一开学	yi;aa kl;ac xt;zb	319
 已开业	yi;vg kl;ac ye;aa	657
@@ -686155,6 +686307,7 @@ sort: by_weight
 一墨迹	yi;aa mo;th ji;zy	162
 一抹金	yi;aa mo;fm jn;ra	518
 一模卷	yi;aa mo;mm jr;ef	28
+伊莫拉	yi;ry mo;cd la;fl	32
 一抹蓝	yi;aa mo;fm lj;cj	28
 一抹亮	yi;aa mo;fm ld;wj	22
 已陌路	yi;vg mo;eb lu;zg	319
@@ -687422,6 +687575,7 @@ sort: by_weight
 亦若是	yi;wb ro;cy ui;op	112
 易萨河	yi;ow sa;ci he;dk	4
 以萨迦	yi;rd sa;ci jw;zj	342
+伊萨卡	yi;ry sa;ci ka;ub	32
 遗洒物	yi;zg sa;dx wu;nw	130
 一赛季	yi;aa sl;bb ji;hz	837
 益赛普	yi;mb sl;bb pu;ob	472
@@ -690225,6 +690379,7 @@ sort: by_weight
 义勇祠	yi;id ys;ly ci;us	252
 已用到	yi;vg ys;kf dk;dv	364
 易拥堵	yi;ow ys;fy du;tv	572
+易用度	yi;ow ys;kf du;gy	209
 义勇队	yi;id ys;ly dv;er	63
 已用光	yi;vg ys;kf gd;ea	369
 医用柜	yi;ku ys;kf gv;mj	45
@@ -692276,6 +692431,7 @@ sort: by_weight
 音节是	yn;lo jx;ce ui;op	428
 音阶时	yn;lo jx;ej ui;oc	251
 尹介石	yn;ap jx;ra ui;kp	26
+音节图	yn;lo jx;ce tu;kd	4
 银戒指	yn;jg jx;gc vi;fv	41
 引进啊	yn;ga jn;zj aa;ka	342
 引进吧	yn;ga jn;zj ba;kb	302
@@ -696722,6 +696878,9 @@ sort: by_weight
 有熬夜	yb;ou ao;ha ye;wd	395
 油粑粑	yb;dy ba;mb ba;mb	693
 优霸杯	yb;ry ba;yo bz;mb	626
+有把刀	yb;ou ba;fb dk;gp	160
+又霸道	yb;vd ba;yo dk;zu	120
+有八道	yb;ou ba;pd dk;zu	41
 有疤痕	yb;ou ba;bb hf;bg	752
 又拔了	yb;vd ba;fb le;aa	410
 有把握	yb;ou ba;fb wo;fw	1674
@@ -699949,6 +700108,9 @@ sort: by_weight
 油漆厂	yb;dy qi;dq ih;ap	372
 有汽车	yb;ou qi;dq ie;aa	160
 尤其大	yb;ad qi;ba da;ad	792
+尤其到	yb;ad qi;ba dk;dv	100
+有起到	yb;ou qi;zj dk;dv	81
+有七道	yb;ou qi;ag dk;zu	32
 由其弟	yb;aa qi;ba di;bp	562
 油漆店	yb;dy qi;dq dm;gv	482
 尤其多	yb;ad qi;ba do;xx	792
@@ -700309,7 +700471,8 @@ sort: by_weight
 又塞了	yb;vd sl;tb le;aa	544
 有三成	yb;ou sj;aa ig;gg	60
 有三大	yb;ou sj;aa da;ad	964
-有三到	yb;ou sj;aa dk;dv	688
+有三道	yb;ou sj;aa dk;zu	688
+有三到	yb;ou sj;aa dk;dv	334
 有三点	yb;ou sj;aa dm;hv	1284
 有三段	yb;ou sj;aa dr;ud	598
 有三个	yb;ou sj;aa ge;ra	14208
@@ -701154,6 +701317,8 @@ sort: by_weight
 有无错	yb;ou wu;ag co;jx	459
 有五大	yb;ou wu;aa da;ad	163
 有无带	yb;ou wu;ag dl;jb	374
+有舞蹈	yb;ou wu;rf dk;zj	334
+有五道	yb;ou wu;aa dk;zu	73
 有无的	yb;ou wu;ag de;bu	576
 又无法	yb;vd wu;ag fa;dq	1369
 有无法	yb;ou wu;ag fa;dq	909
@@ -701821,8 +701986,8 @@ sort: by_weight
 油烟气	yb;dy yj;hy qi;py	490
 有延期	yb;ou yj;zv qi;oq	395
 又俨然	yb;vd yj;ry rj;hq	270
-有眼色	yb;ou yj;og se;db	1080
-有颜色	yb;ou yj;yy se;db	684
+有颜色	yb;ou yj;yy se;db	1080
+有眼色	yb;ou yj;og se;db	684
 游研社	yb;dz yj;uk ue;ut	345
 有延时	yb;ou yj;zv ui;oc	648
 油盐糖	yb;dy yj;mb th;mt	814
@@ -703495,6 +703660,8 @@ sort: by_weight
 余甘果	yu;rb gj;ca go;tm	225
 预感了	yu;yy gj;xx le;aa	464
 鱼干女	yu;da gj;aa nv;aa	43
+鱼竿上	yu;da gj;vg uh;aa	200
+语感上	yu;yw gj;xx uh;aa	64
 鱼干头	yu;da gj;aa tb;dd	43
 鱼肝油	yu;da gj;og yb;dy	562
 预干燥	yu;yy gj;aa zk;hz	50
@@ -706855,7 +707022,6 @@ sort: by_weight
 原胶南	yr;ix jc;oj nj;ua	410
 援交女	yr;fy jc;li nv;aa	518
 远郊区	yr;zy jc;ej qu;ki	91
-院校时	yr;ew jc;mj ui;oc	567
 原教室	yr;ix jc;wx ui;bv	225
 袁教授	yr;ty jc;wx ub;fu	356
 原焦油	yr;ix jc;hv yb;dy	45
@@ -707628,6 +707794,7 @@ sort: by_weight
 园小区	yr;ky xc;ad qu;ki	1134
 苑小区	yr;ce xc;ad qu;ki	817
 远小人	yr;zy xc;ad rf;pd	486
+院校时	yr;ew xc;mj ui;oc	567
 院校所	yr;ew xc;mj so;hj	814
 院校线	yr;ew xc;mj xm;sj	100
 元宵夜	yr;aw xc;bx ye;wd	13
@@ -710596,6 +710763,9 @@ sort: by_weight
 咋设置	za;kv ue;yu vi;sv	212
 杂事儿	za;jm ui;aa er;pg	378
 砸石头	za;uz ui;kp tb;dd	450
+咋实现	za;kv ui;bt xm;wj	652
+咋事先	za;kv ui;aa xm;ne	202
+杂事先	za;jm ui;aa xm;ne	91
 杂食性	za;jm ui;rl xy;xu	141
 咋是这	za;kv ui;op ve;zw	320
 杂食者	za;jm ui;rl ve;ol	201
@@ -712515,6 +712685,7 @@ sort: by_weight
 载距突	zl;ig ju;zj tu;xq	45
 在举行	zl;ut ju;df xy;xi	116
 在剧中	zl;ut ju;dj vs;aa	2302
+在句中	zl;ut ju;gk vs;aa	223
 在句子	zl;ut ju;gk zi;aa	223
 在剧组	zl;ut ju;dj zu;sq	976
 再决定	zl;aa jt;dd dy;bp	2512
@@ -716574,7 +716745,6 @@ sort: by_weight
 则及时	ze;bd ji;nd ui;oc	652
 则继续	ze;bd ji;sa xu;sm	609
 则建议	ze;bd jm;zy yi;yy	914
-择校时	ze;ff jc;mj ui;oc	572
 则进了	ze;bd jn;zj le;aa	432
 则经过	ze;bd jy;sg go;zc	621
 则精神	ze;bd jy;mq uf;uu	536
@@ -716688,6 +716858,7 @@ sort: by_weight
 择校费	ze;ff xc;mj fz;bf	170
 择校热	ze;ff xc;mj re;hv	38
 择校生	ze;ff xc;mj ug;na	25
+择校时	ze;ff xc;mj ui;oc	572
 则需要	ze;bd xu;ye yk;xn	8779
 则选择	ze;bd xr;zx ze;ff	493
 则要求	ze;bd yk;xn qq;ad	609
@@ -721149,6 +721320,8 @@ sort: by_weight
 找她啊	vk;fg ta;ny aa;ka	357
 找他吧	vk;fg ta;ry ba;kb	554
 找她吧	vk;fg ta;ny ba;kb	433
+找他的	vk;fg ta;ry de;bu	302
+照他的	vk;hv ta;ry de;bu	132
 找他了	vk;fg ta;ry le;aa	806
 找她了	vk;fg ta;ny le;aa	665
 找他们	vk;fg ta;ry mf;rm	1922
@@ -722387,6 +722560,7 @@ sort: by_weight
 这裤子	ve;zw ku;yk zi;aa	66
 这夸张	ve;zw kw;dk vh;gi	428
 这块吧	ve;zw ky;td ba;kb	378
+这块板	ve;zw ky;td bj;mf	38
 这块布	ve;zw ky;td bu;ju	531
 这块地	ve;zw ky;td di;ty	606
 这块儿	ve;zw ky;td er;pg	1262
@@ -724513,6 +724687,8 @@ sort: by_weight
 震寰宇	vf;yi hr;bh yu;by	410
 甄嬛传	vf;wt hr;nh vr;rv	1567
 真会吃	vf;uj hv;ry ii;kq	410
+真会干	vf;uj hv;ry gj;aa	87
+真会赶	vf;uj hv;ry gj;zg	40
 真毁了	vf;uj hv;ug le;aa	297
 真晦气	vf;uj hv;om qi;py	94
 疹回期	vf;bp hv;kk qi;oq	45
@@ -727262,6 +727438,7 @@ sort: by_weight
 政权的	vg;wv qr;my de;bu	1242
 证券法	vg;yv qr;df fa;dq	1865
 证券股	vg;yv qr;df gu;ou	1485
+证券行	vg;yv qr;df hh;xi	972
 证券化	vg;yv qr;df hw;rb	2857
 证券会	vg;yv qr;df hv;ry	526
 证券界	vg;yv qr;df jx;tj	25
@@ -727275,7 +727452,6 @@ sort: by_weight
 证券通	vg;yv qr;df ts;zy	598
 证券网	vg;yv qr;df wh;ki	1076
 证券委	vg;yv qr;df wz;hn	38
-证券行	vg;yv qr;df xy;xi	972
 证券业	vg;yv qr;df ye;aa	807
 正确啊	vg;av qt;uj aa;ka	576
 正确吧	vg;av qt;uj ba;kb	454
@@ -731159,6 +731335,7 @@ sort: by_weight
 直升机	vi;uq ug;pc ji;mj	7319
 只升级	vi;kb ug;pc ji;sj	410
 只剩了	vi;kb ug;di le;aa	819
+吱声了	vi;kv ug;um le;aa	734
 只生了	vi;kb ug;na le;aa	502
 直升了	vi;uq ug;pc le;aa	164
 制胜率	vi;dg ug;ou lv;wu	243
@@ -732950,6 +733127,7 @@ sort: by_weight
 中北欧	vs;aa bz;ag ou;qq	414
 中北桥	vs;aa bz;ag qc;mq	288
 重本率	vs;pa bf;aa lv;wu	567
+重本线	vs;pa bf;aa xm;sj	608
 中鼻道	vs;aa bi;zb dk;zu	22
 中鼻甲	vs;aa bi;zb jw;aa	47
 中鼻梁	vs;aa bi;zb ld;md	306
@@ -733196,6 +733374,7 @@ sort: by_weight
 中村线	vs;aa cp;mc xm;sj	428
 重大啊	vs;pa da;ad aa;ka	400
 重大吧	vs;pa da;ad ba;kb	189
+钟大伯	vs;jv da;ad bo;rb	17
 中大彩	vs;aa da;ad cl;pc	3
 众大臣	vs;rc da;ad if;aa	706
 种大葱	vs;hv da;ad cs;cc	302
@@ -733220,6 +733399,7 @@ sort: by_weight
 中大桥	vs;aa da;ad qc;mq	446
 中大人	vs;aa da;ad rf;pd	608
 中大树	vs;aa da;ad uu;md	338
+钟大叔	vs;jv da;ad uu;yx	17
 种大蒜	vs;hv da;ad sr;cs	464
 中大谈	vs;aa da;ad tj;yy	13
 中大童	vs;aa da;ad ts;ll	536
@@ -736738,6 +736918,7 @@ sort: by_weight
 咒语时	vb;kj yu;yw ui;oc	369
 咒语书	vb;kj yu;yw uu;ad	378
 昼与夜	vb;id yu;aa ye;wd	44
+周缘边	vb;kt yr;st bm;zl	57
 咒怨的	vb;kj yr;xe de;bu	464
 周院长	vb;kt yr;ew vh;pd	84
 粥悦悦	vb;mg yt;xd yt;xd	292
@@ -739226,7 +739407,6 @@ sort: by_weight
 住有时	vu;rv yb;ou ui;oc	536
 祝由术	vu;ux yb;aa uu;md	222
 猪油糖	vu;qv yb;dy th;mt	320
-朱佑樘	vu;pw yb;ry th;mt	43
 主游戏	vu;dw yb;dz xi;yg	684
 主油箱	vu;dw yb;dy xd;vx	86
 主邮箱	vu;dw yb;ey xd;vx	16
@@ -744222,7 +744402,6 @@ sort: by_weight
 滋生地	zi;dz ug;na di;ty	22
 孳生地	zi;zz ug;na di;ty	20
 自升级	zi;pa ug;pc ji;sj	490
-吱声了	zi;kv ug;um le;aa	734
 滋生了	zi;dz ug;na le;aa	517
 自生色	zi;pa ug;na se;db	45
 自升式	zi;pa ug;pc ui;gy	16
@@ -744231,6 +744410,7 @@ sort: by_weight
 滋生着	zi;dz ug;na ve;yo	28
 姿势啊	zi;nc ui;lv aa;ka	544
 姿势吧	zi;nc ui;lv ba;kb	580
+子实层	zi;aa ui;bt cg;uy	436
 子市场	zi;aa ui;wj ih;ty	945
 自释放	zi;pa ui;pf fh;wf	320
 字士衡	zi;bz ui;aa hg;xd	256
@@ -744242,6 +744422,7 @@ sort: by_weight
 紫石林	zi;sc ui;kp ln;mm	45
 字世龙	zi;bz ui;ca ls;ad	212
 紫石乳	zi;sc ui;kp ru;gf	243
+子实体	zi;aa ui;bt ti;rb	747
 子视图	zi;aa ui;ju tu;kd	25
 自适应	zi;pa ui;zu yy;ga	3303
 紫石英	zi;sc ui;kp yy;cy	630
@@ -744682,6 +744863,7 @@ sort: by_weight
 紫阳山	zi;sc yh;eo uj;aa	288
 字样时	zi;bz yh;my ui;oc	801
 滋养霜	zi;dz yh;ya ud;yx	410
+滋养体	zi;dz yh;ya ti;rb	69
 滋养胃	zi;dz yh;ya wz;ot	320
 滋养型	zi;dz yh;ya xy;tx	374
 自养型	zi;pa yh;ya xy;tx	308
@@ -748602,7 +748784,6 @@ sort: by_weight
 最划算	zv;oq hw;dg sr;vc	1859
 最花心	zv;oq hw;ch xn;dd	441
 醉花阴	zv;yz hw;ch yn;eo	38
-醉花荫	zv;yz hw;ch yn;cy	34
 最坏处	zv;oq hy;tb iu;wb	356
 最坏的	zv;oq hy;tb de;bu	1234
 最坏了	zv;oq hy;tb le;aa	396
@@ -753573,7 +753754,7 @@ sort: by_weight
 爱的启迪	ai;vy de;bu qi;hk di;zy	99
 爱的契约	ai;vy de;bu qi;dd yt;su	238
 爱的晴天	ai;vy de;bu qy;oq tm;ad	117
-爱的躯壳	ai;vy de;bu qu;uq ke;uj	9
+爱的躯壳	ai;vy de;bu qu;uq qc;uj	9
 爱的权利	ai;vy de;bu qr;my li;hd	612
 爱的诠释	ai;vy de;bu qr;yq ui;pf	392
 爱的缺失	ai;vy de;bu qt;fd ui;pf	572
@@ -753696,6 +753877,7 @@ sort: by_weight
 爱管闲事	ai;vy gr;vg xm;mm ui;aa	166
 爱国爱澳	ai;vy go;ky ai;vy ao;da	441
 爱国爱党	ai;vy go;ky ai;vy dh;ek	60
+爱国爱家	ai;vy go;ky ai;vy jw;bu	223
 爱国爱企	ai;vy go;ky ai;vy qi;rv	50
 爱国爱校	ai;vy go;ky ai;vy xc;mj	3
 爱国报国	ai;vy go;ky bk;fy go;ky	266
@@ -755425,6 +755607,7 @@ sort: by_weight
 安坤赞育	an;bn kp;tu zj;bx yu;os	310
 安拉真主	an;bn la;fl vf;uj vu;dw	6
 安拉至大	an;bn la;fl vi;tv da;ad	252
+按来按去	an;fa ll;am an;fa qu;ts	50
 俺来这里	an;rd ll;am ve;zw li;aa	202
 暗蓝天体	an;oy lj;cj tm;ad ti;rb	45
 按劳动法	an;fa lk;lb ds;ly fa;dq	490
@@ -757712,8 +757895,13 @@ sort: by_weight
 把刀放下	ba;fb dk;gp fh;wf xw;ab	52
 霸道横行	ba;yo dk;zu hg;mh xy;xi	356
 八道江山	ba;pd dk;zu jd;dg uj;aa	297
+八到九成	ba;pd dk;dv jq;py ig;gg	23
+八到九级	ba;pd dk;dv jq;py ji;sj	27
+八到九米	ba;pd dk;dv jq;py mi;dd	16
+八到九岁	ba;pd dk;dv jq;py sv;ux	29
 霸道任性	ba;yo dk;zu rf;rr xy;xu	351
 拔刀神曲	ba;fb dk;gp uf;uu qu;aa	45
+八到十周	ba;pd dk;dv ui;aa vb;kt	40
 八道湾路	ba;pd dk;zu wj;dw lu;zg	50
 霸道王爷	ba;yo dk;zu wh;aa ye;fe	378
 霸道无理	ba;yo dk;zu wu;ag li;wl	338
@@ -759642,9 +759830,16 @@ sort: by_weight
 巴之不得	ba;ag vi;dd bu;ad de;xc	189
 八支队伍	ba;pd vi;uy dv;er wu;rw	495
 拔趾甲术	ba;fb vi;zv jw;aa uu;md	45
+八至九层	ba;pd vi;tv jq;py cg;uy	24
+八至九级	ba;pd vi;tv jq;py ji;sj	42
+八至九斤	ba;pd vi;tv jq;py jn;pa	18
+八至九两	ba;pd vi;tv jq;py ld;ad	41
+八至九楼	ba;pd vi;tv jq;py lb;ml	25
+八至九升	ba;pd vi;tv jq;py ug;pc	32
 把质量关	ba;fb vi;bu ld;ol gr;qd	612
 八支球队	ba;pd vi;uy qq;wq dv;er	490
 八支圣道	ba;pd vi;uy ug;ty dk;zu	189
+八至十周	ba;pd vi;tv ui;aa vb;kt	24
 拔帜树帜	ba;fb vi;jv uu;md vi;jv	76
 拔帜易帜	ba;fb vi;jv yi;ow vi;jv	76
 八支瑜伽	ba;pd vi;uy yu;wy jw;rj	279
@@ -774166,7 +774361,6 @@ sort: by_weight
 碧松照明	bi;ub ss;mg vk;hv my;oo	225
 比速汽车	bi;bb su;zu qi;dq ie;aa	468
 鄙俗无文	bi;eh su;rg wu;ag wf;wi	45
-毕宿五星	bi;bu su;bb wu;aa xy;ou	324
 笔算乘法	bi;vm sr;vc ig;pb fa;dq	50
 比岁不登	bi;bb sv;ux bu;ad dg;dd	4
 鼻损伤病	bi;zb sp;fy uh;rl by;bb	45
@@ -774369,6 +774563,7 @@ sort: by_weight
 鼻修补术	bi;zb xq;rp bu;yb uu;md	45
 必修课程	bi;dd xq;rp ke;yg ig;hi	703
 必修科目	bi;dd xq;rp ke;hd mu;aa	47
+毕宿五星	bi;bu xq;bb wu;aa xy;ou	324
 必须按时	bi;dd xu;py an;fa ui;oc	558
 必须按照	bi;dd xu;py an;fa vk;hv	725
 必须安装	bi;dd xu;py an;bn vd;yv	122
@@ -781084,7 +781279,7 @@ sort: by_weight
 不爱笑吗	bu;ad ai;vy xc;vy ma;km	52
 不爱学习	bu;ad ai;vy xt;zb xi;ga	958
 不爱之恩	bu;ad ai;vy vi;dd en;xy	279
-不爱吱声	bu;ad ai;vy zi;kv ug;um	153
+不爱吱声	bu;ad ai;vy vi;kv ug;um	153
 不按常规	bu;ad an;fa ih;jk gv;fj	482
 不按常理	bu;ad an;fa ih;jk li;wl	842
 不安的夜	bu;ad an;bn de;bu ye;wd	288
@@ -782215,6 +782410,7 @@ sort: by_weight
 不懂道理	bu;ad ds;xd dk;zu li;wl	22
 不懂得爱	bu;ad ds;xd de;xc ai;vy	44
 不懂的话	bu;ad ds;xd de;bu hw;yu	380
+不动的话	bu;ad ds;ly de;bu hw;yu	162
 不动的人	bu;ad ds;ly de;bu rf;pd	69
 不懂的事	bu;ad ds;xd de;bu ui;aa	634
 不懂得说	bu;ad ds;xd de;xc uo;yd	387
@@ -783265,10 +783461,10 @@ sort: by_weight
 不感蒸发	bu;ad gj;xx vg;hv fa;ay	50
 不干正事	bu;ad gj;aa vg;av ui;aa	698
 不敢正视	bu;ad gj;we vg;av ui;ju	528
+不敢吱声	bu;ad gj;we vi;kv ug;um	670
 不敢直视	bu;ad gj;we vi;uq ui;ju	364
 不敢置信	bu;ad gj;we vi;sv xn;ry	311
 不敢质疑	bu;ad gj;we vi;bu yi;bp	454
-不敢吱声	bu;ad gj;we zi;kv ug;um	670
 不敢自专	bu;ad gj;we zi;pa vr;ad	9
 不刚不柔	bu;ad gh;dg bu;ad rb;mm	3
 步罡踏斗	bu;vx gh;sv ta;zt db;du	6
@@ -783989,6 +784185,7 @@ sort: by_weight
 不会丢失	bu;ad hv;ry dq;pq ui;pf	814
 不会动的	bu;ad hv;ry ds;ly de;bu	198
 不会懂得	bu;ad hv;ry ds;xd de;xc	178
+不会动了	bu;ad hv;ry ds;ly le;aa	50
 不会动摇	bu;ad hv;ry ds;ly yk;ff	724
 不回短信	bu;ad hv;kk dr;ud xn;ry	19
 不会发出	bu;ad hv;ry fa;ay iu;aa	698
@@ -794158,6 +794355,7 @@ sort: by_weight
 蚕食殆尽	cj;it ui;rl dl;dt jn;id	392
 蚕市繁华	cj;it ui;wj fj;sm hw;uh	99
 蚕食鲸吞	cj;it ui;rl jy;yj tp;kt	16
+参试品种	cj;sp ui;yu pn;kk vs;hv	130
 残书半窗	cj;dj uu;ad bj;bf id;xx	50
 参数备份	cj;sp uu;wl bz;wt ff;rf	45
 参数变换	cj;sp uu;wl bm;wy hr;fh	230
@@ -808034,6 +808232,7 @@ sort: by_weight
 重组整合	is;pa zu;sq vg;vi he;rk	19
 重组质粒	is;pa zu;sq vi;bu li;ml	189
 重组终止	is;pa zu;sq vs;sd vi;aa	3
+重作冯妇	is;pa zo;rv fg;dm fu;nx	225
 充作军粮	is;wy zo;rv jp;bi ld;ml	171
 重做日志	is;pa zo;rg ri;aa vi;xu	78
 重做系统	is;pa zo;rg xi;ps ts;si	53
@@ -818398,6 +818597,7 @@ sort: by_weight
 大肠刺身	da;ad ih;oy ci;dc uf;pp	297
 大肠肺头	da;ad ih;oy fz;of tb;dd	324
 大厂风范	da;ad ih;ap fg;ji fj;ce	468
+大肠杆菌	da;ad ih;oy gj;mg jp;ch	223
 大肠梗阻	da;ad ih;oy gg;mg zu;eq	117
 大昌合众	da;ad ih;oo he;rk vs;rc	306
 大昌集团	da;ad ih;oo ji;vm tr;kc	238
@@ -827414,7 +827614,7 @@ sort: by_weight
 胆识过人	dj;od ui;yv go;zc rf;pd	63
 但是还是	dj;rd ui;op hl;zb ui;op	1678
 但是好像	dj;rd ui;op hk;nz xd;rx	1148
-弹是会弹	dj;gd ui;op hv;ry dj;gd	20
+弹是会弹	dj;gd ui;op hv;ry tj;gd	20
 单式记帐	dj;ba ui;gy ji;yj vh;ji	45
 但是价格	dj;rd ui;op jw;rj ge;mg	2060
 胆石绞痛	dj;od ui;kp jc;sj ts;by	45
@@ -834623,6 +834823,7 @@ sort: by_weight
 地名争议	di;ty my;xk vg;dy yi;yy	171
 地名注记	di;ty my;xk vu;dv ji;yj	144
 滴墨成伤	di;dd mo;th ig;gg uh;rl	202
+地膜覆盖	di;ty mo;om fu;xf gl;my	223
 蒂姆尼特	di;cd mu;nm ni;ub te;ns	144
 地牡宁神	di;ty mu;nt ny;bd uf;uu	45
 迪纳尔多	di;zy na;sn er;dx do;xx	171
@@ -837455,6 +837656,7 @@ sort: by_weight
 巅顶头痛	dm;ud dy;yd tb;dd ts;by	76
 巅顶作痛	dm;ud dy;yd zo;rv ts;by	4
 电动扳手	dm;ag ds;ly bj;ff ub;pa	252
+电动叉车	dm;ag ds;ly ia;yd ie;aa	223
 电动超跑	dm;ag ds;ly ik;zv pk;zb	621
 电动车窗	dm;ag ds;ly ie;aa id;xx	44
 电动车辆	dm;ag ds;ly ie;aa ld;il	711
@@ -846113,12 +846315,12 @@ sort: by_weight
 都没这么	db;ev mz;du ve;zw me;ps	850
 都没这样	db;ev mz;du ve;zw yh;my	536
 都没知道	db;ev mz;du vi;ku dk;zu	194
+都没吱声	db;ev mz;du vi;kv ug;um	52
 都没中过	db;ev mz;du vs;aa go;zc	436
 都没注意	db;ev mz;du vu;dv yi;xy	170
 都没转发	db;ev mz;du vr;iv fa;ay	162
 都没准备	db;ev mz;du vp;dv bz;wt	85
 都没着落	db;ev mz;du vo;yo lo;cl	396
-都没吱声	db;ev mz;du zi;kv ug;um	52
 都没自信	db;ev mz;du zi;pa xn;ry	387
 都没做过	db;ev mz;du zo;rg go;zc	688
 都没做呢	db;ev mz;du zo;rg ne;kn	396
@@ -850421,7 +850623,7 @@ sort: by_weight
 对外银行	dv;cy wl;xb yn;jg hh;xi	292
 对外营业	dv;cy wl;xb yy;cl ye;aa	801
 对外用兵	dv;cy wl;xb ys;kf by;qb	432
-对外友协	dv;cy wl;xb yb;yu xx;ub	6
+对外友协	dv;cy wl;xb yb;yu xx;ub	10
 对外援助	dv;cy wl;xb yr;fy vu;lq	75
 对外展示	dv;cy wl;xb vj;uy ui;ex	670
 对外战争	dv;cy wl;xb vj;gv vg;dy	770
@@ -851858,10 +852060,7 @@ sort: by_weight
 堕落国度	do;td lo;cl go;ky du;gy	50
 多罗郡王	do;xx lo;sx jp;ej wh;aa	580
 多洛雷斯	do;xx lo;dg lz;yt si;jq	3
-多洛雷丝	do;xx lo;dg lz;yt si;aa	2
-多洛蕾斯	do;xx lo;dg lz;cl si;jq	1
 多洛莉丝	do;xx lo;dg li;cl si;aa	274
-朵洛莉丝	do;mj lo;dg li;cl si;aa	122
 哆啰美远	do;kd lo;kl mz;dy yr;zy	342
 多洛米蒂	do;xx lo;dg mi;dd di;cd	540
 多罗皮带	do;xx lo;sx pi;ad dl;jb	76
@@ -856751,6 +856950,8 @@ sort: by_weight
 二值逻辑	er;aa vi;rv lo;zl ji;ie	266
 而之前的	er;aa vi;dd qm;qd de;bu	662
 而致千里	er;aa vi;wv qm;pa li;aa	328
+二至三级	er;aa vi;tv sj;aa ji;sj	14
+二至三楼	er;aa vi;tv sj;aa lb;ml	19
 二至三人	er;aa vi;tv sj;aa rf;pd	310
 迩之事父	er;ze vi;dd ui;aa fu;pd	256
 二至四倍	er;aa vi;tv si;aa bz;rk	52
@@ -862875,7 +863076,6 @@ sort: by_weight
 放松政策	fh;wf ss;mg vg;wv ce;vc	662
 放松状态	fh;wf ss;mg vd;qp tl;xt	783
 放松自己	fh;wf ss;mg zi;pa ji;ag	568
-房宿增一	fh;hf su;bb zg;tc yi;aa	50
 防酸搪瓷	fh;ef sr;yj th;ft ci;wc	45
 方遂吾愿	fh;wd sv;zu wu;kw yr;xy	4
 防碎心得	fh;ef sv;uz xn;dd de;xc	50
@@ -863276,6 +863476,7 @@ sort: by_weight
 防锈油剂	fh;ef xq;jx yb;dy ji;dq	99
 防锈油漆	fh;ef xq;jx yb;dy qi;dq	171
 防锈油脂	fh;ef xq;jx yb;dy vi;ov	99
+房宿增一	fh;hf xq;bb zg;tc yi;aa	50
 防眩玻璃	fh;ef xr;ox bo;wp li;wl	4
 放玄雷咒	fh;wf xr;wy lz;yt vb;kj	76
 房玄龄妻	fh;hf xr;wy ly;il qi;na	288
@@ -864125,7 +864326,7 @@ sort: by_weight
 非常地细	fz;aa ih;jk de;ty xi;st	220
 非常地像	fz;aa ih;jk de;ty xd;rx	328
 非常地香	fz;aa ih;jk de;ty xd;ho	175
-非常的妖	fz;aa ih;jk de;bu yk;ny	207
+非常地妖	fz;aa ih;jk de;ty yk;ny	207
 非常得意	fz;aa ih;jk dz;xc yi;xy	598
 非常低啊	fz;aa ih;jk di;rd aa;ka	194
 非常抵触	fz;aa ih;jk di;fd iu;ji	598
@@ -869281,7 +869482,6 @@ sort: by_weight
 风号浪吼	fg;ji hk;kk lh;dl hb;kk	144
 风号雨泣	fg;ji hk;kk yu;ad qi;dl	50
 风嗥雨啸	fg;ji hk;kg yu;ad xc;ks	4
-冯河暴虎	fg;dm he;dk bk;ou hu;hj	144
 枫荷除痹	fg;mf he;ch iu;ey bi;bb	50
 丰和大道	fg;aa he;hk da;ad dk;zu	99
 沣河大桥	fg;df he;dk da;ad qc;mq	144
@@ -871440,7 +871640,7 @@ sort: by_weight
 复白佛言	fu;wo bl;pa fo;rf yj;wk	387
 腐败官员	fu;gr bl;wb gr;bg yr;kb	666
 肤白貌美	fu;of bl;pa mk;ve mz;dy	886
-副百日咳	fu;df bl;ab ri;aa hl;kh	130
+副百日咳	fu;df bl;ab ri;aa ke;kh	130
 肤白如雪	fu;of bl;pa ru;nk xt;yx	450
 肤白胜雪	fu;of bl;pa ug;ou xt;yx	423
 服柏实法	fu;oy bl;mb ui;bt fa;dq	45
@@ -871834,6 +872034,7 @@ sort: by_weight
 妇道人家	fu;nx dk;zu rf;pd jw;bu	50
 浮到水面	fu;df dk;dv uv;ad mm;aa	35
 福到万家	fu;uf dk;dv wj;ag jw;bu	279
+浮岛物语	fu;df dk;nu wu;nw yu;yw	6
 福岛县第	fu;uf dk;nu xm;sq di;vp	270
 复道行空	fu;wo dk;zu xy;xi ks;xg	310
 辅导学生	fu;if dk;cs xt;zb ug;na	182
@@ -872705,6 +872906,7 @@ sort: by_weight
 符合中国	fu;vf he;rk vs;aa go;ky	1174
 抚河中路	fu;fw he;dk vs;aa lu;zg	270
 负荷中心	fu;db he;ch vs;aa xn;dd	454
+复合助剂	fu;wo he;rk vu;lq ji;dq	17
 符合主流	fu;vf he;rk vu;dw lq;di	662
 复合转换	fu;wo he;rk vr;iv hr;fh	4
 负荷转移	fu;db he;ch vr;iv yi;hd	338
@@ -875282,6 +875484,7 @@ sort: by_weight
 复星转债	fu;wo xy;ou vr;iv vl;rz	99
 复形锥面	fu;wo xy;pk vv;jv mm;aa	90
 腹型紫癜	fu;of xy;tx zi;sc dm;bd	171
+复兴总署	fu;wo xy;ba zs;xk uu;sv	10
 抚胸摸臀	fu;fw xs;ox mo;fm tp;od	45
 负熊以游	fu;db xs;hn yi;rd yb;dz	144
 腐朽不堪	fu;gr xq;mk bu;ad kj;tu	91
@@ -880519,6 +880722,7 @@ sort: by_weight
 高登西街	gk;wk dg;dd xi;aa jx;xg	4
 高登系数	gk;wk dg;dd xi;ps uu;wl	202
 高等学府	gk;wk dg;vs xt;zb fu;gf	700
+高等学历	gk;wk dg;vs xt;zb li;il	223
 高等学堂	gk;wk dg;vs xt;zb th;tk	639
 高等学校	gk;wk dg;vs xt;zb xc;mj	1240
 高等学院	gk;wk dg;vs xt;zb yr;ew	626
@@ -883136,6 +883340,7 @@ sort: by_weight
 高血压病	gk;wk xt;pa ya;id by;bb	135
 高血压的	gk;wk xt;pa ya;id de;bu	1282
 高血压科	gk;wk xt;pa ya;id ke;hd	374
+高血压日	gk;wk xt;pa ya;id ri;aa	10
 高血压药	gk;wk xt;pa ya;id yk;cy	684
 高血压者	gk;wk xt;pa ya;id ve;ol	572
 高血压症	gk;wk xt;pa ya;id vg;bv	720
@@ -884146,516 +884351,14 @@ sort: by_weight
 个光棍节	ge;ra gd;ea gp;mk jx;ce	490
 各归各位	ge;wk gv;ax ge;wk wz;rl	360
 各归其位	ge;wk gv;ax qi;ba wz;rl	441
-各国癌症	ge;wk go;ky ai;bu vg;bv	50
-各国案件	ge;wk go;ky an;ma jm;rn	45
-各国安葬	ge;wk go;ky an;bn zh;cc	45
-各国芭蕾	ge;wk go;ky ba;cb lz;cl	99
-各国巴士	ge;wk go;ky ba;ag ui;aa	45
-各国半岛	ge;wk go;ky bj;bf dk;nu	45
-各国板球	ge;wk go;ky bj;mf qq;wq	45
-各国绑架	ge;wk go;ky bh;sb jw;mj	50
-各国帮派	ge;wk go;ky bh;jb pl;dp	45
-各国棒球	ge;wk go;ky bh;mf qq;wq	130
-各国暴力	ge;wk go;ky bk;ou li;gp	45
 割过包皮	ge;dh go;zc bk;gs pi;ad	310
-各国报社	ge;wk go;ky bk;fy ue;ut	50
-各国报纸	ge;wk go;ky bk;fy vi;su	171
-各国壁球	ge;wk go;ky bi;tb qq;wq	45
-各国编辑	ge;wk go;ky bm;sb ji;ie	50
-各国编剧	ge;wk go;ky bm;sb ju;dj	45
-各国标志	ge;wk go;ky bc;mu vi;xu	130
-各国别墅	ge;wk go;ky bx;dl uu;ty	45
-各国殡仪	ge;wk go;ky bn;db yi;ry	45
-各国冰河	ge;wk go;ky by;du he;dk	45
-各国冰壶	ge;wk go;ky by;du hu;uy	45
-各国冰球	ge;wk go;ky by;du qq;wq	45
-各国博彩	ge;wk go;ky bo;uc cl;pc	4
-各国伯爵	ge;wk go;ky bo;rb jt;vc	45
-各国步行	ge;wk go;ky bu;vx xy;xi	45
-各国财富	ge;wk go;ky cl;bc fu;bf	202
-各国裁判	ge;wk go;ky cl;yg pj;db	171
-各国残疾	ge;wk go;ky cj;dj ji;bu	45
-各国仓库	ge;wk go;ky ch;re ku;gi	45
-各国朝臣	ge;wk go;ky ik;ou if;aa	45
-各国车站	ge;wk go;ky ie;aa vj;lv	4
-各国沉船	ge;wk go;ky if;dj ir;vk	45
-各国城堡	ge;wk go;ky ig;ti bk;tb	76
-各国城池	ge;wk go;ky ig;ti ii;dy	45
-各国城门	ge;wk go;ky ig;ti mf;dg	45
-各国城墙	ge;wk go;ky ig;ti qd;th	76
-各国称谓	ge;wk go;ky ig;he wz;yw	130
-各国城镇	ge;wk go;ky ig;ti vf;jv	144
-各国冲浪	ge;wk go;ky is;dv lh;dl	180
-各国冲突	ge;wk go;ky is;dv tu;xq	117
-各国丑闻	ge;wk go;ky ib;aa wf;em	45
-各国厨具	ge;wk go;ky iu;ic ju;ba	45
-各国储君	ge;wk go;ky iu;rv jp;ky	4
-各国厨师	ge;wk go;ky iu;ic ui;ab	117
-各国船舰	ge;wk go;ky ir;vk jm;vj	50
-各国传说	ge;wk go;ky ir;rv uo;yd	99
-各国船闸	ge;wk go;ky ir;vk va;mj	45
-各国创新	ge;wk go;ky id;dc xn;jq	171
-各国刺客	ge;wk go;ky ci;dc ke;bg	45
-各国慈善	ge;wk go;ky ci;xz uj;kq	50
-各国村落	ge;wk go;ky cp;mc lo;cl	45
-各国大道	ge;wk go;ky da;ad dk;zu	45
-各国大将	ge;wk go;ky da;ad jd;jc	45
-各国大麻	ge;wk go;ky da;ad ma;gl	45
-各国大区	ge;wk go;ky da;ad qu;ki	45
 各国大使	ge;wk go;ky da;ad ui;rl	526
 各国大选	ge;wk go;ky da;ad xr;zx	117
 各国代表	ge;wk go;ky dl;ry bc;fy	680
-各国导弹	ge;wk go;ky dk;cs dj;gd	212
-各国道教	ge;wk go;ky dk;zu jc;wx	50
-各国道路	ge;wk go;ky dk;zu lu;zg	144
-各国导演	ge;wk go;ky dk;cs yj;dy	130
-各国岛屿	ge;wk go;ky dk;nu yu;uy	76
-各国的门	ge;wk go;ky de;bu mf;dg	76
-各国灯塔	ge;wk go;ky dg;hd ta;td	45
-各国地点	ge;wk go;ky di;ty dm;hv	45
-各国地名	ge;wk go;ky di;ty my;xk	76
-各国敌台	ge;wk go;ky di;wu tl;sk	45
-各国地铁	ge;wk go;ky di;ty tx;ju	180
-各国地形	ge;wk go;ky di;ty xy;pk	4
-各国地质	ge;wk go;ky di;ty vi;bu	76
-各国地主	ge;wk go;ky di;ty vu;dw	50
-各国电台	ge;wk go;ky dm;ag tl;sk	117
-各国电信	ge;wk go;ky dm;ag xn;ry	171
-各国雕塑	ge;wk go;ky dc;vv su;to	4
-各国谍报	ge;wk go;ky dx;ym bk;fy	153
-各国动画	ge;wk go;ky ds;ly hw;ak	144
-各国冬季	ge;wk go;ky ds;wd ji;hz	50
-各国动物	ge;wk go;ky ds;ly wu;nw	207
-各国洞穴	ge;wk go;ky ds;dt xt;bb	4
-各国赌场	ge;wk go;ky du;bv ih;ty	117
-各国渡轮	ge;wk go;ky du;dd lp;il	45
-各国短片	ge;wk go;ky dr;ud pm;pa	45
-各国堕胎	ge;wk go;ky do;td tl;ot	76
-各国儿歌	ge;wk go;ky er;pg ge;qg	4
-各国法典	ge;wk go;ky fa;dq dm;ba	45
-各国法官	ge;wk go;ky fa;dq gr;bg	130
-各国发明	ge;wk go;ky fa;ay my;oo	4
-各国法人	ge;wk go;ky fa;dq rf;pd	45
-各国帆船	ge;wk go;ky fj;jf ir;vk	76
-各国翻译	ge;wk go;ky fj;yf yi;yf	189
-各国房屋	ge;wk go;ky fh;hf wu;uv	4
-各国废除	ge;wk go;ky fz;gf iu;ey	117
-各国废墟	ge;wk go;ky fz;gf xu;tx	45
-各国坟场	ge;wk go;ky ff;tw ih;ty	45
-各国分类	ge;wk go;ky ff;bd lz;md	76
-各国风车	ge;wk go;ky fg;ji ie;aa	4
-各国讽刺	ge;wk go;ky fg;yf ci;dc	45
-各国福利	ge;wk go;ky fu;uf li;hd	76
-各国服装	ge;wk go;ky fu;oy vd;yv	130
-各国钢桥	ge;wk go;ky gh;jg qc;mq	45
-各国高原	ge;wk go;ky gk;wk yr;ix	45
-各过各的	ge;wk go;zc ge;wk de;bu	166
-各国歌剧	ge;wk go;ky ge;qg ju;dj	76
-各国歌曲	ge;wk go;ky ge;qg qu;aa	162
-各国阁员	ge;wk go;ky ge;mg yr;kb	45
-各国工厂	ge;wk go;ky gs;aa ih;ap	76
-各国宫殿	ge;wk go;ky gs;bl dm;ug	4
-各国公法	ge;wk go;ky gs;sb fa;dq	45
-各国工会	ge;wk go;ky gs;aa hv;ry	162
-各国公爵	ge;wk go;ky gs;sb jt;vc	4
-各国公路	ge;wk go;ky gs;sb lu;zg	153
-各国拱桥	ge;wk go;ky gs;fg qc;mq	45
-各国供水	ge;wk go;ky gs;rg uv;ad	4
-各国工艺	ge;wk go;ky gs;aa yi;cy	45
-各国谷地	ge;wk go;ky gu;bk di;ty	45
-各国鼓手	ge;wk go;ky gu;vd ub;pa	45
-各国谷物	ge;wk go;ky gu;bk wu;nw	50
-各国官邸	ge;wk go;ky gr;bg di;ed	45
-各国管线	ge;wk go;ky gr;vg xm;sj	45
-各国官职	ge;wk go;ky gr;bg vi;ev	45
-各国广播	ge;wk go;ky gd;dp bo;ff	117
-各国广场	ge;wk go;ky gd;dp ih;ty	45
-各国广告	ge;wk go;ky gd;dp gk;kn	50
-各国轨距	ge;wk go;ky gv;ij ju;zj	76
-各国鬼片	ge;wk go;ky gv;pd pm;pa	45
-各国鬼镇	ge;wk go;ky gv;pd vf;jv	45
-各国规制	ge;wk go;ky gv;fj vi;dg	45
-各国国旗	ge;wk go;ky go;ky qi;fq	486
-各国国葬	ge;wk go;ky go;ky zh;cc	4
-各国海岸	ge;wk go;ky hl;dm an;ug	153
-各国海盗	ge;wk go;ky hl;dm dk;mc	99
-各国海岬	ge;wk go;ky hl;dm jw;uj	45
-各国海滩	ge;wk go;ky hl;dm tj;dn	76
-各国海湾	ge;wk go;ky hl;dm wj;dw	45
-各国海峡	ge;wk go;ky hl;dm xw;uj	45
-各国海啸	ge;wk go;ky hl;dm xc;ks	45
-各国海域	ge;wk go;ky hl;dm yu;th	76
-各国海员	ge;wk go;ky hl;dm yr;kb	76
-各国海战	ge;wk go;ky hl;dm vj;gv	45
-各国汉语	ge;wk go;ky hj;dy yu;yw	99
-各国航海	ge;wk go;ky hh;vk hl;dm	153
-各国航空	ge;wk go;ky hh;vk ks;xg	400
-各国航运	ge;wk go;ky hh;vk yp;zy	4
-各国河谷	ge;wk go;ky he;dk gu;bk	45
-各国河流	ge;wk go;ky he;dk lq;di	4
-各国合球	ge;wk go;ky he;rk qq;wq	45
-各国和约	ge;wk go;ky he;hk yt;su	153
-各国黑帮	ge;wk go;ky hz;ha bh;jb	50
-各国红会	ge;wk go;ky hs;sg hv;ry	194
-各国湖岛	ge;wk go;ky hu;dh dk;nu	45
-各国蝴蝶	ge;wk go;ky hu;ih dx;im	45
-各国护理	ge;wk go;ky hu;fh li;wl	117
-各国湖泊	ge;wk go;ky hu;dh po;db	4
-各国护士	ge;wk go;ky hu;fh ui;aa	99
-各国滑冰	ge;wk go;ky hw;dg by;du	4
-各国画家	ge;wk go;ky hw;ak jw;bu	4
-各国话剧	ge;wk go;ky hw;yu ju;dj	45
-各国华侨	ge;wk go;ky hw;uh qc;rq	212
-各国化石	ge;wk go;ky hw;rb ui;kp	4
-各国滑雪	ge;wk go;ky hw;dg xt;yx	50
-各国画作	ge;wk go;ky hw;ak zo;rv	4
-各国环礁	ge;wk go;ky hr;wb jc;uj	45
-各国荒岛	ge;wk go;ky hd;ci dk;nu	45
-各国皇陵	ge;wk go;ky hd;bw ly;el	45
-各国绘本	ge;wk go;ky hv;sh bf;aa	76
-各国绘画	ge;wk go;ky hv;sh hw;ak	50
-各国会议	ge;wk go;ky hv;ry yi;yy	50
-各国婚姻	ge;wk go;ky hp;nh yn;ny	99
-各国火箭	ge;wk go;ky ho;dd jm;vq	162
-各国火炮	ge;wk go;ky ho;dd pk;hb	4
-各国火山	ge;wk go;ky ho;dd uj;aa	45
-各国火灾	ge;wk go;ky ho;dd zl;bh	50
-各国饥荒	ge;wk go;ky ji;uj hd;ci	45
-各国击剑	ge;wk go;ky ji;fk jm;da	45
-各国季刊	ge;wk go;ky ji;hz kj;dg	45
-各国纪念	ge;wk go;ky ji;sj nm;xj	130
-各国妓女	ge;wk go;ky ji;nv nv;aa	45
-各国机枪	ge;wk go;ky ji;mj qd;mc	50
-各国家族	ge;wk go;ky jw;bu zu;fu	50
-各国健康	ge;wk go;ky jm;rj kh;gl	171
-各国建设	ge;wk go;ky jm;zy ue;yu	171
-各国监狱	ge;wk go;ky jm;mv yu;qq	50
-各国将军	ge;wk go;ky jd;jc jp;bi	50
-各国奖励	ge;wk go;ky jd;dx li;ll	76
-各国匠人	ge;wk go;ky jd;kj rf;pd	45
-各国奖项	ge;wk go;ky jd;dx xd;gy	45
-各国酱汁	ge;wk go;ky jd;yx vi;du	45
-各国教练	ge;wk go;ky jc;wx lm;sd	130
-各国郊区	ge;wk go;ky jc;ej qu;ki	45
-各国教师	ge;wk go;ky jc;wx ui;ab	144
-各国教堂	ge;wk go;ky jc;wx th;tk	99
-各国教学	ge;wk go;ky jc;wx xt;zb	50
-各国教宗	ge;wk go;ky jc;wx zs;bu	90
-各国街道	ge;wk go;ky jx;xg dk;zu	45
-各国街区	ge;wk go;ky jx;xg qu;ki	45
-各国禁作	ge;wk go;ky jn;ul zo;rv	90
-各国警官	ge;wk go;ky jy;yj gr;bg	45
-各国经济	ge;wk go;ky jy;sg ji;dq	160
-各国竞赛	ge;wk go;ky jy;lx sl;bb	45
-各国酒吧	ge;wk go;ky jq;dy ba;kb	45
-各国酒店	ge;wk go;ky jq;dy dm;gv	117
-各国酒精	ge;wk go;ky jq;dy jy;mq	4
-各国就业	ge;wk go;ky jq;yj ye;aa	194
-各国酒庄	ge;wk go;ky jq;dy vd;gt	4
-各国剧集	ge;wk go;ky ju;dj ji;vm	4
-各国剧团	ge;wk go;ky ju;dj tr;kc	45
-各国剧院	ge;wk go;ky ju;dj yr;ew	76
-各国举重	ge;wk go;ky ju;df vs;pa	4
-各国爵位	ge;wk go;ky jt;vc wz;rl	45
-各国军官	ge;wk go;ky jp;bi gr;bg	144
-各国军阶	ge;wk go;ky jp;bi jx;ej	45
-各国郡县	ge;wk go;ky jp;ej xm;sq	4
-各国军医	ge;wk go;ky jp;bi yi;ku	4
-各国客船	ge;wk go;ky ke;bg ir;vk	45
-各国科幻	ge;wk go;ky ke;hd hr;yg	4
-各国科举	ge;wk go;ky ke;hd ju;df	90
-各国酷刑	ge;wk go;ky ku;yg xy;dk	45
-各国会计	ge;wk go;ky ky;ry ji;yu	117
-各国矿场	ge;wk go;ky kd;ug ih;ty	45
-各国矿工	ge;wk go;ky kd;ug gs;aa	4
-各国矿难	ge;wk go;ky kd;ug nj;vy	4
-各国矿业	ge;wk go;ky kd;ug ye;aa	99
-各国昆虫	ge;wk go;ky kp;ob is;ad	45
-各国拉比	ge;wk go;ky la;fl bi;bb	45
-各国篮球	ge;wk go;ky lj;vj qq;wq	50
-各国劳工	ge;wk go;ky lk;lb gs;aa	153
-各国垒球	ge;wk go;ky lz;tl qq;wq	45
-各国历法	ge;wk go;ky li;il fa;dq	117
-各国离婚	ge;wk go;ky li;ws hp;nh	50
-各国猎人	ge;wk go;ky lx;qx rf;pd	4
-各国林业	ge;wk go;ky ln;mm ye;aa	4
-各国流域	ge;wk go;ky lq;di yu;th	45
-各国绿党	ge;wk go;ky lv;sl dh;ek	117
-各国旅馆	ge;wk go;ky lv;fp gr;ug	45
-各国律师	ge;wk go;ky lv;xy ui;ab	50
-各国马场	ge;wk go;ky ma;aa ih;ty	45
-各国马匹	ge;wk go;ky ma;aa pi;ke	4
-各国马术	ge;wk go;ky ma;aa uu;md	4
-各国码头	ge;wk go;ky ma;um tb;dd	4
-各国漫画	ge;wk go;ky mj;dm hw;ak	99
-各国盲人	ge;wk go;ky mh;ow rf;pd	45
-各国煤矿	ge;wk go;ky mz;hm kd;ug	45
-各国美食	ge;wk go;ky mz;dy ui;rl	590
-各国美术	ge;wk go;ky mz;dy uu;md	117
-各国煤炭	ge;wk go;ky mz;hm tj;uh	4
-各国面包	ge;wk go;ky mm;aa bk;gs	76
-各国庙宇	ge;wk go;ky mc;gy yu;by	45
-各国民俗	ge;wk go;ky mn;ag su;rg	153
-各国民谣	ge;wk go;ky mn;ag yk;yf	144
-各国命案	ge;wk go;ky my;re an;ma	45
-各国名目	ge;wk go;ky my;xk mu;aa	4
-各国默片	ge;wk go;ky mo;hq pm;pa	45
-各国模板	ge;wk go;ky mu;mm bj;mf	45
-各国木桥	ge;wk go;ky mu;ad qc;mq	45
-各国牧师	ge;wk go;ky mu;nw ui;ab	45
-各国墓葬	ge;wk go;ky mu;tm zh;cc	45
-各国奶酪	ge;wk go;ky nl;nn lk;yg	45
-各国男妓	ge;wk go;ky nj;tl ji;nv	45
-各国男爵	ge;wk go;ky nj;tl jt;vc	45
-各国难民	ge;wk go;ky nj;vy mn;ag	230
-各国内阁	ge;wk go;ky nz;ad ge;mg	50
-各国内湾	ge;wk go;ky nz;ad wj;dw	45
-各国内战	ge;wk go;ky nz;ad vj;gv	117
-各国年表	ge;wk go;ky nm;ra bc;fy	45
-各国鸟类	ge;wk go;ky nc;pa lz;md	45
-各国农村	ge;wk go;ky ns;by cp;mc	4
-各国农民	ge;wk go;ky ns;by mn;ag	50
-各国浓汤	ge;wk go;ky ns;dn th;dy	45
-各国农学	ge;wk go;ky ns;by xt;zb	45
-各国奴隶	ge;wk go;ky nu;ny li;ad	45
-各国女官	ge;wk go;ky nv;aa gr;bg	45
-各国女人	ge;wk go;ky nv;aa rf;pd	99
-各国排球	ge;wk go;ky pl;ff qq;wq	50
-各国攀登	ge;wk go;ky pj;ud dg;dd	4
-各国叛乱	ge;wk go;ky pj;fb lr;ug	4
-各国跑步	ge;wk go;ky pk;zb bu;vx	45
-各国盆地	ge;wk go;ky pf;mf di;ty	45
-各国喷泉	ge;wk go;ky pf;kb qr;ub	45
-各国骗局	ge;wk go;ky pm;mb ju;uk	45
-各国贫困	ge;wk go;ky pn;bf kp;km	130
-各国平原	ge;wk go;ky py;aa yr;ix	45
-各国迫害	ge;wk go;ky po;zb hl;bk	4
-各国瀑布	ge;wk go;ky pu;db bu;ju	45
-各国奇幻	ge;wk go;ky qi;dk hr;yg	45
-各国骑士	ge;wk go;ky qi;mq ui;aa	76
-各国旗帜	ge;wk go;ky qi;fq vi;jv	144
-各国潜艇	ge;wk go;ky qm;dt ty;vt	130
-各国抢匪	ge;wk go;ky qd;fc fz;kf	45
-各国桥梁	ge;wk go;ky qc;mq ld;md	45
-各国轻轨	ge;wk go;ky qy;ig gv;ij	45
-各国丘陵	ge;wk go;ky qq;pa ly;el	45
-各国拳击	ge;wk go;ky qr;uf ji;fk	117
-各国群岛	ge;wk go;ky qp;yj dk;nu	45
-各国人祸	ge;wk go;ky rf;pd ho;ug	45
 各国人民	ge;wk go;ky rf;pd mn;ag	261
-各国人瑞	ge;wk go;ky rf;pd rv;we	45
-各国人物	ge;wk go;ky rf;pd wu;nw	76
-各国日报	ge;wk go;ky ri;aa bk;fy	45
-各国日食	ge;wk go;ky ri;aa ui;rl	4
-各国柔道	ge;wk go;ky rb;mm dk;zu	45
-各国赛车	ge;wk go;ky sl;bb ie;aa	99
-各国赛马	ge;wk go;ky sl;bb ma;aa	45
-各国森林	ge;wk go;ky sf;ml ln;mm	117
-各国僧侣	ge;wk go;ky sg;rc lv;rl	4
-各国僧院	ge;wk go;ky sg;rc yr;ew	45
-各国沙咀	ge;wk go;ky ua;du ju;kq	45
-各国沙漠	ge;wk go;ky ua;du mo;dm	76
-各国沙滩	ge;wk go;ky ua;du tj;dn	45
-各国山崩	ge;wk go;ky uj;aa bg;up	45
-各国山峰	ge;wk go;ky uj;aa fg;uf	45
-各国山口	ge;wk go;ky uj;aa kb;aa	45
-各国山脉	ge;wk go;ky uj;aa ml;oy	45
-各国商场	ge;wk go;ky uh;wk ih;ty	45
-各国商船	ge;wk go;ky uh;wk ir;vk	315
-各国商店	ge;wk go;ky uh;wk dm;gv	99
-各国商法	ge;wk go;ky uh;wk fa;dq	4
-各国上校	ge;wk go;ky uh;aa xc;mj	45
-各国少将	ge;wk go;ky uk;xp jd;jc	45
-各国少校	ge;wk go;ky uk;xp xc;mj	45
-各国射箭	ge;wk go;ky ue;cu jm;vq	45
-各国社区	ge;wk go;ky ue;ut qu;ki	76
-各国摄影	ge;wk go;ky ue;fn yy;pj	266
-各国神道	ge;wk go;ky uf;uu dk;zu	45
-各国神话	ge;wk go;ky uf;uu hw;yu	324
-各国神社	ge;wk go;ky uf;uu ue;ut	45
-各国省份	ge;wk go;ky ug;ou ff;rf	45
-各国圣人	ge;wk go;ky ug;ty rf;pd	4
-各国圣山	ge;wk go;ky ug;ty uj;aa	45
-各国生态	ge;wk go;ky ug;na tl;xt	130
-各国生物	ge;wk go;ky ug;na wu;nw	144
-各国湿地	ge;wk go;ky ui;dx di;ty	45
-各国石雕	ge;wk go;ky ui;kp dc;vv	45
-各国诗歌	ge;wk go;ky ui;ys ge;qg	50
-各国事故	ge;wk go;ky ui;aa gu;wg	4
-各国诗集	ge;wk go;ky ui;ys ji;vm	45
-各国事件	ge;wk go;ky ui;aa jm;rn	144
-各国时间	ge;wk go;ky ui;oc jm;mo	38
-各国使节	ge;wk go;ky ui;rl jx;ce	454
-各国石刻	ge;wk go;ky ui;kp ke;dh	45
-各国市旗	ge;wk go;ky ui;wj qi;fq	45
-各国石桥	ge;wk go;ky ui;kp qc;mq	45
-各国市区	ge;wk go;ky ui;wj qu;ki	45
-各国诗人	ge;wk go;ky ui;ys rf;pd	144
-各国失业	ge;wk go;ky ui;pf ye;aa	248
-各国市长	ge;wk go;ky ui;wj vh;pd	4
-各国使者	ge;wk go;ky ui;rl ve;ol	333
-各国实质	ge;wk go;ky ui;bt vi;bu	153
-各国时钟	ge;wk go;ky ui;oc vs;jv	45
-各国氏族	ge;wk go;ky ui;pg zu;fu	45
-各国手球	ge;wk go;ky ub;pa qq;wq	45
-各国书店	ge;wk go;ky uu;ad dm;gv	4
-各国书籍	ge;wk go;ky uu;ad ji;vx	99
-各国枢机	ge;wk go;ky uu;mq ji;mj	38
-各国树木	ge;wk go;ky uu;md mu;ad	45
-各国书商	ge;wk go;ky uu;ad uh;wk	45
-各国数学	ge;wk go;ky uu;wl xt;zb	162
-各国术语	ge;wk go;ky uu;md yu;yw	45
-各国书展	ge;wk go;ky uu;ad vj;uy	45
-各国水坝	ge;wk go;ky uv;ad ba;tb	45
-各国水库	ge;wk go;ky uv;ad ku;gi	45
-各国水路	ge;wk go;ky uv;ad lu;zg	50
-各国水球	ge;wk go;ky uv;ad qq;wq	45
-各国水渠	ge;wk go;ky uv;ad qu;mj	45
-各国水塔	ge;wk go;ky uv;ad ta;td	45
-各国水体	ge;wk go;ky uv;ad ti;rb	45
-各国水务	ge;wk go;ky uv;ad wu;wl	212
-各国税务	ge;wk go;ky uv;hd wu;wl	38
-各国水系	ge;wk go;ky uv;ad xi;ps	45
-各国水灾	ge;wk go;ky uv;ad zl;bh	45
-各国思想	ge;wk go;ky si;xt xd;xx	180
-各国塑像	ge;wk go;ky su;to xd;rx	45
-各国隧道	ge;wk go;ky sv;es dk;zu	76
-各国台屋	ge;wk go;ky tl;sk wu;uv	90
-各国陶器	ge;wk go;ky tk;et qi;kk	45
-各国体操	ge;wk go;ky ti;rb ck;fz	50
-各国踢拳	ge;wk go;ky ti;zy qr;uf	45
-各国提议	ge;wk go;ky ti;fu yi;yy	99
-各国甜点	ge;wk go;ky tm;ug dm;hv	4
-各国田径	ge;wk go;ky tm;aa jy;xg	130
-各国甜食	ge;wk go;ky tm;ug ui;rl	45
-各国跳水	ge;wk go;ky tc;zv uv;ad	4
-各国条约	ge;wk go;ky tc;wm yt;su	153
-各国停电	ge;wk go;ky ty;rt dm;ag	45
-各国铜矿	ge;wk go;ky ts;jt kd;ug	4
-各国童年	ge;wk go;ky ts;ll nm;ra	45
-各国童书	ge;wk go;ky ts;ll uu;ad	4
-各国通讯	ge;wk go;ky ts;zy xp;yu	144
-各国头衔	ge;wk go;ky tb;dd xm;xj	4
-各国推想	ge;wk go;ky tv;fv xd;xx	45
-各国洼地	ge;wk go;ky wa;dg di;ty	45
-各国王朝	ge;wk go;ky wh;aa ik;ou	76
-各国王爵	ge;wk go;ky wh;aa jt;vc	45
-各国网球	ge;wk go;ky wh;ki qq;wq	76
-各国王室	ge;wk go;ky wh;aa ui;bv	382
-各国网站	ge;wk go;ky wh;ki vj;lv	99
-各国围棋	ge;wk go;ky wz;kw qi;mq	153
-各国文件	ge;wk go;ky wf;wi jm;rn	45
-各国温室	ge;wk go;ky wf;dm ui;bv	180
-各国文献	ge;wk go;ky wf;wi xm;qn	130
-各国纹章	ge;wk go;ky wf;sw vh;lz	45
-各国舞蹈	ge;wk go;ky wu;rf dk;zj	76
-各国舞曲	ge;wk go;ky wu;rf qu;aa	45
-各国舞团	ge;wk go;ky wu;rf tr;kc	45
-各国舞者	ge;wk go;ky wu;rf ve;ol	4
-各国嘻哈	ge;wk go;ky xi;kx ha;kh	45
-各国潟湖	ge;wk go;ky xi;dh hu;dh	45
-各国喜剧	ge;wk go;ky xi;uk ju;dj	76
-各国戏剧	ge;wk go;ky xi;yg ju;dj	65
-各国洗钱	ge;wk go;ky xi;dx qm;jj	45
-各国峡谷	ge;wk go;ky xw;uj gu;bk	45
-各国辖区	ge;wk go;ky xw;ih qu;ki	45
-各国峡湾	ge;wk go;ky xw;uj wj;dw	45
-各国宪兵	ge;wk go;ky xm;bx by;qb	76
-各国祆教	ge;wk go;ky xm;ut jc;wx	45
 各国象征	ge;wk go;ky xd;du vg;xv	45
-各国小吃	ge;wk go;ky xc;ad ii;kq	153
-各国消防	ge;wk go;ky xc;dx fh;ef	50
-各国校官	ge;wk go;ky xc;mj gr;bg	45
-各国小说	ge;wk go;ky xc;ad uo;yd	99
-各国小学	ge;wk go;ky xc;ad xt;zb	144
-各国协会	ge;wk go;ky xx;ub hv;ry	194
-各国新教	ge;wk go;ky xn;jq jc;wx	50
-各国性别	ge;wk go;ky xy;xu bx;dl	50
-各国刑场	ge;wk go;ky xy;dk ih;ty	45
-各国刑法	ge;wk go;ky xy;dk fa;dq	220
-各国行政	ge;wk go;ky xy;xi vg;wv	230
-各国修女	ge;wk go;ky xq;rp nv;aa	45
-各国修士	ge;wk go;ky xq;rp ui;aa	45
-各国休闲	ge;wk go;ky xq;rm xm;mm	4
-各国虚构	ge;wk go;ky xu;hy gb;mg	45
-各国选举	ge;wk go;ky xr;zx ju;df	189
-各国选区	ge;wk go;ky xr;zx qu;ki	45
-各国悬崖	ge;wk go;ky xr;xx ya;uy	45
-各国宣言	ge;wk go;ky xr;bg yj;wk	4
-各国雪车	ge;wk go;ky xt;yx ie;aa	45
-各国学会	ge;wk go;ky xt;zb hv;ry	45
-各国勋章	ge;wk go;ky xp;ly vh;lz	50
-各国烟草	ge;wk go;ky yj;hy ck;cz	76
-各国岩层	ge;wk go;ky yj;uu cg;uy	45
-各国演员	ge;wk go;ky yj;dy yr;kb	50
-各国央行	ge;wk go;ky yh;ad hh;xi	550
-各国药局	ge;wk go;ky yk;cy ju;uk	45
-各国要塞	ge;wk go;ky yk;xn sl;tb	45
-各国药物	ge;wk go;ky yk;cy wu;nw	4
-各国艺人	ge;wk go;ky yi;cy rf;pd	162
-各国医生	ge;wk go;ky yi;ku ug;na	171
-各国仪式	ge;wk go;ky yi;ry ui;gy	4
-各国议员	ge;wk go;ky yi;yy yr;kb	130
-各国议长	ge;wk go;ky yi;yy vh;pd	45
-各国引渡	ge;wk go;ky yn;ga du;dd	45
-各国饮料	ge;wk go;ky yn;uq lc;md	45
-各国邮轮	ge;wk go;ky yb;ey lp;il	45
-各国幽默	ge;wk go;ky yb;uy mo;hq	45
 各国邮票	ge;wk go;ky yb;ey pc;xu	162
-各国友人	ge;wk go;ky yb;yu rf;pd	392
-各国油田	ge;wk go;ky yb;dy tm;aa	4
-各国游行	ge;wk go;ky yb;dz xy;xi	45
-各国游泳	ge;wk go;ky yb;dz ys;dy	99
-各国预防	ge;wk go;ky yu;yy fh;ef	50
-各国娱乐	ge;wk go;ky yu;nw le;pd	432
-各国鱼类	ge;wk go;ky yu;da lz;md	45
-各国渔业	ge;wk go;ky yu;dy ye;aa	153
-各国元旦	ge;wk go;ky yr;aw dj;oa	171
-各国园林	ge;wk go;ky yr;ky ln;mm	162
-各国元帅	ge;wk go;ky yr;aw uy;aj	4
-各国园艺	ge;wk go;ky yr;ky yi;cy	4
-各国月刊	ge;wk go;ky yt;pa kj;dg	45
-各国乐器	ge;wk go;ky yt;pd qi;kk	45
-各国乐团	ge;wk go;ky yt;pd tr;kc	4
-各国运动	ge;wk go;ky yp;zy ds;ly	549
-各国运河	ge;wk go;ky yp;zy he;dk	45
-各国杂志	ge;wk go;ky za;jm vi;xu	99
-各国灾难	ge;wk go;ky zl;bh nj;vy	45
-各国葬礼	ge;wk go;ky zh;cc li;ug	4
-各国造园	ge;wk go;ky zk;zg yr;ky	45
-各国战俘	ge;wk go;ky vj;gv fu;rf	130
-各国展览	ge;wk go;ky vj;uy lj;jv	117
-各国占屋	ge;wk go;ky vj;bk wu;uv	45
-各国战役	ge;wk go;ky vj;gv yi;xu	50
-各国沼泽	ge;wk go;ky vk;dv ze;df	45
-各国真菌	ge;wk go;ky vf;uj jp;ch	45
-各国政变	ge;wk go;ky vg;wv bm;wy	45
-各国政党	ge;wk go;ky vg;wv dh;ek	306
-各国政府	ge;wk go;ky vg;wv fu;gf	1146
-各国证件	ge;wk go;ky vg;yv jm;rn	45
-各国争相	ge;wk go;ky vg;dy xd;mo	423
-各国争议	ge;wk go;ky vg;dy yi;yy	180
 各国之间	ge;wk go;ky vi;dd jm;mo	1120
-各国植物	ge;wk go;ky vi;mv wu;nw	130
-各国蜘蛛	ge;wk go;ky vi;iv vu;iv	45
-各国中立	ge;wk go;ky vs;aa li;da	4
-各国钟楼	ge;wk go;ky vs;jv lb;ml	45
-各国中校	ge;wk go;ky vs;aa xc;mj	45
-各国州份	ge;wk go;ky vb;id ff;rf	45
-各国主教	ge;wk go;ky vu;dw jc;wx	117
-各国住宅	ge;wk go;ky vu;rv vl;bq	99
-各国传记	ge;wk go;ky vr;rv ji;yj	45
-各国专题	ge;wk go;ky vr;ad ti;uy	45
-各国撞球	ge;wk go;ky vd;ft qq;wq	45
-各国子爵	ge;wk go;ky zi;aa jt;vc	45
-各国自杀	ge;wk go;ky zi;pa ua;mi	243
-各国自传	ge;wk go;ky zi;pa vr;rv	90
-各国总理	ge;wk go;ky zs;xk li;wl	153
-各国族群	ge;wk go;ky zu;fu qp;yj	45
-各国罪案	ge;wk go;ky zv;sf an;ma	45
-各国罪犯	ge;wk go;ky zv;sf fj;qe	4
-各国尊称	ge;wk go;ky zp;cq ig;he	45
-各国作品	ge;wk go;ky zo;rv pn;kk	117
 鸽海成路	ge;nh hl;dm ig;gg lu;zg	171
 格海碱茅	ge;mg hl;dm jm;ux mk;cm	76
 隔海相望	ge;eg hl;dm xd;mo wh;wo	267
@@ -890319,6 +890022,8 @@ sort: by_weight
 公开公正	gs;sb kl;ac gs;sb vg;av	814
 公开喊话	gs;sb kl;ac hj;kx hw;yu	346
 公开喊价	gs;sb kl;ac hj;kx jw;rj	324
+公开行程	gs;sb kl;ac hh;xi ig;hi	16
+公开行为	gs;sb kl;ac hh;xi wz;dd	274
 公开呼吁	gs;sb kl;ac hu;kh yu;ky	50
 公开回应	gs;sb kl;ac hv;kk yy;ga	734
 公开活动	gs;sb kl;ac ho;du ds;ly	819
@@ -890373,9 +890078,7 @@ sort: by_weight
 公开消息	gs;sb kl;ac xc;dx xi;xz	567
 公开信息	gs;sb kl;ac xn;ry xi;xz	1071
 公开信中	gs;sb kl;ac xn;ry vs;aa	716
-公开行程	gs;sb kl;ac xy;xi ig;hi	16
 公开形式	gs;sb kl;ac xy;pk ui;gy	428
-公开行为	gs;sb kl;ac xy;xi wz;dd	274
 公开选拔	gs;sb kl;ac xr;zx ba;fb	22
 公开宣布	gs;sb kl;ac xr;bg bu;ju	276
 公开宣称	gs;sb kl;ac xr;bg ig;he	264
@@ -895128,6 +894831,7 @@ sort: by_weight
 估计不足	gu;rg ji;yu bu;ad zu;kv	220
 古籍残页	gu;uk ji;vx cj;dj ye;ab	99
 故技重施	gu;wg ji;fv is;pa ui;fy	752
+故伎重演	gu;wg ji;rv is;pa yj;dy	616
 故技重演	gu;wg ji;fv is;pa yj;dy	69
 孤寂的心	gu;zg ji;bu de;bu xn;dd	428
 古籍典故	gu;uk ji;vx dm;ba gu;wg	76
@@ -895178,7 +894882,6 @@ sort: by_weight
 孤寂之人	gu;zg ji;bu vi;dd rf;pd	4
 古迹之一	gu;uk ji;zy vi;dd yi;aa	716
 古迹众多	gu;uk ji;zy vs;rc do;xx	652
-故伎重演	gu;wg ji;rv vs;pa yj;dy	616
 顾家百货	gu;ye jw;bu bl;ab ho;bh	99
 股价暴跌	gu;ou jw;rj bk;ou dx;zu	742
 估价报告	gu;rg jw;rj bk;fy gk;kn	436
@@ -899618,6 +899321,7 @@ sort: by_weight
 广大妇女	gd;dp da;ad fu;nx nv;aa	616
 广大干部	gd;dp da;ad gj;aa bu;ek	19
 广大干警	gd;dp da;ad gj;aa jy;yj	441
+广大干群	gd;dp da;ad gj;aa qp;yj	223
 光大公司	gd;ea da;ad gs;sb si;gk	266
 广大公司	gd;dp da;ad gs;sb si;gk	190
 广大官兵	gd;dp da;ad gr;bg by;qb	644
@@ -900637,7 +900341,6 @@ sort: by_weight
 光小夜曲	gd;ea xc;ad ye;wd qu;aa	324
 光谐振器	gd;ea xx;yj vf;fi qi;kk	45
 广新控股	gd;dp xn;jq ks;fk gu;ou	279
-广信事件	gd;dp xn;ry ui;aa jm;rn	50
 广新信息	gd;dp xn;jq xn;ry xi;xz	130
 光星电子	gd;ea xy;ou dm;ag zi;aa	117
 光性方位	gd;ea xy;xu fh;wd wz;rl	4
@@ -901502,6 +901205,7 @@ sort: by_weight
 龟灵冰晶	gv;dd ly;hx by;du jy;oo	144
 鬼灵法裤	gv;pd ly;hx fa;dq ku;yk	99
 龟苓膏粉	gv;dd ly;cl gk;og ff;mf	333
+龟龄集酒	gv;dd ly;il ji;vm jq;dy	65
 鬼灵精怪	gv;pd ly;hx jy;mq gy;xu	544
 鬼灵精华	gv;pd ly;hx jy;mq hw;uh	261
 龟灵圣母	gv;dd ly;hx ug;ty mu;vd	266
@@ -906075,6 +905779,7 @@ sort: by_weight
 海的这边	hl;dm de;bu ve;zw bm;zl	52
 害的植物	hl;bk de;bu vi;mv wu;nw	356
 海的主人	hl;dm de;bu vu;dw rf;pd	238
+还得重做	hl;zb dz;xc is;pa zo;rg	433
 还得加钱	hl;zb dz;xc jw;lk qm;jj	414
 还得交租	hl;zb dz;xc jc;li zu;hq	50
 还得靠我	hl;zb dz;xc kk;fg wo;pd	423
@@ -909355,6 +909060,7 @@ sort: by_weight
 含锰砂岩	hj;rk mg;jm ua;uu yj;uu	45
 含锰铁矿	hj;rk mg;jm tx;ju kd;ug	4
 汉蒙维藏	hj;dy mg;cm wz;sv ch;cz	99
+汉密尔顿	hj;dy mi;ub er;dx dp;yt	223
 旱苗得雨	hj;og mc;ct de;xc yu;ad	144
 汉明奖章	hj;dy my;oo jd;dx vh;lz	225
 汉明距离	hj;dy my;oo ju;zj li;ws	35
@@ -910105,6 +909811,7 @@ sort: by_weight
 航海医院	hh;vk hl;dm yi;ku yr;ew	4
 航海用语	hh;vk hl;dm ys;kf yu;yw	117
 航海知识	hh;vk hl;dm vi;ku ui;yv	428
+行行如也	hh;xi hh;xi ru;nk ye;gg	117
 行话解释	hh;xi hw;yu jx;jn ui;pf	50
 杭华油墨	hh;mk hw;uh yb;dy mo;th	99
 杭黄高铁	hh;mk hd;cb gk;wk tx;ju	423
@@ -914737,7 +914444,6 @@ sort: by_weight
 和田清香	he;hk tm;aa qy;dq xd;ho	76
 和田青玉	he;hk tm;aa qy;of yu;wd	324
 贺田尚城	he;bj tm;aa uh;xk ig;ti	117
-和田事件	he;hk tm;aa ui;aa jm;rn	153
 和田县人	he;hk tm;aa xm;sq rf;pd	162
 和田玉产	he;hk tm;aa yu;wd ij;wi	342
 和田玉雕	he;hk tm;aa yu;wd dc;vv	369
@@ -914977,6 +914683,7 @@ sort: by_weight
 和谐人士	he;hk xx;yj rf;pd ui;aa	50
 褐斜闪石	he;yh xx;dy uj;mr ui;kp	45
 和谐社会	he;hk xx;yj ue;ut hv;ry	427
+和谐社区	he;hk xx;yj ue;ut qu;ki	323
 和谐盛世	he;hk xx;yj ug;mi ui;ca	356
 和谐世纪	he;hk xx;yj ui;ca ji;sj	234
 和谐时尚	he;hk xx;yj ui;oc uh;xk	99
@@ -921206,6 +920913,7 @@ sort: by_weight
 户籍证明	hu;dp ji;vx vg;yv my;oo	138
 户籍制的	hu;dp ji;vx vi;dg de;bu	130
 户籍制度	hu;dp ji;vx vi;dg du;gy	267
+互济总会	hu;aa ji;dq zs;xk hv;ry	10
 湖家别墅	hu;dh jw;bu bx;dl uu;ty	4
 胡笳汉月	hu;og jw;vj hj;dy yt;pa	194
 互加好友	hu;aa jw;lk hk;nz yb;yu	446
@@ -921364,6 +921072,7 @@ sort: by_weight
 虎老娘们	hu;hj lk;lb nd;nl mf;rm	153
 虎了吧唧	hu;hj le;aa ba;kb ji;kj	310
 呼了口气	hu;kh le;aa kb;aa qi;py	72
+护了我们	hu;fh le;aa wo;pd mf;rm	10
 胡乐页岩	hu;og le;pd ye;ab yj;uu	90
 忽冷忽热	hu;xw lg;dl hu;xw re;hv	477
 狐狸爱上	hu;qg li;ql ai;vy uh;aa	171
@@ -926246,6 +925955,7 @@ sort: by_weight
 还掉房贷	hr;zb dc;fv fh;hf dl;bd	162
 环洞庭湖	hr;wb ds;dt ty;gt hu;dh	540
 缓堵保畅	hr;sy du;tv bk;rd ih;uy	428
+欢度春节	hr;qy du;gy ip;of jx;ce	223
 欢度国庆	hr;qy du;gy go;ky qy;gd	16
 欢度佳节	hr;qy du;gy jw;rg jx;ce	3
 欢度六一	hr;qy du;gy lq;wb yi;aa	369
@@ -929557,7 +929267,7 @@ sort: by_weight
 回复卷轴	hv;kk fu;wo jr;ef vb;iy	65
 恢复开放	hv;xh fu;wo kl;ac fh;wf	634
 恢复开馆	hv;xh fu;wo kl;ac gr;ug	234
-恢复开行	hv;xh fu;wo kl;ac xy;xi	477
+恢复开行	hv;xh fu;wo kl;ac hh;xi	477
 恢复开园	hv;xh fu;wo kl;ac yr;ky	171
 恢复快速	hv;xh fu;wo ky;xd su;zu	356
 恢复了吗	hv;xh fu;wo le;aa ma;km	28
@@ -937027,6 +936737,7 @@ sort: by_weight
 机关布景	ji;mj gr;qd bu;ju jy;oj	9
 机关部门	ji;mj gr;qd bu;ek mf;dg	644
 机关处室	ji;mj gr;qd iu;wb ui;bv	328
+机关大院	ji;mj gr;qd da;ad yr;ew	323
 机关单位	ji;mj gr;qd dj;ba wz;rl	929
 机关党办	ji;mj gr;qd dh;ek bj;lb	225
 机关党建	ji;mj gr;qd dh;ek jm;zy	612
@@ -946679,6 +946390,8 @@ sort: by_weight
 家庭娱乐	jw;bu ty;gt yu;nw le;pd	166
 家庭园艺	jw;bu ty;gt yr;ky yi;cy	490
 家庭原因	jw;bu ty;gt yr;ix yn;kd	904
+家庭杂务	jw;bu ty;gt za;jm wu;wl	46
+家庭杂物	jw;bu ty;gt za;jm wu;nw	33
 家庭责任	jw;bu ty;gt ze;bf rf;rr	918
 家庭照护	jw;bu ty;gt vk;hv hu;fh	356
 家庭支出	jw;bu ty;gt vi;uy iu;aa	706
@@ -947025,6 +946738,7 @@ sort: by_weight
 加一勺盐	jw;lk yi;aa uk;gd yj;mb	360
 假以时日	jw;rj yi;rd ui;oc ri;aa	1199
 加以使用	jw;lk yi;rd ui;rl ys;kf	486
+甲乙双方	jw;aa yi;aa ud;yy fh;wd	223
 加以说明	jw;lk yi;rd uo;yd my;oo	339
 嘉亿台球	jw;uj yi;ry tl;sk qq;wq	130
 加以提高	jw;lk yi;rd ti;fu gk;wk	410
@@ -949302,6 +949016,7 @@ sort: by_weight
 减价出售	jm;dx jw;rj iu;aa ub;kv	16
 贱价出售	jm;bj jw;rj iu;aa ub;kv	14
 间架结构	jm;mo jw;mj jx;sj gb;mg	616
+肩胛控制	jm;oh jw;oj ks;fk vi;dg	14
 坚甲利兵	jm;ty jw;aa li;hd by;qb	3
 坚甲厉兵	jm;ty jw;aa li;iw by;qb	2
 坚甲利刃	jm;ty jw;aa li;hd rf;dd	3
@@ -949392,7 +949107,6 @@ sort: by_weight
 尖叫女王	jm;xd jc;kj nv;aa wh;aa	400
 尖叫起来	jm;xd jc;kj qi;zj ll;am	801
 尖椒肉丝	jm;xd jc;mu rb;ad si;aa	25
-建校时间	jm;zy jc;mj ui;oc jm;mo	119
 检校司徒	jm;ma jc;mj si;gk tu;xz	486
 检校太尉	jm;ma jc;mj tl;dd wz;cu	31
 肩脚下窝	jm;oh jc;oq xw;ab wo;xn	90
@@ -951278,6 +950992,7 @@ sort: by_weight
 捡小便宜	jm;fq xc;ad pm;rg yi;bq	9
 见效奇快	jm;ag xc;wj qi;dk ky;xd	52
 见效甚微	jm;ag xc;wj uf;qa wz;xw	342
+建校时间	jm;zy xc;mj ui;oc jm;mo	119
 见效时间	jm;ag xc;wj ui;oc jm;mo	107
 减小体积	jm;dx xc;ad ti;rb ji;hv	387
 建校以来	jm;zy xc;mj yi;rd ll;am	135
@@ -955153,8 +954868,6 @@ sort: by_weight
 郊祀庆成	jc;ej si;us qy;gd ig;gg	4
 浇死我了	jc;dy si;db wo;pd le;aa	50
 酵素石洗	jc;yx su;sf ui;kp xi;dx	45
-角宿未旦	jc;dy su;bb wz;ex dj;oa	153
-角宿一星	jc;dy su;bb yi;aa xy;ou	117
 酵素原液	jc;yx su;sf yr;ix ye;dy	410
 焦酸焦酸	jc;hv sr;yj jc;hv sr;yj	4
 教唆粉丝	jc;wx so;kj ff;mf si;aa	212
@@ -955597,6 +955310,8 @@ sort: by_weight
 叫兄弟们	jc;kj xs;ke di;bp mf;rm	306
 娇羞不已	jc;nq xq;yi bu;ad yi;vg	315
 娇羞可人	jc;nq xq;yi ke;dk rf;pd	279
+角宿未旦	jc;dy xq;bb wz;ex dj;oa	153
+角宿一星	jc;dy xq;bb yi;aa xy;ou	117
 脚癣药水	jc;oq xr;bx yk;cy uv;ad	45
 教学安排	jc;wx xt;zb an;bn pl;ff	608
 教学标兵	jc;wx xt;zb bc;mu by;qb	100
@@ -958058,9 +957773,9 @@ sort: by_weight
 节粮减损	jx;ce ld;ml jm;dx sp;fy	261
 捷列克河	jx;fj lx;dd ke;eg he;dk	360
 解铃还须	jx;jn ly;jl hl;zb xu;py	621
-解铃系铃	jx;jn ly;jl ji;ps ly;jl	130
 皆令清净	jx;bb ly;rs qy;dq jy;dv	50
 节令食品	jx;ce ly;rs ui;rl pn;kk	346
+解铃系铃	jx;jn ly;jl xi;ps ly;jl	130
 节流过程	jx;ce lq;di go;zc ig;hi	189
 节流开源	jx;ce lq;di kl;ac yr;dy	9
 节流孔板	jx;ce lq;di ks;zg bj;mf	50
@@ -961145,7 +960860,6 @@ sort: by_weight
 进椒柏酒	jn;zj jc;mu bl;mb jq;dy	117
 浸胶处理	jn;dy jc;oj iu;wb li;wl	50
 近交大鼠	jn;zj jc;li da;ad uu;ju	45
-进校时候	jn;zj jc;mj ui;oc hb;ru	3
 近交衰退	jn;zj jc;li uy;yv tv;zg	356
 近郊铁路	jn;zj jc;ej tx;ju lu;zg	423
 近交退化	jn;zj jc;li tv;zg hw;rb	4
@@ -964363,6 +964077,7 @@ sort: by_weight
 今宵何处	jn;ra xc;bx he;rk iu;wb	117
 进小黑屋	jn;zj xc;ad hz;ha wu;uv	626
 谨小慎微	jn;yj xc;ad uf;xv wz;xw	970
+进校时候	jn;zj xc;mj ui;oc hb;ru	3
 今宵有酒	jn;ra xc;bx yb;ou jq;dy	194
 今宵月色	jn;ra xc;bx yt;pa se;db	130
 谨谢不敏	jn;yj xx;yu bu;ad mn;wm	76
@@ -966190,6 +965905,7 @@ sort: by_weight
 京都饭店	jy;wx du;ev fj;uf dm;gv	207
 京都公约	jy;wx du;ev gs;sb yt;su	76
 精度估计	jy;mq du;gy gu;rg ji;yu	194
+京都会议	jy;wx du;ev hv;ry yi;yy	10
 京都健身	jy;wx du;ev jm;rj uf;pp	45
 京都酒楼	jy;wx du;ev jq;dy lb;ml	99
 精读课文	jy;mq du;ym ke;yg wf;wi	378
@@ -968639,11 +968355,6 @@ sort: by_weight
 惊悚作家	jy;xj ss;xu zo;rv jw;bu	230
 精苏落泪	jy;mq su;cb lo;cl lz;do	90
 京苏粤浙	jy;wx su;cb yt;pk ve;dv	180
-井宿增八	jy;aa su;bb zg;tc ba;pd	45
-井宿增九	jy;aa su;bb zg;tc jq;py	45
-井宿增七	jy;aa su;bb zg;tc qi;ag	4
-井宿增十	jy;aa su;bb zg;tc ui;aa	144
-井宿增四	jy;aa su;bb zg;tc si;aa	4
 竞速之王	jy;lx su;zu vi;dd wh;aa	99
 精算公司	jy;mq sr;vc gs;sb si;gk	144
 精算协会	jy;mq sr;vc xx;ub hv;ry	346
@@ -969363,6 +969074,11 @@ sort: by_weight
 京雄高铁	jy;wx xs;vh gk;wk tx;ju	4
 净修梵行	jy;dv xq;rp fj;mf xy;xi	117
 静休息区	jy;qv xq;rm xi;xz qu;ki	171
+井宿增八	jy;aa xq;bb zg;tc ba;pd	45
+井宿增九	jy;aa xq;bb zg;tc jq;py	45
+井宿增七	jy;aa xq;bb zg;tc qi;ag	4
+井宿增十	jy;aa xq;bb zg;tc ui;aa	144
+井宿增四	jy;aa xq;bb zg;tc si;aa	4
 静虚村记	jy;qv xu;hy cp;mc ji;yj	99
 精虚血弱	jy;mq xu;hy xt;pa ro;gd	256
 竞选班委	jy;lx xr;zx bj;dw wz;hn	387
@@ -970832,6 +970548,9 @@ sort: by_weight
 酒到酣时	jq;dy dk;dv hj;yg ui;oc	6
 就到了哈	jq;yj dk;dv le;aa ha;kh	396
 就到期了	jq;yj dk;dv qi;oq le;aa	52
+九到十级	jq;py dk;dv ui;aa ji;sj	35
+九到十米	jq;py dk;dv ui;aa mi;dd	40
+九到十岁	jq;py dk;dv ui;aa sv;ux	24
 就到这吧	jq;yj dk;dv ve;zw ba;kb	518
 就到这里	jq;yj dk;dv ve;zw li;aa	3165
 九道直线	jq;py dk;zu vi;uq xm;sj	45
@@ -972284,6 +972003,7 @@ sort: by_weight
 就轻松多	jq;yj qy;ig ss;mg do;xx	585
 九卿值房	jq;py qy;mg vi;rv fh;hf	4
 九球天后	jq;py qq;wq tm;ad hb;pk	16
+旧曲重闻	jq;ao qu;aa is;pa wf;em	76
 酒曲发酵	jq;dy qu;aa fa;ay jc;yx	315
 九曲分矿	jq;py qu;aa ff;bd kd;ug	171
 旧区改造	jq;ao qu;ki gl;wj zk;zg	472
@@ -972301,7 +972021,6 @@ sort: by_weight
 九曲营路	jq;py qu;aa yy;cl lu;zg	76
 九曲棹歌	jq;py qu;aa vk;mv ge;qg	117
 九曲之战	jq;py qu;aa vi;dd vj;gv	50
-旧曲重闻	jq;ao qu;aa vs;pa wf;em	76
 就全错了	jq;yj qr;rw co;jx le;aa	25
 就全没了	jq;yj qr;rw mz;du le;aa	544
 九泉瞑目	jq;py qr;ub my;om mu;aa	45
@@ -973849,8 +973568,14 @@ sort: by_weight
 救治伤者	jq;wq vi;dt uh;rl ve;ol	504
 九指神丐	jq;py vi;fv uf;uu gl;ag	19
 救治生命	jq;wq vi;dt ug;na my;re	284
+九至十层	jq;py vi;tv ui;aa cg;uy	41
 就只是个	jq;yj vi;kb ui;op ge;ra	283
+九至十级	jq;py vi;tv ui;aa ji;sj	23
 救治时间	jq;wq vi;dt ui;oc jm;mo	490
+九至十斤	jq;py vi;tv ui;aa jn;pa	37
+九至十两	jq;py vi;tv ui;aa ld;ad	19
+九至十楼	jq;py vi;tv ui;aa lb;ml	40
+九至十升	jq;py vi;tv ui;aa ug;pc	26
 就职视事	jq;yj vi;ev ui;ju ui;aa	117
 就直说吧	jq;yj vi;uq uo;yd ba;kb	580
 救治体系	jq;wq vi;dt ti;rb xi;ps	346
@@ -984380,6 +984105,7 @@ sort: by_weight
 颗粒粘结	ke;yg li;ml nm;mv jx;sj	117
 科里氏病	ke;hd li;aa ui;pg by;bb	45
 可利斯安	ke;dk li;hd si;jq an;bn	90
+克里斯蒂	ke;eg li;aa si;jq di;cd	223
 颗粒饲料	ke;yg li;ml si;us lc;md	9
 克里特岛	ke;eg li;aa te;ns dk;nu	232
 克里特人	ke;eg li;aa te;ns rf;pd	396
@@ -985788,8 +985514,8 @@ sort: by_weight
 可以比较	ke;dk yi;rd bi;bb jc;ij	1256
 刻意避开	ke;dh yi;xy bi;zb kl;ac	553
 可以避开	ke;dk yi;rd bi;zb kl;ac	219
-刻意避免	ke;dh yi;xy bi;zb mm;de	1593
-可以避免	ke;dk yi;rd bi;zb mm;de	456
+可以避免	ke;dk yi;rd bi;zb mm;de	1593
+刻意避免	ke;dh yi;xy bi;zb mm;de	456
 刻意避嫌	ke;dh yi;xy bi;zb xm;nj	274
 可以辨别	ke;dk yi;rd bm;dx bx;dl	675
 可以变成	ke;dk yi;rd bm;wy ig;gg	1035
@@ -991435,6 +991161,7 @@ sort: by_weight
 阔步高视	ko;mh bu;vx gk;wk ui;ju	45
 阔步高谈	ko;mh bu;vx gk;wk tj;yy	99
 阔步前进	ko;mh bu;vx qm;qd jn;zj	9
+阔步向前	ko;mh bu;vx xd;pk qm;qd	223
 括苍山脉	ko;fu ch;cc uj;aa ml;oy	238
 扩厂计划	ko;fg ih;ap ji;yu hw;dg	130
 扩充翻译	ko;fg is;wy fj;yf yi;yf	76
@@ -994296,10 +994023,10 @@ sort: by_weight
 老店眼镜	lk;lb dm;gv yj;og jy;jj	99
 老电影吧	lk;lb dm;ag yy;pj ba;kb	171
 老电影院	lk;lb dm;ag yy;pj yr;ew	580
+老调重弹	lk;lb dc;yv is;pa tj;gd	626
 老调重谈	lk;lb dc;yv is;pa tj;yy	217
 老掉头发	lk;lb dc;fv tb;dd fa;ay	346
 老掉牙了	lk;lb dc;fv ya;ap le;aa	477
-老调重弹	lk;lb dc;yv vs;pa tj;gd	626
 老爹鞋女	lk;lb dx;fd xx;gg nv;aa	45
 老丁说股	lk;lb dy;aa uo;yd gu;ou	76
 劳动安全	lk;lb ds;ly an;bn qr;rw	22
@@ -994386,7 +994113,7 @@ sort: by_weight
 老东粥皇	lk;lb ds;ad vb;mg hd;bw	360
 劳动资料	lk;lb ds;ly zi;bc lc;md	16
 劳动组合	lk;lb ds;ly zu;sq he;rk	22
-老都一处	lk;lb db;ev yi;aa iu;wb	274
+老都一处	lk;lb du;ev yi;aa iu;wb	274
 老队友们	lk;lb dv;er yb;yu mf;rm	248
 老队员们	lk;lb dv;er yr;kb mf;rm	346
 老多次了	lk;lb do;xx ci;dq le;aa	153
@@ -995744,7 +995471,7 @@ sort: by_weight
 类艾滋病	lz;md ai;ci zi;dz by;bb	243
 类案检索	lz;md an;ma jm;ma so;sb	189
 雷傲论坛	lz;yt ao;ra lp;yl tj;ty	9
-类百日咳	lz;md bl;ab ri;aa hl;kh	144
+类百日咳	lz;md bl;ab ri;aa ke;kh	144
 雷邦科技	lz;yt bh;ef ke;hd ji;fv	50
 雷暴大风	lz;yt bk;ou da;ad fg;ji	684
 雷暴护肩	lz;yt bk;ou hu;fh jm;oh	99
@@ -997983,7 +997710,6 @@ sort: by_weight
 立教大学	li;da jc;wx da;ad xt;zb	536
 篱角黄昏	li;vl jc;dy hd;cb hp;ou	99
 离焦镜片	li;ws jc;hv jy;jj pm;pa	52
-离校时间	li;ws jc;mj ui;oc jm;mo	28
 沥滘水道	li;dl jc;dk uv;ad dk;zu	225
 立教之本	li;da jc;wx vi;dd bf;aa	6
 理解把握	li;wl jx;jn ba;fb wo;fw	536
@@ -999007,6 +998733,7 @@ sort: by_weight
 立身之本	li;da uf;pp vi;dd bf;aa	550
 立身之处	li;da uf;pp vi;dd iu;wb	279
 立身之道	li;da uf;pp vi;dd dk;zu	306
+立身之基	li;da uf;pp vi;dd ji;tq	6
 立身中正	li;da uf;pp vs;aa vg;av	315
 厉声叱斥	li;iw ug;um ii;kb ii;jd	45
 离生雌蕊	li;ws ug;na ci;vc rv;cr	52
@@ -999839,6 +999566,7 @@ sort: by_weight
 立小便器	li;da xc;ad bm;rg qi;kk	99
 离校返乡	li;ws xc;mj fj;zf xd;ap	76
 力小任重	li;gp xc;ad rf;rr vs;pa	99
+离校时间	li;ws xc;mj ui;oc jm;mo	28
 离校手续	li;ws xc;mj ub;pa xu;sm	60
 离校证明	li;ws xc;mj vg;yv my;oo	6
 立校之本	li;da xc;mj vi;dd bf;aa	31
@@ -1003191,16 +1002919,48 @@ sort: by_weight
 两档综艺	ld;ad dh;md zs;sz yi;cy	364
 凉到底了	ld;dj dk;dv di;gd le;aa	144
 两到三倍	ld;ad dk;dv sj;aa bz;rk	598
+两到三杯	ld;ad dk;dv sj;aa bz;mb	16
+两到三本	ld;ad dk;dv sj;aa bf;aa	33
+两到三部	ld;ad dk;dv sj;aa bu;ek	18
+两到三场	ld;ad dk;dv sj;aa ih;ty	23
 两到三成	ld;ad dk;dv sj;aa ig;gg	414
 两到三次	ld;ad dk;dv sj;aa ci;dq	788
+两到三度	ld;ad dk;dv sj;aa du;gy	20
+两到三段	ld;ad dk;dv sj;aa dr;ud	27
+两到三份	ld;ad dk;dv sj;aa ff;rf	38
 两到三个	ld;ad dk;dv sj;aa ge;ra	587
+两到三回	ld;ad dk;dv sj;aa hv;kk	17
+两到三家	ld;ad dk;dv sj;aa jw;bu	29
+两到三件	ld;ad dk;dv sj;aa jm;rn	19
+两到三块	ld;ad dk;dv sj;aa ky;td	37
+两到三款	ld;ad dk;dv sj;aa kr;qu	21
+两到三辆	ld;ad dk;dv sj;aa ld;il	35
+两到三轮	ld;ad dk;dv sj;aa lp;il	28
+两到三米	ld;ad dk;dv sj;aa mi;dd	24
 两到三名	ld;ad dk;dv sj;aa my;xk	356
 两到三年	ld;ad dk;dv sj;aa nm;ra	796
+两到三篇	ld;ad dk;dv sj;aa pm;vb	33
+两到三瓶	ld;ad dk;dv sj;aa py;wb	25
 两到三千	ld;ad dk;dv sj;aa qm;pa	279
+两到三台	ld;ad dk;dv sj;aa tl;sk	20
+两到三套	ld;ad dk;dv sj;aa tk;di	25
 两到三天	ld;ad dk;dv sj;aa tm;ad	670
+两到三条	ld;ad dk;dv sj;aa tc;wm	26
+两到三项	ld;ad dk;dv sj;aa xd;gy	20
+两到三页	ld;ad dk;dv sj;aa ye;ab	22
+两到三只	ld;ad dk;dv sj;aa vi;kb	40
+两到三种	ld;ad dk;dv sj;aa vs;hv	22
 两到三周	ld;ad dk;dv sj;aa vb;kt	508
+两到三组	ld;ad dk;dv sj;aa zu;sq	34
 两道闪电	ld;ad dk;zu uj;mr dm;ag	306
 两道圣旨	ld;ad dk;zu ug;ty vi;ob	320
+两到四遍	ld;ad dk;dv si;aa bm;zb	35
+两到四次	ld;ad dk;dv si;aa ci;dq	32
+两到四家	ld;ad dk;dv si;aa jw;bu	17
+两到四年	ld;ad dk;dv si;aa nm;ra	28
+两到四天	ld;ad dk;dv si;aa tm;ad	26
+两到四种	ld;ad dk;dv si;aa vs;hv	39
+两到四周	ld;ad dk;dv si;aa vb;kt	27
 量的变化	ld;ol de;bu bm;wy hw;rb	1044
 量的大小	ld;ol de;bu da;ad xc;ad	909
 量的多少	ld;ol de;bu do;xx uk;xp	882
@@ -1004279,6 +1004039,8 @@ sort: by_weight
 两三个月	ld;ad sj;aa ge;ra yt;pa	2713
 两三个钟	ld;ad sj;aa ge;ra vs;jv	464
 两三个字	ld;ad sj;aa ge;ra zi;bz	450
+两三公斤	ld;ad sj;aa gs;sb jn;pa	32
+两三公里	ld;ad sj;aa gs;sb li;aa	22
 两三截儿	ld;ad sj;aa jx;gv er;pg	99
 两三句话	ld;ad sj;aa ju;gk hw;yu	598
 两三厘米	ld;ad sj;aa li;il mi;dd	52
@@ -1004967,6 +1004729,9 @@ sort: by_weight
 量质齐升	ld;ol vi;bu qi;wa ug;pc	306
 两支强队	ld;ad vi;uy qd;gs dv;er	428
 两支球队	ld;ad vi;uy qq;wq dv;er	1035
+两至三年	ld;ad vi;tv sj;aa nm;ra	18
+两至三天	ld;ad vi;tv sj;aa tm;ad	22
+两至三周	ld;ad vi;tv sj;aa vb;kt	22
 两只神兽	ld;ad vi;kb uf;uu ub;ka	297
 两只手臂	ld;ad vi;kb ub;pa bi;ob	130
 量值溯源	ld;ol vi;rv su;du yr;dy	117
@@ -1005568,7 +1005333,7 @@ sort: by_weight
 列车车厢	lx;dd ie;aa ie;aa xd;ix	680
 列车服务	lx;dd ie;aa fu;oy wu;wl	972
 列车进路	lx;dd ie;aa jn;zj lu;zg	162
-列车开行	lx;dd ie;aa kl;ac xy;xi	6
+列车开行	lx;dd ie;aa kl;ac hh;xi	6
 列车溜逸	lx;dd ie;aa lq;dl yi;zt	194
 列车牵引	lx;dd ie;aa qm;nb yn;ga	603
 列车司机	lx;dd ie;aa si;gk ji;mj	567
@@ -1008476,10 +1008241,12 @@ sort: by_weight
 六代乐舞	lq;wb dl;ry yt;pd wu;rf	189
 六代战机	lq;wb dl;ry vj;gv ji;mj	328
 榴弹机枪	lq;ml dj;gd ji;mj qd;mc	274
+榴弹沥青	lq;ml dj;gd li;dl qy;of	23
 留单寺院	lq;td dj;ba si;ct yr;ew	52
 留党察看	lq;td dh;ek ia;bj kj;ou	9
 流宕忘归	lq;di dh;bu wh;xw gv;ax	4
 流宕自放	lq;di dh;bu zi;pa fh;wf	45
+六到八周	lq;wb dk;dv ba;pd vb;kt	21
 六道河子	lq;wb dk;zu he;dk zi;aa	162
 六道黄叶	lq;wb dk;zu hd;cb ye;ku	50
 六道轮回	lq;wb dk;zu lp;il hv;kk	242
@@ -1008487,9 +1008254,15 @@ sort: by_weight
 留到明天	lq;td dk;dv my;oo tm;ad	490
 六道模式	lq;wb dk;zu mo;mm ui;gy	13
 流道平衡	lq;di dk;zu py;aa hg;xd	45
+六到七级	lq;wb dk;dv qi;ag ji;sj	38
+六到七米	lq;wb dk;dv qi;ag mi;dd	21
+六到七岁	lq;wb dk;dv qi;ag sv;ux	39
 六道倾城	lq;wb dk;zu qy;rq ig;ti	45
 流道设计	lq;di dk;zu ue;yu ji;yu	180
 六道生灭	lq;wb dk;zu ug;na mx;ah	76
+六到十次	lq;wb dk;dv ui;aa ci;dq	37
+六到十家	lq;wb dk;dv ui;aa jw;bu	26
+六到十种	lq;wb dk;dv ui;aa vs;hv	36
 六道受苦	lq;wb dk;zu ub;vy ku;cg	76
 六道四生	lq;wb dk;zu si;aa ug;na	130
 六道湾路	lq;wb dk;zu wj;dw lu;zg	220
@@ -1010697,6 +1010470,7 @@ sort: by_weight
 六争攻坚	lq;wb vg;dy gs;wg jm;ty	45
 六证七证	lq;wb vg;yv qi;ag vg;yv	76
 六证三媒	lq;wb vg;yv sj;aa mz;nm	4
+六至八周	lq;wb vi;tv ba;pd vb;kt	30
 留置财产	lq;td vi;sv cl;bc ij;wi	35
 留置措施	lq;td vi;sv co;fx ui;fy	306
 溜之大吉	lq;dl vi;dd da;ad ji;ku	236
@@ -1010711,6 +1010485,12 @@ sort: by_weight
 留职降薪	lq;td vi;ev jd;ef xn;cx	52
 留置看护	lq;td vi;sv kj;ou hu;fh	50
 留置尿管	lq;td vi;sv nc;uu gr;vg	297
+六至七层	lq;wb vi;tv qi;ag cg;uy	18
+六至七级	lq;wb vi;tv qi;ag ji;sj	15
+六至七斤	lq;wb vi;tv qi;ag jn;pa	25
+六至七两	lq;wb vi;tv qi;ag ld;ad	15
+六至七楼	lq;wb vi;tv qi;ag lb;ml	16
+六至七升	lq;wb vi;tv qi;ag ug;pc	36
 流质契约	lq;di vi;bu qi;dd yt;su	261
 六指琴魔	lq;wb vi;fv qn;wj mo;gm	432
 留置权人	lq;td vi;sv qr;my rf;pd	104
@@ -1013674,6 +1013454,7 @@ sort: by_weight
 罗掘俱穷	lo;sx jt;fq ju;rj qs;xl	76
 洛可可式	lo;dg ke;dk ke;dk ui;gy	50
 罗克利夫	lo;sx ke;eg li;hd fu;ad	52
+洛克王国	lo;dg ke;eg wh;aa go;ky	74
 洛克希德	lo;dg ke;eg xi;ib de;xx	257
 洛肯德拉	lo;dg kf;ov de;xx la;fl	99
 螺口灯头	lo;il kb;aa dg;hd tb;dd	270
@@ -1016227,6 +1016008,7 @@ sort: by_weight
 马尾少女	ma;aa wz;um uk;xp nv;aa	374
 马尾神经	ma;aa wz;um uf;uu jy;sg	549
 马尾损伤	ma;aa wz;um sp;fy uh;rl	117
+马尾藻海	ma;aa wz;um zk;cz hl;dm	52
 马尾造型	ma;aa wz;um zk;zg xy;tx	450
 马尾粘连	ma;aa wz;um vj;mv lm;zi	45
 骂我可以	ma;km wo;pd ke;dk yi;rd	418
@@ -1016325,7 +1016107,6 @@ sort: by_weight
 麻衣学姐	ma;gl yi;dd xt;zb jx;nq	76
 蚂蚁缘槐	ma;im yi;iy yr;st hy;mg	310
 蚂蚁在爬	ma;im yi;iy zl;ut pa;vb	38
-马尾藻海	ma;aa yi;um zk;cz hl;dm	52
 蚂蚁战士	ma;im yi;iy vj;gv ui;aa	76
 马邑之围	ma;aa yi;kb vi;dd wz;kw	220
 马邑之战	ma;aa yi;kb vi;dd vj;gv	266
@@ -1019318,6 +1019099,7 @@ sort: by_weight
 贸易洽谈	mk;bd yi;ow qw;dh tj;yy	16
 毛衣裙子	mk;pg yi;dd qp;yj zi;aa	356
 贸易融资	mk;bd yi;ow rs;ig zi;bc	832
+贸易商行	mk;bd yi;ow uh;wk hh;xi	223
 贸易商机	mk;bd yi;ow uh;wk ji;mj	274
 毛衣设计	mk;pg yi;dd ue;yu ji;yu	230
 贸易市场	mk;bd yi;ow ui;wj ih;ty	60
@@ -1019589,6 +1019371,7 @@ sort: by_weight
 煤层结构	mz;hm cg;uy jx;sj gb;mg	99
 煤层露头	mz;hm cg;uy lb;yl tb;dd	4
 煤层煤样	mz;hm cg;uy mz;hm yh;my	50
+煤层气井	mz;hm cg;uy qi;py jy;aa	13
 煤层倾角	mz;hm cg;uy qy;rq jc;dy	50
 煤层倾斜	mz;hm cg;uy qy;rq xx;dy	4
 煤层石球	mz;hm cg;uy ui;kp qq;wq	45
@@ -1022730,6 +1022513,7 @@ sort: by_weight
 没人知道	mz;du rf;pd vi;ku dk;zu	4427
 没人指导	mz;du rf;pd vi;fv dk;cs	194
 美人之美	mz;dy rf;pd vi;dd mz;dy	428
+没人吱声	mz;du rf;pd vi;kv ug;um	306
 美人之死	mz;dy rf;pd vi;dd si;db	76
 美人之贻	mz;dy rf;pd vi;dd yi;bt	302
 没人种地	mz;du rf;pd vs;hv di;ty	25
@@ -1022740,7 +1022524,6 @@ sort: by_weight
 没人抓住	mz;du rf;pd vw;fv vu;rv	3
 没人追求	mz;du rf;pd vv;zv qq;ad	3
 每人准备	mz;rm rf;pd vp;dv bz;wt	464
-没人吱声	mz;du rf;pd zi;kv ug;um	306
 每人最多	mz;rm rf;pd zv;oq do;xx	585
 没人作伴	mz;du rf;pd zo;rv bj;rb	153
 没人做饭	mz;du rf;pd zo;rg fj;uf	9
@@ -1028476,6 +1028259,7 @@ sort: by_weight
 眇眇之身	mc;ou mc;ou vi;dd uf;pp	6
 妙明元心	mc;nu my;oo yr;aw xn;dd	99
 妙明真心	mc;nu my;oo vf;uj xn;dd	320
+苗木花卉	mc;ct mu;ad hw;ch hv;cu	323
 苗木移栽	mc;ct mu;ad yi;hd zl;mg	202
 苗木移植	mc;ct mu;ad yi;hd vi;mv	144
 苗木栽植	mc;ct mu;ad zl;mg vi;mv	292
@@ -1029251,6 +1029035,7 @@ sort: by_weight
 民贼独夫	mn;ag zz;br du;qi fu;ad	130
 抿着嘴唇	mn;fm ve;yo zv;kj ip;ki	69
 抿着嘴笑	mn;fm ve;yo zv;kj xc;vy	41
+民政部门	mn;ag vg;wv bu;ek mf;dg	1023
 民政局见	mn;ag vg;wv ju;uk jm;ag	328
 民政局长	mn;ag vg;wv ju;uk vh;pd	3
 民政事务	mn;ag vg;wv ui;aa wu;wl	19
@@ -1029283,6 +1029068,7 @@ sort: by_weight
 民众浴室	mn;ag vs;rc yu;dg ui;bv	45
 民众运动	mn;ag vs;rc yp;zy ds;ly	508
 民众支持	mn;ag vs;rc vi;uy ii;fs	729
+民主测评	mn;ag vu;dw ce;dz py;yp	223
 民主程序	mn;ag vu;dw ig;hi xu;gy	626
 民主大众	mn;ag vu;dw da;ad vs;rc	50
 民主党籍	mn;ag vu;dw dh;ek ji;vx	3
@@ -1030386,6 +1030172,8 @@ sort: by_weight
 名视眼镜	my;xk ui;ju yj;og jy;jj	99
 明史演义	my;oo ui;ki yj;dy yi;id	225
 名仕在线	my;xk ui;ru zl;ut xm;sj	130
+命是真硬	my;re ui;op vf;uj yy;ug	98
+名师阵营	my;xk ui;ab vf;ei yy;cl	61
 名实之辩	my;xk ui;bt vi;dd bm;yx	180
 命世之才	my;re ui;ca vi;dd cl;ap	9
 名师指导	my;xk ui;ab vi;fv dk;cs	567
@@ -1032564,8 +1032352,8 @@ sort: by_weight
 模型计算	mo;mm xy;tx ji;yu sr;vc	220
 模型建立	mo;mm xy;tx jm;zy li;da	179
 魔性叫声	mo;gm xy;xu jc;kj ug;um	52
-膜性结构	mo;om xy;xu jx;sj gb;mg	1251
-模型结构	mo;mm xy;tx jx;sj gb;mg	163
+模型结构	mo;mm xy;tx jx;sj gb;mg	1251
+膜性结构	mo;om xy;xu jx;sj gb;mg	163
 模型颗粒	mo;mm xy;tx ke;yg li;ml	45
 模型空间	mo;mm xy;tx ks;xg jm;mo	38
 模型理论	mo;mm xy;tx li;wl lp;yl	97
@@ -1034350,6 +1034138,7 @@ sort: by_weight
 拿刀动枪	na;uh dk;gp ds;ly qd;mc	99
 拿到工资	na;uh dk;dv gs;aa zi;bc	662
 拿到冠军	na;uh dk;dv gr;bc jp;bi	783
+那道红光	na;el dk;zu hs;sg gd;ea	31
 拿刀劐开	na;uh dk;gp ho;dh kl;ac	52
 拿到奖杯	na;uh dk;dv jd;dx bz;mb	324
 拿刀砍人	na;uh dk;gp kj;uq rf;pd	446
@@ -1047560,6 +1047349,7 @@ sort: by_weight
 宁欠勿过	ny;bd qm;dr wu;gp go;zc	180
 宁欠勿曝	ny;bd qm;dr wu;gp pu;ob	50
 宁亲公主	ny;bd qn;lm gs;sb vu;dw	238
+宁轻勿假	ny;bd qy;ig wu;gp jw;rj	14
 宁泉资产	ny;bd qr;ub zi;bc ij;wi	99
 宁缺不滥	ny;bd qt;fd bu;ad lj;dj	50
 宁缺毋滥	ny;bd qt;fd wu;ap lj;dj	587
@@ -1048209,6 +1047999,7 @@ sort: by_weight
 农村小学	ns;by cp;mc xc;ad xt;zb	97
 农村小院	ns;by cp;mc xc;ad yr;ew	292
 农村新报	ns;by cp;mc xn;jq bk;fy	734
+农村信用	ns;by cp;mc xn;ry ys;kf	723
 农村学生	ns;by cp;mc xt;zb ug;na	868
 农村学校	ns;by cp;mc xt;zb xc;mj	97
 农村宴席	ns;by cp;mc yj;bn xi;jc	387
@@ -1048668,6 +1048459,7 @@ sort: by_weight
 农用薄膜	ns;by ys;kf bk;cc mo;om	297
 农用工具	ns;by ys;kf gs;aa ju;ba	284
 农用货车	ns;by ys;kf ho;bh ie;aa	202
+农用物资	ns;by ys;kf wu;nw zi;bc	223
 浓油赤酱	ns;dn yb;dy ii;tb jd;yx	1044
 弄玉乘凤	ns;cw yu;wd ig;pb fg;jy	76
 弄玉吹箫	ns;cw yu;wd iv;kq xc;vs	6
@@ -1056267,6 +1056059,7 @@ sort: by_weight
 平焊法兰	py;aa hj;hh fa;dq lj;qe	180
 平巷掘进	py;aa hh;sg jt;fq jn;zj	50
 平巷矿柱	py;aa hh;sg kd;ug vu;mv	45
+冯河暴虎	py;dm he;dk bk;ou hu;hj	144
 凭河暴虎	py;jr he;dk bk;ou hu;hj	45
 平和面对	py;aa he;hk mm;aa dv;cy	292
 平和体质	py;aa he;hk ti;rb vi;bu	25
@@ -1059762,6 +1059555,10 @@ sort: by_weight
 其疸可治	qi;ba dj;bd ke;dk vi;dt	45
 其疸难治	qi;ba dj;bd nj;vy vi;dt	45
 契丹姓氏	qi;dd dj;pd xy;nu ui;pg	99
+七到八成	qi;ag dk;dv ba;pd ig;gg	31
+七到八级	qi;ag dk;dv ba;pd ji;sj	17
+七到八米	qi;ag dk;dv ba;pd mi;dd	35
+七到八岁	qi;ag dk;dv ba;pd sv;ux	17
 七倒八歪	qi;ag dk;rd ba;pd wl;bv	16
 骑到半路	qi;mq dk;dv bj;bf lu;zg	212
 起到帮助	qi;zj dk;dv bh;jb vu;lq	232
@@ -1059787,6 +1059584,7 @@ sort: by_weight
 其道穷也	qi;ba dk;zu qs;xl ye;gg	302
 祈祷三宝	qi;uj dk;uu sj;aa bk;by	4
 其道上行	qi;ba dk;zu uh;aa xy;xi	153
+七到十天	qi;ag dk;dv ui;aa tm;ad	19
 祈祷手镯	qi;uj dk;uu ub;pa vo;ju	171
 祈祷套装	qi;uj dk;uu tk;di vd;yv	212
 气道通畅	qi;py dk;zu ts;zy ih;uy	400
@@ -1064215,6 +1064013,7 @@ sort: by_weight
 气象谚语	qi;py xd;du yj;yy yu;yw	297
 气相氧化	qi;py xd;mo yh;qy hw;rb	144
 奇香羊排	qi;dk xd;ho yh;da pl;ff	99
+气象要素	qi;py xd;du yk;xn su;sf	223
 气象仪器	qi;py xd;du yi;ry qi;kk	418
 气象一新	qi;py xd;du yi;aa xn;jq	9
 气象医院	qi;py xd;du yi;ku yr;ew	4
@@ -1065345,8 +1065144,14 @@ sort: by_weight
 奇正藏药	qi;dk vg;av zh;cz yk;cy	418
 奇正之变	qi;dk vg;av vi;dd bm;wy	220
 脐正中襞	qi;oq vg;av vs;aa bi;yb	4
+七至八层	qi;ag vi;tv ba;pd cg;uy	29
 七枝八杈	qi;ag vi;mv ba;pd ia;mi	4
 七支八搭	qi;ag vi;uy ba;pd da;fd	4
+七至八级	qi;ag vi;tv ba;pd ji;sj	30
+七至八斤	qi;ag vi;tv ba;pd jn;pa	33
+七至八两	qi;ag vi;tv ba;pd ld;ad	28
+七至八楼	qi;ag vi;tv ba;pd lb;ml	31
+七至八升	qi;ag vi;tv ba;pd ug;pc	14
 气质爆表	qi;py vi;bu bk;hb bc;fy	315
 气质逼人	qi;py vi;bu bi;zf rf;pd	328
 气至病所	qi;py vi;tv by;bb so;hj	180
@@ -1071987,6 +1071792,7 @@ sort: by_weight
 倾翻装置	qy;rq fj;yf vd;yv vi;sv	4
 轻犯罪法	qy;ig fj;qe zv;sf fa;dq	279
 轻纺产品	qy;ig fh;sf ij;wi pn;kk	252
+清防蜡剂	qy;dq fh;ef la;ix ji;dq	32
 庆芳名茶	qy;gd fh;cf my;xk ia;cm	117
 情非得已	qy;xq fz;aa de;xc yi;vg	129
 清肺化痰	qy;dq fz;of hw;rb tj;by	3
@@ -1072924,6 +1072730,7 @@ sort: by_weight
 清理助手	qy;dq li;wl vu;lq ub;pa	3
 倾力助阵	qy;rq li;gp vu;lq vf;ei	400
 氢离子泵	qy;qg li;ws zi;aa bg;uu	117
+青联常委	qy;of lm;eg ih;jk wz;hn	10
 轻链定量	qy;ig lm;jl dy;bp ld;ol	45
 青莲酒家	qy;of lm;cl jq;dy jw;bu	238
 青莲上街	qy;of lm;cl uh;aa jx;xg	162
@@ -1072937,6 +1072744,7 @@ sort: by_weight
 清廉正直	qy;dq lm;gj vg;av vi;uq	44
 清廉指数	qy;dq lm;gj vi;fv uu;wl	490
 轻怜重惜	qy;ig lm;xl vs;pa xi;xx	4
+青联主席	qy;of lm;eg vu;dw xi;jc	10
 清廉自矢	qy;dq lm;gj zi;pa ui;rd	117
 清廉自守	qy;dq lm;gj zi;pa ub;bc	302
 青联组织	qy;of lm;eg zu;sq vi;sv	248
@@ -1072963,6 +1072771,8 @@ sort: by_weight
 清凉境界	qy;dq ld;dj jy;tj jx;tj	162
 清凉可口	qy;dq ld;dj ke;dk kb;aa	513
 清凉礼包	qy;dq ld;dj li;ug bk;gs	194
+轻量模式	qy;ig ld;ol mo;mm ui;gy	131
+清凉模式	qy;dq ld;dj mo;mm ui;gy	72
 清亮囊泡	qy;dq ld;wj nh;ay pk;db	45
 清凉气息	qy;dq ld;dj qi;py xi;xz	274
 清凉世界	qy;dq ld;dj ui;ca jx;tj	13
@@ -1073013,7 +1072823,8 @@ sort: by_weight
 青龙过肩	qy;of ls;ad go;zc jm;oh	99
 青龙灰岩	qy;of ls;ad hv;hu yj;uu	45
 青龙魂石	qy;of ls;ad hp;gy ui;kp	99
-轻拢慢捻	qy;ig ls;fl mj;xm nm;fn	6
+轻拢慢捻	qy;ig ls;fl mj;xm nm;fn	9
+轻栊慢捻	qy;ig ls;ml mj;xm nm;fn	6
 轻拢慢撚	qy;ig ls;fl mj;xm nm;fr	5
 青龙秘宝	qy;of ls;ad mi;hb bk;by	45
 青龙七宿	qy;of ls;ad qi;ag xq;bb	288
@@ -1074576,6 +1074387,7 @@ sort: by_weight
 清洗眼睛	qy;dq xi;dx yj;og jy;oq	327
 清洗养护	qy;dq xi;dx yh;ya hu;fh	333
 清洗要求	qy;dq xi;dx yk;xn qq;ad	266
+清晰易辨	qy;dq xi;ox yi;ow bm;dx	64
 清晰易懂	qy;dq xi;ox yi;ow ds;xd	994
 清晰易读	qy;dq xi;ox yi;ow du;ym	810
 清洗一番	qy;dq xi;dx yi;aa fj;tm	333
@@ -1077162,7 +1076974,6 @@ sort: by_weight
 去壳鸡蛋	qu;ts ke;uj ji;ny dj;ip	171
 区科技局	qu;ki ke;hd ji;fv ju;uk	536
 区科尼岛	qu;ki ke;hd ni;ub dk;nu	99
-躯壳虽隳	qu;uq ke;uj sv;ki hv;ex	117
 去可以吗	qu;ts ke;dk yi;rd ma;km	500
 去肯德基	qu;ts kf;ov de;xx ji;tq	810
 驱控一体	qu;mq ks;fk yi;aa ti;rb	153
@@ -1077492,6 +1077303,7 @@ sort: by_weight
 趋前跟后	qu;zi qm;qd gf;zg hb;pk	4
 趋前退后	qu;zi qm;qd tv;zg hb;pk	45
 屈强系数	qu;ui qd;gs xi;ps uu;wl	4
+躯壳虽隳	qu;uq qc;uj sv;ki hv;ex	117
 取巧图便	qu;ey qc;gk tu;kd bm;rg	144
 去亲戚家	qu;ts qn;lm qi;gx jw;bu	223
 去氢处理	qu;ts qy;qg iu;wb li;wl	99
@@ -1080466,6 +1080278,8 @@ sort: by_weight
 全糖去冰	qr;rw th;mt qu;ts by;du	31
 全唐投资	qr;rw th;gk tb;fu zi;bc	4
 全套的啊	qr;rw tk;di de;bu aa;ka	117
+全套发我	qr;rw tk;di fa;ay wo;pd	77
+全讨伐我	qr;rw tk;yc fa;rg wo;pd	12
 全套服务	qr;rw tk;di fu;oy wu;wl	598
 拳套护手	qr;uf tk;di hu;fh ub;pa	76
 全套皮甲	qr;rw tk;di pi;ad jw;aa	4
@@ -1081834,6 +1081648,8 @@ sort: by_weight
 然后返回	rj;hq hb;pk fj;zf hv;kk	783
 然后放盐	rj;hq hb;pk fh;wf yj;mb	297
 然后还有	rj;hq hb;pk hl;zb yb;ou	1030
+然后换成	rj;hq hb;pk hr;fh ig;gg	112
+然后换乘	rj;hq hb;pk hr;fh ig;pb	93
 然后回家	rj;hq hb;pk hv;kk jw;bu	904
 然后回来	rj;hq hb;pk hv;kk ll;am	824
 然后继续	rj;hq hb;pk ji;sa xu;sm	1148
@@ -1093169,20 +1092985,49 @@ sort: by_weight
 三道口子	sj;aa dk;zu kb;aa zi;aa	117
 三道林子	sj;aa dk;zu ln;mm zi;aa	180
 三刀六洞	sj;aa dk;gp lq;wb ds;dt	288
+三到六周	sj;aa dk;dv lq;wb vb;kt	38
 三道轮回	sj;aa dk;zu lp;il hv;kk	4
 三道农场	sj;aa dk;zu ns;by ih;ty	117
 三道屏障	sj;aa dk;zu py;ub vh;ev	225
+三到七天	sj;aa dk;dv qi;ag tm;ad	38
 三岛求方	sj;aa dk;nu qq;ad fh;wd	3
 三道圈梁	sj;aa dk;zu qr;kj ld;md	76
 三岛食品	sj;aa dk;nu ui;rl pn;kk	50
 三岛十洲	sj;aa dk;nu ui;aa vb;dv	234
 三到四个	sj;aa dk;dv si;aa ge;ra	698
+三到四米	sj;aa dk;dv si;aa mi;dd	38
 三到四年	sj;aa dk;dv si;aa nm;ra	508
 三到四天	sj;aa dk;dv si;aa tm;ad	526
 三到四周	sj;aa dk;dv si;aa vb;kt	364
 三道崴子	sj;aa dk;zu wz;uw zi;aa	243
+三到五杯	sj;aa dk;dv wu;aa bz;mb	29
+三到五倍	sj;aa dk;dv wu;aa bz;rk	21
+三到五本	sj;aa dk;dv wu;aa bf;aa	16
+三到五部	sj;aa dk;dv wu;aa bu;ek	34
+三到五场	sj;aa dk;dv wu;aa ih;ty	32
+三到五成	sj;aa dk;dv wu;aa ig;gg	39
+三到五次	sj;aa dk;dv wu;aa ci;dq	42
+三到五度	sj;aa dk;dv wu;aa du;gy	41
+三到五段	sj;aa dk;dv wu;aa dr;ud	35
+三到五份	sj;aa dk;dv wu;aa ff;rf	21
+三到五回	sj;aa dk;dv wu;aa hv;kk	35
+三到五家	sj;aa dk;dv wu;aa jw;bu	37
+三到五件	sj;aa dk;dv wu;aa jm;rn	30
+三到五块	sj;aa dk;dv wu;aa ky;td	24
+三到五款	sj;aa dk;dv wu;aa kr;qu	37
+三到五轮	sj;aa dk;dv wu;aa lp;il	19
 三到五年	sj;aa dk;dv wu;aa nm;ra	814
+三到五篇	sj;aa dk;dv wu;aa pm;vb	16
+三到五瓶	sj;aa dk;dv wu;aa py;wb	33
+三到五台	sj;aa dk;dv wu;aa tl;sk	39
+三到五套	sj;aa dk;dv wu;aa tk;di	42
 三到五天	sj;aa dk;dv wu;aa tm;ad	558
+三到五条	sj;aa dk;dv wu;aa tc;wm	32
+三到五项	sj;aa dk;dv wu;aa xd;gy	40
+三到五页	sj;aa dk;dv wu;aa ye;ab	38
+三到五只	sj;aa dk;dv wu;aa vi;kb	17
+三到五种	sj;aa dk;dv wu;aa vs;hv	31
+三到五组	sj;aa dk;dv wu;aa zu;sq	17
 三道小学	sj;aa dk;zu xc;ad xt;zb	99
 三道阳岔	sj;aa dk;zu yh;eo ia;uf	4
 三道栅栏	sj;aa dk;zu va;mc lj;ml	162
@@ -1096242,8 +1096087,11 @@ sort: by_weight
 三五二一	sj;aa wu;aa er;aa yi;aa	6
 三五分钟	sj;aa wu;aa ff;bd vs;jv	443
 三吴风景	sj;aa wu;kt fg;ji jy;oj	50
+三五个人	sj;aa wu;aa ge;ra rf;pd	26
+三五个月	sj;aa wu;aa ge;ra yt;pa	39
 三无工程	sj;aa wu;ag gs;aa ig;hi	76
 三务公开	sj;aa wu;wl gs;sb kl;ac	207
+三五公里	sj;aa wu;aa gs;sb li;aa	30
 三五好友	sj;aa wu;aa hk;nz yb;yu	462
 三五九八	sj;aa wu;aa jq;py ba;pd	5
 三五九九	sj;aa wu;aa jq;py jq;py	4
@@ -1096312,6 +1096160,7 @@ sort: by_weight
 三五五五	sj;aa wu;aa wu;aa wu;aa	4
 三五五一	sj;aa wu;aa wu;aa yi;aa	4
 三无小区	sj;aa wu;ag xc;ad qu;ki	446
+三五小时	sj;aa wu;aa xc;ad ui;oc	19
 三五一八	sj;aa wu;aa yi;aa ba;pd	4
 三吴一冯	sj;aa wu;kt yi;aa fg;dm	153
 三五一九	sj;aa wu;aa yi;aa jq;py	5
@@ -1096876,14 +1096725,18 @@ sort: by_weight
 三止三观	sj;aa vi;aa sj;aa gr;jy	76
 三治三增	sj;aa vi;dt sj;aa zg;tc	153
 三支手枪	sj;aa vi;uy ub;pa qd;mc	171
+三至四级	sj;aa vi;tv si;aa ji;sj	39
+三至四楼	sj;aa vi;tv si;aa lb;ml	34
 三至四人	sj;aa vi;tv si;aa rf;pd	6
 三至四天	sj;aa vi;tv si;aa tm;ad	418
+三至四周	sj;aa vi;tv si;aa vb;kt	41
 三只松鼠	sj;aa vi;kb ss;mg uu;ju	1178
 三指拖动	sj;aa vi;fv to;fy ds;ly	13
 三指拖移	sj;aa vi;fv to;fy yi;hd	3
 三智五猜	sj;aa vi;ov wu;aa cl;qq	130
 三纸无驴	sj;aa vi;su wu;ag lv;mh	256
 三至五年	sj;aa vi;tv wu;aa nm;ra	666
+三至五天	sj;aa vi;tv wu;aa tm;ad	40
 三旨相公	sj;aa vi;ob xd;mo gs;sb	13
 三只小猴	sj;aa vi;kb xc;ad hb;qh	117
 三只小鸡	sj;aa vi;kb xc;ad ji;ny	47
@@ -1097553,11 +1097406,11 @@ sort: by_weight
 僧官制度	sg;rc gr;bg vi;dg du;gy	270
 僧迦罗人	sg;rc jw;zj lo;sx rf;pd	202
 僧加罗语	sg;rc jw;lk lo;sx yu;yw	190
-僧伽咤经	sg;rc jw;rj va;kv jy;sg	400
 僧侣长袍	sg;rc lv;rl ih;pd pk;yb	50
 僧侣之夜	sg;rc lv;rl vi;dd ye;wd	117
 僧侣主义	sg;rc lv;rl vu;dw yi;id	194
 僧帽细胞	sg;rc mk;jm xi;st bk;ob	130
+僧伽咤经	sg;rc qx;rj va;kv jy;sg	400
 僧人遗体	sg;rc rf;pd yi;zg ti;rb	162
 僧圆泽传	sg;rc yr;ky ze;df vr;rv	189
 僧自恣日	sg;rc zi;pa zi;xc ri;aa	153
@@ -1098866,162 +1098719,44 @@ sort: by_weight
 山顶喷发	uj;aa dy;yd pf;kb fa;ay	50
 山顶日出	uj;aa dy;yd ri;aa iu;aa	20
 山鼎设计	uj;aa dy;oa ue;yu ji;yu	234
-山顶医院	uj;aa dy;yd yi;ku yr;ew	554
-山东案件	uj;aa ds;ad an;ma jm;rn	4
 山东奥太	uj;aa ds;ad ao;dm tl;dd	4
-山东白麻	uj;aa ds;ad bl;pa ma;gl	76
-山东拜年	uj;aa ds;ad bl;uf nm;ra	45
-山东梆子	uj;aa ds;ad bh;mb zi;aa	16
 煽动暴力	uj;hu ds;ly bk;ou li;gp	558
 煽动暴乱	uj;hu ds;ly bk;ou lr;ug	338
 煽动暴民	uj;hu ds;ly bk;ou mn;ag	144
 山洞蝙蝠	uj;aa ds;dt bm;ib fu;if	76
-山东博汇	uj;aa ds;ad bo;uc hv;dk	518
 山东博润	uj;aa ds;ad bo;uc rp;dr	189
-山东玻纤	uj;aa ds;ad bo;wp xm;sq	153
-山东产业	uj;aa ds;ad ij;wi ye;aa	207
-山东长安	uj;aa ds;ad ih;pd an;bn	153
 扇动翅膀	uj;hy ds;ly ii;yv bh;op	97
 煽动翅膀	uj;hu ds;ly ii;yv bh;op	87
 煽动仇恨	uj;hu ds;ly ib;rj hf;xg	526
-山东村民	uj;aa ds;ad cp;mc mn;ag	171
-山东大鼓	uj;aa ds;ad da;ad gu;vd	38
-山东大汉	uj;aa ds;ad da;ad hj;dy	598
-山东大妞	uj;aa ds;ad da;ad nq;ni	310
-山东大学	uj;aa ds;ad da;ad xt;zb	2399
-山东大宇	uj;aa ds;ad da;ad yu;by	76
-山东道路	uj;aa ds;ad dk;zu lu;zg	130
-山东的路	uj;aa ds;ad de;bu lu;zg	194
 山东等省	uj;aa ds;ad dg;vs ug;ou	6
-山东地矿	uj;aa ds;ad di;ty kd;ug	648
-山东地炼	uj;aa ds;ad di;ty lm;hd	540
-山东地形	uj;aa ds;ad di;ty xy;pk	76
-山东第一	uj;aa ds;ad di;vp yi;aa	522
 煽动敌意	uj;hu ds;ly di;wu yi;xy	84
-山东地震	uj;aa ds;ad di;ty vf;yi	144
 煽动颠覆	uj;hu ds;ly dm;yv fu;xf	626
-山东电力	uj;aa ds;ad dm;ag li;gp	549
-山东电信	uj;aa ds;ad dm;ag xn;ry	243
-山东电影	uj;aa ds;ad dm;ag yy;pj	342
-山东二区	uj;aa ds;ad er;aa qu;ki	202
 煽动法令	uj;hu ds;ly fa;dq ly;rs	405
-山东方圆	uj;aa ds;ad fh;wd yr;ky	144
 煽动粉丝	uj;hu ds;ly ff;mf si;aa	346
-山东佛教	uj;aa ds;ad fo;rf jc;wx	144
-山东钢铁	uj;aa ds;ad gh;jg tx;ju	652
-山东高法	uj;aa ds;ad gk;wk fa;dq	162
-山东高考	uj;aa ds;ad gk;wk kk;lk	652
-山东高速	uj;aa ds;ad gk;wk su;zu	711
-山东高校	uj;aa ds;ad gk;wk xc;mj	44
-山东哥哥	uj;aa ds;ad ge;kd ge;kd	76
-山东歌手	uj;aa ds;ad ge;qg ub;pa	117
-山东公交	uj;aa ds;ad gs;sb jc;li	4
-山东官员	uj;aa ds;ad gr;bg yr;kb	252
-山东广播	uj;aa ds;ad gd;dp bo;ff	792
-山东广电	uj;aa ds;ad gd;dp dm;ag	364
 山东国惠	uj;aa ds;ad go;ky hv;xh	144
-山东海阳	uj;aa ds;ad hl;dm yh;eo	558
-山东海洋	uj;aa ds;ad hl;dm yh;dy	357
-山东汉子	uj;aa ds;ad hj;dy zi;aa	486
-山东航空	uj;aa ds;ad hh;vk ks;xg	28
-山东好汉	uj;aa ds;ad hk;nz hj;dy	315
 山东赫达	uj;aa ds;ad he;ii da;zd	333
-山东河南	uj;aa ds;ad he;dk nj;ua	904
-山东画报	uj;aa ds;ad hw;ak bk;fy	504
-山东画家	uj;aa ds;ad hw;ak jw;bu	50
-山东华鹏	uj;aa ds;ad hw;uh pg;np	464
-山东华瑞	uj;aa ds;ad hw;uh rv;we	248
-山东华信	uj;aa ds;ad hw;uh xn;ry	99
-山东黄金	uj;aa ds;ad hd;cb jn;ra	248
 煽动混乱	uj;hu ds;ly hp;dk lr;ug	4
-山东激光	uj;aa ds;ad ji;dj gd;ea	45
-山东技师	uj;aa ds;ad ji;fv ui;ab	230
-山东家族	uj;aa ds;ad jw;bu zu;fu	50
-山东金泰	uj;aa ds;ad jn;ra tl;uf	279
-山东军区	uj;aa ds;ad jp;bi qu;ki	675
-山东军事	uj;aa ds;ad jp;bi ui;aa	212
 山东郡姓	uj;aa ds;ad jp;ej xy;nu	130
-山东考生	uj;aa ds;ad kk;lk ug;na	157
-山东科大	uj;aa ds;ad ke;hd da;ad	144
-山东科技	uj;aa ds;ad ke;hd ji;fv	716
-山东快书	uj;aa ds;ad ky;xd uu;ad	57
-山东矿难	uj;aa ds;ad kd;ug nj;vy	76
-山东篮球	uj;aa ds;ad lj;vj qq;wq	130
-山东蓝翔	uj;aa ds;ad lj;cj xd;yy	25
-山东落子	uj;aa ds;ad lk;cl zi;aa	99
 扇动了下	uj;hy ds;ly le;aa xw;ab	153
 山洞里面	uj;aa ds;dt li;aa mm;aa	52
-山东联通	uj;aa ds;ad lm;eg ts;zy	333
-山东临工	uj;aa ds;ad ln;ao gs;aa	306
 山东路店	uj;aa ds;ad lu;zg dm;gv	328
 山东鲁工	uj;aa ds;ad lu;yo gs;aa	45
-山东路南	uj;aa ds;ad lu;zg nj;ua	387
-山东鲁南	uj;aa ds;ad lu;yo nj;ua	209
-山东鲁能	uj;aa ds;ad lu;yo ng;sb	424
 山东美陵	uj;aa ds;ad mz;dy ly;el	4
-山东美术	uj;aa ds;ad mz;dy uu;md	500
-山东猛男	uj;aa ds;ad mg;qm nj;tl	45
-山东民歌	uj;aa ds;ad mn;ag ge;qg	266
-山东民居	uj;aa ds;ad mn;ag ju;ug	171
 煽动民众	uj;hu ds;ly mn;ag vs;rc	472
-山东命案	uj;aa ds;ad my;re an;ma	4
-山东模特	uj;aa ds;ad mo;mm te;ns	4
-山东模板	uj;aa ds;ad mu;mm bj;mf	4
-山东男篮	uj;aa ds;ad nj;tl lj;vj	598
-山东男排	uj;aa ds;ad nj;tl pl;ff	234
 煽动闹事	uj;hu ds;ly nk;mu ui;aa	324
-山东牌坊	uj;aa ds;ad pl;pb fh;tf	45
 煽动叛乱	uj;hu ds;ly pj;fb lr;ug	585
-山东叛乱	uj;aa ds;ad pj;fb lr;ug	179
 山东琴书	uj;aa ds;ad qn;wj uu;ad	6
-山东轻工	uj;aa ds;ad qy;ig gs;aa	351
 煽动情绪	uj;hu ds;ly qy;xq xu;sv	612
 煽动群众	uj;hu ds;ly qp;yj vs;rc	72
-山东人民	uj;aa ds;ad rf;pd mn;ag	688
-山东人物	uj;aa ds;ad rf;pd wu;nw	162
 煽动人心	uj;hu ds;ly rf;pd xn;dd	382
 山东润艺	uj;aa ds;ad rp;dr yi;cy	130
-山东三箭	uj;aa ds;ad sj;aa jm;vq	76
-山东山峰	uj;aa ds;ad uj;aa fg;uf	76
-山东山脉	uj;aa ds;ad uj;aa ml;oy	50
-山东商报	uj;aa ds;ad uh;wk bk;fy	598
-山东商务	uj;aa ds;ad uh;wk wu;wl	248
-山东社会	uj;aa ds;ad ue;ut hv;ry	346
-山东神光	uj;aa ds;ad uf;uu gd;ea	450
-山东省的	uj;aa ds;ad ug;ou de;bu	774
-山东石材	uj;aa ds;ad ui;kp cl;mc	45
-山东师范	uj;aa ds;ad ui;ab fj;ce	788
-山东石刻	uj;aa ds;ad ui;kp ke;dh	99
-山东食品	uj;aa ds;ad ui;rl pn;kk	243
-山东士族	uj;aa ds;ad ui;aa zu;fu	279
-山东首富	uj;aa ds;ad ub;qz fu;bf	346
-山东书院	uj;aa ds;ad uu;ad yr;ew	50
 煽动双翼	uj;hu ds;ly ud;yy yi;yg	45
-山东水饺	uj;aa ds;ad uv;ad jc;uj	266
-山东水灾	uj;aa ds;ad uv;ad zl;bh	117
 山东泰邦	uj;aa ds;ad tl;uf bh;ef	76
-山东体彩	uj;aa ds;ad ti;rb cl;pc	356
-山东天海	uj;aa ds;ad tm;ad hl;dm	144
-山东天气	uj;aa ds;ad tm;ad qi;py	261
-山东天齐	uj;aa ds;ad tm;ad qi;wa	99
-山东天岳	uj;aa ds;ad tm;ad yt;uq	99
 闪动头像	uj;mr ds;ly tb;dd xd;rx	4
 煽动屠杀	uj;hu ds;ly tu;uv ua;mi	130
-山东外贸	uj;aa ds;ad wl;xb mk;bd	346
-山东威达	uj;aa ds;ad wz;gn da;zd	486
 山东五征	uj;aa ds;ad wu;aa vg;xv	130
-山东西王	uj;aa ds;ad xi;aa wh;aa	279
-山东响马	uj;aa ds;ad xd;kx ma;aa	274
 山东信和	uj;aa ds;ad xn;ry he;hk	212
-山东巡抚	uj;aa ds;ad xp;zi fu;fw	702
-山东演员	uj;aa ds;ad yj;dy yr;kb	99
-山东秧歌	uj;aa ds;ad yh;hy ge;qg	144
 山东药玻	uj;aa ds;ad yk;cy bo;wp	418
-山东一区	uj;aa ds;ad yi;aa qu;ki	288
-山东医院	uj;aa ds;ad yi;ku yr;ew	175
-山东银丰	uj;aa ds;ad yn;jg fg;aa	252
-山东重工	uj;aa ds;ad vs;pa gs;aa	338
-山东纵队	uj;aa ds;ad zs;sc dv;er	554
 山多地少	uj;aa do;xx di;ty uk;xp	13
 善恶不辨	uj;kq ee;xy bu;ad bm;dx	13
 善恶不分	uj;kq ee;xy bu;ad ff;bd	25
@@ -1108105,6 +1107840,8 @@ sort: by_weight
 什么吊事	uf;ru me;ps dc;kj ui;aa	117
 什么东东	uf;ru me;ps ds;ad ds;ad	226
 什么动静	uf;ru me;ps ds;ly jy;qv	182
+什么懂了	uf;ru me;ps ds;xd le;aa	118
+什么动了	uf;ru me;ps ds;ly le;aa	61
 什么动物	uf;ru me;ps ds;ly wu;nw	198
 什么东西	uf;ru me;ps ds;ad xi;aa	12946
 什么动作	uf;ru me;ps ds;ly zo;rv	232
@@ -1109453,7 +1109190,6 @@ sort: by_weight
 审视偏差	uf;bu ui;ju pm;rb ia;yg	45
 身世飘零	uf;pp ui;ca pc;fp ly;yl	351
 绅士品格	uf;su ui;aa pn;kk ge;mg	346
-参试品种	uf;sp ui;yu pn;kk vs;hv	130
 身世凄惨	uf;pp ui;ca qi;dq cj;xc	410
 绅士气息	uf;su ui;aa qi;py xi;xz	274
 绅士气质	uf;su ui;aa qi;py vi;bu	418
@@ -1115851,6 +1115587,7 @@ sort: by_weight
 食道闭锁	ui;rl dk;zu bi;mc so;jb	284
 世道不公	ui;ca dk;zu bu;ad gs;sb	410
 试道大会	ui;yu dk;zu da;ad hv;ry	310
+十到二十	ui;aa dk;dv er;aa ui;aa	32
 十道沟河	ui;aa dk;zu gb;dg he;dk	45
 失道寡助	ui;pf dk;zu gw;bf vu;lq	122
 世道艰难	ui;ca dk;zu jm;yg nj;vy	432
@@ -1118691,6 +1118428,8 @@ sort: by_weight
 时基误差	ui;oc ji;tq wu;yw ia;yg	180
 世纪悉尼	ui;ca ji;sj xi;xm ni;ub	117
 世纪暹罗	ui;ca ji;sj xm;zv lo;sx	225
+实际显示	ui;bt ji;eu xm;oy ui;ex	121
+实际现实	ui;bt ji;eu xm;wj ui;bt	74
 世纪香港	ui;ca ji;sj xd;ho gh;dx	472
 市级项目	ui;wj ji;sj xd;gy mu;aa	886
 实际项目	ui;bt ji;eu xd;gy mu;aa	308
@@ -1118866,11 +1118605,13 @@ sort: by_weight
 世嘉科技	ui;ca jw;uj ke;hd ji;fv	418
 十佳科技	ui;aa jw;rg ke;hd ji;fv	258
 十家连坐	ui;aa jw;bu lm;zi zo;tc	99
+十佳林场	ui;aa jw;rg ln;mm ih;ty	10
 十甲路口	ui;aa jw;aa lu;zg kb;aa	50
 十佳旅游	ui;aa jw;rg lv;fp yb;dz	459
 世家门阀	ui;ca jw;bu mf;dg fa;mf	414
 世嘉茗庭	ui;ca jw;uj my;cm ty;gt	50
 十佳模特	ui;aa jw;rg mo;mm te;ns	3
+十佳农民	ui;aa jw;rg ns;by mn;ag	10
 式加农炮	ui;gy jw;lk ns;by pk;hb	333
 是假朋友	ui;op jw;rj pg;oo yb;yu	297
 世家皮草	ui;ca jw;bu pi;ad ck;cz	76
@@ -1125805,6 +1125546,7 @@ sort: by_weight
 誓言今生	ui;yv yj;wk jn;ra ug;na	274
 实验金属	ui;bt yj;ma jn;ra uu;uy	234
 实验精神	ui;bt yj;ma jy;mq uf;uu	526
+试验井组	ui;yu yj;ma jy;aa zu;sq	16
 十言九骗	ui;aa yj;wk jq;py pm;mb	50
 十言九中	ui;aa yj;wk jq;py vs;aa	4
 实验剧场	ui;bt yj;ma ju;dj ih;ty	41
@@ -1138035,6 +1137777,7 @@ sort: by_weight
 谁送过来	uv;yv ss;zg go;zc ll;am	202
 水送山迎	uv;ad ss;zg uj;aa yy;ze	3
 水松枝叶	uv;ad ss;mg vi;mv ye;ku	4
+水宿风餐	uv;ad su;bb fg;ji cj;uy	4
 谁算计谁	uv;yv sr;vc ji;yu uv;yv	243
 税损结转	uv;hd sp;fy jx;sj vr;iv	117
 税损退算	uv;hd sp;fy tv;zg sr;vc	45
@@ -1138360,7 +1138103,6 @@ sort: by_weight
 水性油漆	uv;ad xy;xu yb;dy qi;dq	328
 睡醒之后	uv;oi xy;yx vi;dd hb;pk	154
 水形之人	uv;ad xy;pk vi;dd rf;pd	45
-水宿风餐	uv;ad xq;bb fg;ji cj;uy	4
 水秀山明	uv;ad xq;hn uj;aa my;oo	248
 水秀山清	uv;ad xq;hn uj;aa qy;dq	261
 水宿山行	uv;ad xq;bb uj;aa xy;xi	4
@@ -1139607,6 +1139349,7 @@ sort: by_weight
 说陕西话	uo;yd uj;ej xi;aa hw;yu	333
 说上海话	uo;yd uh;aa hl;dm hw;yu	760
 说上几句	uo;yd uh;aa ji;py ju;gk	248
+说上一声	uo;yd uh;aa yi;aa ug;um	392
 说什么啊	uo;yd uf;ru me;ps aa;ka	47
 说什么好	uo;yd uf;ru me;ps hk;nz	166
 说什么话	uo;yd uf;ru me;ps hw;yu	584
@@ -1140276,14 +1140019,23 @@ sort: by_weight
 四档齿轮	si;aa dh;md ii;vk lp;il	99
 死当结草	si;db dh;xx jx;sj ck;cz	220
 四挡路飞	si;aa dh;fd lu;zg fz;yd	162
+四到八周	si;aa dk;dv ba;pd vb;kt	29
 四道工序	si;aa dk;zu gs;aa xu;gy	374
 四道口东	si;aa dk;zu kb;aa ds;ad	180
 四道口路	si;aa dk;zu kb;aa lu;zg	266
 四道口南	si;aa dk;zu kb;aa nj;ua	76
 死到临头	si;db dk;dv ln;ao tb;dd	210
+四到六次	si;aa dk;dv lq;wb ci;dq	21
+四到六家	si;aa dk;dv lq;wb jw;bu	31
+四到六种	si;aa dk;dv lq;wb vs;hv	23
 四到六周	si;aa dk;dv lq;wb vb;kt	324
 四岛问题	si;aa dk;nu wf;km ti;uy	338
+四到五遍	si;aa dk;dv wu;aa bm;zb	18
 四到五个	si;aa dk;dv wu;aa ge;ra	119
+四到五级	si;aa dk;dv wu;aa ji;sj	32
+四到五米	si;aa dk;dv wu;aa mi;dd	17
+四到五岁	si;aa dk;dv wu;aa sv;ux	35
+四到五周	si;aa dk;dv wu;aa vb;kt	21
 死得不冤	si;db de;xc bu;ad yr;bt	212
 死得多啊	si;db de;xc do;xx aa;ka	45
 撕得粉碎	si;fs de;xc ff;mf sv;uz	170
@@ -1143655,8 +1143407,6 @@ sort: by_weight
 四小天后	si;aa xc;ad tm;ad hb;pk	378
 四小天王	si;aa xc;ad tm;ad wh;aa	392
 四肖中特	si;aa xc;xo vs;aa te;ns	45
-丝血反杀	si;aa xx;pa fj;py ua;mi	324
-丝血逃生	si;aa xx;pa tk;zv ug;na	288
 死蟹一只	si;db xx;ij yi;aa vi;kb	50
 四新北路	si;aa xn;jq bz;ag lu;zg	194
 死心不改	si;db xn;dd bu;ad gl;wj	369
@@ -1143721,8 +1143471,10 @@ sort: by_weight
 思绪万千	si;xt xu;sv wj;ag qm;pa	311
 思绪游离	si;xt xu;sv yb;dz li;ws	220
 斯须之报	si;jq xu;py vi;dd bk;fy	207
+丝血反杀	si;aa xt;pa fj;py ua;mi	324
 似雪非雪	si;ry xt;yx fz;aa xt;yx	153
 似血红花	si;ry xt;pa hs;sg hw;ch	45
+丝血逃生	si;aa xt;pa tk;zv ug;na	288
 思迅软件	si;xt xp;zu rr;iq jm;rn	117
 四巽五坎	si;aa xp;gs wu;aa kj;tq	171
 司牙孜会	si;gk ya;ap zi;wz hv;ry	243
@@ -1144174,6 +1143926,7 @@ sort: by_weight
 四肢苦烦	si;aa vi;ov ku;cg fj;hy	45
 四肢苦重	si;aa vi;ov ku;cg vs;pa	45
 思之令人	si;xt vi;dd ly;rs rf;pd	238
+四至六周	si;aa vi;tv lq;wb vb;kt	16
 四肢麻木	si;aa vi;ov ma;gl mu;ad	639
 丝质面料	si;aa vi;bu mm;aa lc;md	306
 四肢逆冷	si;aa vi;ov ni;zn lg;dl	243
@@ -1144194,8 +1143947,13 @@ sort: by_weight
 四支疼痛	si;aa vi;uy tg;bd ts;by	432
 四肢疼痛	si;aa vi;ov tg;bd ts;by	38
 丝质外衣	si;aa vi;bu wl;xb yi;dd	171
+四至五层	si;aa vi;tv wu;aa cg;uy	22
 四至五个	si;aa vi;tv wu;aa ge;ra	387
+四至五级	si;aa vi;tv wu;aa ji;sj	20
 四肢无力	si;aa vi;ov wu;ag li;gp	389
+四至五两	si;aa vi;tv wu;aa ld;ad	22
+四至五楼	si;aa vi;tv wu;aa lb;ml	23
+四至五升	si;aa vi;tv wu;aa ug;pc	30
 四智武童	si;aa vi;ov wu;vy ts;ll	50
 四制香附	si;aa vi;dg xd;ho fu;ef	99
 四指向上	si;aa vi;fv xd;pk uh;aa	3
@@ -1148396,6 +1148154,7 @@ sort: by_weight
 他长这么	ta;ry ih;pd ve;zw me;ps	536
 他朝若是	ta;ry ik;ou ro;cy ui;op	52
 他吃菜呢	ta;ry ii;kq cl;cc ne;kn	45
+他冲你去	ta;ry is;dv ni;re qu;ts	23
 他重生了	ta;ry is;pa ug;na le;aa	297
 他出现在	ta;ry iu;aa xm;wj zl;ut	765
 踏出一步	ta;zt iu;aa yi;aa bu;vx	558
@@ -1158343,6 +1158102,7 @@ sort: by_weight
 天莲圣草	tm;ad lm;cl ug;ty ck;cz	130
 天联世纪	tm;ad lm;eg ui;ca ji;sj	230
 天连衰草	tm;ad lm;zi uy;yv ck;cz	256
+天连水尾	tm;ad lm;zi uv;ad wz;um	65
 天链一号	tm;ad lm;jl yi;aa hk;kk	495
 天良发现	tm;ad ld;dg fa;ay xm;wj	6
 天亮分手	tm;ad ld;wj ff;bd ub;pa	4
@@ -1165663,6 +1165423,7 @@ sort: by_weight
 同则不继	ts;kk ze;bd bu;ad ji;sa	207
 通则不痛	ts;zy ze;bd bu;ad ts;by	562
 痛则不通	ts;by ze;bd bu;ad ts;zy	448
+统战部门	ts;si vj;gv bu;ek mf;dg	323
 统战部长	ts;si vj;gv bu;ek vh;pd	9
 统战工作	ts;si vj;gv gs;aa zo;rv	47
 同站换乘	ts;kk vj;lv hr;fh ig;pb	310
@@ -1166317,6 +1166078,7 @@ sort: by_weight
 偷懒耍滑	tb;ry lj;xl uw;ne hw;dg	436
 投老情怀	tb;fu lk;lb qy;xq hy;xb	4
 偷了东西	tb;ry le;aa ds;ad xi;aa	88
+投了个币	tb;fu le;aa ge;ra bi;pj	80
 投了很多	tb;fu le;aa hf;xg do;xx	52
 投了简历	tb;fu le;aa jm;vj li;il	502
 透锂长石	tb;zx li;jl ih;pd ui;kp	194
@@ -1167938,7 +1167700,7 @@ sort: by_weight
 土霉素粉	tu;aa mz;ym su;sf ff;mf	207
 土霉素片	tu;aa mz;ym su;sf pm;pa	346
 图门串烤	tu;kd mf;dg ir;aa kk;hk	310
-屠门大嚼	tu;uv mf;dg da;ad jc;kc	153
+屠门大嚼	tu;uv mf;dg da;ad jt;kc	153
 图门德扬	tu;kd mf;dg de;xx yh;fy	45
 涂门街头	tu;dy mf;dg jx;xg tb;dd	50
 图门烧烤	tu;kd mf;dg uk;hy kk;hk	450
@@ -1179983,8 +1179745,8 @@ sort: by_weight
 畏死贪生	wz;ty si;db tj;bj ug;na	45
 韦斯特林	wz;aa si;jq te;ns ln;mm	387
 位似图形	wz;rl si;ry tu;kd xy;pk	76
-微丝血管	wz;xw si;aa xx;pa gr;vg	432
 伟思信安	wz;rw si;xt xn;ry an;bn	45
+微丝血管	wz;xw si;aa xt;pa gr;vg	432
 伟思医疗	wz;rw si;xt yi;ku lc;bl	202
 位似中心	wz;rl si;ry vs;aa xn;dd	180
 伪素函数	wz;rw su;sf hj;lk uu;wl	45
@@ -1182758,6 +1182520,7 @@ sort: by_weight
 文明讨论	wf;wi my;oo tk;yc lp;yl	423
 闻名天下	wf;em my;xk tm;ad xw;ab	248
 闻名遐迩	wf;em my;xk xw;zj er;ze	386
+文明县城	wf;wi my;oo xm;sq ig;ti	10
 文明乡风	wf;wi my;oo xd;ap fg;ji	446
 文明祥和	wf;wi my;oo xd;uy he;hk	266
 闻名乡里	wf;em my;xk xd;ap li;aa	396
@@ -1183323,6 +1183086,8 @@ sort: by_weight
 文体知识	wf;wi ti;rb vi;ku ui;yv	310
 问题指向	wf;km ti;uy vi;fv xd;pk	446
 问题之一	wf;km ti;uy vi;dd yi;aa	323
+文体中心	wf;wi ti;rb vs;aa xn;dd	94
+问题中心	wf;km ti;uy vs;aa xn;dd	30
 温体猪肉	wf;dm ti;rb vu;qv rb;ad	9
 问题专家	wf;km ti;uy vr;ad jw;bu	35
 文体自选	wf;wi ti;rb zi;pa xr;zx	396
@@ -1186955,8 +1186720,8 @@ sort: by_weight
 我没找过	wo;pd mz;du vk;fg go;zc	270
 我没找见	wo;pd mz;du vk;fg jm;ag	144
 我没招你	wo;pd mz;du vk;fv ni;re	117
+我没吱声	wo;pd mz;du vi;kv ug;um	320
 我没资格	wo;pd mz;du zi;bc ge;mg	323
-我没吱声	wo;pd mz;du zi;kv ug;um	320
 我没做过	wo;pd mz;du zo;rg go;zc	333
 我们爱过	wo;pd mf;rm ai;vy go;zc	477
 我们爱着	wo;pd mf;rm ai;vy ve;yo	428
@@ -1189104,6 +1188869,8 @@ sort: by_weight
 我又不想	wo;pd yb;vd bu;ad xd;xx	267
 我又不用	wo;pd yb;vd bu;ad ys;kf	392
 我又错了	wo;pd yb;vd co;jx le;aa	41
+我有大量	wo;pd yb;ou da;ad ld;ol	67
+握有大量	wo;fw yb;ou da;ad ld;ol	45
 我有的是	wo;pd yb;ou de;bu ui;op	104
 我有点暗	wo;pd yb;ou dm;hv an;oy	144
 我有点儿	wo;pd yb;ou dm;hv er;pg	179
@@ -1190633,12 +1190400,18 @@ sort: by_weight
 舞蹈老师	wu;rf dk;zj lk;lb ui;ab	264
 舞蹈练习	wu;rf dk;zj lm;sd xi;ga	490
 舞蹈疗法	wu;rf dk;zj lc;bl fa;dq	194
+五到六级	wu;aa dk;dv lq;wb ji;sj	21
+五到六米	wu;aa dk;dv lq;wb mi;dd	29
+五到六岁	wu;aa dk;dv lq;wb sv;ux	20
+五到六周	wu;aa dk;dv lq;wb vb;kt	34
 误导民心	wu;yw dk;cs mn;ag xn;dd	45
 误导民众	wu;yw dk;cs mn;ag vs;rc	428
 舞蹈模板	wu;rf dk;zj mu;mm bj;mf	4
 舞刀弄棒	wu;rf dk;gp ns;cw bh;mf	328
 舞刀弄剑	wu;rf dk;gp ns;cw jm;da	66
 舞刀弄枪	wu;rf dk;gp ns;cw qd;mc	116
+五到七成	wu;aa dk;dv qi;ag ig;gg	18
+五到七天	wu;aa dk;dv qi;ag tm;ad	27
 武道强者	wu;vy dk;zu qd;gs ve;ol	4
 误导群众	wu;yw dk;cs qp;yj vs;rc	500
 误导人了	wu;yw dk;cs rf;pd le;aa	518
@@ -1190646,9 +1190419,13 @@ sort: by_weight
 误导人心	wu;yw dk;cs rf;pd xn;dd	76
 舞蹈设备	wu;rf dk;zj ue;yu bz;wt	45
 五到十倍	wu;aa dk;dv ui;aa bz;rk	342
+五到十遍	wu;aa dk;dv ui;aa bm;zb	40
+五到十次	wu;aa dk;dv ui;aa ci;dq	32
+五到十度	wu;aa dk;dv ui;aa du;gy	27
 舞蹈世界	wu;rf dk;zj ui;ca jx;tj	369
 五到十年	wu;aa dk;dv ui;aa nm;ra	693
 舞蹈视频	wu;rf dk;zj ui;ju pn;yb	756
+五到十天	wu;aa dk;dv ui;aa tm;ad	21
 五道十字	wu;aa dk;zu ui;aa zi;bz	50
 舞蹈术语	wu;rf dk;zj uu;md yu;yw	76
 误导他人	wu;yw dk;cs ta;ry rf;pd	612
@@ -1196593,7 +1196370,6 @@ sort: by_weight
 无需越狱	wu;ag xu;ye yt;zy yu;qq	324
 无序运动	wu;ag xu;gy yp;zy ds;ly	274
 无需再忍	wu;ag xu;ye zl;aa rf;xr	57
-无需在意	wu;ag xu;ye zl;ut yi;xy	472
 无须在意	wu;ag xu;py zl;ut yi;xy	312
 戊戌政变	wu;gp xu;ga vg;wv bm;wy	44
 无需支付	wu;ag xu;ye vi;uy fu;rc	684
@@ -1197576,7 +1197352,12 @@ sort: by_weight
 物质力量	wu;nw vi;bu li;gp ld;ol	88
 物质利益	wu;nw vi;bu li;hd yi;mb	166
 物质粒子	wu;nw vi;bu li;ml zi;aa	626
+五至六层	wu;aa vi;tv lq;wb cg;uy	36
+五至六级	wu;aa vi;tv lq;wb ji;sj	33
+五至六两	wu;aa vi;tv lq;wb ld;ad	34
+五至六楼	wu;aa vi;tv lq;wb lb;ml	37
 五至六人	wu;aa vi;tv lq;wb rf;pd	180
+五至六升	wu;aa vi;tv lq;wb ug;pc	23
 五只蚂蚁	wu;aa vi;kb ma;im yi;iy	3
 五指毛桃	wu;aa vi;fv mk;pg tk;mv	35
 吾之蜜糖	wu;kw vi;dd mi;ib th;mt	351
@@ -1204342,6 +1204123,7 @@ sort: by_weight
 先等等吧	xm;ne dg;vs dg;vs ba;kb	405
 先等等看	xm;ne dg;vs dg;vs kj;ou	369
 先等等我	xm;ne dg;vs dg;vs wo;pd	306
+先等几周	xm;ne dg;vs ji;py vb;kt	65
 先等你吧	xm;ne dg;vs ni;re ba;kb	45
 先等你们	xm;ne dg;vs ni;re mf;rm	4
 先登死士	xm;ne dg;dd si;db ui;aa	162
@@ -1204603,9 +1204385,6 @@ sort: by_weight
 陷害我吧	xm;ej hl;bk wo;pd ba;kb	144
 陷害于我	xm;ej hl;bk yu;aa wo;pd	279
 陷害忠良	xm;ej hl;bk vs;xv ld;dg	44
-限行规定	xm;eg hh;xi gv;fj dy;bp	536
-限行规则	xm;eg hh;xi gv;fj ze;bd	266
-限行尾号	xm;eg hh;xi wz;um hk;kk	549
 纤毫毕见	xm;sq hk;mb bi;bu jm;ag	162
 纤毫毕现	xm;sq hk;mb bi;bu xm;wj	176
 嫌好道丑	xm;nj hk;nz dk;zu ib;aa	4
@@ -1205565,6 +1205344,8 @@ sort: by_weight
 仙人晒靴	xm;ru rf;pd ul;ox xt;gh	117
 县人社局	xm;sq rf;pd ue;ut ju;uk	770
 县人武部	xm;sq rf;pd wu;vy bu;ek	594
+闲人勿进	xm;mm rf;pd wu;gp jn;zj	80
+闲人勿近	xm;mm rf;pd wu;gp jn;zj	31
 仙人下凡	xm;ru rf;pd xw;ab fj;jd	310
 仙人下棋	xm;ru rf;pd xw;ab qi;mq	266
 限人限车	xm;eg rf;pd xm;eg ie;aa	4
@@ -1206637,9 +1206418,11 @@ sort: by_weight
 线形骨折	xm;sj xy;pk gu;go ve;fj	76
 线性关系	xm;sj xy;xu gr;qd xi;ps	898
 线形光源	xm;sj xy;pk gd;ea yr;dy	4
+限行规定	xm;eg xy;xi gv;fj dy;bp	536
 现行规定	xm;wj xy;xi gv;fj dy;bp	78
 现行规范	xm;wj xy;xi gv;fj fj;ce	38
 线性规划	xm;sj xy;xu gv;fj hw;dg	493
+限行规则	xm;eg xy;xi gv;fj ze;bd	266
 现行规章	xm;wj xy;xi gv;fj vh;lz	162
 线性函数	xm;sj xy;xu hj;lk uu;wl	232
 先性后爱	xm;ne xy;xu hb;pk ai;vy	374
@@ -1206718,6 +1206501,7 @@ sort: by_weight
 线性图标	xm;sj xy;xu tu;kd bc;mu	315
 线性外插	xm;sj xy;xu wl;xb ia;fi	4
 线性网络	xm;sj xy;xu wh;ki lo;sg	302
+限行尾号	xm;eg xy;xi wz;um hk;kk	549
 线性维数	xm;sj xy;xu wz;sv uu;wl	45
 线形文字	xm;sj xy;pk wf;wi zi;bz	486
 线性无关	xm;sj xy;xu wu;ag gr;qd	616
@@ -1224319,7 +1224103,6 @@ sort: by_weight
 行行企企	xy;xi xy;xi qi;rv qi;rv	274
 星形曲线	xy;ou xy;pk qu;aa xm;sj	144
 星形区域	xy;ou xy;pk qu;ki yu;th	45
-行行如也	xy;xi xy;xi ru;nk ye;gg	117
 星星散散	xy;ou xy;ou sj;wo sj;wo	171
 形形色色	xy;pk xy;pk se;db se;db	2691
 星星闪烁	xy;ou xy;ou uj;mr uo;hl	644
@@ -1226708,6 +1226491,7 @@ sort: by_weight
 畜牧杂志	xu;tx mu;nw za;jm vi;xu	76
 畜牧专家	xu;tx mu;nw vr;ad jw;bu	351
 畜牧专业	xu;tx mu;nw vr;ad ye;aa	25
+畜牧总站	xu;tx mu;nw zs;xk vj;lv	10
 虚拟按键	xu;hy ni;fy an;fa jm;jj	374
 虚拟背景	xu;hy ni;fy bz;ob jy;oj	41
 虚拟产品	xu;hy ni;fy ij;wi pn;kk	634
@@ -1228101,6 +1227885,7 @@ sort: by_weight
 悬肉为林	xr;xx rb;ad wz;dd ln;mm	243
 选色征歌	xr;zx se;db vg;xv ge;qg	4
 炫砂糖橘	xr;hx ua;uu th;mt ju;mk	4
+选商定价	xr;zx uh;wk dy;bp jw;rj	8
 玄裳缟衣	xr;wy uh;yk gk;sg yi;dd	117
 悬赏广告	xr;xx uh;bk gd;dp gk;kn	19
 轩裳华胄	xr;ig uh;yk hw;uh vb;oy	99
@@ -1229293,6 +1229078,7 @@ sort: by_weight
 学练结合	xt;zb lm;sd jx;sj he;rk	382
 雪莲药垫	xt;yx lm;cl yk;cy dm;tv	99
 血炼战护	xt;pa lm;hd vj;gv hu;fh	45
+学联主席	xt;zb lm;eg vu;dw xi;jc	10
 雪亮工程	xt;yx ld;wj gs;aa ig;hi	252
 血量回复	xt;pa ld;ol hv;kk fu;wo	225
 血量恢复	xt;pa ld;ol hv;xh fu;wo	175
@@ -1237694,6 +1237480,7 @@ sort: by_weight
 扬智科技	yh;fy vi;ov ke;hd ji;fv	270
 杨志卖刀	yh;my vi;xu ml;um dk;gp	57
 仰之弥高	yh;re vi;dd mi;ge gk;wk	41
+养殖面积	yh;ya vi;dv mm;aa ji;hv	223
 养殖牲畜	yh;ya vi;dv ug;nu iu;tx	297
 养殖水面	yh;ya vi;dv uv;ad mm;aa	423
 杨枝塘路	yh;my vi;mv th;tt lu;zg	99
@@ -1239229,7 +1239016,6 @@ sort: by_weight
 遥遥呼应	yk;zf yk;zf hu;kh yy;ga	252
 遥遥华胄	yk;zf yk;zf hw;uh vb;oy	50
 摇摇晃晃	yk;ff yk;ff hd;og hd;og	1350
-要要记住	yk;xn yk;xn ji;yj vu;rv	207
 遥遥可期	yk;zf yk;zf ke;dk qi;oq	50
 杳杳灵凤	yk;mo yk;mo ly;hx fg;jy	76
 遥遥领先	yk;zf yk;zf ly;yl xm;ne	1903
@@ -1244240,6 +1244026,7 @@ sort: by_weight
 以道观之	yi;rd dk;zu gr;jy vi;dd	130
 一道光线	yi;aa dk;zu gd;ea xm;sj	441
 一到过年	yi;aa dk;dv go;zc nm;ra	53
+一道红光	yi;aa dk;zu hs;sg gd;ea	31
 移到后面	yi;hd dk;dv hb;pk mm;aa	22
 一到换季	yi;aa dk;dv hr;fh ji;hz	504
 一刀火葬	yi;aa dk;gp ho;dd zh;cc	130
@@ -1244254,13 +1244041,38 @@ sort: by_weight
 一刀砍向	yi;aa dk;gp kj;uq xd;pk	9
 一到考试	yi;aa dk;dv kk;lk ui;yu	576
 一到两倍	yi;aa dk;dv ld;ad bz;rk	52
+一到两杯	yi;aa dk;dv ld;ad bz;mb	34
+一到两本	yi;aa dk;dv ld;ad bf;aa	25
+一到两部	yi;aa dk;dv ld;ad bu;ek	24
+一到两场	yi;aa dk;dv ld;ad ih;ty	38
+一到两成	yi;aa dk;dv ld;ad ig;gg	34
 一到两次	yi;aa dk;dv ld;ad ci;dq	837
+一到两度	yi;aa dk;dv ld;ad du;gy	36
 一刀两断	yi;aa dk;gp ld;ad dr;ja	408
 一到两段	yi;aa dk;dv ld;ad dr;ud	117
+一到两份	yi;aa dk;dv ld;ad ff;rf	27
 一到两个	yi;aa dk;dv ld;ad ge;ra	1325
+一到两回	yi;aa dk;dv ld;ad hv;kk	24
+一到两家	yi;aa dk;dv ld;ad jw;bu	42
+一到两件	yi;aa dk;dv ld;ad jm;rn	41
+一到两块	yi;aa dk;dv ld;ad ky;td	18
+一到两款	yi;aa dk;dv ld;ad kr;qu	30
+一到两辆	yi;aa dk;dv ld;ad ld;il	28
+一到两轮	yi;aa dk;dv ld;ad lp;il	41
+一到两米	yi;aa dk;dv ld;ad mi;dd	31
 一到两年	yi;aa dk;dv ld;ad nm;ra	458
+一到两篇	yi;aa dk;dv ld;ad pm;vb	24
+一到两瓶	yi;aa dk;dv ld;ad py;wb	42
+一到两台	yi;aa dk;dv ld;ad tl;sk	31
+一到两套	yi;aa dk;dv ld;ad tk;di	36
 一到两天	yi;aa dk;dv ld;ad tm;ad	680
+一到两条	yi;aa dk;dv ld;ad tc;wm	36
+一到两项	yi;aa dk;dv ld;ad xd;gy	35
+一到两页	yi;aa dk;dv ld;ad ye;ab	30
+一到两只	yi;aa dk;dv ld;ad vi;kb	23
+一到两种	yi;aa dk;dv ld;ad vs;hv	39
 一到两周	yi;aa dk;dv ld;ad vb;kt	639
+一到两组	yi;aa dk;dv ld;ad zu;sq	26
 一刀了断	yi;aa dk;gp lc;aa dr;ja	252
 已到楼下	yi;vg dk;dv lb;ml xw;ab	230
 一道美食	yi;aa dk;zu mz;dy ui;rl	770
@@ -1249746,6 +1249558,7 @@ sort: by_weight
 一两个月	yi;aa ld;ad ge;ra yt;pa	3960
 一两个钟	yi;aa ld;ad ge;ra vs;jv	495
 一两个字	yi;aa ld;ad ge;ra zi;bz	612
+一两公斤	yi;aa ld;ad gs;sb jn;pa	25
 一两公里	yi;aa ld;ad gs;sb li;aa	495
 一辆好车	yi;aa ld;il hk;nz ie;aa	594
 以量换价	yi;rd ld;ol hr;fh jw;rj	302
@@ -1255445,6 +1255258,7 @@ sort: by_weight
 一条蚯蚓	yi;aa tc;wm qq;iq yn;iy	410
 一条裙子	yi;aa tc;wm qp;yj zi;aa	778
 一条人命	yi;aa tc;wm rf;pd my;re	765
+一条绳上	yi;aa tc;wm ug;sd uh;aa	129
 一条绳子	yi;aa tc;wm ug;sd zi;aa	639
 一条手链	yi;aa tc;wm ub;pa lm;jl	549
 一条水渠	yi;aa tc;wm uv;ad qu;mj	423
@@ -1259215,6 +1259029,8 @@ sort: by_weight
 一只耳朵	yi;aa vi;kb er;aa do;mj	765
 一只二哈	yi;aa vi;kb er;aa ha;kh	328
 一只耳环	yi;aa vi;kb er;aa hr;wb	382
+一至二级	yi;aa vi;tv er;aa ji;sj	26
+一至二楼	yi;aa vi;tv er;aa lb;ml	28
 依之而住	yi;ry vi;dd er;aa vu;rv	50
 遗址发掘	yi;zg vi;tv fa;ay jt;fq	612
 抑制发芽	yi;fe vi;dg fa;ay ya;cy	212
@@ -1259396,7 +1259212,9 @@ sort: by_weight
 异指连击	yi;cs vi;fv lm;zi ji;fk	45
 一致连续	yi;aa vi;wv lm;zi xu;sm	513
 一至两年	yi;aa vi;tv ld;ad nm;ra	630
+一至两天	yi;aa vi;tv ld;ad tm;ad	33
 一直亮着	yi;aa vi;uq ld;wj ve;yo	616
+一至两周	yi;aa vi;tv ld;ad vb;kt	36
 一纸令下	yi;aa vi;su ly;rs xw;ab	28
 已知领域	yi;vg vi;ku ly;yl yu;th	302
 一支榴莲	yi;aa vi;uy lq;ml lm;cl	50
@@ -1261917,6 +1261735,7 @@ sort: by_weight
 淫人之妻	yn;dr rf;pd vi;dd qi;na	50
 因人制宜	yn;kd rf;pd vi;dg yi;bq	44
 引人注目	yn;ga rf;pd vu;dv mu;aa	1545
+引人瞩目	yn;ga rf;pd vu;ou mu;aa	423
 引人注意	yn;ga rf;pd vu;dv yi;xy	333
 引人驻足	yn;ga rf;pd vu;mv zu;kv	382
 因日而异	yn;kd ri;aa er;aa yi;cs	45
@@ -1266856,6 +1266675,7 @@ sort: by_weight
 用军一时	ys;kf jp;bi yi;aa ui;oc	76
 拥军优抚	ys;fy jp;bi yb;ry fu;fw	261
 拥军优抗	ys;fy jp;bi yb;ry kh;fk	76
+拥军优属	ys;fy jp;bi yb;ry uu;uy	623
 拥军支前	ys;fy jp;bi vi;uy qm;qd	220
 用空城计	ys;kf ks;xg ig;ti ji;yu	356
 用快捷键	ys;kf ky;xd jx;fj jm;jj	860
@@ -1275739,33 +1275559,27 @@ sort: by_weight
 预定产量	yu;yy dy;bp ij;wi ld;ol	50
 预定长度	yu;yy dy;bp ih;pd du;gy	180
 预订成功	yu;yy dy;yd ig;gg gs;lg	576
-预定成功	yu;yy dy;bp ig;gg gs;lg	395
 预定程序	yu;yy dy;bp ig;hi xu;gy	441
 预定弹道	yu;yy dy;bp dj;gd dk;zu	180
 预定地点	yu;yy dy;bp di;ty dm;hv	47
 预订电话	yu;yy dy;yd dm;ag hw;yu	850
-预定电话	yu;yy dy;bp dm;ag hw;yu	574
 预定范围	yu;yy dy;bp fj;ce wz;kw	234
 预订房间	yu;yy dy;yd fh;hf jm;mo	580
-预定房间	yu;yy dy;bp fh;hf jm;mo	426
 预订方式	yu;yy dy;yd fh;wd ui;gy	598
-预定方式	yu;yy dy;bp fh;wd ui;gy	338
 预订服务	yu;yy dy;yd fu;oy wu;wl	801
-预定服务	yu;yy dy;bp fu;oy wu;wl	464
 预定轨道	yu;yy dy;bp gv;ij dk;zu	796
 预定海域	yu;yy dy;bp hl;dm yu;th	356
 预定计划	yu;yy dy;bp ji;yu hw;dg	616
 预订机票	yu;yy dy;yd ji;mj pc;xu	1148
-预订价格	yu;yy dy;yd jw;rj ge;mg	3
-预定价格	yu;yy dy;bp jw;rj ge;mg	2
+预订价格	yu;yy dy;yd jw;rj ge;mg	13
+预定价格	yu;yy dy;bp jw;rj ge;mg	5
 预订酒店	yu;yy dy;yd jq;dy dm;gv	1030
 预定利率	yu;yy dy;bp li;hd lv;wu	590
-预定门票	yu;yy dy;bp mf;dg pc;xu	927
-预订门票	yu;yy dy;yd mf;dg pc;xu	574
+预订门票	yu;yy dy;yd mf;dg pc;xu	927
+预定门票	yu;yy dy;bp mf;dg pc;xu	574
 预定目标	yu;yy dy;bp mu;aa bc;mu	144
 预订平台	yu;yy dy;yd py;aa tl;sk	842
-预订热线	yu;yy dy;yd re;hv xm;sj	3
-预定热线	yu;yy dy;bp re;hv xm;sj	2
+预订热线	yu;yy dy;yd re;hv xm;sj	32
 预定人数	yu;yy dy;bp rf;pd uu;wl	324
 预定日期	yu;yy dy;bp ri;aa qi;oq	19
 预定时间	yu;yy dy;bp ui;oc jm;mo	119
@@ -1289219,13 +1289033,10 @@ sort: by_weight
 早作晚息	zk;ou zo;rv wj;om xi;xz	45
 早做准备	zk;ou zo;rg vp;dv bz;wt	634
 早作准备	zk;ou zo;rv vp;dv bz;wt	558
-泽被苍生	ze;df bz;yp ch;cc ug;na	16
 责备孩子	ze;bf bz;wt hl;zh zi;aa	626
-泽被后世	ze;df bz;yp hb;pk ui;ca	19
+泽被后人	ze;df bz;yp hb;pk rf;pd	12
 责备求全	ze;bf bz;wt qq;ad qr;rw	13
-泽被天下	ze;df bz;yp tm;ad xw;ab	25
 责备贤者	ze;bf bz;wt xm;by ve;ol	252
-泽被子孙	ze;df bz;yp zi;aa sp;zx	3
 泽本嘉光	ze;df bf;aa jw;uj gd;ea	279
 则痹不仁	ze;bd bi;bb bu;ad rf;re	45
 择不处仁	ze;ff bu;ad iu;wb rf;re	130
@@ -1289318,6 +1289129,10 @@ sort: by_weight
 择偶要求	ze;ff ou;ry yk;xn qq;ad	616
 泽畔行吟	ze;df pj;tb xy;xi yn;kj	130
 泽佩德罗	ze;df pz;rb de;xx lo;sx	4
+泽被苍生	ze;df pi;yp ch;cc ug;na	16
+泽被后世	ze;df pi;yp hb;pk ui;ca	19
+泽被天下	ze;df pi;yp tm;ad xw;ab	25
+泽被子孙	ze;df pi;yp zi;aa sp;zx	3
 仄起平收	ze;ir qi;zj py;aa ub;wj	16
 泽漆三斤	ze;df qi;dq sj;aa jn;pa	45
 择期手术	ze;ff qi;oq ub;pa uu;md	544
@@ -1289987,6 +1289802,7 @@ sort: by_weight
 增产报国	zg;tc ij;wi bk;fy go;ky	3
 增产计划	zg;tc ij;wi ji;yu hw;dg	428
 增产提质	zg;tc ij;wi ti;fu vi;bu	162
+增产增收	zg;tc ij;wi zg;tc ub;wj	423
 增程电动	zg;tc ig;hi dm;ag ds;ly	351
 增城九重	zg;tc ig;ti jq;py is;pa	202
 增城荔枝	zg;tc ig;ti li;cl vi;mv	212
@@ -1291260,6 +1291076,7 @@ sort: by_weight
 展开反击	vj;uy kl;ac fj;py ji;fk	598
 展开攻势	vj;uy kl;ac gs;wg ui;lv	72
 展开工作	vj;uy kl;ac gs;aa zo;rv	670
+展开行动	vj;uy kl;ac hh;xi ds;ly	163
 展开合作	vj;uy kl;ac he;rk zo;rv	968
 展开激战	vj;uy kl;ac ji;dj vj;gv	693
 展开较量	vj;uy kl;ac jc;ij ld;ol	621
@@ -1291275,7 +1291092,6 @@ sort: by_weight
 展开系数	vj;uy kl;ac xi;ps uu;wl	288
 展开想象	vj;uy kl;ac xd;xx xd;du	598
 展开笑颜	vj;uy kl;ac xc;vy yj;yy	436
-展开行动	vj;uy kl;ac xy;xi ds;ly	163
 展开研究	vj;uy kl;ac yj;uk jq;xj	630
 展开一场	vj;uy kl;ac yi;aa ih;ty	873
 展开侦查	vj;uy kl;ac vf;rv ia;md	688
@@ -1294551,6 +1294367,7 @@ sort: by_weight
 这倒不错	ve;zw dk;rd bu;ad co;jx	364
 这倒不是	ve;zw dk;rd bu;ad ui;op	590
 这到底是	ve;zw dk;dv di;gd ui;op	1318
+这道红光	ve;zw dk;zu hs;sg gd;ea	31
 这倒没有	ve;zw dk;rd mz;du yb;ou	35
 这倒是的	ve;zw dk;rd ui;op de;bu	212
 这倒稀奇	ve;zw dk;rd xi;hx qi;dk	50
@@ -1307614,7 +1307431,7 @@ sort: by_weight
 致命侵袭	vi;wv my;re qn;ry xi;ly	130
 致命请柬	vi;wv my;re qy;yq jm;ad	130
 致命情人	vi;wv my;re qy;xq rf;pd	356
-致命躯壳	vi;wv my;re qu;uq ke;uj	117
+致命躯壳	vi;wv my;re qu;uq qc;uj	117
 致命缺点	vi;wv my;re qt;fd dm;hv	621
 致命缺陷	vi;wv my;re qt;fd xm;ej	666
 知名人士	vi;ku my;xk rf;pd ui;aa	609
@@ -1315041,6 +1314858,8 @@ sort: by_weight
 中技贸易	vs;aa ji;fv mk;bd yi;ow	153
 终极梦想	vs;sd ji;mj mg;mx xd;xx	688
 终极秘技	vs;sd ji;mj mi;hb ji;fv	117
+中继模式	vs;aa ji;sa mo;mm ui;gy	151
+终极模式	vs;sd ji;mj mo;mm ui;gy	41
 终极目标	vs;sd ji;mj mu;aa bc;mu	2402
 终极目的	vs;sd ji;mj mu;aa di;bu	716
 终极内测	vs;sd ji;mj nz;ad ce;dz	418
@@ -1319116,7 +1318935,6 @@ sort: by_weight
 重罪轻报	vs;pa zv;sf qy;ig bk;fy	194
 重罪轻判	vs;pa zv;sf qy;ig pj;db	6
 重罪十条	vs;pa zv;sf ui;aa tc;wm	270
-重作冯妇	vs;pa zo;rv fg;dm fu;nx	225
 重左轻右	vs;pa zo;ug qy;ig yb;ku	50
 州安纳区	vb;id an;bn na;sn qu;ki	266
 州安全局	vb;id an;bn qr;rw ju;uk	50
@@ -1327020,6 +1326838,7 @@ sort: by_weight
 自成一套	zi;pa ig;gg yi;aa tk;di	490
 自成一体	zi;pa ig;gg yi;aa ti;rb	458
 自成一系	zi;pa ig;gg yi;aa xi;ps	50
+自筹经费	zi;pa ib;vu jy;sg fz;bf	223
 字丑勿怪	zi;bz ib;aa wu;gp gy;xu	162
 子丑寅卯	zi;aa ib;aa yn;bb mk;ep	170
 自筹资金	zi;pa ib;vu zi;bc jn;ra	126
@@ -1338265,7 +1338084,6 @@ sort: by_weight
 爱的罗曼斯	ai;vy de;bu lo;sx mj;oy si;jq	10
 爱德曼公关	ai;vy de;xx mj;oy gs;sb gr;qd	10
 艾德曼金属	ai;ci de;xx mj;oy jn;ra uu;uy	10
-哀的美敦书	ai;wy de;bu mz;dy dp;wx uu;ad	10
 爱的面包魂	ai;vy de;bu mm;aa bk;gs hp;gy	10
 爱的木莓寮	ai;vy de;bu mu;ad mz;cm lc;bl	10
 爱德生试验	ai;vy de;xx ug;na ui;yu yj;ma	10
@@ -1338278,6 +1338096,7 @@ sort: by_weight
 爱的再告白	ai;vy de;bu zl;aa gk;kn bl;pa	10
 爱的主打歌	ai;vy de;bu vu;dw da;fd ge;qg	10
 爱的猪大哥	ai;vy de;bu vu;qv da;ad ge;kd	10
+哀的美敦书	ai;wy di;bu mz;dy dp;wx uu;ad	10
 爱迪生氏病	ai;vy di;zy ug;na ui;pg by;bb	10
 爱丁顿光度	ai;vy dy;aa dp;yt gd;ea du;gy	10
 爱丁顿极限	ai;vy dy;aa dp;yt ji;mj xm;eg	10
@@ -1338986,6 +1338805,8 @@ sort: by_weight
 八大戏剧台	ba;pd da;ad xi;yg ju;dj tl;sk	10
 八大综艺台	ba;pd da;ad zs;sz yi;cy tl;sk	10
 拔刀狂想曲	ba;fb dk;gp kd;qw xd;xx qu;aa	10
+八到十二周	ba;pd dk;dv ui;aa er;aa vb;kt	25
+八到十小时	ba;pd dk;dv ui;aa xc;ad ui;oc	35
 霸道总裁型	ba;yo dk;zu zs;xk cl;yg xy;tx	10
 巴德尔组织	ba;ag de;xx er;dx zu;sq vi;sv	10
 巴登马六甲	ba;ag dg;dd ma;aa lq;wb jw;aa	10
@@ -1343288,6 +1343109,7 @@ sort: by_weight
 不事先通知	bu;ad ui;aa xm;ne ts;zy vi;ku	10
 不是养蚕人	bu;ad ui;op yh;ya cj;it rf;pd	10
 不失一般性	bu;ad ui;pf yi;aa bj;vu xy;xu	10
+不是一个事	bu;ad ui;op yi;aa ge;ra ui;aa	10
 不是因为说	bu;ad ui;op yn;kd wz;dd uo;yd	10
 不使用化肥	bu;ad ui;rl ys;kf hw;rb fz;ob	10
 不使用农药	bu;ad ui;rl ys;kf ns;by yk;cy	10
@@ -1352957,7 +1352779,7 @@ sort: by_weight
 短叶锦鸡儿	dr;ud ye;ku jn;jb ji;ny er;pg	10
 短叶柳叶菜	dr;ud ye;ku lq;mm ye;ku cl;cc	10
 短叶罗汉松	dr;ud ye;ku lo;sx hj;dy ss;mg	10
-短叶马尾松	dr;ud ye;ku ma;aa yi;um ss;mg	10
+短叶马尾松	dr;ud ye;ku ma;aa wz;um ss;mg	10
 短叶秦岭藤	dr;ud ye;ku qn;hf ly;ul tg;ct	10
 短叶水石榕	dr;ud ye;ku uv;ad ui;kp rs;mr	10
 短叶水蜈蚣	dr;ud ye;ku uv;ad wu;iw gs;ig	10
@@ -1354959,6 +1354781,7 @@ sort: by_weight
 反战车步枪	fj;py vj;gv ie;aa bu;vx qd;mc	10
 反战车武器	fj;py vj;gv ie;aa wu;vy qi;kk	10
 反战主义者	fj;py vj;gv vu;dw yi;id ve;ol	10
+反者道之动	fj;py ve;ol dk;zu vi;dd ds;ly	10
 反侦查能力	fj;py vf;rv ia;md ng;sb li;gp	10
 反侦察能力	fj;py vf;rv ia;bj ng;sb li;gp	10
 反侦查意识	fj;py vf;rv ia;md yi;xy ui;yv	10
@@ -1357317,9 +1357140,11 @@ sort: by_weight
 浮萍一道开	fu;df py;cp yi;aa dk;zu kl;ac	10
 夫妻财产制	fu;ad qi;na cl;bc ij;wi vi;dg	10
 伏俟城遗址	fu;rq qi;ru ig;ti yi;zg vi;tv	10
+服气的不行	fu;oy qi;py de;bu bu;ad xy;xi	10
 夫妻的感情	fu;ad qi;na de;bu gj;xx qy;xq	10
 夫妻的关系	fu;ad qi;na de;bu gr;qd xi;ps	10
 夫妻的世界	fu;ad qi;na de;bu ui;ca jx;tj	10
+服气地不行	fu;oy qi;py di;ty bu;ad xy;xi	10
 夫妻老婆店	fu;ad qi;na lk;lb po;nb dm;gv	10
 夫妻生活后	fu;ad qi;na ug;na ho;du hb;pk	10
 夫妻生活时	fu;ad qi;na ug;na ho;du ui;oc	10
@@ -1372312,13 +1372137,6 @@ sort: by_weight
 静水皮划艇	jy;qv uv;ad pi;ad hw;dg ty;vt	10
 净水器协会	jy;dv uv;ad qi;kk xx;ub hv;ry	10
 经司法鉴定	jy;sg si;gk fa;dq jm;jv dy;bp	10
-井宿增十八	jy;aa su;bb zg;tc ui;aa ba;pd	10
-井宿增十二	jy;aa su;bb zg;tc ui;aa er;aa	10
-井宿增十九	jy;aa su;bb zg;tc ui;aa jq;py	10
-井宿增十七	jy;aa su;bb zg;tc ui;aa qi;ag	10
-井宿增十三	jy;aa su;bb zg;tc ui;aa sj;aa	10
-井宿增十四	jy;aa su;bb zg;tc ui;aa si;aa	10
-井宿增十五	jy;aa su;bb zg;tc ui;aa wu;aa	10
 精算师华绫	jy;mq sr;vc ui;ab hw;uh ly;sl	10
 静态暗间隙	jy;qv tl;xt an;oy jm;mo xi;ex	10
 镜台测微尺	jy;jj tl;sk ce;dz wz;xw ii;ad	10
@@ -1372451,6 +1372269,13 @@ sort: by_weight
 井陉矿务局	jy;aa xy;eg kd;ug wu;wl ju;uk	10
 景行厅男孩	jy;oj xy;xi ty;id nj;tl hl;zh	10
 京雄商高铁	jy;wx xs;vh uh;wk gk;wk tx;ju	10
+井宿增十八	jy;aa xq;bb zg;tc ui;aa ba;pd	10
+井宿增十二	jy;aa xq;bb zg;tc ui;aa er;aa	10
+井宿增十九	jy;aa xq;bb zg;tc ui;aa jq;py	10
+井宿增十七	jy;aa xq;bb zg;tc ui;aa qi;ag	10
+井宿增十三	jy;aa xq;bb zg;tc ui;aa sj;aa	10
+井宿增十四	jy;aa xq;bb zg;tc ui;aa si;aa	10
+井宿增十五	jy;aa xq;bb zg;tc ui;aa wu;aa	10
 竞选班干部	jy;lx xr;zx bj;dw gj;aa bu;ek	10
 竞选学生会	jy;lx xr;zx xt;zb ug;na hv;ry	10
 经血的颜色	jy;sg xt;pa de;bu yj;yy se;db	10
@@ -1377596,8 +1377421,14 @@ sort: by_weight
 良辰讵可待	ld;dg if;iy ju;yj ke;dk dl;xs	10
 两城镇遗址	ld;ad ig;ti vf;jv yi;zg vi;tv	10
 量大一点的	ld;ol da;ad yi;aa dm;hv de;bu	10
-两到三个月	ld;ad dk;dv sj;aa ge;ra yt;pa	10
+两到三个月	ld;ad dk;dv sj;aa ge;ra yt;pa	28
+两到三公斤	ld;ad dk;dv sj;aa gs;sb jn;pa	25
+两到三公里	ld;ad dk;dv sj;aa gs;sb li;aa	24
+两到三厘米	ld;ad dk;dv sj;aa li;il mi;dd	17
+两到三米高	ld;ad dk;dv sj;aa mi;dd gk;wk	33
 两到三年内	ld;ad dk;dv sj;aa nm;ra nz;ad	10
+两到四个人	ld;ad dk;dv si;aa ge;ra rf;pd	29
+两到五毫米	ld;ad dk;dv wu;aa hk;mb mi;dd	38
 两德统一后	ld;ad de;xx ts;si yi;aa hb;pk	10
 两点半消失	ld;ad dm;hv bj;bf xc;dx ui;pf	10
 两点换三点	ld;ad dm;hv hr;fh sj;aa dm;hv	10
@@ -1377776,6 +1377607,8 @@ sort: by_weight
 两人的作品	ld;ad rf;pd de;bu zo;rv pn;kk	10
 两人性世界	ld;ad rf;pd xy;xu ui;ca jx;tj	10
 两人在交往	ld;ad rf;pd zl;ut jc;li wh;xv	10
+两三个小时	ld;ad sj;aa ge;ra xc;ad ui;oc	35
+两三个星期	ld;ad sj;aa ge;ra xy;ou qi;oq	34
 凉伞遮珍珠	ld;dj sj;ru ve;zu vf;wp vu;wv	10
 晾晒的衣服	ld;oj ul;ox de;bu yi;dd fu;oy	10
 晾晒的衣物	ld;oj ul;ox de;bu yi;dd wu;nw	10
@@ -1378430,7 +1378263,9 @@ sort: by_weight
 硫代乙酰胺	lq;ui dl;ry yi;aa xm;yx an;oa	10
 留待作遗施	lq;td dl;xs zo;rv yi;zg ui;fy	10
 柳氮磺吡啶	lq;mm dj;qy hd;uh bi;kb dy;kd	10
+六到八小时	lq;wb dk;dv ba;pd xc;ad ui;oc	23
 留岛不留人	lq;td dk;nu bu;ad lq;td rf;pd	10
+六到九个月	lq;wb dk;dv jq;py ge;ra yt;pa	36
 六道轮回图	lq;wb dk;zu lp;il hv;kk tu;kd	10
 刘德华的刘	lq;dw de;xx hw;uh de;bu lq;dw	10
 刘德华监制	lq;dw de;xx hw;uh jm;mv vi;dg	10
@@ -1391098,7 +1390933,14 @@ sort: by_weight
 三带喙库蚊	sj;aa dl;jb hv;kt ku;gi wf;iw	10
 散弹定序法	sj;wo dj;gd dy;bp xu;gy fa;dq	10
 三盗九龙杯	sj;aa dk;mc jq;py ls;ad bz;mb	10
+三到四小时	sj;aa dk;dv si;aa xc;ad ui;oc	29
+三到五个人	sj;aa dk;dv wu;aa ge;ra rf;pd	38
+三到五个月	sj;aa dk;dv wu;aa ge;ra yt;pa	37
+三到五公斤	sj;aa dk;dv wu;aa gs;sb jn;pa	40
+三到五公里	sj;aa dk;dv wu;aa gs;sb li;aa	39
 三刀屋久扶	sj;aa dk;gp wu;uv jq;pd fu;ff	10
+三到五厘米	sj;aa dk;dv wu;aa li;il mi;dd	36
+三到五米长	sj;aa dk;dv wu;aa mi;dd ih;pd	29
 三岛由纪夫	sj;aa dk;nu yb;aa ji;sj fu;ad	10
 三道镇水库	sj;aa dk;zu vf;jv uv;ad ku;gi	10
 三的二次方	sj;aa de;bu er;aa ci;dq fh;wd	10
@@ -1391345,6 +1391187,7 @@ sort: by_weight
 三赎基督国	sj;aa uu;bm ji;tq du;ou go;ky	10
 三死叉见顶	sj;aa si;db ia;yd jm;ag dy;yd	10
 三思而后行	sj;aa si;xt er;aa hb;pk xy;xi	10
+三四个星期	sj;aa si;aa ge;ra xy;ou qi;oq	27
 三司十三局	sj;aa si;gk ui;aa sj;aa ju;uk	10
 三淞线轮渡	sj;aa ss;ds xm;sj lp;il du;dd	10
 三酸甘油酯	sj;aa sr;yj gj;ca yb;dy vi;yv	12
@@ -1391541,9 +1391384,9 @@ sort: by_weight
 瑟兹德科娃	se;wb zi;qy de;xx ke;hd wa;ng	10
 森近霖之助	sf;ml jn;zj ln;yl vi;dd vu;lq	10
 森田六元组	sf;ml tm;aa lq;wb yr;aw zu;sq	10
-僧伽婆尸沙	sg;rc jw;rj po;nb ui;ap ua;du	10
 僧来看佛面	sg;rc ll;am kj;ou fo;rf mm;aa	10
 僧敲月下门	sg;rc qc;pg yt;pa xw;ab mf;dg	10
+僧伽婆尸沙	sg;rc qx;rj po;nb ui;ap ua;du	10
 莎安娜米黄	ua;cu an;bn na;nn mi;dd hd;cb	10
 傻不愣登的	ua;rw bu;ad lg;xf dg;dd de;bu	10
 傻不傻逼吧	ua;rw bu;ad ua;rw bi;zf ba;kb	10
@@ -1394493,8 +1394336,11 @@ sort: by_weight
 适当的修剪	ui;zu dh;xx de;bu xq;rp jm;dq	10
 适当地运动	ui;zu dh;xx de;ty yp;zy ds;ly	10
 适当性义务	ui;zu dh;xx xy;xu yi;id wu;wl	10
+十到二十次	ui;aa dk;dv er;aa ui;aa ci;dq	24
 食道裂孔疝	ui;rl dk;zu lx;yl ks;zg uj;bu	10
+十到十二周	ui;aa dk;dv ui;aa er;aa vb;kt	10
 试倒是试过	ui;yu dk;rd ui;op ui;yu go;zc	10
+十到十五天	ui;aa dk;dv ui;aa wu;aa tm;ad	34
 失道者寡助	ui;pf dk;zu ve;ol gw;bf vu;lq	10
 师道之不复	ui;ab dk;zu vi;dd bu;ad fu;wo	10
 使得不符合	ui;rl de;xc bu;ad fu;vf he;rk	10
@@ -1395262,6 +1395108,7 @@ sort: by_weight
 使快弹数曲	ui;rl ky;xd dj;gd uu;wl qu;aa	10
 什拉姆科娃	ui;ru la;fl mu;nm ke;hd wa;ng	10
 施莱尔理论	ui;fy ll;cl er;dx li;wl lp;yl	10
+十来个小时	ui;aa ll;am ge;ra xc;ad ui;oc	23
 是来看你的	ui;op ll;am kj;ou ni;re de;bu	10
 史莱渥斯基	ui;ki ll;cl wo;dw si;jq ji;tq	10
 史兰倩斯卡	ui;ki lj;qe qm;rq si;jq ka;ub	10
@@ -1397874,9 +1397721,8 @@ sort: by_weight
 双矩阵对策	ud;yy ju;uj vf;ei dv;cy ce;vc	10
 双可测变换	ud;yy ke;dk ce;dz bm;wy hr;fh	10
 双壳体潜艇	ud;yy ke;uj ti;rb qm;dt ty;vt	10
-爽快的答应	ud;dy ky;xd de;bu da;vh yy;ga	10
 爽快地答应	ud;dy ky;xd de;ty da;vh yy;ga	10
-爽快的战斗	ud;dy ky;xd de;bu vj;gv db;du	10
+爽快地战斗	ud;dy ky;xd de;ty vj;gv db;du	10
 双缆单源法	ud;yy lj;sl dj;ba yr;dy fa;dq	10
 爽朗的笑容	ud;dy lh;ol de;bu xc;vy rs;bg	10
 爽朗的笑声	ud;dy lh;ol de;bu xc;vy ug;um	10
@@ -1398535,6 +1398381,8 @@ sort: by_weight
 四代目土影	si;aa dl;ry mu;aa tu;aa yy;pj	10
 死当长相思	si;db dh;xx ih;pd xd;mo si;xt	10
 四道壁理论	si;aa dk;zu bi;tb li;wl lp;yl	10
+四到六个月	si;aa dk;dv lq;wb ge;ra yt;pa	24
+四到六小时	si;aa dk;dv lq;wb xc;ad ui;oc	40
 斯德丁条约	si;jq de;xx dy;aa tc;wm yt;su	10
 斯德哥尔摩	si;jq de;xx ge;kd er;dx mo;um	10
 死得很难看	si;db de;xc hf;xg nj;vy kj;ou	10
@@ -1399105,7 +1398953,7 @@ sort: by_weight
 松下政经塾	ss;mg xw;ab vg;wv jy;sg uu;tu	10
 嵩县公安局	ss;ug xm;sq gs;sb an;bn ju;uk	10
 松弦馆琴谱	ss;mg xm;gx gr;ug qn;wj pu;yp	10
-宋孝宗赵眘	ss;bm xc;zl zs;bu vk;zi uf;ob	10
+宋孝宗赵昚	ss;bm xc;zl zs;bu vk;zi uf;do	10
 送羊入虎口	ss;zg yh;da ru;pd hu;hj kb;aa	10
 送也没送过	ss;zg ye;gg mz;du ss;zg go;zc	10
 宋英宗赵曙	ss;bm yy;cy zs;bu vk;zi uu;ou	10
@@ -1400436,7 +1400284,6 @@ sort: by_weight
 韬奋基金会	tk;wj ff;dt ji;tq jn;ra hv;ry	10
 韬奋纪念馆	tk;wj ff;dt ji;sj nm;xj gr;ug	10
 陶夫基尔兴	tk;et fu;ad ji;tq er;dx xy;ba	10
-涛哥非流氓	tk;du ge;kd fz;aa lq;di mh;wm	10
 讨个好彩头	tk;yc ge;ra hk;nz cl;pc tb;dd	10
 套管伸缩器	tk;di gr;vg uf;ru so;ss qi;kk	10
 逃过了一劫	tk;zv go;zc le;aa yi;aa jx;lq	10
@@ -1405447,6 +1405294,8 @@ sort: by_weight
 我眼中的你	wo;pd yj;og vs;aa de;bu ni;re	10
 我眼中的她	wo;pd yj;og vs;aa de;bu ta;ny	10
 我要和他分	wo;pd yk;xn he;hk ta;ry ff;bd	10
+我要开炮了	wo;pd yk;xn kl;ac pk;hb le;aa	12
+我要开跑了	wo;pd yk;xn kl;ac pk;zb le;aa	10
 我要逆风去	wo;pd yk;xn ni;zn fg;ji qu;ts	10
 我要去找她	wo;pd yk;xn qu;ts vk;fg ta;ny	10
 我要是不丑	wo;pd yk;xn ui;op bu;ad ib;aa	10
@@ -1405693,9 +1405542,14 @@ sort: by_weight
 舞蹈和音乐	wu;rf dk;zj he;hk yn;lo le;pd	10
 五道口体校	wu;aa dk;zu kb;aa ti;rb xc;mj	10
 武道狂之诗	wu;vy dk;zu kd;qw vi;dd ui;ys	10
+五到六个月	wu;aa dk;dv lq;wb ge;ra yt;pa	16
 五岛美术馆	wu;aa dk;nu mz;dy uu;md gr;ug	10
 误导青少年	wu;yw dk;cs qy;of uk;xp nm;ra	10
 雾岛神宫站	wu;yw dk;nu uf;uu gs;bl vj;lv	10
+五到十个人	wu;aa dk;dv ui;aa ge;ra rf;pd	22
+五到十公斤	wu;aa dk;dv ui;aa gs;sb jn;pa	19
+五到十公里	wu;aa dk;dv ui;aa gs;sb li;aa	22
+五到十厘米	wu;aa dk;dv ui;aa li;il mi;dd	23
 武道实务官	wu;vy dk;zu ui;bt wu;wl gr;bg	10
 误导投资者	wu;yw dk;cs tb;fu zi;bc ve;ol	10
 无悼一人庸	wu;ag dk;xv yi;aa rf;pd ys;ga	10
@@ -1406096,16 +1405950,13 @@ sort: by_weight
 五龙奇剑士	wu;aa ls;ad qi;dk jm;da ui;aa	10
 武隆仙女山	wu;vy ls;eu xm;ru nv;aa uj;aa	10
 无路基病害	wu;ag lu;zg ji;tq by;bb hl;bk	10
-五路居一中	wu;aa lu;zg ju;ug yi;aa vs;aa	10
 乌鲁鲁巨石	wu;pa lu;yo lu;yo ju;kk ui;kp	10
 乌鲁木齐仓	wu;pa lu;yo mu;ad qi;wa ch;re	10
 乌鲁木齐到	wu;pa lu;yo mu;ad qi;wa dk;dv	10
 乌鲁木齐的	wu;pa lu;yo mu;ad qi;wa de;bu	10
-乌鲁木齐二	wu;pa lu;yo mu;ad qi;wa er;aa	10
 乌鲁木齐河	wu;pa lu;yo mu;ad qi;wa he;dk	10
 乌鲁木齐路	wu;pa lu;yo mu;ad qi;wa lu;zg	10
 乌鲁木齐南	wu;pa lu;yo mu;ad qi;wa nj;ua	10
-乌鲁木齐七	wu;pa lu;yo mu;ad qi;wa qi;ag	10
 乌鲁木齐去	wu;pa lu;yo mu;ad qi;wa qu;ts	10
 乌鲁木齐人	wu;pa lu;yo mu;ad qi;wa rf;pd	10
 兀鲁真公主	wu;ae lu;yo vf;uj gs;sb vu;dw	10
@@ -1406123,7 +1405974,6 @@ sort: by_weight
 五马路小学	wu;aa ma;aa lu;zg xc;ad xt;zb	10
 五马坪监狱	wu;aa ma;aa py;tp jm;mv yu;qq	10
 雾霾的危害	wu;yw ml;yl de;bu wz;de hl;bk	10
-伍麦耶王朝	wu;rw ml;fw ye;ee wh;aa ik;ou	10
 伍麦叶王朝	wu;rw ml;fw ye;ku wh;aa ik;ou	10
 物美便利店	wu;nw mz;dy bm;rg li;hd dm;gv	10
 物美大卖场	wu;nw mz;dy da;ad ml;um ih;ty	10
@@ -1406188,7 +1406038,6 @@ sort: by_weight
 武器和盔甲	wu;vy qi;kk he;hk kv;mh jw;aa	10
 武器和装备	wu;vy qi;kk he;hk vd;yv bz;wt	10
 武奇科维奇	wu;vy qi;dk ke;hd wz;sv qi;dk	10
-吴奇隆前妻	wu;kt qi;dk ls;eu qm;qd qi;na	10
 吾妻日出夫	wu;kw qi;na ri;aa iu;aa fu;ad	10
 武器训练科	wu;vy qi;kk xp;yi lm;sd ke;hd	10
 武器训练师	wu;vy qi;kk xp;yi lm;sd ui;ab	10
@@ -1414600,6 +1414449,13 @@ sort: by_weight
 一党独大制	yi;aa dh;ek du;qi da;ad vi;dg	10
 一到了冬天	yi;aa dk;dv le;aa ds;wd tm;ad	10
 一到了夏天	yi;aa dk;dv le;aa xw;wz tm;ad	10
+一到两个月	yi;aa dk;dv ld;ad ge;ra yt;pa	41
+一到两公斤	yi;aa dk;dv ld;ad gs;sb jn;pa	37
+一到两公里	yi;aa dk;dv ld;ad gs;sb li;aa	35
+一到两毫米	yi;aa dk;dv ld;ad hk;mb mi;dd	26
+一到两厘米	yi;aa dk;dv ld;ad li;il mi;dd	28
+一到两米高	yi;aa dk;dv ld;ad mi;dd gk;wk	20
+一到两星期	yi;aa dk;dv ld;ad xy;ou qi;oq	10
 一刀流剑术	yi;aa dk;gp lq;di jm;da uu;md	10
 一道美丽的	yi;aa dk;zu mz;dy li;ad de;bu	10
 一道面试题	yi;aa dk;zu mm;aa ui;yu ti;uy	10
@@ -1414977,6 +1414833,7 @@ sort: by_weight
 易竞拍平台	yi;ow jy;lx pl;fb py;aa tl;sk	10
 易竞拍专区	yi;ow jy;lx pl;fb vr;ad qu;ki	10
 已经失传了	yi;vg jy;sg ui;pf ir;rv le;aa	10
+已经熟了的	yi;vg jy;sg uu;hu le;aa de;bu	10
 翼茎水丁香	yi;yg jy;cg uv;ad dy;aa xd;ho	10
 以敬畏之心	yi;rd jy;wg wz;ty vi;dd xn;dd	10
 怡景中心城	yi;xt jy;oj vs;aa xn;dd ig;ti	10
@@ -1415098,6 +1414955,8 @@ sort: by_weight
 衣笠贞之助	yi;dd li;vl vf;bb vi;dd vu;lq	10
 忆莲演唱会	yi;xy lm;cl yj;dy ih;ki hv;ry	10
 一两个季度	yi;aa ld;ad ge;ra ji;hz du;gy	10
+一两个小时	yi;aa ld;ad ge;ra xc;ad ui;oc	39
+一两个星期	yi;aa ld;ad ge;ra xy;ou qi;oq	40
 医疗等服务	yi;ku lc;bl dg;vs fu;oy wu;wl	10
 医疗等行业	yi;ku lc;bl dg;vs hh;xi ye;aa	10
 医疗等领域	yi;ku lc;bl dg;vs ly;yl yu;th	10
@@ -1415188,6 +1415047,7 @@ sort: by_weight
 伊尼亚卡岛	yi;ry ni;ub ya;ay ka;ub dk;nu	10
 伊尼亚里图	yi;ry ni;ub ya;ay li;aa tu;kd	10
 一年春好处	yi;aa nm;ra ip;of hk;nz iu;wb	10
+一年到两年	yi;aa nm;ra dk;dv ld;ad nm;ra	41
 以年为单位	yi;rd nm;ra wz;dd dj;ba wz;rl	10
 一年一年地	yi;aa nm;ra yi;aa nm;ra de;ty	10
 一念一清净	yi;aa nm;xj yi;aa qy;dq jy;dv	10
@@ -1441768,7 +1441628,6 @@ sort: by_weight
 国网江苏电力	go;ky wh;ki jd;dg su;cb dm;ag li;gp	10
 国王密使系列	go;ky wh;aa mi;ub ui;rl xi;ps lx;dd	10
 国网青海电力	go;ky wh;ki qy;of hl;dm dm;ag li;gp	10
-国网山东电力	go;ky wh;ki uj;aa ds;ad dm;ag li;gp	10
 国网陕西电力	go;ky wh;ki uj;ej xi;aa dm;ag li;gp	10
 国网四川电力	go;ky wh;ki si;aa ir;pa dm;ag li;gp	10
 国网新疆电力	go;ky wh;ki xn;jq jd;gj dm;ag li;gp	10
@@ -1447609,6 +1447468,7 @@ sort: by_weight
 旧达维德科沃	jq;ao da;zd wz;sv de;xx ke;hd wo;dy	10
 久大盐业公司	jq;pd da;ad yj;mb ye;aa gs;sb si;gk	10
 就当没发生过	jq;yj dh;xx mz;du fa;ay ug;na go;zc	10
+九到十二个月	jq;py dk;dv ui;aa er;aa ge;ra yt;pa	20
 九地黄流乱注	jq;py di;ty hd;cb lq;di lr;ug vu;dv	10
 酒店的服务员	jq;dy dm;gv de;bu fu;oy wu;wl yr;kb	10
 酒店袭击事件	jq;dy dm;gv xi;ly ji;fk ui;aa jm;rn	10
@@ -1450429,6 +1450289,7 @@ sort: by_weight
 两弹一星精神	ld;ad dj;gd yi;aa xy;ou jy;mq uf;uu	10
 两弹一星元勋	ld;ad dj;gd yi;aa xy;ou yr;aw xp;ly	10
 梁单元方程式	ld;md dj;ba yr;aw fh;wd ig;hi ui;gy	10
+两到三个星期	ld;ad dk;dv sj;aa ge;ra xy;ou qi;oq	10
 两德基础条约	ld;ad de;xx ji;tq iu;ui tc;wm yt;su	10
 两点边值问题	ld;ad dm;hv bm;zl vi;rv wf;km ti;uy	10
 两点电荷之间	ld;ad dm;hv dm;ag he;ch vi;dd jm;mo	10
@@ -1450904,7 +1450765,7 @@ sort: by_weight
 柳氮磺吡啶片	lq;mm dj;qy hd;uh bi;kb dy;kd pm;pa	10
 柳氮磺吡啶栓	lq;mm dj;qy hd;uh bi;kb dy;kd ur;mq	10
 留党察看一年	lq;td dh;ek ia;bj kj;ou yi;aa nm;ra	10
-六到十二个月	lq;wb dk;dv ui;aa er;aa ge;ra yt;pa	10
+六到十二个月	lq;wb dk;dv ui;aa er;aa ge;ra yt;pa	30
 六岛艺术中心	lq;wb dk;nu yi;cy uu;md vs;aa xn;dd	10
 刘德华的电影	lq;dw de;xx hw;uh de;bu dm;ag yy;pj	10
 刘德华的粉丝	lq;dw de;xx hw;uh de;bu ff;mf si;aa	10
@@ -1451310,6 +1451171,7 @@ sort: by_weight
 乱得一塌糊涂	lr;ug de;xc yi;aa ta;ty hu;mh tu;dy	10
 卵果鱼鳞云杉	lr;pd go;tm yu;da ln;yl yp;es uj;mp	10
 滦河河口湿地	lr;dl he;dk he;dk kb;aa ui;dx di;ty	10
+乱七八糟的人	lr;ug qi;ag ba;pd zk;mc de;bu rf;pd	10
 乱七八糟的事	lr;ug qi;ag ba;pd zk;mc de;bu ui;aa	10
 乱枪打鸟论证	lr;ug qd;mc da;fd nc;pa lp;yl vg;yv	10
 卵生哺乳动物	lr;pd ug;na bu;kf ru;gf ds;ly wu;nw	10
@@ -1451326,7 +1451188,6 @@ sort: by_weight
 銮仪卫云麾使	lr;jy yi;ry wz;ga yp;es hv;mm ui;rl	10
 卵圆钳不锈钢	lr;pd yr;ky qm;jg bu;ad xq;jx gh;jg	10
 乱糟糟的头发	lr;ug zk;mc zk;mc de;bu tb;dd fa;ay	10
-伦巴第大区人	lp;rl ba;ag di;vp da;ad qu;ki rf;pd	10
 伦勃朗式用光	lp;rl bo;lb lh;ol ui;gy ys;kf gd;ea	10
 论道德的谱系	lp;yl dk;zu de;xx de;bu pu;yp xi;ps	10
 轮岛分屯基地	lp;il dk;nu ff;bd tp;ag ji;tq di;ty	10
@@ -1451365,7 +1451226,6 @@ sort: by_weight
 罗伯兹压力计	lo;sx bo;rb zi;qy ya;id li;gp ji;yu	10
 罗布麻降压片	lo;sx bu;ju ma;gl jd;ef ya;id pm;pa	10
 罗茨式鼓风机	lo;sx ci;cc ui;gy gu;vd fg;ji ji;mj	10
-罗德岛州公司	lo;sx de;xx dk;nu vb;id gs;sb si;gk	10
 罗德里格公式	lo;sx de;xx li;aa ge;mg gs;sb ui;gy	10
 罗德里格斯岛	lo;sx de;xx li;aa ge;mg si;jq dk;nu	10
 罗德西亚锥虫	lo;sx de;xx xi;aa ya;ay vv;jv is;ad	10
@@ -1451401,9 +1451261,6 @@ sort: by_weight
 逻辑区块定址	lo;zl ji;ie qu;ki ky;td dy;bp vi;tv	10
 落基山的猎人	lo;cl ji;tq uj;aa de;bu lx;qx rf;pd	10
 落基山公园群	lo;cl ji;tq uj;aa gs;sb yr;ky qp;yj	10
-落基山脉历史	lo;cl ji;tq uj;aa ml;oy li;il ui;ki	10
-落基山脉生态	lo;cl ji;tq uj;aa ml;oy ug;na tl;xt	10
-落基山脉植物	lo;cl ji;tq uj;aa ml;oy vi;mv wu;nw	10
 逻辑实证主义	lo;zl ji;ie ui;bt vg;yv vu;dw yi;id	10
 逻辑斯蒂方程	lo;zl ji;ie si;jq di;cd fh;wd ig;hi	10
 逻辑斯谛方程	lo;zl ji;ie si;jq di;yd fh;wd ig;hi	10
@@ -1456387,43 +1456244,6 @@ sort: by_weight
 权贵资本主义	qr;my gv;ba zi;bc bf;aa vu;dw yi;id	10
 全国百强县市	qr;rw go;ky bl;ab qd;gs xm;sq ui;wj	10
 全过程的管理	qr;rw go;zc ig;hi de;bu gr;vg li;wl	10
-全国成人高考	qr;rw go;ky ig;gg rf;pd gk;wk kk;lk	10
-全国大中城市	qr;rw go;ky da;ad vs;aa ig;ti ui;wj	10
-全国第一方阵	qr;rw go;ky di;vp yi;aa fh;wd vf;ei	10
-全国电子商务	qr;rw go;ky dm;ag zi;aa uh;wk wu;wl	10
-全国独一无二	qr;rw go;ky du;qi yi;aa wu;ag er;aa	10
-全国对外友协	qr;rw go;ky dv;cy wl;xb yb;yu xx;ub	10
-全国复兴总署	qr;rw go;ky fu;wo xy;ba zs;xk uu;sv	10
-全国高速公路	qr;rw go;ky gk;wk su;zu gs;sb lu;zg	10
-全国高血压日	qr;rw go;ky gk;wk xt;pa ya;id ri;aa	10
-全国各大高校	qr;rw go;ky ge;wk da;ad gk;wk xc;mj	10
-全国各省区市	qr;rw go;ky ge;wk ug;ou qu;ki ui;wj	10
-全国各族人民	qr;rw go;ky ge;wk zu;fu rf;pd mn;ag	10
-全国互济总会	qr;rw go;ky hu;aa ji;dq zs;xk hv;ry	10
-全国互联互通	qr;rw go;ky hu;aa lm;eg hu;aa ts;zy	10
-全国京都会议	qr;rw go;ky jy;wx du;ev hv;ry yi;yy	10
-全国劳工联盟	qr;rw go;ky lk;lb gs;aa lm;eg mg;mm	10
-全国联行往来	qr;rw go;ky lm;eg hh;xi wh;xv ll;am	10
-全国名老中医	qr;rw go;ky my;xk lk;lb vs;aa yi;ku	10
-全国农技中心	qr;rw go;ky ns;by ji;fv vs;aa xn;dd	10
-全国青联常委	qr;rw go;ky qy;of lm;eg ih;jk wz;hn	10
-全国青联委员	qr;rw go;ky qy;of lm;eg wz;hn yr;kb	10
-全国青联主席	qr;rw go;ky qy;of lm;eg vu;dw xi;jc	10
-全国人大常委	qr;rw go;ky rf;pd da;ad ih;jk wz;hn	10
-全国摄影大展	qr;rw go;ky ue;fn yy;pj da;ad vj;uy	10
-全国十佳林场	qr;rw go;ky ui;aa jw;rg ln;mm ih;ty	10
-全国十佳农民	qr;rw go;ky ui;aa jw;rg ns;by mn;ag	10
-全国数一数二	qr;rw go;ky uu;wl yi;aa uu;wl er;aa	10
-全国通话时间	qr;rw go;ky ts;zy hw;yu ui;oc jm;mo	10
-全国脱贫攻坚	qr;rw go;ky to;od pn;bf gs;wg jm;ty	10
-全国文明县城	qr;rw go;ky wf;wi my;oo xm;sq ig;ti	10
-全国武术冠军	qr;rw go;ky wu;vy uu;md gr;bc jp;bi	10
-全国新课标卷	qr;rw go;ky xn;jq ke;yg bc;mu jr;ef	10
-全国畜牧总站	qr;rw go;ky xu;tx mu;nw zs;xk vj;lv	10
-全国学联主席	qr;rw go;ky xt;zb lm;eg vu;dw xi;jc	10
-全国政协常委	qr;rw go;ky vg;wv xx;ub ih;jk wz;hn	10
-全国政协文史	qr;rw go;ky vg;wv xx;ub wf;wi ui;ki	10
-全国重点高校	qr;rw go;ky vs;pa dm;hv gk;wk xc;mj	10
 全函数式编程	qr;rw hj;lk uu;wl ui;gy bm;sb ig;hi	10
 权衡利弊得失	qr;my hg;xd li;hd bi;cb de;xc ui;pf	10
 全集在线观看	qr;rw ji;vm zl;ut xm;sj gr;jy kj;ou	10
@@ -1456619,7 +1456439,6 @@ sort: by_weight
 缺德带冒烟的	qt;fd de;xx dl;jb mk;oo yj;hy de;bu	10
 确定性的丧失	qt;uj dy;bp xy;xu de;bu sh;ty ui;pf	10
 确定性反褶积	qt;uj dy;bp xy;xu fj;py ve;yb ji;hv	12
-确定型图灵机	qt;uj dy;bp xy;tx tu;kd ly;hx ji;mj	10
 确定性图灵机	qt;uj dy;bp xy;xu tu;kd ly;hx ji;mj	10
 确定性自动机	qt;uj dy;bp xy;xu zi;pa ds;ly ji;mj	10
 确定性最优化	qt;uj dy;bp xy;xu zv;oq yb;ry hw;rb	10
@@ -1457638,6 +1457457,7 @@ sort: by_weight
 三大有线电视	sj;aa da;ad yb;ou xm;sj dm;ag ui;ju	10
 三大主力会师	sj;aa da;ad vu;dw li;gp hv;ry ui;ab	10
 三代吉金文存	sj;aa dl;ry ji;ku jn;ra wf;wi cp;uz	10
+三到四个星期	sj;aa dk;dv si;aa ge;ra xy;ou qi;oq	10
 三岛由纪夫奖	sj;aa dk;nu yb;aa ji;sj fu;ad jd;dx	10
 三等奉国将军	sj;aa dg;vs fg;ff go;ky jd;jc jp;bi	10
 三等辅国将军	sj;aa dg;vs fu;if go;ky jd;jc jp;bi	10
@@ -1459142,7 +1458962,6 @@ sort: by_weight
 胜利纪念碑站	ug;ou li;hd ji;sj nm;xj bz;ub vj;lv	10
 胜利即是正义	ug;ou li;hd ji;eg ui;op vg;av yi;id	10
 生理科学进展	ug;na li;wl ke;hd xt;zb jn;zj vj;uy	10
-省立山东大学	ug;ou li;da uj;aa ds;ad da;ad xt;zb	10
 省历史博物馆	ug;ou li;il ui;ki bo;uc wu;nw gr;ug	10
 胜利石油学校	ug;ou li;hd ui;kp yb;dy xt;zb xc;mj	10
 省立扬州中学	ug;ou li;da yh;fy vb;id vs;aa xt;zb	10
@@ -1459458,6 +1459277,10 @@ sort: by_weight
 实弹射击训练	ui;bt dj;gd ue;cu ji;fk xp;yi lm;sd	10
 适当增减衣物	ui;zu dh;xx zg;tc jm;dx yi;dd wu;nw	10
 是道德的沦丧	ui;op dk;zu de;xx de;bu lp;dl sh;ty	10
+十到二十分钟	ui;aa dk;dv er;aa ui;aa ff;bd vs;jv	32
+十到二十个人	ui;aa dk;dv er;aa ui;aa ge;ra rf;pd	10
+十到二十公里	ui;aa dk;dv er;aa ui;aa gs;sb li;aa	31
+十到二十厘米	ui;aa dk;dv er;aa ui;aa li;il mi;dd	34
 使得更多的人	ui;rl de;xc gg;ad do;xx de;bu rf;pd	10
 师德师风建设	ui;ab de;xx ui;ab fg;ji jm;zy ue;yu	10
 师德师风教育	ui;ab de;xx ui;ab fg;ji jc;wx yu;os	10
@@ -1459492,6 +1459315,7 @@ sort: by_weight
 十多二十分钟	ui;aa do;xx er;aa ui;aa ff;bd vs;jv	10
 十多年的时间	ui;aa do;xx nm;ra de;bu ui;oc jm;mo	10
 食而不知其味	ui;rl er;aa bu;ad vi;ku qi;ba wz;kw	10
+十二到十六周	ui;aa er;aa dk;dv ui;aa lq;wb vb;kt	10
 十二点半新闻	ui;aa er;aa dm;hv bj;bf xn;jq wf;em	10
 十二分的精神	ui;aa er;aa ff;bd de;bu jy;mq uf;uu	10
 十二寡妇征西	ui;aa er;aa gw;bf fu;nx vg;xv xi;aa	10
@@ -1460333,6 +1460157,7 @@ sort: by_weight
 是我勾引她的	ui;op wo;pd gb;gs yn;ga ta;ny de;bu	10
 是我最重视的	ui;op wo;pd zv;oq vs;pa ui;ju de;bu	10
 十五斑圆叶甲	ui;aa wu;aa bj;ww yr;ky ye;ku jw;aa	10
+十五到三十天	ui;aa wu;aa dk;dv sj;aa ui;aa tm;ad	17
 十五分钟热度	ui;aa wu;aa ff;bd vs;jv re;hv du;gy	10
 事务服务中心	ui;aa wu;wl fu;oy wu;wl vs;aa xn;dd	10
 事务隔离级别	ui;aa wu;wl ge;eg li;ws ji;sj bx;dl	10
@@ -1461684,6 +1461509,7 @@ sort: by_weight
 四大文学体裁	si;aa da;ad wf;wi xt;zb ti;rb cl;yg	10
 四大支柱产业	si;aa da;ad vi;uy vu;mv ij;wi ye;aa	10
 四大自源文字	si;aa da;ad zi;pa yr;dy wf;wi zi;bz	10
+四到六个星期	si;aa dk;dv lq;wb ge;ra xy;ou qi;oq	10
 死得不明不白	si;db de;xc bu;ad my;oo bu;ad bl;pa	10
 死得不能再死	si;db de;xc bu;ad ng;sb zl;aa si;db	10
 死得轰轰烈烈	si;db de;xc hs;iu hs;iu lx;hl lx;hl	10
@@ -1465211,7 +1465037,6 @@ sort: by_weight
 我们从何处来	wo;pd mf;rm cs;rr he;rk iu;wb ll;am	10
 我们错过了你	wo;pd mf;rm co;jx go;zc le;aa ni;re	10
 我们的口号是	wo;pd mf;rm de;bu kb;aa hk;kk ui;op	10
-我们的千阙歌	wo;pd mf;rm de;bu qm;pa qt;mj ge;qg	10
 我们的征途是	wo;pd mf;rm de;bu vg;xv tu;zy ui;op	10
 我们都是凡人	wo;pd mf;rm db;ev ui;op fj;jd rf;pd	10
 我们风雨同舟	wo;pd mf;rm fg;ji yu;ad ts;kk vb;pd	10
@@ -1465227,7 +1465052,6 @@ sort: by_weight
 我们为何而战	wo;pd mf;rm wz;dd he;rk er;aa vj;gv	10
 我们无所畏惧	wo;pd mf;rm wu;ag so;hj wz;ty ju;xj	10
 我们下期再见	wo;pd mf;rm xw;ab qi;oq zl;aa jm;ag	10
-我们与驻警的	wo;pd mf;rm yu;aa vu;mv jy;yj de;bu	10
 我们长大成人	wo;pd mf;rm vh;pd da;ad ig;gg rf;pd	10
 我们之间的事	wo;pd mf;rm vi;dd jm;mo de;bu ui;aa	10
 我们中的一员	wo;pd mf;rm vs;aa de;bu yi;aa yr;kb	10
@@ -1470078,7 +1469902,7 @@ sort: by_weight
 以病人为中心	yi;rd by;bb rf;pd wz;dd vs;aa xn;dd	10
 异丙肾上腺素	yi;cs by;an uf;oy uh;aa xm;oq su;sf	10
 以不变应万变	yi;rd bu;ad bm;wy yy;ga wj;ag bm;wy	10
-一步步的成长	yi;aa bu;vx bu;vx de;bu ig;gg vh;pd	10
+一步步地成长	yi;aa bu;vx bu;vx de;ty ig;gg vh;pd	10
 异步传输模式	yi;cs bu;vx ir;rv uu;iy mo;mm ui;gy	10
 异步串行通信	yi;cs bu;vx ir;aa xy;xi ts;zy xn;ry	10
 一部二十四史	yi;aa bu;ek er;aa ui;aa si;aa ui;ki	10
@@ -1474441,6 +1474265,7 @@ sort: by_weight
 政协德宏州委	vg;wv xx;ub de;xx hs;bh vb;id wz;hn	10
 郑新黄河大桥	vg;eg xn;jq hd;cb he;dk da;ad qc;mq	10
 郑新快速通道	vg;eg xn;jq ky;xd su;zu ts;zy dk;zu	10
+整形外科医师	vg;vi xy;pk wl;xb ke;hd yi;ku ui;ab	10
 正形圆锥投影	vg;av xy;pk yr;ky vv;jv tb;fu yy;pj	10
 正修科技大学	vg;av xq;rp ke;hd ji;fv da;ad xt;zb	10
 郑徐客运专线	vg;eg xu;xy ke;bg yp;zy vr;ad xm;sj	10
@@ -1478336,6 +1478161,7 @@ sort: by_weight
 拜访位置寄存器	bl;uf fh;yf wz;rl vi;sv ji;bq cp;uz qi;kk	10
 百分之百的努力	bl;ab ff;bd vi;dd bl;ab de;bu nu;ln li;gp	10
 百分之百的信任	bl;ab ff;bd vi;dd bl;ab de;bu xn;ry rf;rr	10
+百分之十到二十	bl;ab ff;bd vi;dd ui;aa dk;dv er;aa ui;aa	10
 百分之五十左右	bl;ab ff;bd vi;dd wu;aa ui;aa zo;ug yb;ku	10
 百分之一的灵感	bl;ab ff;bd vi;dd yi;aa de;bu ly;hx gj;xx	10
 白佛长途客运站	bl;pa fo;rf ih;pd tu;zy ke;bg yp;zy vj;lv	10
@@ -1480332,7 +1480158,7 @@ sort: by_weight
 曹操大宴铜雀台	ck;oc ck;fz da;ad yj;bn ts;jt qt;vx tl;sk	10
 曹操抹书间韩遂	ck;oc ck;fz mo;fm uu;ad jm;mo hj;uw sv;zu	10
 曹操平定汉中地	ck;oc ck;fz py;aa dy;bp hj;dy vs;aa di;ty	10
-嘈嘈切切错杂弹	ck;kc ck;kc qx;dq qx;dq co;jx za;jm dj;gd	10
+嘈嘈切切错杂弹	ck;kc ck;kc qx;dq qx;dq co;jx za;jm tj;gd	10
 曹操煮酒论英雄	ck;oc ck;fz vu;hv jq;dy lp;yl yy;cy xs;vh	10
 草根皇帝朱元璋	ck;cz gf;mg hd;bw di;jb vu;pw yr;aw vh;wv	10
 草果附姜兼厚朴	ck;cz go;tm fu;ef jd;ny jm;qd hb;iz po;mb	10
@@ -1481993,7 +1481819,6 @@ sort: by_weight
 大唐御史谢瑶环	da;ad th;gk yu;xx ui;ki xx;yu yk;wf hr;wb	10
 打铁必须自身硬	da;fd tx;ju bi;dd xu;py zi;pa uf;pp yy;ug	10
 打铁还得自身硬	da;fd tx;ju hl;zb dz;xc zi;pa uf;pp yy;ug	10
-打铁还需本身硬	da;fd tx;ju hl;zb xu;ye bf;aa uf;pp yy;ug	10
 打铁还需自身硬	da;fd tx;ju hl;zb xu;ye zi;pa uf;pp yy;ug	10
 打铁先得自身硬	da;fd tx;ju xm;ne dz;xc zi;pa uf;pp yy;ug	10
 打通最后一公里	da;fd ts;zy zv;oq hb;pk yi;aa gs;sb li;aa	10
@@ -1482609,7 +1482434,7 @@ sort: by_weight
 第六机械工业部	di;vp lq;wb ji;mj xx;mj gs;aa ye;aa bu;ek	10
 蒂罗勒科格尔山	di;cd lo;sx le;lg ke;hd ge;mg er;dx uj;aa	10
 地貌最小功原理	di;ty mk;ve zv;oq xc;ad gs;lg yr;ix li;wl	10
-低眉信手续续弹	di;rd mz;om xn;ry ub;pa xu;sm xu;sm dj;gd	10
+低眉信手续续弹	di;rd mz;om xn;ry ub;pa xu;sm xu;sm tj;gd	10
 蒂姆劳埃尔科格	di;cd mu;nm lk;lb ai;tu er;dx ke;hd ge;mg	10
 堤内损失堤外补	di;tu nz;ad sp;fy ui;pf di;tu wl;xb bu;yb	10
 低能粒子探测器	di;rd ng;sb li;ml zi;aa tj;fm ce;dz qi;kk	10
@@ -1483561,6 +1483386,7 @@ sort: by_weight
 二十八星宿之一	er;aa ui;aa ba;pd xy;ou xq;bb vi;dd yi;aa	10
 二十出头的年纪	er;aa ui;aa iu;aa tb;dd de;bu nm;ra ji;sj	10
 二式单座战斗机	er;aa ui;gy dj;ba zo;gz vj;gv db;du ji;mj	10
+二十到三十分钟	er;aa ui;aa dk;dv sj;aa ui;aa ff;bd vs;jv	10
 二十多岁的年纪	er;aa ui;aa do;xx sv;ux de;bu nm;ra ji;sj	10
 二式复座战斗机	er;aa ui;gy fu;wo zo;gz vj;gv db;du ji;mj	10
 二十几岁的年纪	er;aa ui;aa ji;py sv;ux de;bu nm;ra ji;sj	10
@@ -1486327,7 +1486153,6 @@ sort: by_weight
 关键字驱动测试	gr;qd jm;jj zi;bz qu;mq ds;ly ce;dz ui;yu	10
 关节镇痛巴布膏	gr;qd jx;ce vf;jv ts;by ba;ag bu;ju gk;og	10
 管理的经典模式	gr;vg li;wl de;bu jy;sg dm;ba mo;mm ui;gy	10
-官立山东大学堂	gr;bg li;da uj;aa ds;ad da;ad xt;zb th;tk	10
 管理水平的提高	gr;vg li;wl uv;ad py;aa de;bu ti;fu gk;wk	10
 管理委员会成员	gr;vg li;wl wz;hn yr;kb hv;ry ig;gg yr;kb	10
 管理委员会主席	gr;vg li;wl wz;hn yr;kb hv;ry vu;dw xi;jc	10
@@ -1486522,7 +1486347,7 @@ sort: by_weight
 国际足联世界杯	go;ky ji;eu zu;kv lm;eg ui;ca jx;tj bz;mb	10
 国家消防救援局	go;ky jw;bu xc;dx fh;ef jq;wq yr;fy ju;uk	10
 果聚糖果糖苷酶	go;tm ju;ed th;mt go;tm th;mt gj;cg mz;ym	10
-国开行债券指数	go;ky kl;ac xy;xi vl;rz qr;df vi;fv uu;wl	10
+国开行债券指数	go;ky kl;ac hh;xi vl;rz qr;df vi;fv uu;wl	10
 国科大数学学院	go;ky ke;hd da;ad uu;wl xt;zb xt;zb yr;ew	10
 过滤穿刺套管针	go;zc lv;dl ir;xy ci;dc tk;di gr;vg vf;ju	10
 过敏感染性哮喘	go;zc mn;wm gj;xx rj;mg xy;xu xc;kx ir;ke	10
@@ -1488187,7 +1488012,7 @@ sort: by_weight
 曼秀雷登薄荷膏	mj;oy xq;hn lz;yt dg;dd bo;cc he;ch gk;og	10
 满袖杨花听杜鹃	mj;dl xq;yy yh;my hw;ch ty;kj du;mt jr;no	10
 满眼风光北固楼	mj;dl yj;og fg;ji gd;ea bz;ag gu;kg lb;ml	10
-满座重闻皆掩泣	mj;dl zo;gz vs;pa wf;em jx;bb yj;fd qi;dl	10
+满座重闻皆掩泣	mj;dl zo;gz is;pa wf;em jx;bb yj;fd qi;dl	10
 忙趁东风放纸鸢	mh;xw if;zp ds;ad fg;ji fh;wf vi;su yr;ny	10
 茫茫九派流中国	mh;cw mh;cw jq;py pl;dp lq;di vs;aa go;ky	10
 芒塞尔颜色立体	mh;cw sl;tb er;dx yj;yy se;db li;da ti;rb	10
@@ -1488918,7 +1488743,7 @@ sort: by_weight
 曲安奈德新霉素	qu;aa an;bn nl;du de;xx xn;jq mz;ym su;sf	10
 曲安奈德益康唑	qu;aa an;bn nl;du de;xx yi;mb kh;gl zo;kz	10
 曲安奈德注射液	qu;aa an;bn nl;du de;xx vu;dv ue;cu ye;dy	10
-曲罢曾教善才服	qu;aa ba;sq cg;ob jc;wx uj;kq cl;ap fu;oy	10
+曲罢曾教善才服	qu;aa ba;sq cg;ob jc;wx uj;kq cl;ap fu;oy	12
 曲罢曾教善才伏	qu;aa ba;sq cg;ob jc;wx uj;kq cl;ap fu;rq	10
 取次花丛懒回顾	qu;ey ci;dq hw;ch cs;ac lj;xl hv;kk gu;ye	10
 取得被害人谅解	qu;ey de;xc bz;yp hl;bk rf;pd ld;yj jx;jn	10
@@ -1489612,6 +1489437,7 @@ sort: by_weight
 散入珠帘湿罗幕	sj;wo ru;pd vu;wv lm;xj ui;dx lo;sx mu;jm	10
 三山半落青天外	sj;aa uj;aa bj;bf lo;cl qy;of tm;ad wl;xb	10
 三山六水一分田	sj;aa uj;aa lq;wb uv;ad yi;aa ff;bd tm;aa	10
+三十到四十分钟	sj;aa ui;aa dk;dv si;aa ui;aa ff;bd vs;jv	10
 三十功名尘与土	sj;aa ui;aa gs;lg my;xk if;tx yu;aa tu;aa	10
 三十一天永不差	sj;aa ui;aa yi;aa tm;ad ys;dd bu;ad ia;yg	10
 三万里河东入海	sj;aa wj;ag li;aa he;dk ds;ad ru;pd hl;dm	10
@@ -1490159,6 +1489985,7 @@ sort: by_weight
 死去元知万事空	si;db qu;ts yr;aw vi;ku wj;ag ui;aa ks;xg	120
 死去原知万事空	si;db qu;ts yr;ix vi;ku wj;ag ui;aa ks;xg	10
 四时刺逆从论篇	si;aa ui;oc ci;dc ni;zn cs;rr lp;yl pm;vb	10
+四十到六十分钟	si;aa ui;aa dk;dv lq;wb ui;aa ff;bd vs;jv	10
 四十二号旅象方	si;aa ui;aa er;aa hk;kk lv;fp xd;du fh;wd	10
 四十三号鼎象方	si;aa ui;aa sj;aa hk;kk dy;oa xd;du fh;wd	10
 似诉平生不得志	si;ry su;yi py;aa ug;na bu;ad de;xc vi;xu	10
@@ -1491303,7 +1491130,7 @@ sort: by_weight
 讯号源编码定理	xp;yu hk;kk yr;dy bm;sb ma;um dy;bp li;wl	10
 逊克卫生检疫局	xp;zs ke;eg wz;ga ug;na jm;ma yi;bu ju;uk	10
 寻龙分金看缠山	xp;cx ls;ad ff;bd jn;ra kj;ou ij;sl uj;aa	10
-寻声暗问弹者谁	xp;cx ug;um an;oy wf;km dj;gd ve;ol uv;yv	10
+寻声暗问弹者谁	xp;cx ug;um an;oy wf;km tj;gd ve;ol uv;yv	10
 巡视质效有提升	xp;zi ui;ju vi;bu xc;wj yb;ou ti;fu ug;pc	10
 巡天遥看一千河	xp;zi tm;ad yk;zf kj;ou yi;aa qm;pa he;dk	10
 浔阳地僻无音乐	xp;dx yh;eo di;ty pi;rb wu;ag yn;lo yt;pd	10
@@ -1491662,6 +1491489,7 @@ sort: by_weight
 宜兰小鳖甲蜗牛	yi;bq lj;qe xc;ad bx;yb jw;aa wo;ig nq;pa	10
 以劳定国则祀之	yi;rd lk;lb dy;bp go;ky ze;bd si;us vi;dd	10
 以立楚怀王孙心	yi;rd li;da iu;mp hy;xb wh;aa sp;zx xn;dd	10
+一硫二硝三木炭	yi;aa lq;ui er;aa xc;ux sj;aa mu;ad tj;uh	10
 一轮秋影转金波	yi;aa lp;il qq;hh yy;pj vr;iv jn;ra bo;dp	10
 以马忤斯的晚餐	yi;rd ma;aa wu;xw si;jq de;bu wj;om cj;uy	10
 遗民泪尽胡尘里	yi;zg mn;ag lz;do jn;id hu;og if;tx li;aa	10
@@ -1491759,6 +1491587,7 @@ sort: by_weight
 一体化直供业务	yi;aa ti;rb hw;rb vi;uq gs;rg ye;aa wu;wl	10
 依替膦酸二钠片	yi;ry ti;of ln;ol sr;yj er;aa na;jn pm;pa	10
 依替米星注射液	yi;ry ti;of mi;dd xy;ou vu;dv ue;cu ye;dy	10
+一条绳上的蚂蚱	yi;aa tc;wm ug;sd uh;aa de;bu ma;im va;iv	10
 以土砾凸者为丘	yi;rd tu;aa li;ul tu;aa ve;ol wz;dd qq;pa	10
 以团结互助为荣	yi;rd tr;kc jx;sj hu;aa vu;lq wz;dd rs;cm	10
 依托度酸缓释片	yi;ry to;fq du;gy sr;yj hr;sy ui;pf pm;pa	10
@@ -1492953,6 +1492782,8 @@ sort: by_weight
 八仙过海各显神通	ba;pd xm;ru go;zc hl;dm ge;wk xm;oy uf;uu ts;zy	10
 百尺竿头更进一步	bl;ab ii;ad gj;vg tb;dd gg;ad jn;zj yi;aa bu;vx	10
 白刀子进红刀子出	bl;pa dk;gp zi;aa jn;zj hs;sg dk;gp zi;aa iu;aa	10
+百分之二十到三十	bl;ab ff;bd vi;dd er;aa ui;aa dk;dv sj;aa ui;aa	10
+百分之三十到五十	bl;ab ff;bd vi;dd sj;aa ui;aa dk;dv wu;aa ui;aa	10
 百舸争流鹰击长空	bl;ab ge;vk vg;dy lq;di yy;gn ji;fk ih;pd ks;xg	10
 百花齐放百家争鸣	bl;ab hw;ch qi;wa fh;wf bl;ab jw;bu vg;dy my;kn	10
 百姓皆以王为爱也	bl;ab xy;nu jx;bb yi;rd wh;aa wz;dd ai;vy ye;gg	10
@@ -1493623,6 +1493454,7 @@ sort: by_weight
 只可意会不可言传	vi;kb ke;dk yi;xy hv;ry bu;ad ke;dk yj;wk ir;rv	10
 之前的努力都白费	vi;dd qm;qd de;bu nu;ln li;gp db;ev bl;pa fz;bf	10
 执敲扑而鞭笞天下	vi;fw qc;pg pu;fb er;aa bm;gb ii;vt tm;ad xw;ab	10
+知人者智自知者明	vi;ku rf;pd ve;ol vi;ov zi;pa vi;ku ve;ol my;oo	10
 志士不饮盗泉之水	vi;xu ui;aa bu;ad yn;uq dk;mc qr;ub vi;dd uv;ad	10
 治天下可运之掌上	vi;dt tm;ad xw;ab ke;dk yp;zy vi;dd vh;uk uh;aa	10
 知无不言言无不尽	vi;ku wu;ag bu;ad yj;wk yj;wk wu;ag bu;ad jn;id	10

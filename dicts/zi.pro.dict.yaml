@@ -6600,11 +6600,11 @@ sort: by_weight
 递	di;zd	2597
 敌	di;wu	1702
 弟	di;bp	811
-的	di;bu	770
 抵	di;fd	666
 帝	di;jb	657
 滴	di;dd	650
 蒂	di;cd	647
+狄	di;qh	630
 堤	di;tu	629
 笛	di;vy	622
 迪	di;zy	613
@@ -6612,13 +6612,13 @@ sort: by_weight
 涤	di;dt	546
 提	di;fu	542
 嘀	di;kd	522
-狄	di;qh	501
 邸	di;ed	499
 睇	di;od	497
 谛	di;yd	487
 嫡	di;nd	468
 棣	di;ml	452
 诋	di;yd	444
+的	di;bu	430
 砥	di;ud	428
 骶	di;gd	425
 荻	di;cd	411
@@ -14424,9 +14424,9 @@ sort: by_weight
 亟	ji;aa	313
 跻	ji;zq	298
 伎	ji;rv	297
-荠	ji;cq	277
+蓟	ji;cd	277
 畿	ji;tg	266
-蓟	ji;cd	255
+荠	ji;cq	255
 笈	ji;vj	241
 骥	ji;mg	237
 稷	ji;hw	229
@@ -46857,7 +46857,6 @@ sort: by_weight
 诤	vg;yv	400
 钲	vg;jv	379
 烝	vg;hi	347
-憕	vg;xd	321
 證	vg;yd	313
 箏	vg;vv	308
 爭	vg;va	307
@@ -46876,6 +46875,7 @@ sort: by_weight
 撜	vg;fd	166
 凧	vg;jj	160
 氶	vg;au	151
+憕	vg;xd	147
 錚	vg;jv	146
 篜	vg;vh	127
 崝	vg;uq	124
